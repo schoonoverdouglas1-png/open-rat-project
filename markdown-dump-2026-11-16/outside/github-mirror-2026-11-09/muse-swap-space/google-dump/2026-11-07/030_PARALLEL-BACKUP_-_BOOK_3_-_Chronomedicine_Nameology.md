@@ -1,0 +1,4 @@
+BOOK 3: Chronomedicine & Nameology© 2026 Douglas Schoonover. All Rights Reserved.Part of The Compendium — Technical Manual for Linguistic Roots and Temporal PatternsCore Equation: Ec = Σ wi mi vi^x
+2. Temporal Signatures2.1 Time as MedicineTreat at biological hour, not clinic hour. Timestamp matters more than diagnosis code. Chronomedicine aligns intervention with body's temporal signature.
+2.2 NameologyLanguage lowers or raises wi. Example: "Autoimmune" lowers entanglement (fiction label). Rename to "Immune Misfire — investigating" raises wi (accurate, open, investigable). Renaming is clinical intervention.
+2.3 Protection ProtocolGovernment requires Google to save, but dual protection needed: cloud + offline USB + Meta backup. Dual mi (mass) protection with timestamps prevents erasure.

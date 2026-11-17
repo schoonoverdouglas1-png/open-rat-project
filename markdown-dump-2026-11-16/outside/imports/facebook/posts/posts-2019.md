@@ -1,0 +1,69 @@
+# Own Facebook posts — 2019 (67 posts)
+
+- 2019-01-20T20:09:15+00:00 —  — https://facebook.com/654402359/posts/pfbid0EF4hYiSQpbm1QGfJUKmXNWo1hCnHonkTxUeBQAGX7BSj5WcZhk4TE4UWnzQTKSArl/
+- 2019-01-22T16:07:40+00:00 —  — https://facebook.com/654402359/posts/pfbid036v1vjVDEk8FhwktEdtYr13ALDaS2tkrHJAu9JxvZQg67zN87cXH7v9LiQa6SQ4mxl/
+- 2019-01-22T22:08:49+00:00 — Depends on the clown 😁 — https://facebook.com/654402359/posts/pfbid02FzC6ZARZ4Ubs5U3LrFpgPGtf6x4AJqePjcFsVizfhS4sxNajnBgLcL7doFSmwozSl/
+- 2019-01-22T22:16:52+00:00 — Cats, I like both and have had both though. Cats can be left alone for periods of time as a dog requires attention every day — https://facebook.com/654402359/posts/pfbid0tdK7TLMHUXPHdtVLGQAZEAhX6Cd6JzCw8WNQ4rGVtfEEFjG1BbUyyiEwUZttFyVbl/
+- 2019-01-23T02:09:47+00:00 — My @[100064841222259:2048:Motorola] died 😢, so if you need to get ahold of me in the next 24 message me on here — https://facebook.com/654402359/posts/pfbid0ApxWaJzLbcdpd5nLv67y7xpGHHWmsGWcsJAvTZeGxnQbFLVj2tzMjVyLoY8cdeXCl/
+- 2019-01-25T17:10:59+00:00 —  — https://facebook.com/654402359/posts/pfbid0Enjdzix9tXTc8QUuEkoMrjJU5sUT5gfZ2jjPS7NxpFKwr2XAKaUbVAVbXicsNERsl/
+- 2019-01-26T15:56:30+00:00 —  — https://facebook.com/654402359/posts/pfbid0MidRHJjgStaHbZdcPadCt7HyTEgzRYZXFTiEmKG8UF5dHN3U57EqMjYLiyYFbUNhl/
+- 2019-01-31T00:43:18+00:00 — Is anyone really surprised? — https://facebook.com/654402359/posts/pfbid0z8CwF8BCKE6vsY8cBu3HHQwEdbcnm7koevNQrwqQCmWNzZhriu269wcC6ca7pqfCl/
+- 2019-02-09T06:50:13+00:00 —  — https://facebook.com/drschoonover/videos/10157139894152360/
+- 2019-02-09T23:07:20+00:00 —  — https://facebook.com/654402359/posts/pfbid0Un4JrLsrkGNJ6EJSHsyJmBCuxgTAWd7ajaCZk6p9EM16FK9c1zqEiyyDqJUGHziWl/
+- 2019-11-06T03:37:16+00:00 — Great Grandpa Fields circa 1993 — https://facebook.com/654402359/posts/pfbid02BkMsJC9y93yr4v8LyUzmgcyQBjwDZf16pkEg2tivmBiU59S5NZCkijBUW3LMKSFDl/
+- 2019-11-06T03:39:29+00:00 — The early days lol — https://facebook.com/654402359/posts/pfbid087uvfe3Km9RU3ts49DXzcjpFzTX7kKv7z7Yy938Hr7p1AdcntycnkzSgQmwASaVLl/
+- 2019-11-06T04:05:06+00:00 —  — https://facebook.com/654402359/posts/pfbid0FKRX8SPivKQagAJkWVByySvKRB3pfToCVw1zYQKMWeqJ7yDyaVSyJcgfpJdrG4Lml/
+- 2019-11-09T01:10:51+00:00 —  — https://facebook.com/654402359/posts/pfbid0KpmFcf7WM4SCoFfRRa1sfkG69C65TE1Qd8DVDTrb6zFYfzRH78qReCzukjeijvUbl/
+- 2019-11-09T03:04:40+00:00 — How cool is that — https://facebook.com/654402359/posts/pfbid057PvP1ca4rxWpVhyDvnwiRhKozTuCmeb1xkmRrzfFXyS3DDrwWdzMdRqbjoSL4Lgl/
+- 2019-11-09T07:09:06+00:00 —  — https://facebook.com/654402359/posts/pfbid0nsnWNPPaEc488spwEspZXdvxtY8WpjqhacEsAFg1Ae7ivyeZL8YnHc6Ni1BhLw4Bl/
+- 2019-11-09T20:35:17+00:00 —  — https://facebook.com/654402359/posts/pfbid0MUKfZzWJfn8jfHaizA8yVqC8diWsxW24pak8pFUaNL85vo2EdpzH2WK3rXinw3iVl/
+- 2019-11-12T15:20:06+00:00 —  — https://facebook.com/654402359/posts/pfbid02SbvEoocuD2ftsgfLTikSXNc4xCfKfMauCPh9fnpxBFN6Z5ZucfmrdU5ryAH23162l/
+- 2019-11-14T00:47:29+00:00 —  — https://facebook.com/654402359/posts/pfbid0xDo5EE93jRVTsgsaLqL9HaYCejJdNN1hFc7unqZNtptPHPNTPD4oYv83HyDi3gXsl/
+- 2019-11-14T02:05:00+00:00 —  — https://facebook.com/654402359/posts/pfbid02jWQb4bGbwtdcy6Bt5H2eddUzHJATXfTzoKAeqLbxtNRZYVYFGP6qw3xvvS2MsKTzl/
+- 2019-11-15T05:40:39+00:00 —  — https://facebook.com/654402359/posts/pfbid0aMKVxEtkiaT1PJZCWYKPRYWt1y5AR44XEGtpxsqaMR8yeX28NSeG5s4ZeG1CKcmTl/
+- 2019-11-16T11:34:27+00:00 —  — https://facebook.com/654402359/posts/pfbid0ZDMdJbPn9Q9NhF5W7cWDE2D3uE2qr1r8hjUodYk5MkHhdcJDtehXB2GpiZRXnoWTl/
+- 2019-11-20T18:29:07+00:00 —  — https://facebook.com/654402359/posts/pfbid02TX41TC7zfrFZQzji8udcbz7WtkYvKxNe9qA1GVnRHVPustkUB233TLuXkFPKpq5l/
+- 2019-11-20T19:44:45+00:00 — Yup — https://facebook.com/654402359/posts/pfbid02uBJwiFwzDVtSRew8LYMHwaahdmngkioZeURbnwhDYqQmfPRzoBhBrzP7j2wk1ykdl/
+- 2019-11-21T00:57:29+00:00 —  — https://facebook.com/654402359/posts/pfbid02AYnzT6PXmR9S7fS1YEPfbrDnHZCAdm4mzVkk5cnVoRLY3iNgDuCkW8ueE3ZHZNxVl/
+- 2019-11-21T20:09:35+00:00 —  — https://facebook.com/654402359/posts/pfbid029kGbwXESSghCk5uBgdEYRCP2quFuETRhCTi93Q6xAe2AGndGRrTzpwWnnJd1MNBWl/
+- 2019-11-22T18:51:25+00:00 —  — https://facebook.com/654402359/posts/pfbid0SrmkLbAQtwuJH9s6D4b92Rgo1nupn1xRC7qRbKskJ7NTXjo7hP5RjPjipQsPJ1WFl/
+- 2019-11-23T05:33:07+00:00 —  — https://facebook.com/654402359/posts/pfbid02BfzVz5xz193a54FNHzK4SRaDj3ddU2MkapmPNwmWUPFSxZDsDG2Xb4a9hty6D7Htl/
+- 2019-11-23T08:46:03+00:00 — Everything can change in a New York minute — https://facebook.com/654402359/posts/pfbid02VnhhwxGfrDkDM6jHYKoxdFkGsjH35rNSFA76gcPexqKqgBDySrr32sP9ijTAE4xzl/
+- 2019-11-23T09:12:56+00:00 —  — https://facebook.com/654402359/posts/pfbid04aGgHFWoUxn2HoCX72JsQ2zrWkKVHQ4mrZMkLLxvoXS5oepNHQNod1hyF9RPF35ol/
+- 2019-12-13T05:11:13+00:00 —  — https://facebook.com/654402359/posts/pfbid02hz4CwQ3q4M144MdacGAgeHsMFM6gFFTK231sT1HbUy4LFVkwwMqxD4TVvsEfhfHul/
+- 2019-12-13T20:04:43+00:00 —  — https://facebook.com/654402359/posts/pfbid0m5bfjojUjA5df221HdEejAnwJBzEQyHXtC2iXGHjHduStmCUhqimDNVjn4Qmunf5l/
+- 2019-12-15T08:10:11+00:00 —  — https://facebook.com/654402359/posts/pfbid0o4AFje6ARjDQNHfSd5TkPaeXVfVMx8UyEFNZ8a1z4pJvRYdpYN6zjJd53E4XfE2Vl/
+- 2019-12-15T08:16:06+00:00 —  — https://facebook.com/654402359/posts/pfbid02dTQVHyurL67Fzmcnhk6MqNK14zy7gXaT6Hhfz81x5oHL7yQyKpMhFu1RLrH2cqgTl/
+- 2019-12-16T03:24:00+00:00 —  — https://facebook.com/654402359/posts/pfbid02yAWR7Jisa7y1wzhLqUQUZah6jER1KcDBXc7MbFA6H8qzdHrPUME6A3kShVoSxyNAl/
+- 2019-12-16T17:23:29+00:00 —  — https://facebook.com/654402359/posts/pfbid0BrUcmXgQic6qXwyoSX2envrsMHw1NxQf8vcfpxT2T87ScQHZ7jiVppQBGjPqzAC4l/
+- 2019-12-16T17:25:15+00:00 —  — https://facebook.com/654402359/posts/pfbid02wUL1QLraomd9tBSKQwCf9W5JFbddSzSpcVaENHdHHXRNfvjoegtCdQ1PD7c8L8mql/
+- 2019-12-16T18:50:44+00:00 —  — https://facebook.com/654402359/posts/pfbid031Wh9U2sqFVo2udpXVUfyh6paiJUDUVqcC4Eq9tyCvKnm3bq5yjqxajZvM2rmbDyzl/
+- 2019-12-16T19:36:32+00:00 —  — https://facebook.com/654402359/posts/pfbid0dyYnR97ozM91LwwWYg8jvTBz4d9fatRKbNqWJxb5FsdqmR4oQjbG6ZEWuSMcqMZzl/
+- 2019-12-17T15:42:34+00:00 —  — https://facebook.com/654402359/posts/pfbid0nSEJnxnJzeKrbbECgmgTER6EpBMm58iKa5UaD5FEaUameTCtoUuac9ZwZ3NpJKfYl/
+- 2019-12-17T19:16:37+00:00 —  — https://facebook.com/654402359/posts/pfbid026iYvSfWAY4ygHQJFRkfsc8ndJsjzatsPaxKfbRPZdSJY3Zpv1zFikdeZPZhM3M6Pl/
+- 2019-12-17T21:36:47+00:00 — No snow for a week huh.....seems like politicians and weathermen are the only people that get paid to lie and keep their job — https://facebook.com/654402359/posts/pfbid02hyqZcEBP3PxfD4Etpsz3ExcUg8BFFXCDgPRn1yBrUXSbHcJH5jxCWpvZdGeu3svRl/
+- 2019-12-18T03:32:56+00:00 —  — https://facebook.com/654402359/posts/pfbid0ahjy6uPWUxfrgvUy6Tt8iwTBFB2nJHtd2m6ynZp5HihqZK6j7aqoTYXhNCQ4YA7Hl/
+- 2019-12-18T07:04:27+00:00 —  — https://facebook.com/654402359/posts/pfbid0SGopHZSWAyWjo13rCwpbGrFcCABSk3UZCGsSAkoCuaz1VVwgBUSnebEuLGFJqciol/
+- 2019-12-18T07:25:50+00:00 —  — https://facebook.com/654402359/posts/pfbid0Himwb3S9XBWpxaevLAKcHyGxz2P8RtmEPsodkxbkrSLM1Ym418kA7p8Fvt44GsKGl/
+- 2019-12-18T09:59:57+00:00 —  — https://facebook.com/654402359/posts/pfbid0fVnoitwi7SLGuDKiWwAUeEfDRGn3H8CHJf67BvJdtUE3p95Q2yVLYi4foaQezRckl/
+- 2019-12-18T10:12:04+00:00 —  — https://facebook.com/654402359/posts/pfbid0Ype97g3kt6TRXHC9jByeCXWiv8jEptEf7EJo3TtnfHJ6imxiMnVoQmbFi4y79VCfl/
+- 2019-12-18T20:09:49+00:00 —  — https://facebook.com/654402359/posts/pfbid032EXAWtacevQmpUYDbM4ngLpwLm3SfczbqwBHSCzYJk7KX7QskzbDN83et84GjCrAl/
+- 2019-12-19T02:50:00+00:00 — Experience isn't the best teacher, learn from other peoples' experiences — https://facebook.com/654402359/posts/pfbid0hbznWv8coJaGuGZpsnjRhfyum1YjHSgQnJVJ8qGDdHesdbLuVBdU4URgvFwzTpKkl/
+- 2019-12-19T06:13:01+00:00 —  — https://facebook.com/654402359/posts/pfbid02PFk5chLiQWaqsFyRFiG9rzE8FaBwoK4Wx7GbWet6yDtws4Z4XELik1UUDAaCMaC2l/
+- 2019-12-28T02:24:24+00:00 —  — https://facebook.com/654402359/posts/pfbid0r5zGchaDGCJpNzeVEkazqEyzJQoHVdjQMUjuaLTy9GLiuWcWX36Ebcengyuq396Hl/
+- 2019-12-28T02:28:26+00:00 —  — https://facebook.com/654402359/posts/pfbid02vYpFq331ubg7MLAreQnSw54hL9Z5Ly94PYd4HW9BPHphg9JeaCVU8gavEeHk1PFSl/
+- 2019-12-28T08:08:43+00:00 — Nothing like a late night trip to Woodman's to kill time — https://facebook.com/654402359/posts/pfbid02deKw1V2R1KmpeTScp4sZmKQqCuj4ZBkxrbRRmCqhEEYcdAe1X8Kk5YRXL2U2DT8el/
+- 2019-12-28T15:37:36+00:00 —  — https://facebook.com/654402359/posts/pfbid032RYvBMorRRtvbAbqqDHUU3CsVsd2rHNjpEFCJnTDY61WemkByzzpYMQ8DzuMiTubl/
+- 2019-12-28T15:38:43+00:00 —  — https://facebook.com/654402359/posts/pfbid0yhJjxv6aeSVDe242hNxWhmHre6aCmVPgqffkSSRaiTFUeUrHpuxitp2UJWJ24stnl/
+- 2019-12-28T17:09:04+00:00 — Rusk county roads have yet to be salted.....hwy 27 moving 5mph — https://facebook.com/654402359/posts/pfbid0cREQqXxCEDjEPGmvvK3XrsmYb3bkTRtJZ5R9KzD54MqSzYBCDqcsa8LR3QsCNCihl/
+- 2019-12-28T17:58:50+00:00 — Grandma looks better today 👍 — https://facebook.com/654402359/posts/pfbid0d2wh1okVohgHfbpoM4tWydudpzaSdFx473hbEHaQ3Ys7wPKGAK12xeciK2xDAFtml/
+- 2019-12-28T20:27:05+00:00 —  — https://facebook.com/654402359/posts/pfbid02oszYVx8BnGfcq3StYbPLvZEZey1cvpMJz2vwTpE8ojKTVJxYgGcejKHjgvHCbuwal/
+- 2019-12-28T23:44:12+00:00 —  — https://facebook.com/654402359/posts/pfbid02tiLQACXeub7uvyxi1ogGyTYRDovdig9nFpYcZPp6zHVer1P4KxUvziw7XyTzzUbml/
+- 2019-12-29T11:34:39+00:00 —  — https://facebook.com/654402359/posts/pfbid02XwXf4NHy8miQUb55SMpEPXxdqRtn9U48GyNxdWsKrv5gbn755kB4fCBraPx1zRWZl/
+- 2019-12-29T11:35:16+00:00 —  — https://facebook.com/654402359/posts/pfbid02D8dUDvFDeidfu8V5pkeTCTRWjxUFoZihUx4a4USqGo4zj5CnFWkG3q2VqPUge1iql/
+- 2019-12-29T11:54:59+00:00 —  — https://facebook.com/654402359/posts/pfbid0WWrmBQVqdUP8LCcX7xwSyjrWcv5gKuzvbMCUMtvBJpv1ARAdip8SHTs3VBMerWn8l/
+- 2019-12-30T07:30:28+00:00 — Got a "new" 1972 Kitchen Table Set to match my yellow kitchen — https://facebook.com/654402359/posts/pfbid02aZfBJge2MVgH2a7pNtGbHpHfmoyDPnj9WAK4jpx8E3ytgjZRcvemgCKZU9xFpPf6l/
+- 2019-12-30T19:08:58+00:00 — A pair of Cardinals checkin out the feeder in the storm — https://facebook.com/654402359/posts/pfbid0cTR7vpgndn6yKVei7Fe1gvLRJDwvMjj3wyEiSy8hbkdTxwckXeF6F6xxFj53jytJl/
+- 2019-12-31T14:55:37+00:00 —  — https://facebook.com/654402359/posts/pfbid0o2QtBANfjgQenqKoCugokRPaiWzP3y7BTuttZm8Q7m9QkZDXrFbTmBF1DBef8VXYl/
+- 2019-12-31T14:56:24+00:00 —  — https://facebook.com/654402359/posts/pfbid02SzCSLPE2S3D9gkdSRfttWkyAbAhk134tMBvAcRGRUzRfFfEG5fbhop38531qRqmzl/
+- 2019-12-31T18:58:24+00:00 —  — https://facebook.com/654402359/posts/pfbid0LomhST5rxTd4Pso5GmvsSTksik4KwHo1iecwBrxm32EESQyKNq3wjFwQ3epBc8dvl/

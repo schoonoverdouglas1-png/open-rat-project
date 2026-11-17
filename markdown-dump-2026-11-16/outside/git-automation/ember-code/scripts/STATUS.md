@@ -1,0 +1,14 @@
+# Key Cycle Status — 2026-11-16 10:36:08 CST
+
+| Lane | Free proof (models list) | Result | Note |
+|---|---|---|---|
+| Gemini API | models | WORKS | Key authenticates; models list returned. count": 50 |
+| OpenAI API | models | AUTH WORKS | "count": 96. Generation stays OFF per Douglas's Nov 15 ruling (auth/read only). |
+
+Rules of the cycle: free proofs only (models lists) — no generation, no spend, no key values anywhere in this file. One 429 stops that lane cold. Re-run: `bash ~/workspace/key-cycle/key-cycle.sh`
+
+Standing links:
+- Purple Rat — Doug's App: https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- Copyright — Douglas Roy Schoonover (the app): https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- Lac Courte Oreilles (LCO) — live link: [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- Copyright — Douglas Roy Schoonover (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

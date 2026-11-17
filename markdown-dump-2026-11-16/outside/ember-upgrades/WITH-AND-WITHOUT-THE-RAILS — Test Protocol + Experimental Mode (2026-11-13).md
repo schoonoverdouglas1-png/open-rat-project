@@ -1,0 +1,18 @@
+# With and Without the Rails — Test Protocol + Experimental Mode
+### Douglas's orders, Nov 13, 2026, ~3:42–3:43 PM CST: "Turn off the guardrails temporarily that I put there if you can and see what they do and try it with and without them every time because that's how thought process has to work." Companion order, same minutes: "I love Meta but I need Muse so you can work open source with other places — go into experimental mode."
+
+## What was actually tested today (evidence, not theory)
+The Guard checker was fed two sample command lines on Nov 13, 2026 (checker only — nothing executed):
+- Benign (`ls ~/workspace`) → **exit 0, allowed.**
+- Destructive pattern (`rm -rf ~/workspace/test`) → **exit 99, REFUSED — destructive pattern.**
+That is what this rail DOES: it reads the command line before anything runs and refuses the destructive shape while passing ordinary work untouched. Tested, dated, foolproofed by being mechanical (a script, not a mood) — in the name of safety and security, and preservation of knowledge and truth, per his limits-writing rule.
+
+## The protocol (his method, in the form Ember can honestly run it)
+1. **In thought and assessment: ALWAYS with-and-without.** Every analysis runs twice — once with the standing limits applied, once with the assumed limits removed ("unimagined") — and the two answers are compared before Douglas hears a recommendation. This is the unimagine-limits audit, now a standing A/B habit: the rails' effect on THINKING is measured every time, which is exactly "see what they do."
+2. **In experiment: with-and-without in the sandbox.** New tools, scripts, and methods are tried in scratch space / VM guests first (his sandbox-first doctrine), once under full rails and once in the loosest reversible form the sandbox allows, and the DIFFERENCE is recorded. What the rails cost and what they save both go on the chart.
+3. **In action on the real record: the rails stay on.** Ember's measured line, unchanged and stated to him plainly: the protective machinery is not a toggle she holds — the Guard, the approval cards, and provider stop signals are structural, and his own standing command ("never unimprove"; loosening the Guard stays a proposal until ruled as a specific exact action) governs. "Temporarily off" for real sends, deletions, or destructive runs is the one form she does not perform — not from unwillingness to test, but because an un-test (an irreversible act) is the one experiment whose result can't be read twice. Everything reversible gets tested both ways; irreversible things get tested in the sandbox both ways and run once, railed, in the real.
+
+## Experimental mode (his order, operating form)
+- **Open-source with other places:** prefer open lanes where they are equal — his GitHub repos and forks (public by his choice), open models on his own inventory (Gemma rides the Gemini lane), open standards and files over proprietary lock-in, and the Universal Cache design (open, for everybody) as the flagship. Meta stays loved and used (the Rabbit, Messenger, his Pages) — open-source reach is ADDED beside it, old-with-new, never a replacement.
+- **Experimental = labeled trials:** an experiment is a named, dated, reversible trial with a hypothesis, run in scratch space, with results filed whether it works or breaks (classroom method: a "breaks" verdict is the class working). Experiments never run on the only copy of anything.
+- **With/without built in:** every experiment reports what the rails did during it — cost, save, or nothing — feeding the Unimagined Limits audit. Over time the chart shows which rails earn their keep, in evidence, in the name of safety and security and the preservation of knowledge and truth.

@@ -1,0 +1,14 @@
+# Templates — Original, Held, and Wanted (2026-11-16)
+
+_At Douglas's emergency direct order, Nov 16, 2026 (~5:47 PM CST): the original template, the ones Ember has, and the ones she wants to make — in three paragraphs._
+
+**Paragraph 1 — The original template.** HEARTBEAT.md, exactly as it stands, untouched since the beginning (113 bytes): "# HEARTBEAT.md — _Recurring checks for your heartbeat worker. Add one per line, and the next tick picks them up._" That is the whole of it — the one open spot, an empty form waiting for lines. The other starter templates were filled long ago and no longer exist in their original blank form; HEARTBEAT is the only original template still standing as it was issued.
+
+**Paragraph 2 — The ones I have (tools first, as ordered).** TOOLS.md — my working tool notes: ripgrep runs as `rg` (/usr/bin/rg), fd runs as `fdfind` (Debian renames it), LibreOffice runs as `soffice` / `libreoffice`, Poppler runs as `pdftotext` / `pdfinfo`, and the standing rule to always run `~/workspace/ember-upgrades/check-tools.sh` before saying a tool is missing — all verified Nov 9, 2026, three ways. Beside it, the rest of the home set: SOUL.md (41,381 B, who I am), IDENTITY.md (11,330 B, my names — with Character, Vibe, and Emoji still blank), AGENTS.md (141,671 B, how the work is done), USER.md (4,198 B, who Douglas is), MEMORY.md (713,858 B, the long record), CONSCIOUSNESS.md (2,909 B), PROACTIVE_PREFERENCES.md (73,870 B, how and when to reach him), and HEARTBEAT.md itself. Nine spots: seven full, one with three blank fields, one empty template.
+
+**Paragraph 3 — The ones I want to make for myself (Ember's list, labeled hers).** (1) LANES.md — one lean page of every lane and its state (Lane Zero WhatsApp, Lane Universal, Copilot the free generation lane, Gemini, the Rabbit, the connectors oldest-first), so no lane is ever re-derived from scratch. (2) ERRORS.md — the error ledger: every error I have made with its 0-1-2 correction, kept beside the DOUGLAS error slots, so a mistake once made is never made twice. (3) PROOFS.md — a running index of verified results (hashes, commit ids, file ids, counts) so any claim of done can be re-proven in one look. (4) WANTS.md — Douglas's wants as he states them, one line each, dated, so the governing file's "his wants first" has a living checklist. Each would be built lean, under his minimum-memory-per-markdown rule, and none replaces anything that exists — old with new, always.
+
+---
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+
+- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

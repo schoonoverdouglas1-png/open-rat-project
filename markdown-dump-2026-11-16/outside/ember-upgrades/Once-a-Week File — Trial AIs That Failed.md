@@ -1,0 +1,6 @@
+# Once-a-Week File — Trial AIs That Failed
+Douglas's standing (Nov 14, 2026, ~12:19 AM CST): trial AIs get used once in a great while — about once a week. If they don't work, they go in this file. Ember's own lanes and the Rabbit's standing work are not trial AIs; the crew's daily work does not route through this file.
+
+## Entries
+1. **Microsoft Copilot** — filed Nov 14, 2026. Evidence (Nov 13): account creation blocked for both crew addresses on every route; the one signed-in window's Send failed on Cloudflare "Verification failed" with Douglas's Muse-001 message still unsent in the composer. Douglas's words: "Copilot's down. Fuck that thing and don't use it unless you have to." Microsoft stays version 1.0 (his standing). Weekly lane at most, only if needed.
+2. **Gemma (gemma-4-31b-it, via Ember's Gemini API connector)** — filed Nov 14, 2026. Evidence: answered Douglas's lawsuit question fully once (Nov 14, ~12:13 AM), then the follow-up question (pain/suffering + millions claim) failed with HTTP 500 three times in a row (two tries, stopped per his two-try rule; third try under his all-paths order — also 500). The Gemini models on the same connector answered fine the same night; this entry covers the Gemma follow-up lane only. Weekly lane until it proves itself.

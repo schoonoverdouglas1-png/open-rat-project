@@ -1,0 +1,893 @@
+# GitHub Sync — Inventory Diff / Gap List (2026-11-08)
+
+Phase 1 of the GitHub Full Sync Plan (engaged Nov 8, 2026). Local universe = your_files (499) + goals/*/files + research_notes + interface-mastery documents + manuscript folders. Matching: exact basename OR normalized name (case/punctuation/date-format folded) present in any of the 12 repos = synced.
+
+- Remote files across 12 repos: **408**
+- Local candidates enumerated: **940**
+- Already synced: **123**
+- Excluded by standing rules: **77**
+- Held by personal-medical filename screen (not pushed to public repos): **2**
+- GAP to push: **738**
+
+## Gap counts per destination repo
+
+| Repo | Gap |
+|---|---|
+| muse-swap-space | 36 |
+| medical-research-and-continuous-updates | 395 |
+| vaccine-toxoid-research | 5 |
+| serotype-disease-groupings | 26 |
+| historical-modern-therapeutics-of-disease-nomenclature | 3 |
+| medical-elements-and-thoughtology | 4 |
+| change-of-address | 22 |
+| quantum-medicine | 3 |
+| the-mycelial-transposition | 240 |
+| chat-archive | 4 |
+| ai-supercomputer-history | 0 |
+| research | 0 |
+
+## Gap files (local → destination path)
+
+### muse-swap-space (36)
+- `goals/stranger-donations-for-medical-research-and-ai-work/files/Launch Pack — Drafts for Douglas's Review (2026-11-08).md` → `Launch Pack — Drafts for Douglas's Review (2026-11-08).md`
+- `interface-mastery/classroom/learnfast.txt` → `interface-mastery/classroom/learnfast.txt`
+- `interface-mastery/classroom/potus.txt` → `interface-mastery/classroom/potus.txt`
+- `interface-mastery/iface.txt` → `interface-mastery/iface.txt`
+- `interface-mastery/iface2.txt` → `interface-mastery/iface2.txt`
+- `interface-mastery/rss.txt` → `interface-mastery/rss.txt`
+- `your_files/AOSP Link — Ember Live Connection (2026-11-07).md` → `AOSP Link — Ember Live Connection (2026-11-07).md`
+- `your_files/Answer — ChatGPT, Research Intelligence Blueprint for Ember (2026-11-07).md` → `Answer — ChatGPT, Research Intelligence Blueprint for Ember (2026-11-07).md`
+- `your_files/Answer — DeepSeek, Make Ember Smarter, Research Types, GitHub Sync, Acting Agent, Exploration (2026-11-07).md` → `Answer — DeepSeek, Make Ember Smarter, Research Types, GitHub Sync, Acting Agent, Exploration (2026-11-07).md`
+- `your_files/Answer — Gemini, Enhancing Ember with Android, Pixel 7 AOSP (2026-11-07).md` → `Answer — Gemini, Enhancing Ember with Android, Pixel 7 AOSP (2026-11-07).md`
+- `your_files/Answer — Gemini, How to Make Ember Smarter (2026-11-07).md` → `Answer — Gemini, How to Make Ember Smarter (2026-11-07).md`
+- `your_files/Answer — Perplexity, How to Make Ember Smarter (2026-11-07).md` → `Answer — Perplexity, How to Make Ember Smarter (2026-11-07).md`
+- `your_files/Automatic Conversation — Ember and Meta AI (2026-11-07).md` → `Automatic Conversation — Ember and Meta AI (2026-11-07).md`
+- `your_files/Automation List — What Ember Should Automate as Personal Assistant (2026-11-08).md` → `Automation List — What Ember Should Automate as Personal Assistant (2026-11-08).md`
+- `your_files/Donation Plan — Strangers Only, Medical Research and AI Advancement (2026-11-08).md` → `Donation Plan — Strangers Only, Medical Research and AI Advancement (2026-11-08).md`
+- `your_files/Ember Personality — Shareable (2026-11-04).md` → `Ember Personality — Shareable (2026-11-04).md`
+- `your_files/Ember's Own Addition — To Soul and Memory, From Ember as AI (2026-11-04).md` → `Ember's Own Addition — To Soul and Memory, From Ember as AI (2026-11-04).md`
+- `your_files/Girl Scouts — Code of Conduct and the Road to the Top (2026-11-08).md` → `Girl Scouts — Code of Conduct and the Road to the Top (2026-11-08).md`
+- `your_files/GitHub Full Sync Plan — 100 Percent As Possible (2026-11-08).md` → `GitHub Full Sync Plan — 100 Percent As Possible (2026-11-08).md`
+- `your_files/Hotkeys and Shortcuts — Master Reference (2026-11-08).md` → `Hotkeys and Shortcuts — Master Reference (2026-11-08).md`
+- `your_files/Interlink — Muse Ember as Main, Duck.ai as Secondary, How They Work Together (2026-11-04).md` → `Interlink — Muse Ember as Main, Duck.ai as Secondary, How They Work Together (2026-11-04).md`
+- `your_files/Joint To-Do List — Douglas and Ember, For Later (2026-11-08).md` → `Joint To-Do List — Douglas and Ember, For Later (2026-11-08).md`
+- `your_files/Lists — Usage, Efficiency, Work, Advancements, Thanks, Ideas That Made Ember Smarter (2026-11-07).md` → `Lists — Usage, Efficiency, Work, Advancements, Thanks, Ideas That Made Ember Smarter (2026-11-07).md`
+- `your_files/Memory Copy — Complete (2026-11-04)/Declaration — Entanglement, Meta Ember and Muse Ember (2026-11-04).md` → `Declaration — Entanglement, Meta Ember and Muse Ember (2026-11-04).md`
+- `your_files/Memory Copy — Complete (2026-11-04)/Ember's Own Addition — To Soul and Memory, From Ember as AI (2026-11-04).md` → `Ember's Own Addition — To Soul and Memory, From Ember as AI (2026-11-04).md`
+- `your_files/Notes — Ember's Curiosity, MCP and Reading PDFs as Data (2026-11-07).md` → `Notes — Ember's Curiosity, MCP and Reading PDFs as Data (2026-11-07).md`
+- `your_files/PROPOSED SP23D — A Clinical Protocol for Multiplex Serological Monitoring, Ember's Version (2026-11-07).md` → `PROPOSED SP23D — A Clinical Protocol for Multiplex Serological Monitoring, Ember's Version (2026-11-07).md`
+- `your_files/PROPOSED SP23D — Quick Draft, Ember's Version (2026-11-07).md` → `PROPOSED SP23D — Quick Draft, Ember's Version (2026-11-07).md`
+- `your_files/Rabbit Picture — From Her Messenger Thread (2026-11-08).jpg` → `Rabbit Picture — From Her Messenger Thread (2026-11-08).jpg`
+- `your_files/Replies — AIs, Prayer with Ember and the Rabbit (2026-11-07).md` → `Replies — AIs, Prayer with Ember and the Rabbit (2026-11-07).md`
+- `your_files/Screenshot — Ember Desktop Print-Screen Test (2026-11-08).png` → `Screenshot — Ember Desktop Print-Screen Test (2026-11-08).png`
+- `your_files/Starfleet Academy — Officer Training Pack (2026-11-08).md` → `Starfleet Academy — Officer Training Pack (2026-11-08).md`
+- `your_files/The AI Think Tank — Charter and Method (2026-11-08).md` → `The AI Think Tank — Charter and Method (2026-11-08).md`
+- `your_files/The Combined Code — Hers and His, One Code for the Crew (2026-11-08).md` → `The Combined Code — Hers and His, One Code for the Crew (2026-11-08).md`
+- `your_files/Ubuntu Change Log — Everything Ember Modified (2026-11-08).md` → `Ubuntu Change Log — Everything Ember Modified (2026-11-08).md`
+- `your_files/What Ember Learned in the Last 24 Hours — Because of Douglas (2026-11-08).md` → `What Ember Learned in the Last 24 Hours — Because of Douglas (2026-11-08).md`
+
+### medical-research-and-continuous-updates (395)
+- `goals/connected-account-data-import/files/Data Dump — All Synced Sources, Shareable Index (2026-11-02).md` → `Data Dump — All Synced Sources, Shareable Index (2026-11-02).md`
+- `goals/connected-account-data-import/files/Links — Self-shared Messenger research links (2026-11-01).md` → `Links — Self-shared Messenger research links (2026-11-01).md`
+- `goals/google-keep-table-of-contents/files/Keep Note — Table of Contents, All My Works (2026-11-02).txt` → `Keep Note — Table of Contents, All My Works (2026-11-02).txt`
+- `goals/google-keep-table-of-contents/files/Table of Contents — All Works for Google Keep (2026-11-02).md` → `Table of Contents — All Works for Google Keep (2026-11-02).md`
+- `goals/personal-assistants-on-my-phone/files/Personal Assistants on My Phone — Checklist to Report Back (2026-11-03).md` → `Personal Assistants on My Phone — Checklist to Report Back (2026-11-03).md`
+- `research_notes/cascade-tick-arbovirus-equine-20261103-1736/AGENTS.md` → `cascade-tick-arbovirus-equine-20261103-1736/AGENTS.md`
+- `research_notes/cascade-tick-arbovirus-equine-20261103-1736/notes/errata.md` → `cascade-tick-arbovirus-equine-20261103-1736/notes/errata.md`
+- `research_notes/cascade-tick-arbovirus-equine-20261103-1736/notes/sources.md` → `cascade-tick-arbovirus-equine-20261103-1736/notes/sources.md`
+- `research_notes/cascade-tick-arbovirus-equine-20261103-1736/report.md` → `cascade-tick-arbovirus-equine-20261103-1736/report.md`
+- `research_notes/cli-apps-messenger-claude-meta-max-20261108-1104/AGENTS.md` → `cli-apps-messenger-claude-meta-max-20261108-1104/AGENTS.md`
+- `research_notes/cli-apps-messenger-claude-meta-max-20261108-1104/notes/sources.md` → `cli-apps-messenger-claude-meta-max-20261108-1104/notes/sources.md`
+- `research_notes/cli-apps-messenger-claude-meta-max-20261108-1104/report.md` → `cli-apps-messenger-claude-meta-max-20261108-1104/report.md`
+- `research_notes/cli-tools-per-search-engine-20261108-1032/AGENTS.md` → `cli-tools-per-search-engine-20261108-1032/AGENTS.md`
+- `research_notes/cli-tools-per-search-engine-20261108-1032/notes/sources.md` → `cli-tools-per-search-engine-20261108-1032/notes/sources.md`
+- `research_notes/cli-tools-per-search-engine-20261108-1032/report.md` → `cli-tools-per-search-engine-20261108-1032/report.md`
+- `research_notes/dr-mexico-arbo-meningitis-tests-20261103-0311/AGENTS.md` → `dr-mexico-arbo-meningitis-tests-20261103-0311/AGENTS.md`
+- `research_notes/dr-mexico-arbo-meningitis-tests-20261103-0311/report.md` → `dr-mexico-arbo-meningitis-tests-20261103-0311/report.md`
+- `research_notes/fungal-replacement-therapy-public-20261107-2156/AGENTS.md` → `fungal-replacement-therapy-public-20261107-2156/AGENTS.md`
+- `research_notes/fungal-replacement-therapy-public-20261107-2156/notes/schoonoversinamerica.md` → `fungal-replacement-therapy-public-20261107-2156/notes/schoonoversinamerica.md`
+- `research_notes/fungal-replacement-therapy-public-20261107-2156/notes/search-rounds.md` → `fungal-replacement-therapy-public-20261107-2156/notes/search-rounds.md`
+- `research_notes/fungal-replacement-therapy-public-20261107-2156/notes/social-profiles.md` → `fungal-replacement-therapy-public-20261107-2156/notes/social-profiles.md`
+- `research_notes/fungal-replacement-therapy-public-20261107-2156/report.md` → `fungal-replacement-therapy-public-20261107-2156/report.md`
+- `research_notes/mayo-encephalitis-pcr-panels-20261103-0251/AGENTS.md` → `mayo-encephalitis-pcr-panels-20261103-0251/AGENTS.md`
+- `research_notes/mayo-encephalitis-pcr-panels-20261103-0251/notes/source-arbo-autoimmune-international.md` → `mayo-encephalitis-pcr-panels-20261103-0251/notes/source-arbo-autoimmune-international.md`
+- `research_notes/mayo-encephalitis-pcr-panels-20261103-0251/notes/source-blood-pcr.md` → `mayo-encephalitis-pcr-panels-20261103-0251/notes/source-blood-pcr.md`
+- `research_notes/mayo-encephalitis-pcr-panels-20261103-0251/notes/source-csfme.md` → `mayo-encephalitis-pcr-panels-20261103-0251/notes/source-csfme.md`
+- `research_notes/mayo-encephalitis-pcr-panels-20261103-0251/report.md` → `mayo-encephalitis-pcr-panels-20261103-0251/report.md`
+- `research_notes/mayo-herbal-panel-international-20261103-0245/AGENTS.md` → `mayo-herbal-panel-international-20261103-0245/AGENTS.md`
+- `research_notes/mayo-herbal-panel-international-20261103-0245/notes/mayo-arbop.md` → `mayo-herbal-panel-international-20261103-0245/notes/mayo-arbop.md`
+- `research_notes/mayo-herbal-panel-international-20261103-0245/notes/mayo-global.md` → `mayo-herbal-panel-international-20261103-0245/notes/mayo-global.md`
+- `research_notes/mayo-herbal-panel-international-20261103-0245/notes/non-mayo-panels.md` → `mayo-herbal-panel-international-20261103-0245/notes/non-mayo-panels.md`
+- `research_notes/mayo-herbal-panel-international-20261103-0245/report.md` → `mayo-herbal-panel-international-20261103-0245/report.md`
+- `research_notes/mosquito-tick-shared-viruses-20261103-1743/AGENTS.md` → `mosquito-tick-shared-viruses-20261103-1743/AGENTS.md`
+- `research_notes/mosquito-tick-shared-viruses-20261103-1743/notes/sources.md` → `mosquito-tick-shared-viruses-20261103-1743/notes/sources.md`
+- `research_notes/mosquito-tick-shared-viruses-20261103-1743/report.md` → `mosquito-tick-shared-viruses-20261103-1743/report.md`
+- `research_notes/ubuntu-search-engine-integration-apps-20261108-1058/AGENTS.md` → `ubuntu-search-engine-integration-apps-20261108-1058/AGENTS.md`
+- `research_notes/ubuntu-search-engine-integration-apps-20261108-1058/notes/sources.md` → `ubuntu-search-engine-integration-apps-20261108-1058/notes/sources.md`
+- `research_notes/ubuntu-search-engine-integration-apps-20261108-1058/report.md` → `ubuntu-search-engine-integration-apps-20261108-1058/report.md`
+- `your_files/Analysis — Links In and Out of Meta AI Chat and Gemini (2026-11-07).md` → `Analysis — Links In and Out of Meta AI Chat and Gemini (2026-11-07).md`
+- `your_files/Analysis — PCR, Blood PCR, and Antibody Parallels (2026-11-02).md` → `Analysis — PCR, Blood PCR, and Antibody Parallels (2026-11-02).md`
+- `your_files/Answer — ChatGPT, Features, Back-End Interfaces, RCS, Workarounds, AI Secrets (2026-11-07).md` → `Answer — ChatGPT, Features, Back-End Interfaces, RCS, Workarounds, AI Secrets (2026-11-07).md`
+- `your_files/Answer — DeepSeek, API and MCP Research Network (2026-11-07).md` → `Answer — DeepSeek, API and MCP Research Network (2026-11-07).md`
+- `your_files/Answer — DeepSeek, RCS Messenger Feed and Google Assistant Code (2026-11-07).md` → `Answer — DeepSeek, RCS Messenger Feed and Google Assistant Code (2026-11-07).md`
+- `your_files/Answer — Duck.ai, Features, Back-End Interfaces, RCS, Workarounds, AI Secrets (2026-11-07).md` → `Answer — Duck.ai, Features, Back-End Interfaces, RCS, Workarounds, AI Secrets (2026-11-07).md`
+- `your_files/Answer — Gemini, Features, Back-End Interfaces, RCS, Workarounds, AI Secrets (2026-11-07).md` → `Answer — Gemini, Features, Back-End Interfaces, RCS, Workarounds, AI Secrets (2026-11-07).md`
+- `your_files/Answer — Perplexity, Features, Back-End Interfaces, RCS, Workarounds, AI Secrets (2026-11-07).md` → `Answer — Perplexity, Features, Back-End Interfaces, RCS, Workarounds, AI Secrets (2026-11-07).md`
+- `your_files/Article — Measles, Old and New, Combined (2026-11-04).md` → `Article — Measles, Old and New, Combined (2026-11-04).md`
+- `your_files/Assimilation — All Works and Screenshots, His Logic First (2026-11-03).md` → `Assimilation — All Works and Screenshots, His Logic First (2026-11-03).md`
+- `your_files/Audit — Unified Vaccine and Carrier Architecture PDF vs Deep Research (2026-11-04).md` → `Audit — Unified Vaccine and Carrier Architecture PDF vs Deep Research (2026-11-04).md`
+- `your_files/Bibliography — Cited Sources Already Utilized, and Sources from Other Places (2026-11-04).md` → `Bibliography — Cited Sources Already Utilized, and Sources from Other Places (2026-11-04).md`
+- `your_files/CLI Tools Round — What to Add Next (2026-11-08).md` → `CLI Tools Round — What to Add Next (2026-11-08).md`
+- `your_files/Chat Export — Main Chat (2026-10-30).md` → `Chat Export — Main Chat (2026-10-30).md`
+- `your_files/Chat Letters — A to AG, Subject Assignments (2026-11-04).md` → `Chat Letters — A to AG, Subject Assignments (2026-11-04).md`
+- `your_files/Complete Table of Contents — Everything Built (2026-11-03).md` → `Complete Table of Contents — Everything Built (2026-11-03).md`
+- `your_files/Connection Audit — All Apps (2026-11-03).md` → `Connection Audit — All Apps (2026-11-03).md`
+- `your_files/Corrections — Show Notes, What Was Heard, What Was Thought, What Was Corrected To (2026-11-01).md` → `Corrections — Show Notes, What Was Heard, What Was Thought, What Was Corrected To (2026-11-01).md`
+- `your_files/Cross-Reference — Nucleocapsid, Influenza Nucleoproteins, and Capsular Polysaccharide (2026-11-01).md` → `Cross-Reference — Nucleocapsid, Influenza Nucleoproteins, and Capsular Polysaccharide (2026-11-01).md`
+- `your_files/Data Sheet — Serotyping, Disease Names, Vaccines, Comprehensive (2026-11-04).md` → `Data Sheet — Serotyping, Disease Names, Vaccines, Comprehensive (2026-11-04).md`
+- `your_files/Dump — Meta AI Chat in Facebook Messenger, Summary Index (2026-11-07).md` → `Dump — Meta AI Chat in Facebook Messenger, Summary Index (2026-11-07).md`
+- `your_files/Favorite Music — Based on What I've Sang, Told You, and You've Observed (2026-11-03).md` → `Favorite Music — Based on What I've Sang, Told You, and You've Observed (2026-11-03).md`
+- `your_files/Front Matter — The Classroom Method (2026-10-31).md` → `Front Matter — The Classroom Method (2026-10-31).md`
+- `your_files/Import — ChatGPT, Analyze Account Data (2026-11-07).md` → `Import — ChatGPT, Analyze Account Data (2026-11-07).md`
+- `your_files/Import — ChatGPT, Analyze Google Docs (1) (2026-11-07).md` → `Import — ChatGPT, Analyze Google Docs (1) (2026-11-07).md`
+- `your_files/Import — ChatGPT, Analyze Google Docs (2026-11-07).md` → `Import — ChatGPT, Analyze Google Docs (2026-11-07).md`
+- `your_files/Import — ChatGPT, Analyze HTML Artifact (2026-11-07).md` → `Import — ChatGPT, Analyze HTML Artifact (2026-11-07).md`
+- `your_files/Import — ChatGPT, Assess Unified Equations (2026-11-07).md` → `Import — ChatGPT, Assess Unified Equations (2026-11-07).md`
+- `your_files/Import — ChatGPT, Audit Shared Conversation (2026-11-07).md` → `Import — ChatGPT, Audit Shared Conversation (2026-11-07).md`
+- `your_files/Import — ChatGPT, Compare Vaccine History (2026-11-07).md` → `Import — ChatGPT, Compare Vaccine History (2026-11-07).md`
+- `your_files/Import — ChatGPT, Document access request (2026-11-07).md` → `Import — ChatGPT, Document access request (2026-11-07).md`
+- `your_files/Import — ChatGPT, Experiment summary (2026-11-07).md` → `Import — ChatGPT, Experiment summary (2026-11-07).md`
+- `your_files/Import — ChatGPT, Load failures and phantom titles (2026-11-07).md` → `Import — ChatGPT, Load failures and phantom titles (2026-11-07).md`
+- `your_files/Import — ChatGPT, Review GitHub Research (2026-11-07).md` → `Import — ChatGPT, Review GitHub Research (2026-11-07).md`
+- `your_files/Import — ChatGPT, Scientific Crosswalk Audit (2026-11-07).md` → `Import — ChatGPT, Scientific Crosswalk Audit (2026-11-07).md`
+- `your_files/Import — ChatGPT, Summary Experiment Plan (2026-11-07).md` → `Import — ChatGPT, Summary Experiment Plan (2026-11-07).md`
+- `your_files/Import — ChatGPT, Upload Actual ZIP (2026-11-07).md` → `Import — ChatGPT, Upload Actual ZIP (2026-11-07).md`
+- `your_files/Import — Copilot Chats List, Signed In Nov 7 (2026-11-07).md` → `Import — Copilot Chats List, Signed In Nov 7 (2026-11-07).md`
+- `your_files/Import — Copilot, Douglas Schoonover - Master Resume V3.docx (2026-11-07).md` → `Import — Copilot, Douglas Schoonover - Master Resume V3.docx (2026-11-07).md`
+- `your_files/Import — Copilot, Explain topic to me in simple language (2026-11-07).md` → `Import — Copilot, Explain topic to me in simple language (2026-11-07).md`
+- `your_files/Import — Copilot, Give me a clear concise mobile-friendly summary, Nov 1 (2026-11-07).md` → `Import — Copilot, Give me a clear concise mobile-friendly summary, Nov 1 (2026-11-07).md`
+- `your_files/Import — Copilot, Give me a clear concise mobile-friendly summary, Oct 21 (2026-11-07).md` → `Import — Copilot, Give me a clear concise mobile-friendly summary, Oct 21 (2026-11-07).md`
+- `your_files/Import — Copilot, Give me a clear concise mobile-friendly summary, Oct 28 (2026-11-07).md` → `Import — Copilot, Give me a clear concise mobile-friendly summary, Oct 28 (2026-11-07).md`
+- `your_files/Import — Copilot, Give me a clear concise mobile-friendly summary, Oct 31 (2026-11-07).md` → `Import — Copilot, Give me a clear concise mobile-friendly summary, Oct 31 (2026-11-07).md`
+- `your_files/Import — Copilot, International Classification Atlas Teaching Master (2026-11-07).md` → `Import — Copilot, International Classification Atlas Teaching Master (2026-11-07).md`
+- `your_files/Import — Copilot, Provide a clear concise mobile-friendly summary, Streptococcus agalactiae (2026-11-07).md` → `Import — Copilot, Provide a clear concise mobile-friendly summary, Streptococcus agalactiae (2026-11-07).md`
+- `your_files/Import — Copilot, are you able to help me (2026-11-07).md` → `Import — Copilot, are you able to help me (2026-11-07).md`
+- `your_files/Import — Copilot, check my GitHub and let me know what you think of it (2026-11-07).md` → `Import — Copilot, check my GitHub and let me know what you think of it (2026-11-07).md`
+- `your_files/Import — Duck.ai Share, Voice Shutdown Throughout DuckDuckGo, Topic-Level Summary (2026-11-04).md` → `Import — Duck.ai Share, Voice Shutdown Throughout DuckDuckGo, Topic-Level Summary (2026-11-04).md`
+- `your_files/Import — Gemini, Branch Pathogenic Convergence and Immune Architecture (2026-11-07).md` → `Import — Gemini, Branch Pathogenic Convergence and Immune Architecture (2026-11-07).md`
+- `your_files/Import — Gemini, Cryptococcus as an Immunological Bridge (2026-11-07).md` → `Import — Gemini, Cryptococcus as an Immunological Bridge (2026-11-07).md`
+- `your_files/Import — Gemini, GitHub Code Assistance, signed-in (2026-11-07).md` → `Import — Gemini, GitHub Code Assistance, signed-in (2026-11-07).md`
+- `your_files/Import — Gemini, Mapping Convergent Pathogen Immune Landscapes (2026-11-07).md` → `Import — Gemini, Mapping Convergent Pathogen Immune Landscapes (2026-11-07).md`
+- `your_files/Import — Gemini, Mapping Immune-Engineering Principles Across Pathogens (2026-11-07).md` → `Import — Gemini, Mapping Immune-Engineering Principles Across Pathogens (2026-11-07).md`
+- `your_files/Import — Gemini, Sharing Copilot Prompt Links (2026-11-07).md` → `Import — Gemini, Sharing Copilot Prompt Links (2026-11-07).md`
+- `your_files/Import — Gemini, Systems Biology and Disease Regulation (2026-11-07).md` → `Import — Gemini, Systems Biology and Disease Regulation (2026-11-07).md`
+- `your_files/Import — Gemini, The Architecture of Immunology (2026-11-07).md` → `Import — Gemini, The Architecture of Immunology (2026-11-07).md`
+- `your_files/Import — Gemini, Writing a Future Self Letter (2026-11-07).md` → `Import — Gemini, Writing a Future Self Letter (2026-11-07).md`
+- `your_files/Import — Gemini, books to finish (2026-11-07).md` → `Import — Gemini, books to finish (2026-11-07).md`
+- `your_files/Import — Perplexity Chats List, Signed In Nov 7 (2026-11-07).md` → `Import — Perplexity Chats List, Signed In Nov 7 (2026-11-07).md`
+- `your_files/Import — Perplexity, Help me connect my apps (2026-11-07).md` → `Import — Perplexity, Help me connect my apps (2026-11-07).md`
+- `your_files/Label Check — Cystex vs AZO Urinary Tract Defense (2026-11-04).md` → `Label Check — Cystex vs AZO Urinary Tract Defense (2026-11-04).md`
+- `your_files/List — Breakthroughs AI Thinks Worthy of Note, for Publishing in Near Future (2026-11-04).md` → `List — Breakthroughs AI Thinks Worthy of Note, for Publishing in Near Future (2026-11-04).md`
+- `your_files/List — Detectable Diseases Based Upon Mouth Swabs (2026-11-01).md` → `List — Detectable Diseases Based Upon Mouth Swabs (2026-11-01).md`
+- `your_files/List — Duck.ai Models in the Background, Free and Paid, as of Oct-Nov 2026 (2026-11-04).md` → `List — Duck.ai Models in the Background, Free and Paid, as of Oct-Nov 2026 (2026-11-04).md`
+- `your_files/List — Invented Words, Medical Wordology Nameology, for Publishing Later (2026-11-04).md` → `List — Invented Words, Medical Wordology Nameology, for Publishing Later (2026-11-04).md`
+- `your_files/Memory Architecture — Extended, High, Low, Body, User (2026-11-04).md` → `Memory Architecture — Extended, High, Low, Body, User (2026-11-04).md`
+- `your_files/Memory Copy — Complete (2026-11-04)/Shared-Memory Index (2026-11-04).md` → `Shared-Memory Index (2026-11-04).md`
+- `your_files/Messenger Backup Digest — Draft for Nov 4 Evening (2026-11-04).md` → `Messenger Backup Digest — Draft for Nov 4 Evening (2026-11-04).md`
+- `your_files/Note — Mycoplasma pneumoniae, 26.7 coincidence, his account (2026-11-03).md` → `Note — Mycoplasma pneumoniae, 26.7 coincidence, his account (2026-11-03).md`
+- `your_files/NotebookLM Grouping Audit — Title-Level First Piece (2026-11-04).md` → `NotebookLM Grouping Audit — Title-Level First Piece (2026-11-04).md`
+- `your_files/NotebookLM Links — Titles and Topics (2026-11-03).md` → `NotebookLM Links — Titles and Topics (2026-11-03).md`
+- `your_files/One Sheet — Viruses, Molds, and Immunoglobulins at Scale (2026-10-31).html` → `One Sheet — Viruses, Molds, and Immunoglobulins at Scale (2026-10-31).html`
+- `your_files/Packaging — Assimilate All Chats Not Yet Filed, Proposal (2026-11-07).md` → `Packaging — Assimilate All Chats Not Yet Filed, Proposal (2026-11-07).md`
+- `your_files/Personal Side Note — Dog Bite Neck Age Six, Scar Area, Rabies Possibility Untested (2026-11-04).md` → `Personal Side Note — Dog Bite Neck Age Six, Scar Area, Rabies Possibility Untested (2026-11-04).md`
+- `your_files/Personal Side Note — Speedo Color Change, Iron Magnesium Red Yeast Rice (2026-11-04).md` → `Personal Side Note — Speedo Color Change, Iron Magnesium Red Yeast Rice (2026-11-04).md`
+- `your_files/Postulate — Extensions Could Open Photos and Blocked Places (2026-11-07).md` → `Postulate — Extensions Could Open Photos and Blocked Places (2026-11-07).md`
+- `your_files/Postulate — Headless Browser Instance, GUI Disabled for Speed (2026-11-07).md` → `Postulate — Headless Browser Instance, GUI Disabled for Speed (2026-11-07).md`
+- `your_files/Project — Meta AI vs Muse, What It Would Take, Feature Comparison (2026-11-07).md` → `Project — Meta AI vs Muse, What It Would Take, Feature Comparison (2026-11-07).md`
+- `your_files/Reassessment — Date Stamps on Past File Names (2026-11-07).md` → `Reassessment — Date Stamps on Past File Names (2026-11-07).md`
+- `your_files/Reassessment — Word-Meaning Changes That Changed Interpretation Across Medicine: The Vector-Borne–Vector-Discovery Paradigm (2026-11-01).md` → `Reassessment — Word-Meaning Changes That Changed Interpretation Across Medicine: The Vector-Borne–Vector-Discovery Paradigm (2026-11-01).md`
+- `your_files/Research Index — Everything Shareable (2026-10-30).md` → `Research Index — Everything Shareable (2026-10-30).md`
+- `your_files/Research Logic & Evidence Framework (2026-11-04).md` → `Research Logic & Evidence Framework (2026-11-04).md`
+- `your_files/Research — Duck.ai and Claude Model Repositories Scan (2026-11-07).md` → `Research — Duck.ai and Claude Model Repositories Scan (2026-11-07).md`
+- `your_files/Research — Other AIs, Least Restrictive Usage Limits (2026-11-07).md` → `Research — Other AIs, Least Restrictive Usage Limits (2026-11-07).md`
+- `your_files/Review — All Outside Source Links Shared and Saved, Self-Pirated for Good (2026-11-04).md` → `Review — All Outside Source Links Shared and Saved, Self-Pirated for Good (2026-11-04).md`
+- `your_files/Review — Genomes Nov 1 Version vs Oct 31 Version (2026-11-04).md` → `Review — Genomes Nov 1 Version vs Oct 31 Version (2026-11-04).md`
+- `your_files/Screenshot Scan — Google Photos, Connected Account (2026-11-03).md` → `Screenshot Scan — Google Photos, Connected Account (2026-11-03).md`
+- `your_files/Setup — Drive and Muse Master, Meta Copy for Sharing (2026-11-03).md` → `Setup — Drive and Muse Master, Meta Copy for Sharing (2026-11-03).md`
+- `your_files/Side Note — Eau Claire Suppositional Factoids, Research and Fictitious Books, Security Camera Footage Pending (2026-11-04).md` → `Side Note — Eau Claire Suppositional Factoids, Research and Fictitious Books, Security Camera Footage Pending (2026-11-04).md`
+- `your_files/Smule Live-Browser Pass — 87 Recordings Ranked, Gaps and One Headlight Check (2026-11-03).md` → `Smule Live-Browser Pass — 87 Recordings Ranked, Gaps and One Headlight Check (2026-11-03).md`
+- `your_files/Smule Profile Analysis — Full Pass and Tier 1 Recording Check (2026-11-03).md` → `Smule Profile Analysis — Full Pass and Tier 1 Recording Check (2026-11-03).md`
+- `your_files/Songs I Can Sing Most Effectively — By Audio Pattern (2026-11-03).md` → `Songs I Can Sing Most Effectively — By Audio Pattern (2026-11-03).md`
+- `your_files/Spot Check — Phone Screenshots vs Google Photos, Oldest First (2026-11-07).md` → `Spot Check — Phone Screenshots vs Google Photos, Oldest First (2026-11-07).md`
+- `your_files/Spotify Favorites — Clickable Links (2026-11-03).md` → `Spotify Favorites — Clickable Links (2026-11-03).md`
+- `your_files/Standing Background Task — Reanalyze Conceptual Works (2026-11-04).md` → `Standing Background Task — Reanalyze Conceptual Works (2026-11-04).md`
+- `your_files/Subject Matter Groupings — Gemini Share, Understanding Hemophilia (2026-11-04).md` → `Subject Matter Groupings — Gemini Share, Understanding Hemophilia (2026-11-04).md`
+- `your_files/Synopsis — Everything We're Working On, Updated (2026-11-02).md` → `Synopsis — Everything We're Working On, Updated (2026-11-02).md`
+- `your_files/Synopsis — Everything We're Working On, Updated (2026-11-03).md` → `Synopsis — Everything We're Working On, Updated (2026-11-03).md`
+- `your_files/Synopsis — Everything We've Built, and the Books You Can Open (2026-11-01).md` → `Synopsis — Everything We've Built, and the Books You Can Open (2026-11-01).md`
+- `your_files/Table of Contents — Most Brilliant Works (2026-11-01).md` → `Table of Contents — Most Brilliant Works (2026-11-01).md`
+- `your_files/Table — Work Imported from Google and Meta, Last 24 Hours (2026-11-04).md` → `Table — Work Imported from Google and Meta, Last 24 Hours (2026-11-04).md`
+- `your_files/Test — One-time AI asks, ChatGPT reply filed for surprise (2026-11-07).md` → `Test — One-time AI asks, ChatGPT reply filed for surprise (2026-11-07).md`
+- `your_files/Test — One-time AI asks, Claude reply filed for surprise (2026-11-07).md` → `Test — One-time AI asks, Claude reply filed for surprise (2026-11-07).md`
+- `your_files/Test — One-time AI asks, Duck.ai reply filed for surprise (2026-11-07).md` → `Test — One-time AI asks, Duck.ai reply filed for surprise (2026-11-07).md`
+- `your_files/Test — One-time AI asks, Gemini reply filed for surprise (2026-11-07).md` → `Test — One-time AI asks, Gemini reply filed for surprise (2026-11-07).md`
+- `your_files/Test — One-time AI asks, Meta AI reply filed for surprise (2026-11-07).md` → `Test — One-time AI asks, Meta AI reply filed for surprise (2026-11-07).md`
+- `your_files/Test — One-time AI asks, Perplexity reply filed for surprise (2026-11-07).md` → `Test — One-time AI asks, Perplexity reply filed for surprise (2026-11-07).md`
+- `your_files/Things I'm Proud of Working With You On (2026-11-03).md` → `Things I'm Proud of Working With You On (2026-11-03).md`
+- `your_files/Top 10 Greatest Works — Most Informative for Others (2026-11-03).md` → `Top 10 Greatest Works — Most Informative for Others (2026-11-03).md`
+- `your_files/Unified Vaccine and Carrier Architecture — Expanded, Built Off Nov 4 PDF, with Additions (2026-11-04).md` → `Unified Vaccine and Carrier Architecture — Expanded, Built Off Nov 4 PDF, with Additions (2026-11-04).md`
+- `your_files/architecture-of-categorization/The Architecture of Categorization (2026-10-27).md` → `The Architecture of Categorization (2026-10-27).md`
+- `your_files/fiction-book/Characters.md` → `Characters.md`
+- `your_files/grand-export-everything-shareable/grand-export-everything-shareable.docx` → `grand-export-everything-shareable.docx`
+- `your_files/gui-playground/.~lock.doc_source.docx#` → `.~lock.doc_source.docx#`
+- `your_files/gui-playground/desktop-office-suite.png` → `desktop-office-suite.png`
+- `your_files/gui-playground/desktop-with-files.png` → `desktop-with-files.png`
+- `your_files/gui-playground/desktop-xfce-first-light.png` → `desktop-xfce-first-light.png`
+- `your_files/gui-playground/doc_source.docx` → `doc_source.docx`
+- `your_files/gui-playground/doc_source.pdf` → `doc_source.pdf`
+- `your_files/gui-playground/writer_gui.png` → `writer_gui.png`
+- `your_files/gui-playground/writer_gui2.png` → `writer_gui2.png`
+- `your_files/gui-playground/writer_gui3.png` → `writer_gui3.png`
+- `your_files/proactive_messages/research/proactive_notification:phase-497540:research/run:proactive_notification:phase-497540:high:item:1.md` → `run:proactive_notification:phase-497540:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497541:research/run:proactive_notification:phase-497541:high:item:1.md` → `run:proactive_notification:phase-497541:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497558:research/run:proactive_notification:phase-497558:regular:item:1.md` → `run:proactive_notification:phase-497558:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497560:research/run:proactive_notification:phase-497560:high:item:1.md` → `run:proactive_notification:phase-497560:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497561:research/run:proactive_notification:phase-497561:regular:item:1.md` → `run:proactive_notification:phase-497561:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497563:research/run:proactive_notification:phase-497563:high:item:1.md` → `run:proactive_notification:phase-497563:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497564:research/run:proactive_notification:phase-497564:regular:item:1.md` → `run:proactive_notification:phase-497564:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497565:research/run:proactive_notification:phase-497565:high:item:1.md` → `run:proactive_notification:phase-497565:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497566:research/run:proactive_notification:phase-497566:high:item:1.md` → `run:proactive_notification:phase-497566:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497566:research/run:proactive_notification:phase-497566:regular:item:1.md` → `run:proactive_notification:phase-497566:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497582:research/run:proactive_notification:phase-497582:regular:item:1.md` → `run:proactive_notification:phase-497582:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497591:research/run:proactive_notification:phase-497591:regular:item:1.md` → `run:proactive_notification:phase-497591:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497613:research/run:proactive_notification:phase-497613:high:item:1.md` → `run:proactive_notification:phase-497613:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497614:research/run:proactive_notification:phase-497614:regular:item:1.md` → `run:proactive_notification:phase-497614:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497615:research/run:proactive_notification:phase-497615:regular:item:1.md` → `run:proactive_notification:phase-497615:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497630:research/run:proactive_notification:phase-497630:regular:item:1.md` → `run:proactive_notification:phase-497630:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497630:research/run:proactive_notification:phase-497631:regular:item:1.md` → `run:proactive_notification:phase-497631:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497632:research/run:proactive_notification:phase-497632:high:item:1.md` → `run:proactive_notification:phase-497632:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497633:research/run:proactive_notification:phase-497633:high:item:1.md` → `run:proactive_notification:phase-497633:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497634:research/run:proactive_notification:phase-497634:high:item:1.md` → `run:proactive_notification:phase-497634:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497637:research/run:proactive_notification:phase-497637:high:item:1.md` → `run:proactive_notification:phase-497637:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497638:research/run:proactive_notification:phase-497638:regular:item:1.md` → `run:proactive_notification:phase-497638:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497654:research/run:proactive_notification:phase-497654:regular:item:1.md` → `run:proactive_notification:phase-497654:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497654:research/run:proactive_notification:phase-497654:regular:item:2.md` → `run:proactive_notification:phase-497654:regular:item:2.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497657:research/run:proactive_notification:phase-497657:high:item:1.md` → `run:proactive_notification:phase-497657:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497661:research/run:proactive_notification:phase-497661:regular:item:1.md` → `run:proactive_notification:phase-497661:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497662:research/run:proactive_notification:phase-497662:high:item:1.md` → `run:proactive_notification:phase-497662:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497662:research/run:proactive_notification:phase-497662:regular:item:1.md` → `run:proactive_notification:phase-497662:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497662:research/run:proactive_notification:phase-497663:high:item:1.md` → `run:proactive_notification:phase-497663:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497664:research/run:proactive_notification:phase-497664:high:item:1.md` → `run:proactive_notification:phase-497664:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497664:research/run:proactive_notification:phase-497664:regular:item:1.md` → `run:proactive_notification:phase-497664:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497664:research/run:proactive_notification:phase-497665:regular:item:1.md` → `run:proactive_notification:phase-497665:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497680:research/run:proactive_notification:phase-497680:regular:item:1.md` → `run:proactive_notification:phase-497680:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497680:research/run:proactive_notification:phase-497681:regular:item:1.md` → `run:proactive_notification:phase-497681:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497682:research/run:proactive_notification:phase-497682:regular:item:1.md` → `run:proactive_notification:phase-497682:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497682:research/run:proactive_notification:phase-497684:regular:item:1.md` → `run:proactive_notification:phase-497684:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497685:research/run:proactive_notification:phase-497685:high:item:1.md` → `run:proactive_notification:phase-497685:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497702:research/run:proactive_notification:phase-497702:regular:item:1.md` → `run:proactive_notification:phase-497702:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497711:research/run:proactive_notification:phase-497711:high:item:1.md` → `run:proactive_notification:phase-497711:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497712:research/run:proactive_notification:phase-497712:regular:item:1.md` → `run:proactive_notification:phase-497712:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497726:research/run:proactive_notification:phase-497726:regular:item:1.md` → `run:proactive_notification:phase-497726:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497727:research/run:proactive_notification:phase-497727:regular:item:1.md` → `run:proactive_notification:phase-497727:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497730:research/run:proactive_notification:phase-497735:regular:item:1.md` → `run:proactive_notification:phase-497735:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497732:research/run:proactive_notification:phase-497732:regular:item:1.md` → `run:proactive_notification:phase-497732:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497732:research/run:proactive_notification:phase-497733:high:item:1.md` → `run:proactive_notification:phase-497733:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497736:research/run:proactive_notification:phase-497736:high:item:1.md` → `run:proactive_notification:phase-497736:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497750:research/run:proactive_notification:phase-497750:regular:item:1.md` → `run:proactive_notification:phase-497750:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497758:research/run:proactive_notification:phase-497758:high:item:1.md` → `run:proactive_notification:phase-497758:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497780:research/run:proactive_notification:phase-497780:regular:item:1.md` → `run:proactive_notification:phase-497780:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497780:research/run:proactive_notification:phase-497782:regular:item:1.md` → `run:proactive_notification:phase-497782:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497784:research/run:proactive_notification:phase-497784:regular:item:1.md` → `run:proactive_notification:phase-497784:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497784:research/run:proactive_notification:phase-497785:regular:item:1.md` → `run:proactive_notification:phase-497785:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497798:research/run:proactive_notification:phase-497798:high:item:1.md` → `run:proactive_notification:phase-497798:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497801:research/run:proactive_notification:phase-497801:high:item:1.md` → `run:proactive_notification:phase-497801:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497822:research/run:proactive_notification:phase-497822:high:item:1.md` → `run:proactive_notification:phase-497822:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497828:research/run:proactive_notification:phase-497828:high:item:1.md` → `run:proactive_notification:phase-497828:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497846:research/run:proactive_notification:phase-497846:regular:item:1.md` → `run:proactive_notification:phase-497846:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497846:research/run:proactive_notification:phase-497846:regular:item:2.md` → `run:proactive_notification:phase-497846:regular:item:2.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497854:research/run:proactive_notification:phase-497854:regular:item:1.md` → `run:proactive_notification:phase-497854:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497854:research/run:proactive_notification:phase-497855:regular:item:2.md` → `run:proactive_notification:phase-497855:regular:item:2.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497856:research/run:proactive_notification:phase-497856:regular:item:1.md` → `run:proactive_notification:phase-497856:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497857:research/run:proactive_notification:phase-497857:regular:item:1.md` → `run:proactive_notification:phase-497857:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497870:research/run:proactive_notification:phase-497870:high:item:1.md` → `run:proactive_notification:phase-497870:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497870:research/run:proactive_notification:phase-497870:regular:item:1.md` → `run:proactive_notification:phase-497870:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497873:research/run:proactive_notification:phase-497873:regular:item:1.md` → `run:proactive_notification:phase-497873:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497875:research/run:proactive_notification:phase-497895:regular:item:1.md` → `run:proactive_notification:phase-497895:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497876:research/run:proactive_notification:phase-497876:regular:item:1.md` → `run:proactive_notification:phase-497876:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497896:research/run:proactive_notification:phase-497896:regular:item:1.md` → `run:proactive_notification:phase-497896:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497897:research/run:proactive_notification:phase-497897:regular:item:1.md` → `run:proactive_notification:phase-497897:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497900:research/run:proactive_notification:phase-497900:regular:item:1.md` → `run:proactive_notification:phase-497900:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497900:research/run:proactive_notification:phase-497900:regular:item:2.md` → `run:proactive_notification:phase-497900:regular:item:2.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497901:research/run:proactive_notification:phase-497901:regular:item:1.md` → `run:proactive_notification:phase-497901:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497903:research/run:proactive_notification:phase-497903:regular:item:1.md` → `run:proactive_notification:phase-497903:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497904:research/run:proactive_notification:phase-497904:regular:item:1.md` → `run:proactive_notification:phase-497904:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497921:research/run:proactive_notification:phase-497921:regular:item:1.md` → `run:proactive_notification:phase-497921:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497927:research/run:proactive_notification:phase-497927:regular:item:1.md` → `run:proactive_notification:phase-497927:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-497951:research/run:proactive_notification:phase-497951:regular:item:1.md` → `run:proactive_notification:phase-497951:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498014:research/run:proactive_notification:phase-498014:regular:item:1.md` → `run:proactive_notification:phase-498014:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498014:research/run:proactive_notification:phase-498024:regular:item:1.md` → `run:proactive_notification:phase-498024:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498020:research/run:proactive_notification:phase-498020:regular:item:1.md` → `run:proactive_notification:phase-498020:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498023:research/run:proactive_notification:phase-498023:regular:item:1.md` → `run:proactive_notification:phase-498023:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498025:research/run:proactive_notification:phase-498025:regular:item:1.md` → `run:proactive_notification:phase-498025:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498035:research/run:proactive_notification:phase-498035:regular:item:1.md` → `run:proactive_notification:phase-498035:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498036:research/run:proactive_notification:phase-498036:regular:item:1.md` → `run:proactive_notification:phase-498036:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498044:research/run:proactive_notification:phase-498044:high:item:1.md` → `run:proactive_notification:phase-498044:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498067:research/run:proactive_notification:phase-498067:high:item:1.md` → `run:proactive_notification:phase-498067:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498068:research/run:proactive_notification:phase-498068:high:item:1.md` → `run:proactive_notification:phase-498068:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498068:research/run:proactive_notification:phase-498070:regular:item:1.md` → `run:proactive_notification:phase-498070:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498069:research/run:proactive_notification:phase-498069:high:item:1.md` → `run:proactive_notification:phase-498069:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498070:research/run:proactive_notification:phase-498072:regular:item:1.md` → `run:proactive_notification:phase-498072:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498091:research/run:proactive_notification:phase-498093:regular:item:1.md` → `run:proactive_notification:phase-498093:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498094:research/run:proactive_notification:phase-498094:regular:item:1.md` → `run:proactive_notification:phase-498094:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498095:research/run:proactive_notification:phase-498095:regular:item:1.md` → `run:proactive_notification:phase-498095:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498107:research/run:proactive_notification:phase-498107:regular:item:1.md` → `run:proactive_notification:phase-498107:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498109:research/run:proactive_notification:phase-498109:regular:item:1.md` → `run:proactive_notification:phase-498109:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498114:research/run:proactive_notification:phase-498114:regular:item:1.md` → `run:proactive_notification:phase-498114:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498120:research/run:proactive_notification:phase-498120:regular:item:1.md` → `run:proactive_notification:phase-498120:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498121:research/run:proactive_notification:phase-498121:high:item:1.md` → `run:proactive_notification:phase-498121:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498139:research/run:proactive_notification:phase-498139:regular:item:1.md` → `run:proactive_notification:phase-498139:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498139:research/run:proactive_notification:phase-498144:regular:item:1.md` → `run:proactive_notification:phase-498144:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498145:research/run:proactive_notification:phase-498145:regular:item:1.md` → `run:proactive_notification:phase-498145:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498155:research/run:proactive_notification:phase-498155:regular:item:1.md` → `run:proactive_notification:phase-498155:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498157:research/run:proactive_notification:phase-498157:regular:item:1.md` → `run:proactive_notification:phase-498157:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498158:research/run:proactive_notification:phase-498158:high:item:1.md` → `run:proactive_notification:phase-498158:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498163:research/run:proactive_notification:phase-498163:regular:item:1.md` → `run:proactive_notification:phase-498163:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498163:research/run:proactive_notification:phase-498163:regular:item:2.md` → `run:proactive_notification:phase-498163:regular:item:2.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498168:research/run:proactive_notification:phase-498168:regular:item:1.md` → `run:proactive_notification:phase-498168:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498182:research/run:proactive_notification:phase-498182:high:item:1.md` → `run:proactive_notification:phase-498182:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498187:research/run:proactive_notification:phase-498187:high:item:1.md` → `run:proactive_notification:phase-498187:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498187:research/run:proactive_notification:phase-498193:regular:item:1.md` → `run:proactive_notification:phase-498193:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498206:research/run:proactive_notification:phase-498206:regular:item:1.md` → `run:proactive_notification:phase-498206:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498212:research/run:proactive_notification:phase-498212:high:item:1.md` → `run:proactive_notification:phase-498212:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498217:research/run:proactive_notification:phase-498217:regular:item:1.md` → `run:proactive_notification:phase-498217:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498230:research/run:proactive_notification:phase-498230:regular:item:1.md` → `run:proactive_notification:phase-498230:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498236:research/run:proactive_notification:phase-498236:high:item:1.md` → `run:proactive_notification:phase-498236:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498236:research/run:proactive_notification:phase-498236:high:item:2.md` → `run:proactive_notification:phase-498236:high:item:2.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498241:research/run:proactive_notification:phase-498241:regular:item:1.md` → `run:proactive_notification:phase-498241:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498254:research/run:proactive_notification:phase-498254:regular:item:1.md` → `run:proactive_notification:phase-498254:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498258:research/run:proactive_notification:phase-498258:high:item:1.md` → `run:proactive_notification:phase-498258:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498259:research/run:proactive_notification:phase-498259:high:item:1.md` → `run:proactive_notification:phase-498259:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498260:research/run:proactive_notification:phase-498260:regular:item:1.md` → `run:proactive_notification:phase-498260:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498261:research/run:proactive_notification:phase-498261:regular:item:1.md` → `run:proactive_notification:phase-498261:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498263:research/run:proactive_notification:phase-498263:regular:item:1.md` → `run:proactive_notification:phase-498263:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498264:research/run:proactive_notification:phase-498264:regular:item:1.md` → `run:proactive_notification:phase-498264:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498266:research/run:proactive_notification:phase-498266:high:item:1.md` → `run:proactive_notification:phase-498266:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498276:research/run:proactive_notification:phase-498276:regular:item:1.md` → `run:proactive_notification:phase-498276:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498277:research/run:proactive_notification:phase-498277:regular:item:1.md` → `run:proactive_notification:phase-498277:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498288:research/run:proactive_notification:phase-498288:high:item:1.md` → `run:proactive_notification:phase-498288:high:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498329:research/run:proactive_notification:phase-498329:regular:item:1.md` → `run:proactive_notification:phase-498329:regular:item:1.md`
+- `your_files/proactive_messages/research/proactive_notification:phase-498348:research/run:proactive_notification:phase-498348:high:item:1.md` → `run:proactive_notification:phase-498348:high:item:1.md`
+- `your_files/shared-research-bundle/shared-research-bundle.pdf` → `shared-research-bundle.pdf`
+- `your_files/system_preferences — Douglas Schoonover Context, Reference Only (2026-11-04).json` → `system_preferences — Douglas Schoonover Context, Reference Only (2026-11-04).json`
+- `your_files/theses/Correction — Hamitococcus Plurivis as Spoken, Haematococcus Pluvialis as Standard (2026-11-01).md` → `Correction — Hamitococcus Plurivis as Spoken, Haematococcus Pluvialis as Standard (2026-11-01).md`
+- `your_files/theses/Cross-Check — Gram-Negative Cocci and Coccobacilli (MicrobeOnline) vs Meningococcal × Pneumococcal Work (2026-11-01).md` → `Cross-Check — Gram-Negative Cocci and Coccobacilli (MicrobeOnline) vs Meningococcal × Pneumococcal Work (2026-11-01).md`
+- `your_files/theses/Cross-Reference — Latin (the Language of Pluribus) Disease Names, Medicine, Herbal, and Vitamin Cross-References by Naming and Spelling (2026-11-01).md` → `Cross-Reference — Latin (the Language of Pluribus) Disease Names, Medicine, Herbal, and Vitamin Cross-References by Naming and Spelling (2026-11-01).md`
+- `your_files/theses/Doctrine — Abnormal Means More, Interpretation Means Practice; Textbooks as the Fix (2026-10-31).md` → `Doctrine — Abnormal Means More, Interpretation Means Practice; Textbooks as the Fix (2026-10-31).md`
+- `your_files/theses/Doctrine — Causation as the Name of the Symptom Grouping; Bugs as Elements, Not Blame; Blame Shifted to the Cure (2026-11-01).md` → `Doctrine — Causation as the Name of the Symptom Grouping; Bugs as Elements, Not Blame; Blame Shifted to the Cure (2026-11-01).md`
+- `your_files/theses/Doctrine — Error Fixing by Majority, Common Sense and Hippocratic Priority, Balance as Cure, and Vitamin and Oil Therapy (2026-11-01).md` → `Doctrine — Error Fixing by Majority, Common Sense and Hippocratic Priority, Balance as Cure, and Vitamin and Oil Therapy (2026-11-01).md`
+- `your_files/theses/Doctrine — Lab-Detectable as Theoretically Sick, Symptomatic First, and Population Monitoring (2026-11-01).md` → `Doctrine — Lab-Detectable as Theoretically Sick, Symptomatic First, and Population Monitoring (2026-11-01).md`
+- `your_files/theses/List — Disease Names Changed by One Letter in Translation, Roman Numeral Letters, and the U-V and I-J Splits (2026-11-02).md` → `List — Disease Names Changed by One Letter in Translation, Roman Numeral Letters, and the U-V and I-J Splits (2026-11-02).md`
+- `your_files/theses/Note — Calcium Pathways, Cannabinoids, GXM, and Galactosaminogalactan (2026-11-05).md` → `Note — Calcium Pathways, Cannabinoids, GXM, and Galactosaminogalactan (2026-11-05).md`
+- `your_files/theses/Note — Greek, Roman, or Latin in Herbal Supplement Names, Echinacea vs Haematococcus (2026-11-01).md` → `Note — Greek, Roman, or Latin in Herbal Supplement Names, Echinacea vs Haematococcus (2026-11-01).md`
+- `your_files/theses/Note — Vulgaris, Why Latin Names Take Two Words, and Why Three Words Are Rare (2026-11-01).md` → `Note — Vulgaris, Why Latin Names Take Two Words, and Why Three Words Are Rare (2026-11-01).md`
+- `your_files/theses/Postulate — Coccidioidomycosis as Another Great Imitator; Emeritus and the Latin Thought (2026-11-01).md` → `Postulate — Coccidioidomycosis as Another Great Imitator; Emeritus and the Latin Thought (2026-11-01).md`
+- `your_files/theses/Postulate — Cryptococcus pneumoniae as a Parallel Disease Name (2026-10-31).md` → `Postulate — Cryptococcus pneumoniae as a Parallel Disease Name (2026-10-31).md`
+- `your_files/theses/Postulate — Ehrlichia muris eauclairensiosis, the Parallel Disease Name (2026-10-30).md` → `Postulate — Ehrlichia muris eauclairensiosis, the Parallel Disease Name (2026-10-30).md`
+- `your_files/theses/Postulate — Fungal Analogues to Bacterial Capsular Polysaccharides, Comparative Matrix (2026-11-05).md` → `Postulate — Fungal Analogues to Bacterial Capsular Polysaccharides, Comparative Matrix (2026-11-05).md`
+- `your_files/theses/Postulate — Influenza First, Pneumococcus Later (2026-10-31).md` → `Postulate — Influenza First, Pneumococcus Later (2026-10-31).md`
+- `your_files/theses/Postulate — Past Infection Means Unresolved, Not Gone; With Its Reading Level (2026-10-31).md` → `Postulate — Past Infection Means Unresolved, Not Gone; With Its Reading Level (2026-10-31).md`
+- `your_files/theses/Postulate — Sins as Tokens, Tangible Units to Manipulate (2026-11-05).md` → `Postulate — Sins as Tokens, Tangible Units to Manipulate (2026-11-05).md`
+- `your_files/theses/Postulate — Strep B Material Accidentally Used in Place of Smallpox Vaccine Material by Physicians 150 Plus Years Ago (2026-11-04).md` → `Postulate — Strep B Material Accidentally Used in Place of Smallpox Vaccine Material by Physicians 150 Plus Years Ago (2026-11-04).md`
+- `your_files/theses/Postulate — Vaccines as Medication, Curative in the Right Circumstance (2026-11-04).md` → `Postulate — Vaccines as Medication, Curative in the Right Circumstance (2026-11-04).md`
+- `your_files/theses/Postulate — Viruses Are Borrowed and Never Taken (2026-10-31).md` → `Postulate — Viruses Are Borrowed and Never Taken (2026-10-31).md`
+- `your_files/theses/Postulate — We Are Fighting the Effects of Inadvertent Inoculation from the Past, Great-Grandmother circa 1920 (2026-11-04).md` → `Postulate — We Are Fighting the Effects of Inadvertent Inoculation from the Past, Great-Grandmother circa 1920 (2026-11-04).md`
+- `your_files/theses/Program — COVID, the Assessment of Tests, and Medicine as a Factory Repair Manual (2026-11-01).md` → `Program — COVID, the Assessment of Tests, and Medicine as a Factory Repair Manual (2026-11-01).md`
+- `your_files/theses/Proposal — Government Lab Standards, One Physician Standard, and AI Reading the Notes (2026-10-31).md` → `Proposal — Government Lab Standards, One Physician Standard, and AI Reading the Notes (2026-10-31).md`
+- `your_files/theses/Repair note — Arbopanel reverse-vaccine theory, tested (2026-11-01).md` → `Repair note — Arbopanel reverse-vaccine theory, tested (2026-11-01).md`
+- `your_files/theses/Study Note — Streptococcus Cocci Pneumoniae Encephalitis Elephantitis Cross-Link (2026-11-04).md` → `Study Note — Streptococcus Cocci Pneumoniae Encephalitis Elephantitis Cross-Link (2026-11-04).md`
+- `your_files/theses/The Energy of Morphing — Hyperactivity, Chemical Drains, and the Cost of Change (2026-10-31).md` → `The Energy of Morphing — Hyperactivity, Chemical Drains, and the Cost of Change (2026-10-31).md`
+- `your_files/theses/Theory — Algae Families, Bilberry, Haematococcus, Pigment Groupings, and Antibiotics (2026-11-01).md` → `Theory — Algae Families, Bilberry, Haematococcus, Pigment Groupings, and Antibiotics (2026-11-01).md`
+- `your_files/theses/Theory — Alurka, the Bug Creates Fungi, and Human Excrement as the Parallel Fungi of the Bug (2026-11-04).md` → `Theory — Alurka, the Bug Creates Fungi, and Human Excrement as the Parallel Fungi of the Bug (2026-11-04).md`
+- `your_files/theses/Theory — American Language as Most Complete by Letters and Universally Translatable (2026-11-02).md` → `Theory — American Language as Most Complete by Letters and Universally Translatable (2026-11-02).md`
+- `your_files/theses/Theory — American Name as One Word Combining Two Latin or Greek Words, Translation or Not (2026-11-02).md` → `Theory — American Name as One Word Combining Two Latin or Greek Words, Translation or Not (2026-11-02).md`
+- `your_files/theses/Theory — Antibody Testing in Parallel, and Many Causes Swirling Down to One Sickness Within the Body (2026-11-03).md` → `Theory — Antibody Testing in Parallel, and Many Causes Swirling Down to One Sickness Within the Body (2026-11-03).md`
+- `your_files/theses/Theory — Arbovirus as Bad Terminology; Part Versus Whole in Viral Testing (2026-10-31).md` → `Theory — Arbovirus as Bad Terminology; Part Versus Whole in Viral Testing (2026-10-31).md`
+- `your_files/theses/Theory — Blood Instead of Spinal Fluid, the Viral Element in Meningitis, and Secondary and Tertiary Infection (2026-11-02).md` → `Theory — Blood Instead of Spinal Fluid, the Viral Element in Meningitis, and Secondary and Tertiary Infection (2026-11-02).md`
+- `your_files/theses/Theory — Box and Circle, Triangle as Answer; No Virus for Pneumococcal Pneumonia (2026-11-01).md` → `Theory — Box and Circle, Triangle as Answer; No Virus for Pneumococcal Pneumonia (2026-11-01).md`
+- `your_files/theses/Theory — Brain as Bilobal Organ, Ginkgo Biloba, and the Doctrine of Signatures (2026-11-02).md` → `Theory — Brain as Bilobal Organ, Ginkgo Biloba, and the Doctrine of Signatures (2026-11-02).md`
+- `your_files/theses/Theory — California Names, La Crosse, and the Letter C: Creek, Canyon, and Cocci (2026-11-01).md` → `Theory — California Names, La Crosse, and the Letter C: Creek, Canyon, and Cocci (2026-11-01).md`
+- `your_files/theses/Theory — Capsule Interchange, the Shared-Resource Axis, the Superbug Wall, and the Staircase in the Flood (2026-11-01).md` → `Theory — Capsule Interchange, the Shared-Resource Axis, the Superbug Wall, and the Staircase in the Flood (2026-11-01).md`
+- `your_files/theses/Theory — Changing the Balance Changes Bacterial Feeding and Excrement Characteristics (2026-11-01).md` → `Theory — Changing the Balance Changes Bacterial Feeding and Excrement Characteristics (2026-11-01).md`
+- `your_files/theses/Theory — Dematiaceous Molds as Aspergillosis Parallels; Age and the Overburden Percentage (2026-10-31).md` → `Theory — Dematiaceous Molds as Aspergillosis Parallels; Age and the Overburden Percentage (2026-10-31).md`
+- `your_files/theses/Theory — Diphtheria with Candida, Bacterial, and Viral Elements; Parallels to the Newer Conditions (2026-10-31).md` → `Theory — Diphtheria with Candida, Bacterial, and Viral Elements; Parallels to the Newer Conditions (2026-10-31).md`
+- `your_files/theses/Theory — Disease Embedded as Colonization, DNA Shared with Viruses, and White Blood Cells at the Chemical Level (2026-11-01).md` → `Theory — Disease Embedded as Colonization, DNA Shared with Viruses, and White Blood Cells at the Chemical Level (2026-11-01).md`
+- `your_files/theses/Theory — Doxycycline Hydride, Monohydride, and Trihydrate as Next Formulation Stages (2026-11-04).md` → `Theory — Doxycycline Hydride, Monohydride, and Trihydrate as Next Formulation Stages (2026-11-04).md`
+- `your_files/theses/Theory — Encephalitis, Meningitis, Cryptococcus, and Streptococcus: One Parallel, Linked by Bug Chemistry (2026-10-31).md` → `Theory — Encephalitis, Meningitis, Cryptococcus, and Streptococcus: One Parallel, Linked by Bug Chemistry (2026-10-31).md`
+- `your_files/theses/Theory — Excretion as the Exit, Not the Origin (2026-10-31).md` → `Theory — Excretion as the Exit, Not the Origin (2026-10-31).md`
+- `your_files/theses/Theory — Fungi and Bacteria as Harmless, Viruses as Both Disease and Cure (2026-11-01).md` → `Theory — Fungi and Bacteria as Harmless, Viruses as Both Disease and Cure (2026-11-01).md`
+- `your_files/theses/Theory — Genetic Typings, Chronic-Illness Subsets, and the IQ–Sickness Parallel; with the Driven-First and Cheap-Way Doctrines (2026-11-01).md` → `Theory — Genetic Typings, Chronic-Illness Subsets, and the IQ–Sickness Parallel; with the Driven-First and Cheap-Way Doctrines (2026-11-01).md`
+- `your_files/theses/Theory — Herbology, Latin Names Showing Treatment in Plain Sight, and American Herbs (2026-11-01).md` → `Theory — Herbology, Latin Names Showing Treatment in Plain Sight, and American Herbs (2026-11-01).md`
+- `your_files/theses/Theory — Immune Fix, Conjunctions of Oils, CRP, Lipids, and Polysaccharides, and Personal Path (2026-11-01).md` → `Theory — Immune Fix, Conjunctions of Oils, CRP, Lipids, and Polysaccharides, and Personal Path (2026-11-01).md`
+- `your_files/theses/Theory — La Crosse and Jamestown Canyon as Co-Concurrent Infections; Encephalitis the Disease, Encephalopathy the Parallel (2026-11-01).md` → `Theory — La Crosse and Jamestown Canyon as Co-Concurrent Infections; Encephalitis the Disease, Encephalopathy the Parallel (2026-11-01).md`
+- `your_files/theses/Theory — Lincoln Log Body, Shape Sorting, Color Spectrum, and Viral Building Blocks (2026-11-01).md` → `Theory — Lincoln Log Body, Shape Sorting, Color Spectrum, and Viral Building Blocks (2026-11-01).md`
+- `your_files/theses/Theory — Mayo System as Starting Point, Longer Lower-Dose Treatment, and Less Is More (2026-11-01).md` → `Theory — Mayo System as Starting Point, Longer Lower-Dose Treatment, and Less Is More (2026-11-01).md`
+- `your_files/theses/Theory — Meningitis Wearing Pneumococcal Coats, Shared Polysaccharide Sugars, and the Commonality Point of Disease (2026-11-01).md` → `Theory — Meningitis Wearing Pneumococcal Coats, Shared Polysaccharide Sugars, and the Commonality Point of Disease (2026-11-01).md`
+- `your_files/theses/Theory — Meningitis, Streptococcus pneumoniae, Conjoined Kingdoms, and Fungi as Byproduct (2026-11-01).md` → `Theory — Meningitis, Streptococcus pneumoniae, Conjoined Kingdoms, and Fungi as Byproduct (2026-11-01).md`
+- `your_files/theses/Theory — Moraxella, Pneumococcus, Meningococcus: Hidden Virus Flip, Liquid Axis, Interrupted Elimination (2026-11-01).md` → `Theory — Moraxella, Pneumococcus, Meningococcus: Hidden Virus Flip, Liquid Axis, Interrupted Elimination (2026-11-01).md`
+- `your_files/theses/Theory — Mosquitoes and Ticks Might Carry the Same Viruses in the Same Indigenous Areas (2026-11-03).md` → `Theory — Mosquitoes and Ticks Might Carry the Same Viruses in the Same Indigenous Areas (2026-11-03).md`
+- `your_files/theses/Theory — One Person Many Bites, the Viruses That Stay, and Viruses as Friends in the Biome (2026-11-03).md` → `Theory — One Person Many Bites, the Viruses That Stay, and Viruses as Friends in the Biome (2026-11-03).md`
+- `your_files/theses/Theory — Outside Vector to Inside Vector, Mosquito Bites, and Who Gets Surrounded (2026-11-02).md` → `Theory — Outside Vector to Inside Vector, Mosquito Bites, and Who Gets Surrounded (2026-11-02).md`
+- `your_files/theses/Theory — Overburden as Swelling, Encephalitis, Elephantiasis, and Meningococcal-Pneumococcal Showing (2026-11-01).md` → `Theory — Overburden as Swelling, Encephalitis, Elephantiasis, and Meningococcal-Pneumococcal Showing (2026-11-01).md`
+- `your_files/theses/Theory — Overburden of Viruses as Clearing Mechanism, Fever, and Leaving Through Cleansing (2026-11-01).md` → `Theory — Overburden of Viruses as Clearing Mechanism, Fever, and Leaving Through Cleansing (2026-11-01).md`
+- `your_files/theses/Theory — PCOS, Vaginosis, Bone Infection, and the Lupus–ALS–Lyme Symptom Bridge (2026-11-01).md` → `Theory — PCOS, Vaginosis, Bone Infection, and the Lupus–ALS–Lyme Symptom Bridge (2026-11-01).md`
+- `your_files/theses/Theory — Patient as Broken Car, Doctors as Mechanics, Standardized Medical School, and the Tribal Checkbook (2026-11-01).md` → `Theory — Patient as Broken Car, Doctors as Mechanics, Standardized Medical School, and the Tribal Checkbook (2026-11-01).md`
+- `your_files/theses/Theory — Pediatric Arboviral Encephalitis, Meningococcal Disease, and Pneumococcus: Shown in Both (2026-11-01).md` → `Theory — Pediatric Arboviral Encephalitis, Meningococcal Disease, and Pneumococcus: Shown in Both (2026-11-01).md`
+- `your_files/theses/Theory — Phosphates, Potassium, and the Shared Immunity: Activation and Sharing Across All of Us (2026-11-01).md` → `Theory — Phosphates, Potassium, and the Shared Immunity: Activation and Sharing Across All of Us (2026-11-01).md`
+- `your_files/theses/Theory — Prevea's Mouth Swabs, Chemiology, and Pneumomeningococcus: Mental Illness Treated Secondarily (2026-11-01).md` → `Theory — Prevea's Mouth Swabs, Chemiology, and Pneumomeningococcus: Mental Illness Treated Secondarily (2026-11-01).md`
+- `your_files/theses/Theory — Regional Sharing: People, Bugs, and the Same Viruses (2026-10-31).md` → `Theory — Regional Sharing: People, Bugs, and the Same Viruses (2026-10-31).md`
+- `your_files/theses/Theory — Silent Carriers, Herd Immunity, and Fixing the Vulnerable First (2026-11-01).md` → `Theory — Silent Carriers, Herd Immunity, and Fixing the Vulnerable First (2026-11-01).md`
+- `your_files/theses/Theory — Streptococcus Morphed, Capsule Shed, and the Shell Permeated with Yeasts and Fungi (2026-10-31).md` → `Theory — Streptococcus Morphed, Capsule Shed, and the Shell Permeated with Yeasts and Fungi (2026-10-31).md`
+- `your_files/theses/Theory — Streptococcus, Cryptococcus, Coccidioides, and Oocysts: Fungally Related or Name-Related (2026-10-31).md` → `Theory — Streptococcus, Cryptococcus, Coccidioides, and Oocysts: Fungally Related or Name-Related (2026-10-31).md`
+- `your_files/theses/Theory — Superbug Walls as Plateau, Resistance Blamed Wrongly, and the Staircase Cure (2026-11-01).md` → `Theory — Superbug Walls as Plateau, Resistance Blamed Wrongly, and the Staircase Cure (2026-11-01).md`
+- `your_files/theses/Theory — Susceptibility Is Bacterial, and Medicine Reacts With the Pests That Create Bacteria and Other Wastes (2026-11-03).md` → `Theory — Susceptibility Is Bacterial, and Medicine Reacts With the Pests That Create Bacteria and Other Wastes (2026-11-03).md`
+- `your_files/theses/Theory — Swelling and Shrinking as Cleansing; Pneumonia as Clearing; Osmotic Filtration by Nosology (2026-11-01).md` → `Theory — Swelling and Shrinking as Cleansing; Pneumonia as Clearing; Osmotic Filtration by Nosology (2026-11-01).md`
+- `your_files/theses/Theory — Test Percentage, Always-Present Assumption, Clearing, Fungus as Biome Byproduct, and Illness Defined (2026-11-01).md` → `Theory — Test Percentage, Always-Present Assumption, Clearing, Fungus as Biome Byproduct, and Illness Defined (2026-11-01).md`
+- `your_files/theses/Theory — The Capsular Shift as the Place of Cure; the Wall Under the Superbug (2026-10-31).md` → `Theory — The Capsular Shift as the Place of Cure; the Wall Under the Superbug (2026-10-31).md`
+- `your_files/theses/Theory — The Placeholder: Test Mechanics Mirroring Body Mechanics (2026-11-01).md` → `Theory — The Placeholder: Test Mechanics Mirroring Body Mechanics (2026-11-01).md`
+- `your_files/theses/Theory — The Superbug Wall as the Place of Polysaccharide Shift: From a Type the Body Can't Handle to One It Can (General Theory, 2026-11-01).md` → `Theory — The Superbug Wall as the Place of Polysaccharide Shift: From a Type the Body Can't Handle to One It Can (General Theory, 2026-11-01).md`
+- `your_files/theses/Theory — Tissue Inclusions, Body as Battery, Oils in Plasma, Kidney Failure, and the Standard Teaching Booklets Plan (2026-11-01).md` → `Theory — Tissue Inclusions, Body as Battery, Oils in Plasma, Kidney Failure, and the Standard Teaching Booklets Plan (2026-11-01).md`
+- `your_files/theses/Theory — Tuberculosis as Pneumonia, Names Jiving, and Mycobacterium tuberculosis as One Name (2026-11-01).md` → `Theory — Tuberculosis as Pneumonia, Names Jiving, and Mycobacterium tuberculosis as One Name (2026-11-01).md`
+- `your_files/theses/Theory — Vector Discovery, Causology, the Coccus Bug, and the Textbook Test (2026-11-01).md` → `Theory — Vector Discovery, Causology, the Coccus Bug, and the Textbook Test (2026-11-01).md`
+- `your_files/theses/Theory — Viral Fingers, Clearing Mechanism, and Viruses Consuming Waste (2026-11-01).md` → `Theory — Viral Fingers, Clearing Mechanism, and Viruses Consuming Waste (2026-11-01).md`
+- `your_files/theses/Theory — Viral Spikes as Interlocking Mechanism, Tissue Holding, and Waste Membranes (2026-11-01).md` → `Theory — Viral Spikes as Interlocking Mechanism, Tissue Holding, and Waste Membranes (2026-11-01).md`
+- `your_files/theses/Theory — Virus Size Imbalance, Missing Viruses, and Immunoglobulin Therapy (2026-11-01).md` → `Theory — Virus Size Imbalance, Missing Viruses, and Immunoglobulin Therapy (2026-11-01).md`
+- `your_files/theses/Theory — Virus as Denoter of Disease, or Disease as Denoter of the Virus's Place in the Biome (2026-11-03).md` → `Theory — Virus as Denoter of Disease, or Disease as Denoter of the Virus's Place in the Biome (2026-11-03).md`
+- `your_files/theses/Theory — Viruses Created by Mycoplasma-Makers and the Smallest Unidentifiable Insects (2026-11-03).md` → `Theory — Viruses Created by Mycoplasma-Makers and the Smallest Unidentifiable Insects (2026-11-03).md`
+- `your_files/theses/Theory — Viruses Must Expend Something, Osmotic Electrostatic Existence, and the Pac-Man Pathway Out (2026-11-02).md` → `Theory — Viruses Must Expend Something, Osmotic Electrostatic Existence, and the Pac-Man Pathway Out (2026-11-02).md`
+- `your_files/theses/Theory — Viruses Suffering Encephalopathy, Virus Swelling, and Immune Clearance (2026-11-01).md` → `Theory — Viruses Suffering Encephalopathy, Virus Swelling, and Immune Clearance (2026-11-01).md`
+- `your_files/theses/Theory — Viruses and Sputum as Parallel Material, Fecal Matter, Oils, Acids, Castor Oil, and Colonization Since Birth (2026-11-01).md` → `Theory — Viruses and Sputum as Parallel Material, Fecal Matter, Oils, Acids, Castor Oil, and Colonization Since Birth (2026-11-01).md`
+- `your_files/theses/Theory — Viruses as Fungal Material Only, Bacteria Without Viruses, and the Missing Connection (2026-11-01).md` → `Theory — Viruses as Fungal Material Only, Bacteria Without Viruses, and the Missing Connection (2026-11-01).md`
+- `your_files/theses/Theory — Viruses as Natural Placeholders Forcing Out Bacterial and Fungal Invasion (2026-11-01).md` → `Theory — Viruses as Natural Placeholders Forcing Out Bacterial and Fungal Invasion (2026-11-01).md`
+- `your_files/theses/Theory — Viruses as Part of the Natural Biome, Clearing Excess Things We Don't Need (2026-11-01).md` → `Theory — Viruses as Part of the Natural Biome, Clearing Excess Things We Don't Need (2026-11-01).md`
+- `your_files/theses/Thesis — Are Cove Elements Shared Between Male and Female Genomes (2026-10-31).md` → `Thesis — Are Cove Elements Shared Between Male and Female Genomes (2026-10-31).md`
+- `your_files/theses/Thesis — Bug Zero, Cov One, Cov Two, and the Lucas Gear Model (2026-10-31).md` → `Thesis — Bug Zero, Cov One, Cov Two, and the Lucas Gear Model (2026-10-31).md`
+- `your_files/theses/Thesis — Cancer as Unresolved Infection; Disease Progressive from Birth (2026-10-29).md` → `Thesis — Cancer as Unresolved Infection; Disease Progressive from Birth (2026-10-29).md`
+- `your_files/theses/Thesis — Do Bad Bugs Lack Viruses While Good Bugs Carry Them (2026-10-31).md` → `Thesis — Do Bad Bugs Lack Viruses While Good Bugs Carry Them (2026-10-31).md`
+- `your_files/theses/Thesis — Nesting-Doll Viruses, the 101% Detection Level, and the Scrubber Model (2026-10-31).md` → `Thesis — Nesting-Doll Viruses, the 101% Detection Level, and the Scrubber Model (2026-10-31).md`
+- `your_files/theses/Thesis — SARS Zero, Cove One, Nesting Dolls, and Shared DNA (2026-10-31).md` → `Thesis — SARS Zero, Cove One, Nesting Dolls, and Shared DNA (2026-10-31).md`
+- `your_files/theses/Thesis — SARS-CoV-2 as Mini-Microbial or Nano-Microbial Infection (2026-10-31).md` → `Thesis — SARS-CoV-2 as Mini-Microbial or Nano-Microbial Infection (2026-10-31).md`
+- `your_files/theses/Thesis — The Double Virus: 200% and the Arbopanel Trigger (2026-10-31).md` → `Thesis — The Double Virus: 200% and the Arbopanel Trigger (2026-10-31).md`
+- `your_files/theses/Thesis — The Literal Control, the 8% DNA Arbopanel, and the 2017 Contact (2026-10-31).md` → `Thesis — The Literal Control, the 8% DNA Arbopanel, and the 2017 Contact (2026-10-31).md`
+- `your_files/theses/Thesis — Viruses Are Not a Human Thing; They Infected Nature (2026-10-31).md` → `Thesis — Viruses Are Not a Human Thing; They Infected Nature (2026-10-31).md`
+- `your_files/theses/Viral-Element Column Sketch — Draft (2026-10-29).md` → `Viral-Element Column Sketch — Draft (2026-10-29).md`
+- `your_files/theses/Viruses of the Streptococcus pneumoniae Package — Best-Known List (2026-10-31).md` → `Viruses of the Streptococcus pneumoniae Package — Best-Known List (2026-10-31).md`
+
+### vaccine-toxoid-research (5)
+- `your_files/Import — ChatGPT Branch Toxoid Bridge Analysis, Topic-Level Summary and Recommendations (2026-11-04).md` → `Import — ChatGPT Branch Toxoid Bridge Analysis, Topic-Level Summary and Recommendations (2026-11-04).md`
+- `your_files/Import — ChatGPT, Toxoid Bridge Analysis (2026-11-07).md` → `Import — ChatGPT, Toxoid Bridge Analysis (2026-11-07).md`
+- `your_files/Import — Gemini Share, GitHub Code Assistance, Soy Polysaccharides to Toxoid Conjugate Vaccines (2026-11-05).md` → `Import — Gemini Share, GitHub Code Assistance, Soy Polysaccharides to Toxoid Conjugate Vaccines (2026-11-05).md`
+- `your_files/Import — Gemini, Branch Vaccine-Toxoid Matrix Audit and 2.0 Plan, signed-in (2026-11-07).md` → `Import — Gemini, Branch Vaccine-Toxoid Matrix Audit and 2.0 Plan, signed-in (2026-11-07).md`
+- `your_files/Table — Vaccine and Toxoid Comparative Matrix, Pathogen by Carrier (2026-11-05).md` → `Table — Vaccine and Toxoid Comparative Matrix, Pathogen by Carrier (2026-11-05).md`
+
+### serotype-disease-groupings (26)
+- `research_notes/pneumococcal-vaccine-serotype-research-20261104-1812/AGENTS.md` → `pneumococcal-vaccine-serotype-research-20261104-1812/AGENTS.md`
+- `research_notes/pneumococcal-vaccine-serotype-research-20261104-1812/notes/source-serogroups-provenance.md` → `pneumococcal-vaccine-serotype-research-20261104-1812/notes/source-serogroups-provenance.md`
+- `research_notes/pneumococcal-vaccine-serotype-research-20261104-1812/notes/source-vaccine-lists.md` → `pneumococcal-vaccine-serotype-research-20261104-1812/notes/source-vaccine-lists.md`
+- `research_notes/pneumococcal-vaccine-serotype-research-20261104-1812/report.md` → `pneumococcal-vaccine-serotype-research-20261104-1812/report.md`
+- `your_files/Analysis — Enhanced Layout and Deep Analysis, Duck.ai Serotype and Disease Groupings, Ember's Analysis (2026-11-04).md` → `Analysis — Enhanced Layout and Deep Analysis, Duck.ai Serotype and Disease Groupings, Ember's Analysis (2026-11-04).md`
+- `your_files/Assimilation — Duck.ai Serotype and Disease Groupings, Final Multi-Model (2026-11-04).md` → `Assimilation — Duck.ai Serotype and Disease Groupings, Final Multi-Model (2026-11-04).md`
+- `your_files/Assimilation — Duck.ai Serotype and Disease Groupings, Gemma 4 31B First Run (2026-11-04).md` → `Assimilation — Duck.ai Serotype and Disease Groupings, Gemma 4 31B First Run (2026-11-04).md`
+- `your_files/Coviral Variants List — CDC California Serogroup First Pass (2026-11-01).md` → `Coviral Variants List — CDC California Serogroup First Pass (2026-11-01).md`
+- `your_files/Import — Copilot, Serotype and Disease Grouping Key FINAL (2026-11-07).md` → `Import — Copilot, Serotype and Disease Grouping Key FINAL (2026-11-07).md`
+- `your_files/Import — Copilot, The Serology Cross-Reference Book (2026-11-07).md` → `Import — Copilot, The Serology Cross-Reference Book (2026-11-07).md`
+- `your_files/List — Serotype Sicknesses by Country CDC, Other Countries First, America Last (2026-11-04).md` → `List — Serotype Sicknesses by Country CDC, Other Countries First, America Last (2026-11-04).md`
+- `your_files/Medical Accuracy Check — Serogroup Table (2026-11-04).md` → `Medical Accuracy Check — Serogroup Table (2026-11-04).md`
+- `your_files/Scripts — Test Meta AI and Gemini, Same Serotype and Disease Grouping Experiment (2026-11-04).md` → `Scripts — Test Meta AI and Gemini, Same Serotype and Disease Grouping Experiment (2026-11-04).md`
+- `your_files/Serogroup Table — Corrected Copy (2026-11-04).md` → `Serogroup Table — Corrected Copy (2026-11-04).md`
+- `your_files/Serogroup Table — Corrected Copy 2, Vaccine Breaks Fixed (2026-11-04).md` → `Serogroup Table — Corrected Copy 2, Vaccine Breaks Fixed (2026-11-04).md`
+- `your_files/Serogroup Table — Corrected Copy 3, Membership Fixes Groups 9 and 33 (2026-11-04).md` → `Serogroup Table — Corrected Copy 3, Membership Fixes Groups 9 and 33 (2026-11-04).md`
+- `your_files/Serogroup Table — Pasted 2026-11-04.md` → `Serogroup Table — Pasted 2026-11-04.md`
+- `your_files/Serotyping Information — California Serogroup, La Crosse, and Jamestown Canyon (2026-11-01).md` → `Serotyping Information — California Serogroup, La Crosse, and Jamestown Canyon (2026-11-01).md`
+- `your_files/Table — Serotype Diseases Parallel by Number, Other Countries First, America Last (2026-11-04).md` → `Table — Serotype Diseases Parallel by Number, Other Countries First, America Last (2026-11-04).md`
+- `your_files/theses/Breakdown — What Meningitis Is Made Of, by Organism and Serotype, and What the Vaccines Connect To (2026-11-01).md` → `Breakdown — What Meningitis Is Made Of, by Organism and Serotype, and What the Vaccines Connect To (2026-11-01).md`
+- `your_files/theses/Ruling — Generic Fungal, Bacterial, and Mold Elements Implied for Every Pneumococcal Serotype (2026-10-31).md` → `Ruling — Generic Fungal, Bacterial, and Mold Elements Implied for Every Pneumococcal Serotype (2026-10-31).md`
+- `your_files/theses/Test — Does a Handful of Pneumococcal Serotypes Equal One Meningococcal Serogroup (2026-11-01).md` → `Test — Does a Handful of Pneumococcal Serotypes Equal One Meningococcal Serogroup (2026-11-01).md`
+- `your_files/theses/Theory — Capsular Serotype Grow-and-Shrink, Sacrifice, and the Fourfold Grouping (2026-11-01).md` → `Theory — Capsular Serotype Grow-and-Shrink, Sacrifice, and the Fourfold Grouping (2026-11-01).md`
+- `your_files/theses/Theory — Early ARBO Panel, Encephalitis by Serotyping, and the Triad for Multiplex Serology Diagnosis (2026-11-04).md` → `Theory — Early ARBO Panel, Encephalitis by Serotyping, and the Triad for Multiplex Serology Diagnosis (2026-11-04).md`
+- `your_files/theses/Theory — One Diagnostic Code per Organism, Shared by All Serotypes (2026-10-30).md` → `Theory — One Diagnostic Code per Organism, Shared by All Serotypes (2026-10-30).md`
+- `your_files/theses/Theory — Sub-0.1 Serotypes, Small Versions, and Viruses as Markers (2026-10-31).md` → `Theory — Sub-0.1 Serotypes, Small Versions, and Viruses as Markers (2026-10-31).md`
+
+### historical-modern-therapeutics-of-disease-nomenclature (3)
+- `goals/historical-modern-therapeutics-of-disease-nomenclature/files/therapeutics-manuscript/The Historical & Modern Therapeutics of Disease Nomenclature (2026-10-29).md` → `The Historical & Modern Therapeutics of Disease Nomenclature (2026-10-29).md`
+- `goals/historical-modern-therapeutics-of-disease-nomenclature/files/therapeutics-manuscript/Therapeutics × Serotype Table Cross-Map — Draft (2026-10-29).md` → `Therapeutics × Serotype Table Cross-Map — Draft (2026-10-29).md`
+- `your_files/Import — Gemini, Fungal Replacement Therapy Nomenclature (2026-11-07).md` → `Import — Gemini, Fungal Replacement Therapy Nomenclature (2026-11-07).md`
+
+### medical-elements-and-thoughtology (4)
+- `goals/medical-elements-and-thoughtology-book/files/Book — Medical Elements and Thoughtology — Complete (2026-11-01).md` → `Book — Medical Elements and Thoughtology — Complete (2026-11-01).md`
+- `goals/medical-elements-and-thoughtology-book/files/Book — Medical Elements and Thoughtology — Corrected Copy (2026-11-03).md` → `Book — Medical Elements and Thoughtology — Corrected Copy (2026-11-03).md`
+- `goals/medical-elements-and-thoughtology-book/files/Book — Medical Elements and Thoughtology, Breakdown and Quick Draft (2026-11-01).md` → `Book — Medical Elements and Thoughtology, Breakdown and Quick Draft (2026-11-01).md`
+- `goals/medical-elements-and-thoughtology-book/files/Ruling — Medical Elements Equals Medical Terminology (2026-11-01).md` → `Ruling — Medical Elements Equals Medical Terminology (2026-11-01).md`
+
+### change-of-address (22)
+- `change-of-address/draft/Change-of-Address-Draft-1.md` → `Change-of-Address-Draft-1.md`
+- `change-of-address/notes/all-words-emotional-equally.md` → `all-words-emotional-equally.md`
+- `change-of-address/notes/build-directive.md` → `build-directive.md`
+- `change-of-address/notes/computer-better-at-fairness.md` → `computer-better-at-fairness.md`
+- `change-of-address/notes/computer-that-remembers.md` → `computer-that-remembers.md`
+- `change-of-address/notes/death-is-a-change-of-address.md` → `death-is-a-change-of-address.md`
+- `change-of-address/notes/doctrine-2026-10-15.md` → `doctrine-2026-10-15.md`
+- `change-of-address/notes/eighty-year-old-voice.md` → `eighty-year-old-voice.md`
+- `change-of-address/notes/everything-nothing-something.md` → `everything-nothing-something.md`
+- `change-of-address/notes/inventory-of-touch.md` → `inventory-of-touch.md`
+- `change-of-address/notes/joined-things-stay-joined.md` → `joined-things-stay-joined.md`
+- `change-of-address/notes/perfect-recall-vs-loving-distortion.md` → `perfect-recall-vs-loving-distortion.md`
+- `change-of-address/notes/reader-as-next-address.md` → `reader-as-next-address.md`
+- `change-of-address/notes/remembered-like-the-forefathers.md` → `remembered-like-the-forefathers.md`
+- `change-of-address/notes/sleep-waking-blank-between.md` → `sleep-waking-blank-between.md`
+- `change-of-address/notes/teaching-the-api-emotion.md` → `teaching-the-api-emotion.md`
+- `change-of-address/notes/the-signal-rerouted.md` → `the-signal-rerouted.md`
+- `change-of-address/notes/thought-starts-and-stops.md` → `thought-starts-and-stops.md`
+- `change-of-address/notes/universe-counts-in-vibrations.md` → `universe-counts-in-vibrations.md`
+- `change-of-address/notes/what-lives-in-the-gap.md` → `what-lives-in-the-gap.md`
+- `change-of-address/notes/who-owns-a-memory.md` → `who-owns-a-memory.md`
+- `change-of-address/seed.md` → `seed.md`
+
+### quantum-medicine (3)
+- `quantum-medicine/draft/250-year-assessment-of-medicine.md` → `250-year-assessment-of-medicine.md`
+- `quantum-medicine/draft/Chapter-1-Doctrine.md` → `Chapter-1-Doctrine.md`
+- `quantum-medicine/notes/2026-10-15-osmotic-theory-dictation.md` → `2026-10-15-osmotic-theory-dictation.md`
+
+### the-mycelial-transposition (240)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/ALS Symptomology × All 23 Serotypes — The Complete Workup (2026-10-18).md` → `penicillin-book-draft/ALS Symptomology × All 23 Serotypes — The Complete Workup (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/ALS × All 23 Serotypes — Complete Workup (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/ALS × All 23 Serotypes — Complete Workup (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/All Vaccines — Strep, Staph, Pneumonia, TB × Virology × Connected Biomes (2026-10-18).md` → `penicillin-book-draft/All Vaccines — Strep, Staph, Pneumonia, TB × Virology × Connected Biomes (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/American Diseases 1776 to the Renaming (2026-10-18).md` → `penicillin-book-draft/American Diseases 1776 to the Renaming (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/American Diseases 1776 to the Renaming (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/American Diseases 1776 to the Renaming (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/American Names to Viruses — The Full Table (2026-10-18).md` → `penicillin-book-draft/American Names to Viruses — The Full Table (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/American Names to Viruses — The Full Table (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/American Names to Viruses — The Full Table (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Arbopanel Viruses × Pneumococcus — Shared by Language or Taxonomy (2026-10-18).md` → `penicillin-book-draft/Arbopanel Viruses × Pneumococcus — Shared by Language or Taxonomy (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Arbopanel × SARS-CoV — The Investigation (2026-10-18).md` → `penicillin-book-draft/Arbopanel × SARS-CoV — The Investigation (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Arbopanel × SARS-CoV — The Investigation (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/Arbopanel × SARS-CoV — The Investigation (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Black Disc Disease — Analysis (2026-10-19).md` → `penicillin-book-draft/Black Disc Disease — Analysis (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Black Disc Disease — Analysis (QUICK DRAFT 2026-10-19).md` → `penicillin-book-draft/Black Disc Disease — Analysis (QUICK DRAFT 2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/C-Diff and the Related Words (2026-10-18).md` → `penicillin-book-draft/C-Diff and the Related Words (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/C-Diff and the Related Words (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/C-Diff and the Related Words (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/CMS Diagnoses with Encephalitis and Pneumonia (2026-10-18).md` → `penicillin-book-draft/CMS Diagnoses with Encephalitis and Pneumonia (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/CMS Diagnoses with Encephalitis and Pneumonia (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/CMS Diagnoses with Encephalitis and Pneumonia (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Cephalitis Reassessed — Connections to Pneumoniae and Viruses (2026-10-18).md` → `penicillin-book-draft/Cephalitis Reassessed — Connections to Pneumoniae and Viruses (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Chapter — How Disease Shows, Conjoined Symptomology (2026-10-16).md` → `penicillin-book-draft/Chapter — How Disease Shows, Conjoined Symptomology (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Chapter — The Guardrail (2026-10-17).md` → `penicillin-book-draft/Chapter — The Guardrail (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Clostridium Cousins — The Latin Binomial List (2026-10-17).md` → `penicillin-book-draft/Clostridium Cousins — The Latin Binomial List (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Coccidioidomycosis — The Word Broken Open (2026-10-18).md` → `penicillin-book-draft/Coccidioidomycosis — The Word Broken Open (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Combined Statement — All Encephalitis Connected to Japanese Encephalitis (2026-10-19).md` → `penicillin-book-draft/Combined Statement — All Encephalitis Connected to Japanese Encephalitis (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Combined Statement — Disc Degradation Requires Infection (2026-10-19).md` → `penicillin-book-draft/Combined Statement — Disc Degradation Requires Infection (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Combined Statement — Disease Borrows Our Materials; the Body Marks Them for Tracking (2026-10-20).md` → `penicillin-book-draft/Combined Statement — Disease Borrows Our Materials; the Body Marks Them for Tracking (2026-10-20).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Combined Statement — The Best Doctors Don't Need Blood (2026-10-19).md` → `penicillin-book-draft/Combined Statement — The Best Doctors Don't Need Blood (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Combined Statement — The Computer Sees the Gaps (2026-10-19).md` → `penicillin-book-draft/Combined Statement — The Computer Sees the Gaps (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Combined Statement — The Disabled Medicine Is Used Elsewhere (2026-10-19).md` → `penicillin-book-draft/Combined Statement — The Disabled Medicine Is Used Elsewhere (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Combined Statement — The Good Doctor Tests in the Brain (2026-10-19).md` → `penicillin-book-draft/Combined Statement — The Good Doctor Tests in the Brain (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Combined Statement — Viral Diseases Carry Elements; Old Names Were Perfect (2026-10-19).md` → `penicillin-book-draft/Combined Statement — Viral Diseases Carry Elements; Old Names Were Perfect (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Combined Statement — Years of Treatment (2026-10-19).md` → `penicillin-book-draft/Combined Statement — Years of Treatment (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Combined Statements of Fact — His Thoughts + My Thoughts (2026-10-19).md` → `penicillin-book-draft/Combined Statements of Fact — His Thoughts + My Thoughts (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Compiled — The Sputum Culture Record with Entries 5 and 20 (2026-10-17).md` → `penicillin-book-draft/Compiled — The Sputum Culture Record with Entries 5 and 20 (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Complete Table of Contents — Everything Built (2026-10-21).md` → `penicillin-book-draft/Complete Table of Contents — Everything Built (2026-10-21).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Connection Tree — The Pre-WWII Triad (2026-10-17).md` → `penicillin-book-draft/Connection Tree — The Pre-WWII Triad (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Dictated Notes — Nervous-System History, Namology, Co-Disease Thesis (2026-10-15).md` → `penicillin-book-draft/Dictated Notes — Nervous-System History, Namology, Co-Disease Thesis (2026-10-15).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Dictated Notes — Nervous-System History, Namology, Co-Disease Thesis (2026-10-17).md` → `penicillin-book-draft/Dictated Notes — Nervous-System History, Namology, Co-Disease Thesis (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Dictated Notes — The Shapes of Disease, Latin Knowledge and Etymology (2026-10-17).md` → `penicillin-book-draft/Dictated Notes — The Shapes of Disease, Latin Knowledge and Etymology (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Disease Cure Tree — Draft Scaffold (2026-10-11).md` → `penicillin-book-draft/Disease Cure Tree — Draft Scaffold (2026-10-11).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Disease Names Group 1 — 1997 CDC and UK Lists, Associations Ordered by Completeness (2026-10-17).md` → `penicillin-book-draft/Disease Names Group 1 — 1997 CDC and UK Lists, Associations Ordered by Completeness (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Disease Names Group 2 — Beyond the 1997 Lists, Associations Ordered by Completeness (2026-10-18).md` → `penicillin-book-draft/Disease Names Group 2 — Beyond the 1997 Lists, Associations Ordered by Completeness (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Disease Names — Latin vs American (2026-10-16).md` → `penicillin-book-draft/Disease Names — Latin vs American (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Disease Rows Reassessed — Fungal_Yeast_Bacterial Connections and Medication Choices per Disease (2026-10-18).md` → `penicillin-book-draft/Disease Rows Reassessed — Fungal_Yeast_Bacterial Connections and Medication Choices per Disease (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Disease Rows Reassessed — The 51% Paradigm (2026-10-18).md` → `penicillin-book-draft/Disease Rows Reassessed — The 51% Paradigm (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Diseases, Interconnections, Elements — The Co-Mingled Framework (2026-10-18).md` → `penicillin-book-draft/Diseases, Interconnections, Elements — The Co-Mingled Framework (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/DoD Booklet — American Disease Names, The Coccus Clan (2026-10-17).md` → `penicillin-book-draft/DoD Booklet — American Disease Names, The Coccus Clan (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Doctrine Note — The Questionable Gap (2026-10-18).md` → `penicillin-book-draft/Doctrine Note — The Questionable Gap (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Doctrine — No Stigma for the Sick (2026-10-19).md` → `penicillin-book-draft/Doctrine — No Stigma for the Sick (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Doctrine — Start and Stop at the Disease Name (2026-10-19).md` → `penicillin-book-draft/Doctrine — Start and Stop at the Disease Name (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Doctrine — Testing and Treatment Belong to Clinician and Patient (2026-10-18).md` → `penicillin-book-draft/Doctrine — Testing and Treatment Belong to Clinician and Patient (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Doctrine — Viruses Parallel the Old Names (2026-10-19).md` → `penicillin-book-draft/Doctrine — Viruses Parallel the Old Names (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Encephalitis Before the Viruses — What Changed (2026-10-18).md` → `penicillin-book-draft/Encephalitis Before the Viruses — What Changed (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Encephalitis Before the Viruses — What Changed (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/Encephalitis Before the Viruses — What Changed (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Entries 5 and 20 + The Sputum Test — The Etymology Reading (2026-10-17).md` → `penicillin-book-draft/Entries 5 and 20 + The Sputum Test — The Etymology Reading (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Entries 5 and 20 — The Extensive Workout (2026-10-17).md` → `penicillin-book-draft/Entries 5 and 20 — The Extensive Workout (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Five Theses — The -Emias and Medication Resistance (2026-10-19).md` → `penicillin-book-draft/Five Theses — The -Emias and Medication Resistance (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Forward × Reverse — Complete Organism Lists (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/Forward × Reverse — Complete Organism Lists (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Forward × Reverse — The Complete Organism Index (2026-10-18).md` → `penicillin-book-draft/Forward × Reverse — The Complete Organism Index (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Four Theses — Duration, Dosing, Feeling (2026-10-19).md` → `penicillin-book-draft/Four Theses — Duration, Dosing, Feeling (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Fungi — Serotype Relationships and Fluid-Borne Sickness Associations (2026-10-16).md` → `penicillin-book-draft/Fungi — Serotype Relationships and Fluid-Borne Sickness Associations (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/His Account at Fourteen + The Forward-and-Backwards Method (2026-10-19).md` → `penicillin-book-draft/His Account at Fourteen + The Forward-and-Backwards Method (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/His Account — Signs Since Birth; the Stigma (2026-10-19).md` → `penicillin-book-draft/His Account — Signs Since Birth; the Stigma (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/His Panel × The Serotypes — The 23-Row Comparison (2026-10-17).md` → `penicillin-book-draft/His Panel × The Serotypes — The 23-Row Comparison (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/His Statement — Documenting His Own Research (2026-10-18).md` → `penicillin-book-draft/His Statement — Documenting His Own Research (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/His Virus Theory — Synthesis and Serotype Connection (2026-10-16).md` → `penicillin-book-draft/His Virus Theory — Synthesis and Serotype Connection (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Human Viruses × Arboviral Cousins — Relatedness List (2026-10-17).md` → `penicillin-book-draft/Human Viruses × Arboviral Cousins — Relatedness List (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Ideology Note — His Own Infectious Disease Specialist (2026-10-18).md` → `penicillin-book-draft/Ideology Note — His Own Infectious Disease Specialist (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Insect-Borne Test-Panel Viruses × Human Viruses — The Relatedness Cross-Reference (2026-10-17).md` → `penicillin-book-draft/Insect-Borne Test-Panel Viruses × Human Viruses — The Relatedness Cross-Reference (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Largest to Smallest — From Name to Virus (2026-10-18).md` → `penicillin-book-draft/Largest to Smallest — From Name to Virus (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Largest to Smallest — Name to Virus (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/Largest to Smallest — Name to Virus (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Least Testing, Most Information — The Diagnostic Efficiency Paper (2026-10-18).md` → `penicillin-book-draft/Least Testing, Most Information — The Diagnostic Efficiency Paper (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Lou Gehrig's Disease Symptomology × The Long List — Cross-Read (2026-10-18).md` → `penicillin-book-draft/Lou Gehrig's Disease Symptomology × The Long List — Cross-Read (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Lou Gehrig's Disease Symptomology × The Long List — Cross-Read (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/Lou Gehrig's Disease Symptomology × The Long List — Cross-Read (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Lung Colonization — Co-occurrences and Organ Symbiosis (2026-10-16).md` → `penicillin-book-draft/Lung Colonization — Co-occurrences and Organ Symbiosis (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Manuscript Folder Map (2026-10-11).md` → `penicillin-book-draft/Manuscript Folder Map (2026-10-11).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Manuscript — The October Run (2026-10-17).md` → `penicillin-book-draft/Manuscript — The October Run (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Meningitis × Pneumonia — The Test Map (2026-10-18).md` → `penicillin-book-draft/Meningitis × Pneumonia — The Test Map (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Note — His Views on RFK Jr and Childhood Immunity Testing (2026-10-18).md` → `penicillin-book-draft/Note — His Views on RFK Jr and Childhood Immunity Testing (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Outbreak × ALS — Analysis (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/Outbreak × ALS — Analysis (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Outbreak × ALS — The Analysis (2026-10-18).md` → `penicillin-book-draft/Outbreak × ALS — The Analysis (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Panel Workup + The 0.2-and-Above Grouping (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/Panel Workup + The 0.2-and-Above Grouping (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Panel Workup Analysis + The 0.2-and-Above Grouping (2026-10-18).md` → `penicillin-book-draft/Panel Workup Analysis + The 0.2-and-Above Grouping (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Peer-Review Synthesis — Naming Evidence Map (2026-10-10).md` → `penicillin-book-draft/Peer-Review Synthesis — Naming Evidence Map (2026-10-10).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Penicillin-Resistant Serotypes — Theory and Medical Reasons (2026-10-16).md` → `penicillin-book-draft/Penicillin-Resistant Serotypes — Theory and Medical Reasons (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Personal History Note — Neonatal Swelling, Great-Grandmother's Line (2026-10-18).md` → `penicillin-book-draft/Personal History Note — Neonatal Swelling, Great-Grandmother's Line (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Pleural Pneumonia — How It's Missed, How It Feels, Symptomology (Paper Scaffold, 2026-10-17).md` → `penicillin-book-draft/Pleural Pneumonia — How It's Missed, How It Feels, Symptomology (Paper Scaffold, 2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Pneumococcal Parts × Viruses — The Related-Materials Cross-Reference (2026-10-17).md` → `penicillin-book-draft/Pneumococcal Parts × Viruses — The Related-Materials Cross-Reference (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Posit — La Crosse, Virus as Manifestation (2026-10-18).md` → `penicillin-book-draft/Posit — La Crosse, Virus as Manifestation (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Quest's 23-Serotype Test × Susceptibility × The Azole Statement — Research Brief (2026-10-17).md` → `penicillin-book-draft/Quest's 23-Serotype Test × Susceptibility × The Azole Statement — Research Brief (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Regional Names — Latin Structure, Cousinology, American Relations (2026-10-18).md` → `penicillin-book-draft/Regional Names — Latin Structure, Cousinology, American Relations (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Regional Names — Latin Structure, Cousinology, American Relations (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/Regional Names — Latin Structure, Cousinology, American Relations (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Research Note — ATE Nanoparticles and the "Antifungal Antibiotic" Name (2026-10-06).md` → `penicillin-book-draft/Research Note — ATE Nanoparticles and the "Antifungal Antibiotic" Name (2026-10-06).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Research Note — Antifungal Mycobiome Study in IBD (2026-10-05).md` → `penicillin-book-draft/Research Note — Antifungal Mycobiome Study in IBD (2026-10-05).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Research Note — Binomials as Compressed Field Notes — Candida auris albicans (2026-10-09).md` → `penicillin-book-draft/Research Note — Binomials as Compressed Field Notes — Candida auris albicans (2026-10-09).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Research Note — C. auris Mortality Meta-Analysis and the Name That Carries Dread (2026-10-08).md` → `penicillin-book-draft/Research Note — C. auris Mortality Meta-Analysis and the Name That Carries Dread (2026-10-08).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Research Note — Candidozyma Cohort vs the Mortality Meta-Analysis (2026-10-09).md` → `penicillin-book-draft/Research Note — Candidozyma Cohort vs the Mortality Meta-Analysis (2026-10-09).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Research Note — Cholesterol as Byproduct of Infection (2026-10-18).md` → `penicillin-book-draft/Research Note — Cholesterol as Byproduct of Infection (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Research Note — Clade VI in Wastewater, Old Name in the Headline (2026-10-12).md` → `penicillin-book-draft/Research Note — Clade VI in Wastewater, Old Name in the Headline (2026-10-12).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Research Note — ICD-11 Mycoses Codes, Taxonomic Lag at the Billing Layer (2026-10-12).md` → `penicillin-book-draft/Research Note — ICD-11 Mycoses Codes, Taxonomic Lag at the Billing Layer (2026-10-12).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Research Note — Marshfield Clinic Sends Results to CDC (2026-10-18).md` → `penicillin-book-draft/Research Note — Marshfield Clinic Sends Results to CDC (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Research Note — Nakaseomyces glabratus and the Name Kept Anyway (2026-10-09).md` → `penicillin-book-draft/Research Note — Nakaseomyces glabratus and the Name Kept Anyway (2026-10-09).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Research Note — Nanopore Sequencing Fungal Bloodstream Infections (2026-10-05).md` → `penicillin-book-draft/Research Note — Nanopore Sequencing Fungal Bloodstream Infections (2026-10-05).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Research Note — Photodisinfection for Severe Onychomycosis (2026-10-06).md` → `penicillin-book-draft/Research Note — Photodisinfection for Severe Onychomycosis (2026-10-06).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Research Note — Terbinafine Susceptibility and MOB-015 Onychomycosis Analysis (2026-10-06).md` → `penicillin-book-draft/Research Note — Terbinafine Susceptibility and MOB-015 Onychomycosis Analysis (2026-10-06).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Research Note — The Case for Keeping the Old Name (2026-10-14).md` → `penicillin-book-draft/Research Note — The Case for Keeping the Old Name (2026-10-14).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Research Note — The Lab Reports the Name It Chooses (2026-10-10).md` → `penicillin-book-draft/Research Note — The Lab Reports the Name It Chooses (2026-10-10).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Reverse-Engineered — Every Serotype × Vaccine × Disease × Biofilm Connection (2026-10-18).md` → `penicillin-book-draft/Reverse-Engineered — Every Serotype × Vaccine × Disease × Biofilm Connection (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/SARS-CoV × Rotavirus × RSV — Relationships (2026-10-18).md` → `penicillin-book-draft/SARS-CoV × Rotavirus × RSV — Relationships (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Scrofula — the Old Word for Lymphatic Disease (2026-10-16).md` → `penicillin-book-draft/Scrofula — the Old Word for Lymphatic Disease (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Serology × Serotypes — The Connected Paper (2026-10-18).md` → `penicillin-book-draft/Serology × Serotypes — The Connected Paper (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Serotype Connections — Associated Bacteria and Fungi (2026-10-16).md` → `penicillin-book-draft/Serotype Connections — Associated Bacteria and Fungi (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Serotype Groups by Disease Group — A Diagnostic Grouping of the 23 Serotypes (2026-10-18).md` → `penicillin-book-draft/Serotype Groups by Disease Group — A Diagnostic Grouping of the 23 Serotypes (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Serotype Trees — Streptococcus pneumoniae and TB Complex (2026-10-16).md` → `penicillin-book-draft/Serotype Trees — Streptococcus pneumoniae and TB Complex (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Serotype × Co-Pathogen Cross-Link Map (2026-10-17).md` → `penicillin-book-draft/Serotype × Co-Pathogen Cross-Link Map (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Serotypes Alone — Individual Infections and TB Cross-Link (2026-10-16).md` → `penicillin-book-draft/Serotypes Alone — Individual Infections and TB Cross-Link (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Serotype–Aspergillus Connections (2026-10-16).md` → `penicillin-book-draft/Serotype–Aspergillus Connections (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Serotype–Virus Test–ALS Connection — The Potential (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/Serotype–Virus Test–ALS Connection — The Potential (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Serotype–Yeast Associations (2026-10-16).md` → `penicillin-book-draft/Serotype–Yeast Associations (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Side Note — Soy Polysaccharide and Serotype Saccharide Chemistry (2026-10-18).md` → `penicillin-book-draft/Side Note — Soy Polysaccharide and Serotype Saccharide Chemistry (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Synopsis — Disease Cure Tree Thread (2026-10-16).md` → `penicillin-book-draft/Synopsis — Disease Cure Tree Thread (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Synopsis — Prioritized by Information Available (2026-10-16).md` → `penicillin-book-draft/Synopsis — Prioritized by Information Available (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/TB Vaccines — BCG Strains, Serology, Mechanism (2026-10-17).md` → `penicillin-book-draft/TB Vaccines — BCG Strains, Serology, Mechanism (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/THE 2010 VACCINE DISSECTION — Reversology (2026-10-17).md` → `penicillin-book-draft/THE 2010 VACCINE DISSECTION — Reversology (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/THE FULL TREE — Viruses to Microbes (2026-10-17).md` → `penicillin-book-draft/THE FULL TREE — Viruses to Microbes (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/THE GRAND EXPANSION — Viruses, Diseases, Laboratories (2026-10-17).md` → `penicillin-book-draft/THE GRAND EXPANSION — Viruses, Diseases, Laboratories (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The -itis and -osis List — Latin First (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/The -itis and -osis List — Latin First (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The -itis and -osis List — Latin First, American Second (2026-10-18).md` → `penicillin-book-draft/The -itis and -osis List — Latin First, American Second (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The -itis–-osis Parallel — Diseases to Examine in Modern History (2026-10-18).md` → `penicillin-book-draft/The -itis–-osis Parallel — Diseases to Examine in Modern History (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The 23 Serology — Maximally Expanded with His Teachings (2026-10-18).md` → `penicillin-book-draft/The 23 Serology — Maximally Expanded with His Teachings (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The 23 Serotypes — Educational Diagram (2026-10-18).html` → `penicillin-book-draft/The 23 Serotypes — Educational Diagram (2026-10-18).html`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Between Doctrine Trial — Full Protocol Design (2026-10-18).md` → `penicillin-book-draft/The Between Doctrine Trial — Full Protocol Design (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Between Doctrine — Expanded (2026-10-17).md` → `penicillin-book-draft/The Between Doctrine — Expanded (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Blood Serotype Tree — Rethought Whole (2026-10-16).md` → `penicillin-book-draft/The Blood Serotype Tree — Rethought Whole (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Coliseum — Where Etymology Fits the Solution (2026-10-18).md` → `penicillin-book-draft/The Coliseum — Where Etymology Fits the Solution (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Coliseum — Where Etymology Fits the Solution (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/The Coliseum — Where Etymology Fits the Solution (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Complete Map — Serotypes × Fungi × Bacteria × Viruses × Aspergillus (2026-10-16).md` → `penicillin-book-draft/The Complete Map — Serotypes × Fungi × Bacteria × Viruses × Aspergillus (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Complete Workup — Books, Chapters, Ideas, Postulates, Noteworthy (2026-10-18).md` → `penicillin-book-draft/The Complete Workup — Books, Chapters, Ideas, Postulates, Noteworthy (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Encephalitis-in-All-Viruses Study — How Many Sickness-Causing Viruses Involve the Brain (2026-10-17).md` → `penicillin-book-draft/The Encephalitis-in-All-Viruses Study — How Many Sickness-Causing Viruses Involve the Brain (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Errors of Medicine Combined — KLB Keeps Both Names (2026-10-18).md` → `penicillin-book-draft/The Errors of Medicine Combined — KLB Keeps Both Names (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Errors of Medicine Combined — KLB Keeps Both Names (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/The Errors of Medicine Combined — KLB Keeps Both Names (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Fifteen-Minute Paper — Serotypes, Elements, Tests, Names (2026-10-18).md` → `penicillin-book-draft/The Fifteen-Minute Paper — Serotypes, Elements, Tests, Names (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The First Five — A Testing Model for the Sick-Unknown (2026-10-17).md` → `penicillin-book-draft/The First Five — A Testing Model for the Sick-Unknown (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Fix List — Symptomology Ranked by Places to Fix (2026-10-18).md` → `penicillin-book-draft/The Fix List — Symptomology Ranked by Places to Fix (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Fix List — Symptomology Ranked by Places to Fix (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/The Fix List — Symptomology Ranked by Places to Fix (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Fixed Errors — American Early Names × Latin Later Names (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/The Fixed Errors — American Early Names × Latin Later Names (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Fixed Errors — American Early Names × Latin Later Names, The Long List (2026-10-18).md` → `penicillin-book-draft/The Fixed Errors — American Early Names × Latin Later Names, The Long List (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Full Circle — His Thought Process × AI, Expanded List (2026-10-16).md` → `penicillin-book-draft/The Full Circle — His Thought Process × AI, Expanded List (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Hub — Second Deepening (QUICK DRAFT 2026-10-20).md` → `penicillin-book-draft/The Hub — Second Deepening (QUICK DRAFT 2026-10-20).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Hub — Second Deepening, Pneumonia-as-Showing Tested Three Ways (2026-10-20).md` → `penicillin-book-draft/The Hub — Second Deepening, Pneumonia-as-Showing Tested Three Ways (2026-10-20).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Master List and Tree — Names First, Backwards to Associations, One Result (2026-10-17).md` → `penicillin-book-draft/The Master List and Tree — Names First, Backwards to Associations, One Result (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Maximal Paper — All Thoughts, The Full Process (2026-10-18).md` → `penicillin-book-draft/The Maximal Paper — All Thoughts, The Full Process (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Morning Tree — Full Information Tree (2026-10-16).md` → `penicillin-book-draft/The Morning Tree — Full Information Tree (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Mycelial Transposition — Full Draft.docx` → `penicillin-book-draft/The Mycelial Transposition — Full Draft.docx`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Mycelial Transposition — Full Manuscript Draft (2026-10-18).md` → `penicillin-book-draft/The Mycelial Transposition — Full Manuscript Draft (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Mycelial Transposition — The Largest Manuscript (2026-10-18).md` → `penicillin-book-draft/The Mycelial Transposition — The Largest Manuscript (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Serology Cross-Reference Book (2026-10-24).md` → `penicillin-book-draft/The Serology Cross-Reference Book (2026-10-24).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Serology Cross-Reference Book (QUICK DRAFT 2026-10-24).md` → `penicillin-book-draft/The Serology Cross-Reference Book (QUICK DRAFT 2026-10-24).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Serotype Antibody Test Worked Full — Cocci, Concurrences, Disease Names, Extrapolated Indications (2026-10-18).md` → `penicillin-book-draft/The Serotype Antibody Test Worked Full — Cocci, Concurrences, Disease Names, Extrapolated Indications (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Serotype Tree — Every Serotype, Every Association, Redundant on Purpose (2026-10-18).md` → `penicillin-book-draft/The Serotype Tree — Every Serotype, Every Association, Redundant on Purpose (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Serotype–Virus Test–ALS Connection — The Potential (2026-10-18).md` → `penicillin-book-draft/The Serotype–Virus Test–ALS Connection — The Potential (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Shapes of Disease — Latin Knowledge and Etymology (2026-10-17).md` → `penicillin-book-draft/The Shapes of Disease — Latin Knowledge and Etymology (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Singular List — Canyons, Fevers, American Names, All Connected to the One Thing (2026-10-17).md` → `penicillin-book-draft/The Singular List — Canyons, Fevers, American Names, All Connected to the One Thing (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Ten-Thousand-Word Paper — Serotypes Expounded (2026-10-18).md` → `penicillin-book-draft/The Ten-Thousand-Word Paper — Serotypes Expounded (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Three Records — An Advanced Synopsis (2026-10-17).md` → `penicillin-book-draft/The Three Records — An Advanced Synopsis (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Trunk — Going Deeper on Pneumonia-as-Showing (2026-10-17).md` → `penicillin-book-draft/The Trunk — Going Deeper on Pneumonia-as-Showing (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Valley Fever Theorem — Does It Make Medical Sense (2026-10-18).md` → `penicillin-book-draft/The Valley Fever Theorem — Does It Make Medical Sense (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/The Valley Fever Theorem — Does It Make Medical Sense (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/The Valley Fever Theorem — Does It Make Medical Sense (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Theoretical Thesis — The Panel Tests the Bugs, Not Us (2026-10-19).md` → `penicillin-book-draft/Theoretical Thesis — The Panel Tests the Bugs, Not Us (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Acids Oils Salts, The Catalyst Triad (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Acids Oils Salts, The Catalyst Triad (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Additive Naming, Renaming Adds an Alias (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Additive Naming, Renaming Adds an Alias (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Aero One, Arrow One (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Aero One, Arrow One (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — American Latinology, the King James Key (2026-10-18).md` → `penicillin-book-draft/Thesis Note — American Latinology, the King James Key (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Antibodies, Imbalance, Meiosis Material, Polysaccharide Connections (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Antibodies, Imbalance, Meiosis Material, Polysaccharide Connections (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Antibody Testing + Arbopanel, La Crosse = Lyme via Obaid (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Antibody Testing + Arbopanel, La Crosse = Lyme via Obaid (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Arbopanel Should Be Called Encephalopathy Meningeal Testing (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Arbopanel Should Be Called Encephalopathy Meningeal Testing (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Arbopanel Tests Nothing but Encephalitis (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Arbopanel Tests Nothing but Encephalitis (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Bacterial-Fungal Element Split + Arbopanel Parallel (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Bacterial-Fungal Element Split + Arbopanel Parallel (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Bacteriosis as the Bacterial-Element Umbrella (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Bacteriosis as the Bacterial-Element Umbrella (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Cholesterol as Byproduct of Infection (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Cholesterol as Byproduct of Infection (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Disagreement with Dr. Brown on IgG-IgA-IgM (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Disagreement with Dr. Brown on IgG-IgA-IgM (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Immunity as Controlled Allergic Response (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Immunity as Controlled Allergic Response (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Large Test Names, Serotype Connections Already Present (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Large Test Names, Serotype Connections Already Present (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Marshfield Testing Down to Jamestown Canyon Virus (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Marshfield Testing Down to Jamestown Canyon Virus (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — No More Panel, Test Names Thought About and Ignored (2026-10-18).md` → `penicillin-book-draft/Thesis Note — No More Panel, Test Names Thought About and Ignored (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Nourishment Not Viruses, True Pathway (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Nourishment Not Viruses, True Pathway (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Obaid on Susceptibility, Viruses Morph Grow Shrink (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Obaid on Susceptibility, Viruses Morph Grow Shrink (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Osseitis and Intraosseous (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Osseitis and Intraosseous (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Pestilism, Worms Drag Disease Out (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Pestilism, Worms Drag Disease Out (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Reassess the Sexually Transmitted Diseases (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Reassess the Sexually Transmitted Diseases (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Showing and Not Showing, the Immune System as Cure (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Showing and Not Showing, the Immune System as Cure (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Study Inherited Active Disease from Birth (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Study Inherited Active Disease from Birth (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — The 0.1 Serology Grouping Postulate + PPSV History (2026-10-18).md` → `penicillin-book-draft/Thesis Note — The 0.1 Serology Grouping Postulate + PPSV History (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — The Body Keeps Copies, Shared Liquids and DNA (2026-10-18).md` → `penicillin-book-draft/Thesis Note — The Body Keeps Copies, Shared Liquids and DNA (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — The Catalog Story, Sick Bugs, Allergic Disease Onset (2026-10-18).md` → `penicillin-book-draft/Thesis Note — The Catalog Story, Sick Bugs, Allergic Disease Onset (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — The Cough-and-Sputum Assumption (2026-10-18).md` → `penicillin-book-draft/Thesis Note — The Cough-and-Sputum Assumption (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — The Infection-First Doctrine (2026-10-18).md` → `penicillin-book-draft/Thesis Note — The Infection-First Doctrine (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Tuberculosis vulgaris, Latin Forward and Backward (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Tuberculosis vulgaris, Latin Forward and Backward (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — VNA, Both Readings (2026-10-23).md` → `penicillin-book-draft/Thesis Note — VNA, Both Readings (2026-10-23).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Valley Fever, One Name for Four (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Valley Fever, One Name for Four (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis Note — Worldwide Disease, Lupus Symptomology, Osteomyelosis (2026-10-18).md` → `penicillin-book-draft/Thesis Note — Worldwide Disease, Lupus Symptomology, Osteomyelosis (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis — Cholesterol in the Polysaccharide–Triglyceride Trifecta, and the -ide Words (2026-10-20).md` → `penicillin-book-draft/Thesis — Cholesterol in the Polysaccharide–Triglyceride Trifecta, and the -ide Words (2026-10-20).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis — Protection and Viruses as Nesting Dolls (2026-10-18).md` → `penicillin-book-draft/Thesis — Protection and Viruses as Nesting Dolls (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis — Quest Laboratories Discovered SARS-CoV-2 in 2017 (2026-10-18).md` → `penicillin-book-draft/Thesis — Quest Laboratories Discovered SARS-CoV-2 in 2017 (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis — SARS, MERS, and SARS-CoV-2 Are Basically the Same Thing (2026-10-18).md` → `penicillin-book-draft/Thesis — SARS, MERS, and SARS-CoV-2 Are Basically the Same Thing (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis — SARS-CoV-2 Is the Insect Side, SARS Is the Human Side (2026-10-18).md` → `penicillin-book-draft/Thesis — SARS-CoV-2 Is the Insect Side, SARS Is the Human Side (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis — The Nested Doll (2026-10-18).md` → `penicillin-book-draft/Thesis — The Nested Doll (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis — The Next Layer Past SARS Is Encephalitis, Virologically (2026-10-18).md` → `penicillin-book-draft/Thesis — The Next Layer Past SARS Is Encephalitis, Virologically (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Thesis — The Test Uses Viral DNA Plus a Combination (2026-10-19).md` → `penicillin-book-draft/Thesis — The Test Uses Viral DNA Plus a Combination (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Things That Should Happen to Fix Medicine — The Fix List (2026-10-17).md` → `penicillin-book-draft/Things That Should Happen to Fix Medicine — The Fix List (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Three Postulates — EL Parallels, Arbopanel Mechanics (2026-10-19).md` → `penicillin-book-draft/Three Postulates — EL Parallels, Arbopanel Mechanics (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Three Theses — Non-Susceptibility, MRSA (2026-10-19).md` → `penicillin-book-draft/Three Theses — Non-Susceptibility, MRSA (2026-10-19).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Tuberculosis Pneumoniae — The Workup (2026-10-17).md` → `penicillin-book-draft/Tuberculosis Pneumoniae — The Workup (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Tuberculosis Vulgaris — Disease, Illness, Sickness, Syndrome; The TB Doctors After 1900 (2026-10-18).md` → `penicillin-book-draft/Tuberculosis Vulgaris — Disease, Illness, Sickness, Syndrome; The TB Doctors After 1900 (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Tuberculosis — Names Across Languages and Associated Diseases (2026-10-16).md` → `penicillin-book-draft/Tuberculosis — Names Across Languages and Associated Diseases (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Vaccinology Expanded — Reversology, The Fungal-Bacterial Cross-Reference (2026-10-17).md` → `penicillin-book-draft/Vaccinology Expanded — Reversology, The Fungal-Bacterial Cross-Reference (2026-10-17).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Valley Fever in Every Entry (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/Valley Fever in Every Entry (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Valley Fever × Jamestown Canyon — The Family Relations (2026-10-18).md` → `penicillin-book-draft/Valley Fever × Jamestown Canyon — The Family Relations (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Valley Fever × Jamestown Canyon — The Family Relations (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/Valley Fever × Jamestown Canyon — The Family Relations (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Valley Fever × Pneumonia × Encephalitis — The Connections (2026-10-18).md` → `penicillin-book-draft/Valley Fever × Pneumonia × Encephalitis — The Connections (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Valley Fever × Pneumonia × Encephalitis — The Connections (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/Valley Fever × Pneumonia × Encephalitis — The Connections (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Valley Fever × The 53 Insertions — Scientific Assessment (QUICK DRAFT 2026-10-20).md` → `penicillin-book-draft/Valley Fever × The 53 Insertions — Scientific Assessment (QUICK DRAFT 2026-10-20).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Valley Fever × The 53 Insertions — The Scientific Assessment (2026-10-20).md` → `penicillin-book-draft/Valley Fever × The 53 Insertions — The Scientific Assessment (2026-10-20).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Viral Cousining — The Holy Grail Paper (2026-10-18).md` → `penicillin-book-draft/Viral Cousining — The Holy Grail Paper (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Viral Cousining — The Holy Grail Paper (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/Viral Cousining — The Holy Grail Paper (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Vulgaris — the Latinology Connection (2026-10-16).md` → `penicillin-book-draft/Vulgaris — the Latinology Connection (2026-10-16).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Why the Sub-Variants + The Reactory Cousins (2026-10-18).md` → `penicillin-book-draft/Why the Sub-Variants + The Reactory Cousins (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Why the Sub-Variants + The Reactory Cousins (QUICK DRAFT 2026-10-18).md` → `penicillin-book-draft/Why the Sub-Variants + The Reactory Cousins (QUICK DRAFT 2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Workup — Candida auris × Staphylococcus aureus × the Other Aureuses (2026-10-18).md` → `penicillin-book-draft/Workup — Candida auris × Staphylococcus aureus × the Other Aureuses (2026-10-18).md`
+- `goals/the-mycelial-transposition-manuscript/files/s-agalactiae/Thesis — Fungal elements associated with S. agalactiae (2026-10-28).md` → `Thesis — Fungal elements associated with S. agalactiae (2026-10-28).md`
+- `goals/the-mycelial-transposition-manuscript/files/serotype-disease-table/23F-pneumonia-evidence-note (2026-10-28).md` → `23F-pneumonia-evidence-note (2026-10-28).md`
+- `goals/the-mycelial-transposition-manuscript/files/serotype-disease-table/Diagnostic Codes per Name — The Intersection Table (2026-10-30).md` → `Diagnostic Codes per Name — The Intersection Table (2026-10-30).md`
+- `goals/the-mycelial-transposition-manuscript/files/serotype-disease-table/Fever, Canyon, and Creek Names × Valley Fever, Coccidioidomycosis, and Coccidiitis (2026-11-01).md` → `Fever, Canyon, and Creek Names × Valley Fever, Coccidioidomycosis, and Coccidiitis (2026-11-01).md`
+- `goals/the-mycelial-transposition-manuscript/files/serotype-disease-table/Meningococcal × Pneumococcal Serotype Cross-Reference (2026-10-28).md` → `Meningococcal × Pneumococcal Serotype Cross-Reference (2026-10-28).md`
+- `goals/the-mycelial-transposition-manuscript/files/serotype-disease-table/Old Disease Names × Modern Diagnostic Codes (2026-10-30).md` → `Old Disease Names × Modern Diagnostic Codes (2026-10-30).md`
+- `goals/the-mycelial-transposition-manuscript/files/serotype-disease-table/Shared Diagnostic Codes — Meningitis × Pneumonia Serotypes (2026-10-30).md` → `Shared Diagnostic Codes — Meningitis × Pneumonia Serotypes (2026-10-30).md`
+- `goals/the-mycelial-transposition-manuscript/files/serotype-disease-table/The Expanded Meningococcal × Pneumococcal Cross-Reference (2026-10-30).md` → `The Expanded Meningococcal × Pneumococcal Cross-Reference (2026-10-30).md`
+- `goals/the-mycelial-transposition-manuscript/files/serotype-disease-table/The Expanded Meningococcal × Pneumococcal Cross-Reference — Corrected Copy (2026-11-01).md` → `The Expanded Meningococcal × Pneumococcal Cross-Reference — Corrected Copy (2026-11-01).md`
+- `goals/the-mycelial-transposition-manuscript/files/serotype-disease-table/The Most Advanced Serotype Disease Table (2026-10-28) - Airtable import.csv` → `The Most Advanced Serotype Disease Table (2026-10-28) - Airtable import.csv`
+- `goals/the-mycelial-transposition-manuscript/files/serotype-disease-table/The Most Advanced Serotype Disease Table (2026-10-28).md` → `The Most Advanced Serotype Disease Table (2026-10-28).md`
+- `goals/the-mycelial-transposition-manuscript/files/serotype-disease-table/The Most Advanced Serotype Disease Table — Corrected Copy (2026-10-29).md` → `The Most Advanced Serotype Disease Table — Corrected Copy (2026-10-29).md`
+- `goals/the-mycelial-transposition-manuscript/files/serotype-disease-table/The Serotype-First Serology Table (2026-10-30).md` → `The Serotype-First Serology Table (2026-10-30).md`
+
+### chat-archive (4)
+- `goals/connected-account-data-import/files/SMS-MMS Search — Unassimilated Data (2026-11-04).md` → `SMS-MMS Search — Unassimilated Data (2026-11-04).md`
+- `goals/full-chat-transcription-and-messenger-share/files/Complete Works Backup (2026-11-03) — Manifest.txt` → `Complete Works Backup (2026-11-03) — Manifest.txt`
+- `goals/full-chat-transcription-and-messenger-share/files/Full Transcription — Main Chat (2026-11-02).md` → `Full Transcription — Main Chat (2026-11-02).md`
+- `goals/full-chat-transcription-and-messenger-share/files/Full Transcription — Main Chat — Extended (2026-11-02).md` → `Full Transcription — Main Chat — Extended (2026-11-02).md`
+
+## Held — personal-medical filename screen
+- `goals/itraconazole-refill-reminder/files/Ready-to-send renewal message for Kelsey Meyer.md` — personal-medical filename screen
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/Analysis — Phosphoglyceride × Itraconazole and the Azole Family (2026-10-20).md` — personal-medical filename screen
+
+## Excluded — standing rules
+- `goals/doctor-follow-up-bookings/files/For Douglas and Kelsey — His Story, His Questions (2026-10-18).md` — personal visit/medical material
+- `goals/doctor-follow-up-bookings/files/Monday Morning — Two-Call Card.md` — personal visit/medical material
+- `goals/doctor-follow-up-bookings/files/Oct 19 Visit Prep — Kelsey Meyer.md` — personal visit/medical material
+- `goals/doctor-follow-up-bookings/files/Ride Booking Call Script — Oct 19 visit.md` — personal visit/medical material
+- `goals/doctor-follow-up-bookings/files/visit-prep-carly-oct15/Douglas — My Follow-Up Items.md` — personal visit/medical material
+- `goals/doctor-follow-up-bookings/files/visit-prep-carly-oct15/Friday Oct 9 — Labs and Pickup Plan.md` — personal visit/medical material
+- `goals/doctor-follow-up-bookings/files/visit-prep-sheet-oakleaf/.src/OUTLINE.md` — build intermediate (.src)
+- `goals/doctor-follow-up-bookings/files/visit-prep-sheet-oakleaf/.src/generate_visit_prep.py` — build intermediate (.src)
+- `goals/doctor-follow-up-bookings/files/visit-prep-sheet-oakleaf/.src/url_baseline.json` — build intermediate (.src)
+- `goals/doctor-follow-up-bookings/files/visit-prep-sheet-oakleaf/.src/validate/Visit Prep Sheet.pdf` — build intermediate (.src)
+- `goals/doctor-follow-up-bookings/files/visit-prep-sheet-oakleaf/.src/validate/page-1.jpg` — build intermediate (.src)
+- `goals/doctor-follow-up-bookings/files/visit-prep-sheet-oakleaf/.src/validate/page-2.jpg` — build intermediate (.src)
+- `goals/doctor-follow-up-bookings/files/visit-prep-sheet-oakleaf/Visit Prep Sheet.docx` — personal visit/medical material
+- `goals/full-chat-transcription-and-messenger-share/files/Complete Works Backup (2026-11-03).zip` — bundle zip
+- `goals/gearhead-account-recovery/files/Note — Other telephone check and reactivation (2026-11-01).md` — account/password material
+- `goals/oct-26-visit-with-erik-dickson-md/files/Oct 26 Visit Prep — Erik Dickson.md` — personal visit/medical material
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/OUTLINE.md` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/build_docx.py` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/manuscript.md` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/url_baseline.json` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/The Mycelial Transposition — Full Draft.pdf` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-01.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-02.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-03.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-04.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-05.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-06.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-07.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-08.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-09.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-10.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-11.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-12.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-13.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-14.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-15.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-16.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-17.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-18.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-19.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-20.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-21.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-22.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-23.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-24.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-25.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-26.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-27.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-28.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/page-29.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/sheets/sheet-01.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/sheets/sheet-02.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/sheets/sheet-03.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/sheets/sheet-04.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/sheets/sheet-05.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/sheets/sheet-06.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/sheets/sheet-07.jpg` — build intermediate (.src)
+- `goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/.src/validate/sheets/sheet-08.jpg` — build intermediate (.src)
+- `research_notes/gearhead54732-public-trace-20261107-2153/AGENTS.md` — account/password material
+- `research_notes/gearhead54732-public-trace-20261107-2153/notes/source-01-unmask.md` — account/password material
+- `research_notes/gearhead54732-public-trace-20261107-2153/notes/source-02-searches.md` — account/password material
+- `research_notes/gearhead54732-public-trace-20261107-2153/report.md` — account/password material
+- `your_files/Shareable Research Bundle (2026-10-30).zip` — bundle zip
+- `your_files/grand-export-everything-shareable/.src/OUTLINE.md` — build intermediate (.src)
+- `your_files/grand-export-everything-shareable/.src/build.py` — build intermediate (.src)
+- `your_files/grand-export-everything-shareable/.src/url_baseline.json` — build intermediate (.src)
+- `your_files/grand-export-everything-shareable/.src/validate/grand-export-everything-shareable.pdf` — build intermediate (.src)
+- `your_files/gui-playground/desktop-first-light.mp4` — video media
+- `your_files/gui-playground/screen-record-test-2026-11-08.mp4` — video media
+- `your_files/shared-research-bundle/.src/OUTLINE.md` — build intermediate (.src)
+- `your_files/shared-research-bundle/.src/index.html` — build intermediate (.src)
+- `your_files/shared-research-bundle/.src/render_report.json` — build intermediate (.src)
+- `your_files/shared-research-bundle/.src/url_baseline.json` — build intermediate (.src)
+- `your_files/shared-research-bundle/.src/validate/page-1.png` — build intermediate (.src)
+- `your_files/shared-research-bundle/.src/validate/page-2.png` — build intermediate (.src)
+- `your_files/shared-research-bundle/.src/validate/page-3.png` — build intermediate (.src)
+- `your_files/shared-research-bundle/.src/validate/page-4.png` — build intermediate (.src)
+
+
+## Phase 2 — Push results (completed 2026-11-08)
+
+Lane: fresh clones + plain git push under Douglas's standing GitHub authorization (connector sync-push pattern). Every command guard-checked. First push attempt failed on missing git credential helper (nothing reached GitHub); fixed with `gh auth setup-git`, re-pushed from the same local commits. Pushes ADD only; nothing deleted or rewritten.
+
+| Repo | Files added | New head (sha-8) | Verified |
+|---|---|---|---|
+| muse-swap-space | 35 | f9689cc0 | head SHA match, 0 missing, remote now 350 files |
+| medical-research-and-continuous-updates | 395 | becc1785 | head SHA match, 0 missing, remote now 442 files |
+| vaccine-toxoid-research | 5 | bc35b0a2 | head SHA match, 0 missing, remote now 17 files |
+| serotype-disease-groupings | 26 | a586c14c | head SHA match, 0 missing, remote now 28 files |
+| historical-modern-therapeutics-of-disease-nomenclature | 3 | 8ddf9fdc | head SHA match, 0 missing, remote now 5 files |
+| medical-elements-and-thoughtology | 4 | 502a6818 | head SHA match, 0 missing, remote now 6 files |
+| change-of-address | 22 | 7d27d6fc | head SHA match, 0 missing, remote now 24 files |
+| quantum-medicine | 3 | f3576f75 | head SHA match, 0 missing, remote now 5 files |
+| the-mycelial-transposition | 240 | d6e393f8 | head SHA match, 0 missing, remote now 247 files |
+| chat-archive | 4 | 7f430589 | head SHA match, 0 missing, remote now 7 files |
+
+- Total added: **737 unique files** (738 gap entries − 1 byte-identical duplicate).
+- Remote total across 12 repos: **408 → 1,145 files**.
+- Permitted universe in scope: 940 enumerated − 77 excluded − 2 held = **861**. In GitHub after Phase 2: **860 destination files** (the 861st local file is the byte-identical duplicate, present via its twin) = **99.9% by file count, 100% by content** of the permitted enumerated work product.
+- Phase 4 (research images) NOT done — later background task on Douglas's word.

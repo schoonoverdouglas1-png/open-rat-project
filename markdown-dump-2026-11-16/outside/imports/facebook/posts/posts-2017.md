@@ -1,0 +1,22 @@
+# Own Facebook posts — 2017 (20 posts)
+
+- 2017-01-22T02:57:55+00:00 —  — https://facebook.com/654402359/posts/pfbid02jRvtNHKqtDLRAMBJbQioaUX37jyXYAGSzwFhdp5LLbFrci88dXE6zU7t5aCVh8Q9l/
+- 2017-01-26T07:46:55+00:00 —  — https://facebook.com/654402359/posts/pfbid02jKVAnKo97W64dEsgp3mM989VQwLhHwGWy8dvP1wxofM7MHDV2BqbB81x7N7aATb6l/
+- 2017-02-06T17:17:18+00:00 —  — https://facebook.com/654402359/posts/pfbid02DuWqzT5h3t2YQ3ibjuP7eYMqt2RawJYNpt5UzfBBRwoWYkK43xCRki4ywA2WTSLRl/
+- 2017-02-17T01:27:29+00:00 — My wife's asshole dad decided to sue me in court.  Shocking but not surprising. — https://facebook.com/654402359/posts/pfbid0mztkYi3VmsBjLepztZy2i37pmERo98EdiHEiN47WjbBkm4moar5JKqDb3ReJcPiAl/
+- 2017-02-17T04:59:08+00:00 — So now I'll be looking for some help moving?  PM me if you can help — https://facebook.com/654402359/posts/pfbid02TdSNSFx5Ai86AboskLweHeqbaYVr8wByuiXM72uwjMbHbCkUQU5apu8ELyq2LsaDl/
+- 2017-02-18T19:57:04+00:00 —  — https://facebook.com/654402359/posts/pfbid02J2FMNFHvdLesgrpiYAFurm7zNnawCUE9ksCDC6bdP6G27ciiPHb134Ef3tu1x6r9l/
+- 2017-03-04T04:36:26+00:00 —  — https://facebook.com/654402359/posts/pfbid0Bo6HLUvVnALBnxqmVHSHJF9GajppyVtqNVcuvkxJeEQTr6zT63DZ3AruLzdVHpHcl/
+- 2017-04-08T14:51:21+00:00 — Everyone that cares about the elderly, poor and disabled needs to sign this! — https://facebook.com/654402359/posts/pfbid0sfQ1TZvg9gYDkxNZHGsPwwB7p4GQpLJRf4EphZnqwdBVH8AqgoTVY2bLaA3KXWT1l/
+- 2017-04-17T13:25:51+00:00 — Does anyone have a truck van or station wagon that I could borrow for a few days  Need to get moved out soon.  PM or text me if you can help thank you!! — https://facebook.com/654402359/posts/pfbid02D9ip3wnxw4E86Fyhsr63CGtiZLQeDgdaEhR9raQmLgKVzBrJRNgHeaz2DWXeyAFYl/
+- 2017-04-17T15:45:33+00:00 —  — https://facebook.com/654402359/posts/pfbid02T8AqHBKaCucpoZXUWk5JEYc9j1df5KNLThmvg7kiuKsJW8ScR8EteAjDXpo3h9K9l/
+- 2017-04-25T16:05:53+00:00 —  — https://facebook.com/654402359/posts/pfbid02mTDn4iGh7Z9cLXdxikKrgmQTYWaCR8mraETQ13tUb69o4xTYn8WmmkdxRCaVSwmnl/
+- 2017-05-12T08:26:35+00:00 — Check this out — https://facebook.com/654402359/posts/pfbid02ZSu2jjimfmEPwx8W3JGm1CkCQ6K6qGVD5L9Jua7FYJoeynCog5sLPPFCG3xca5uSl/
+- 2017-05-18T15:31:58+00:00 — Looking for a good deal on a used car or truck under $1000 PM me — https://facebook.com/654402359/posts/pfbid09FmTw5nXQmTtDtCECGArFw4cawfPbpBUGdZoN9ZoUVCykwYGmVeBBX1h3DBrkYznl/
+- 2017-05-31T15:34:14+00:00 — Lana and Lola — https://facebook.com/654402359/posts/pfbid021e7vy36fozA7ZWTkFnR8rnSykCeTSuJkwNsjvqnoMJ411ZfTZM2AALyNTGSJVS22l/
+- 2017-06-04T16:50:45+00:00 —  — https://facebook.com/654402359/posts/pfbid02TKxuBqC8dSGNJQ65Zs6fLtms2oTDnVbcoRCnpGQjULK9sBtKAtkiyfseidTTNQU3l/
+- 2017-06-07T16:40:13+00:00 — Really something — https://facebook.com/654402359/posts/pfbid02f14t1cBvMqDnrmKPvG2p1gtQuUFrrzLdwRGSqCuZ1oqMbSvQTKrmURA4A1ASQzd7l/
+- 2017-06-13T02:06:34+00:00 —  — https://facebook.com/654402359/posts/pfbid02ZSgLY6a7yU8aXcWWf5PaL2ijVNKwKaxkazkxxEHsyRKSqgSmzkLAB3FyLUKsAuhVl/
+- 2017-06-20T21:26:58+00:00 — Kitties — https://facebook.com/654402359/posts/pfbid026Qe6EC62SgWyR9vWSuUWu8f8sgF9RoRuGeFoBK9RAu6uEfqgHX29bqYLrUd7zcRHl/
+- 2017-06-28T20:33:32+00:00 — Good Adds Up — https://facebook.com/drschoonover/videos/10155511841167360/
+- 2017-07-05T15:43:25+00:00 —  — https://facebook.com/654402359/posts/pfbid0QKEHc29zWaRAjJXh2o8xPuMmRV7y1iu5z6UfkEVRT1akYsENiW7GXFbcba8cpQBkl/

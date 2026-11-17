@@ -1,0 +1,33 @@
+# Cache batch — Douglas Schoonover's own timeline
+- Source: `facebook-cli timeline fetch --profile-id 654402359` (connector, read-only)
+- Retrieved: 2026-11-15 07:07–07:08 CST (America/Chicago)
+- Pages fetched: 3 × 20 = **60 posts**. More pages exist (`has_next_page: true` after page 3); stopped here for ordinary-use volume. Next cursor after page 3 is recorded in INDEX.md.
+- Note: page 1 covers Oct 2025–Oct 2026; pages 2–3 jump to Feb 2014–Apr 2014 and Dec 2013–Jan 2014 (connector ordering). Pages 2–3 posts carry no captions in the returned data (photo/media posts).
+
+## Page 1 (retrieved 07:07:18 CST) — 20 posts
+1. 2026-10-31 — post 10165599843637360 — share of an AI-built "Clinical Proficiency Examination" quiz (fungal cell membrane / lipid target question); caption: a test he built with AI as an experiment, scored 80–100%. https://facebook.com/654402359/posts/pfbid02dyEC4n7Eixqr3sLQY3Vju7RJ22EqsSWMANBso4KHfPEVWsHHxL9NSdJ6P9U7d1KDl/
+2. 2026-10-24 — post 10165553941082360 — share (Gemini-related), no caption returned. https://facebook.com/654402359/posts/pfbid02y9CrM7BPYVeGUB5CS8UQskBw3k2WzcJeFxmi7i2GkvaAsv9TvjcDaPN3tJkC84Kyl/
+3. 2026-10-17 — post 10165510735707360 — share: Door County / Cornell, WI transportation service ad ("Transportation you can trust", Cornell WI phone). https://facebook.com/654402359/posts/pfbid02jA6rFtmEYdG815RAKbthYWrGgHGLVjmXHJr5jFsduPxi2J2FpdCSafN5mXfAmZ4bl/
+4. 2026-09-11 — post 10165333131647360 — caption: "me and my old farmall tractor moving some junk". https://facebook.com/654402359/posts/pfbid02RAVPcS9ztKo3KXSvAdgxj9WzPHKH8SheZKP6GaAaiEPBFE1HMJEMBMgaXBGx25xvl/
+5. 2026-09-11 — post 10165333129797360 — video/reel: circa-2013 footage of his International Farmall H tractor with trip bucket loader; caption recalls having fun junking/scrapping cars as a younger man. https://facebook.com/reel/1078937408021852/
+6. 2026-08-22 — post 10165244612372360 — caption: "Thank you all for the well wishes for my 44th birthday." https://facebook.com/654402359/posts/pfbid0GVUBtAkEFCFtTqwR1SydhXjhvGRi5WA7uVxTndTSgU3T9eTV6116kAK7nd2PrBg8l/
+7. 2026-08-22 — post 10165244604682360 — shared video: fortune/luck-style clip ("best luck in the next seven days… big decision…"), no caption of his own. https://facebook.com/654402359/posts/pfbid0sqEXk3NCpAiQdvztXJzBFCj7c5cgnVByL8CJHbTb6cfjhdHnpizq8cntStQ75Dbhl/
+8. 2026-08-11 — post 10165193519442360 — work-experience life event, no caption. https://facebook.com/654402359/posts/pfbid02t8NwNdxf8t5KRSPhZMwi5XSeRD9ujFAfEq5nd2tKaMz5rTnEVY4NCRBjiiGds45Pl/
+9. 2026-08-11 — post 10165193519437360 — work-experience life event, no caption. (URL as returned by connector, see raw output.)
+10. 2026-08-09 — post 10165187269282360 — "THE CONTRACTION EVENT THEORY" — his original cosmology theory post (expansion + contraction, 361° loop, Element 0), built with multiple AIs for fact-checking; long text post, © 2026 Douglas Schoonover. https://facebook.com/654402359/posts/pfbid02YLoJs1Csq32VcNpAyz9SdVrFvEF3EvvdBUqCCHnq6gT8TrjMM6hF18SFfEg2WQBWl/
+11. 2026-08-08 — post 10165180630967360 — share; caption: "i asked ai to construct this, i havent tested the info yet". https://facebook.com/654402359/posts/pfbid02TdfWU8cXya9MAAnLcZXPr3xSqh8Xz4783sf4oHmfa7y1KHdpy3JfrDRcM746cNhhl/
+12. 2026-08-07 — post 10165176174117360 — share; caption: an idea worked through with Meta AI and his unified theory, assembled by "the computer and myself". https://facebook.com/654402359/posts/pfbid02mWcamEBX1KRToPpw11E4wDkdWnNvwfN3Shej1nsXi7hJAboxS1YHGKCDn3mkcuTTl/
+13. 2026-06-28 — post 10165002105512360 — share; caption: his postulate for a scientific paper/book — renaming/reclassification of penicillin-class drugs to "Fungal Replacement therapy". https://facebook.com/654402359/posts/pfbid02UATiz3oswGiSgvHULThG7UkTdAFSjFJ6dFNNLLg8NwNJ6gBH92fCYNHU8rPfncKTl/
+14. 2026-06-26 — post 10164990734787360 — text post asking friends for extra-large clothing / size 38–42 pants after losing almost 20 lbs and having to throw away almost all his clothes; asks people to PM him. https://facebook.com/654402359/posts/pfbid02J1P88rmYK9yYtx8winoZfUJXaxwNnEhAL78wkb27gTnvatsU9nCgbZjfcuAYCYJYl/
+15. 2026-06-25 — post 10164987183422360 — photo: copyright declaration image; caption: early draft/snippet of new work, possibly "universal relativity and the study of infinity". https://facebook.com/654402359/posts/pfbid09Pdwtg11XQhsoq69Smn9NRyQUtXGZiRJRJqu2mhaaXVuyN8XNuweohcCUuqFGNRGl/
+16. 2026-06-24 — post 10164982549217360 — share, no caption returned. https://facebook.com/654402359/posts/pfbid0HRxwuJMmVzpA1NT5wjsoNmoLdumQnfkwvjG8jgVekWSFxYiG6guPBpvx7NT7FFxul/
+17. 2026-06-22 — post 10164975653107360 — share; caption: his first draft publicly shared on any public forum, a "pet project" synopsis still evolving, written with Google Gemini AI and Microsoft AI; "The results are astounding!" https://facebook.com/654402359/posts/pfbid0zf1d2WXTE1Agwxa1XZ4QgjcSuH9bz2GsdwrVMYSMDn3y26gfVyudyfqK9QCNj9Zol/
+18. 2026-06-09 — post 10164919583632360 — life event, no caption. https://facebook.com/654402359/posts/pfbid02q7yF2yeaXemqDVh4xkpHq15bi6MLcWQ7CTUiTWovSrzWyzv9g3Ur9ueUXAgZAQEfl/
+19. 2026-02-16 — post 10164406021332360 — share, no caption returned. https://facebook.com/654402359/posts/pfbid02EmKews7dfAV96KDZKgyYrdwo8bg5XJnNdcRZFz8PabyPEwZGV644ZSd75XnWddesl/
+20. 2025-11-11 — post 10163980343337360 — photo of a hand holding a small burnt/charred cylindrical object; caption: "This was a terrible cigarette, makes me want to stop more". https://facebook.com/654402359/posts/pfbid02PukoEDrzka7TmE25paocPBQXAdGrvEcxYZfQk77gc3yxQis7ia4SXokaVPHsfgWul/
+
+## Page 2 (retrieved 07:07:31 CST) — 20 posts, all Douglas, no captions returned
+Dates 2014-02-28 to 2014-04-09. Post IDs: 10161444089387360, 10161444057197360, 10161444047067360, 10161444042602360, 10161443984652360, 10161443962867360, 10161443945717360, 10161443940652360, 10161443929652360, 10161443840397360, 10161443836232360, 10161443739927360, 10161443710302360, 10161443658032360, 10161443643727360, 10161443633382360, 10161443589747360, 10161443555097360, 10161443550512360, 10161443547182360. URLs follow the pattern https://facebook.com/654402359/posts/<pfbid> as returned (full URLs in raw connector output, session 2026-11-15).
+
+## Page 3 (retrieved 07:07:41 CST) — 20 posts, all Douglas, no captions returned
+Dates 2013-12-28 to 2014-01-08. Post IDs: 10161442853237360, 10161442843082360, 10161442833612360, 10161442814687360, 10161442793882360, 10161442788597360, 10161442772522360, 10161442772062360, 10161442762682360, 10161442760792360, 10161442738757360, 10161442737642360, 10161442711792360, 10161442711002360, 10161442697482360, 10161442676972360, 10161442675837360, 10161442667407360, 10161442666627360, 10161442660502360.

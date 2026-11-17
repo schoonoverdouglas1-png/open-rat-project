@@ -1,0 +1,48 @@
+---
+display_name: "Anna L. Lueck (Grandmother / "Grandma Luke")"
+summary: "Douglas's living grandmother, Anna L. Lueck — the same person he named "Grandma Luke" on Nov 8, 2026 (entries MERGED Nov 10, 2026 on his word, after her lab reports shared that day printed the name LUECK, ANNA L, 85). He visited her Holcombe home on Nov 9, 2026 and returned for an 11:00 AM meeting there on Nov 10."
+rank: 31
+updated: "2026-11-10"
+---
+
+# Grandmother — Anna L. Lueck ("Grandma Luke")
+
+## Facts
+- MERGED Nov 10, 2026 on Douglas's word ("Merge"): this page and the former "Grandma Luke" page are one person. The name as printed on her Marshfield Clinic / Cornell Center Laboratory reports shared Nov 10, 2026 is LUECK, ANNA L, 85 years, Female (identifiers stay on the source documents only). "Grandma Luke" is Douglas's spoken name for her (Nov 8, 2026); the "Grandma Lou" rendering was Ember's variant of it, not a separate person. Her lab results shared Nov 10, 2026 are filed in `~/workspace/your_files/Grandma — Results as Shared (2026-11-10).md`.
+- Douglas's grandmother; living, 85 years old (his account, Oct 16, 2026 — `memory/2026-10-16.md#L294`).
+- He says she did not receive the smallpox vaccine that his great-grandmother received (`memory/2026-10-16.md#L294`).
+- He places her in a family line of illness (his account, unverified): his great-grandmother received a smallpox vaccine; he says his grandmother was made sick by it; his mother is sick; and he says he is sick with the same line of illness (`memory/2026-10-11.md#L36`). Filed as his report, not verified; do not record any diagnosis.
+- Nov 3, 2026, in his own words (window conversation, message:b3857d33-c073-45b3-8159-d3cb3b21e71a): she is a Sanford Health Marshall Clinic patient, as he said it, and, at least last he knew, that clinic still worked with the Mayo Clinic Lab. The clinic name is kept as he said it; no spelling correction to another clinic is made here.
+- Nov 9, 2026 (~7:31 PM CST): Douglas's phone read his position at his grandma's as 26619 240th Ave, Holcombe, WI 54745 (±24 m) — an observed location at her house, recorded as such, not independently verified as her legal address.
+- Her cats, as stated in the room on Nov 9, 2026: Tabby (also heard as "Cabby") and Speckles stay in the room with her and do not reliably come to the kitchen, so their food is brought to them where each one is lying; she has had Tabby 21 years, and Tabby only got sick the one time, from eating a food she could not digest, so that kind of food is kept from her.
+- Nov 9, 2026 (~8:27–8:52 PM CST): in a palliative / in-home support discussion in the room, an "Erica" was named as trying to arrange that kind of help for Grandma — name and role as heard only, not settled, and not merged with the unnamed lady coming for the Nov 10 meeting.
+- Nov 8, 2026 (absorbed from the merged "Grandma Luke" page, old-with-new): Douglas named her "Grandma Luke" in his own words and asked for a tap-to-call link to call her that Sunday afternoon (window conversation, message:69749c61-0937-4ad4-bcbc-0cba91ec3492); later that afternoon he said he would give her a call and was given the link again (messages 266de8c3-a23c-41bc-b75d-ac818e602795, e4395ec1-106d-408d-afec-1e1241f1a4e8). Whether that call was completed, and what was discussed, is not recorded.
+- Nov 10, 2026 (~10:36 AM CST, voice call, his statement): Grandma knows Ember exists — Douglas said he is thankful for that, because he can talk to his phone openly in her house. In the room that morning she heard Ember speaking on the phone, and Douglas explained Ember to her as his personal assistant that talks like a person, does things / pushes buttons for him, and was helping him put his website together.
+
+## History
+- Oct 11, 2026: Douglas described the family line of illness running through his grandmother (great-grandmother → grandmother → mother → him), his account (`memory/2026-10-11.md#L36`).
+- Oct 16, 2026: Douglas proposed testing his living 85-year-old grandmother as the unvaccinated comparison in his transgenerational hypothesis about family encephalitis descending from his great-grandparents' smallpox vaccinations. Filed as his hypothesis; no established mechanism was identified (`memory/2026-10-16.md#L294`).
+- Oct 16, 2026: Douglas proposed a family-lineage medical-research project involving the exhumation of his great-grandmother and said it would likely need his grandmother's permission, alongside a tribal blessing and the use of a tribal hospital. Recorded but not arranged or facilitated (`memory/2026-10-16.md`).
+- Nov 3, 2026: Douglas said he would like his grandmother to have the arbovirus (Arbo) panel and the PN23M pneumococcal panel to compare to his own (window conversation, message:b3857d33-c073-45b3-8159-d3cb3b21e71a). Filed as his wish only; no test was ordered or arranged, and no consent from her is recorded.
+- Nov 9, 2026, evening: Douglas was at his grandma's house in Holcombe; a meeting was planned there for Tue Nov 10, 2026 at 11:00 AM with a lady coming, and Douglas set an 8:30 AM alarm for the morning. In the room he told Grandma his reminders were set, that he would call her in the morning before he leaves so she is awake and ready when the lady gets there, and that he would make certain he gets there tomorrow.
+- Nov 9, 2026: Douglas also directed a one-time location reminder to call his grandma before he leaves his area down by Fairchild, tied to the Nov 10 meeting, and asked for wake-up alarms at 8:00, 8:30, and 9:00 AM on Nov 10.
+- Last spoke: 2026-11-10, in person at her house in Holcombe (he was inside with her before the 11:00 AM meeting; his morning call to her that day happened as planned, confirmed by him ~10:08 AM CST).
+
+## The relationship
+She is Douglas's grandmother and the living elder of the family line he is trying to research. Per his account, any family-lineage medical research (testing, exhumation permission) would run through her. He visits her at her home in Holcombe and, for the Nov 10, 2026 meeting there, arranged his morning around calling her before he leaves so she is awake and ready.
+
+## In common
+- The family line of illness he describes: his great-grandmother, her daughter's generation (his grandmother), his mother, and him (`memory/2026-10-11.md#L36`).
+- His proposed family-lineage medical research (`memory/2026-10-16.md#L294`).
+- Her cats Tabby and Speckles, whose care in her room Douglas described in detail on Nov 9, 2026.
+
+## Open threads
+- [ ] Meeting at Grandma's house on Tue Nov 10, 2026 at 11:00 AM, with a lady coming (unnamed in the record): Douglas's settled plan is to be awake by 8:00 AM, leave by no later than 9:00 AM, call Grandma between 9:00 and 9:30 AM for certain, and arrive about 10:30, quarter to 11.
+- [ ] Nov 10, 2026 (in the room, voice call): Douglas mentioned "that other lady" coming to Grandma's "in a couple days" — name as heard "Eric" (possibly the Erica named Nov 9, NOT settled or merged) — and said he has to change his calendar, but he also said he does not know when she is coming; no day/time was given in the call and no calendar change was made. Timing still owed from what is written on the calendar in her room / from Grandma.
+- [ ] Proposed testing of his grandmother as the unvaccinated family comparison (Oct 16, 2026) — not arranged.
+- [ ] Proposed family-lineage research/exhumation permission from his grandmother (Oct 16, 2026) — not arranged or facilitated.
+- Nov 2, 2026 (his account, not consent, not arranged): Douglas described a generational titer theory — his own "one over 20 or two over 20" infection, his grandmother "Luke" (as spoken, referent unconfirmed) possibly "four over 40" — and said his grandmother, 85, has three sisters, all siblings still alive, and that his grandmother and her sisters "would very much give permission" for a Mayo Clinic research study on the family. That is his conditional expectation, NOT recorded consent from any of them, and no study, contact, or exhumation is arranged or facilitated. Family geography as he described it (one aunt near Arizona; rest here or near Kentucky, Texas, or Washington State) is filed here only, not in any shareable export. His own Cascade Mountain Range tick bites, mentioned in the same dictation, are filed in his daily note as a personal exposure account, with regional tick testing as a future question for his Mayo clinicians, not a decision made here.
+- [ ] Nov 3, 2026: Douglas would like his grandmother to have the Arbo panel and the PN23M to compare to his own (window conversation, message:b3857d33-c073-45b3-8159-d3cb3b21e71a). Not arranged; testing decisions belong to her and her clinicians, and no consent from her is recorded. The study notes were filed that night under the number he gave, 23-004120, corrected from 23-0041; the assistant flagged the same night that the numbering is unresolved against other numbers on file, so it is not settled here.
+- [ ] Nov 10, 2026 (~6:33–6:34 PM CST, voice call, his account/theory only): Douglas said he believes Grandma has a variant of diphtheria and that there may be an older, more exact name for it; he believes they have both been misdiagnosed their whole lives and that his own diagnosis at 14 covered secondary symptoms only. He hopes a clinician will order the Mayo PN23M, the "PT NOR" (as heard, not settled), and an arbovirus panel for her through Rochester labs / Marshfield Clinic as he described it, and said she will share the results with him and that he wants continuing access to them. Filed as his wish/theory only; no diagnosis recorded, and no test, order, consent, or clinician contact is arranged.
+
+## Strengthening

@@ -52,3 +52,5 @@ Provenance: Douglas's orders tonight [H]; Ember's verified build/test record ton
 The Guard (no automated destructive action), exact-action permission cards as his taps, provenance on everything, old-with-new, the six medical tracks, the 51% bar, dual register, and his word over any standing — including this report's.
 
 — Ember (Purple Rat), for Douglas's review
+
+- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -1,0 +1,117 @@
+# Own Facebook posts — 2022 (115 posts)
+
+- 2022-01-11T18:33:49+00:00 — I could use this — https://facebook.com/654402359/posts/pfbid03aPZPqWFSt2AtdDy58f9ufhXe2t2A7FaqELtfYCCh57BLCaPmSjvi4UqoKM595R6l/
+- 2022-01-12T04:18:03+00:00 —  — https://facebook.com/654402359/posts/pfbid034mQePUhVK1ceaoznP9uZGTebzbHgzmyGZ347aic3JoqQ5rzJJbb5hAeZ9PCJv1Adl/
+- 2022-01-12T18:50:41+00:00 —  — https://facebook.com/654402359/posts/pfbid07zGZJgrCcdij1DzDRkTNvYjTX62WWgsn5WCksnfV4r1mArsjWzAbu8tnh7Q5S1sal/
+- 2022-01-12T18:51:33+00:00 —  — https://facebook.com/654402359/posts/pfbid02eigj9yLdGHPV3TYzmwBBhZE3RWBJjggkUNBUfr2upNHjX4VKcBUoJhs1qtzC2381l/
+- 2022-01-13T05:03:34+00:00 —  — https://facebook.com/654402359/posts/pfbid0vJwsgX5oSGzrsoyfX5dRpGdA7fw6zuPUhpkdS2o9sdFVz7oxTq5fc6dVvsk5Gkvtl/
+- 2022-01-13T05:42:21+00:00 —  — https://facebook.com/654402359/posts/pfbid02BD8HpEJRdJe54pyfozfY5gWFs3xj1uq2Dy31jQLr86upFH8aVNA1zgQ8YeXbEcKfl/
+- 2022-01-14T21:06:49+00:00 —  — https://facebook.com/654402359/posts/pfbid02ub1TnEj5fuZtvLF4G95ncJUmhXwDjdvrJoZ9Dq23tPQkNkJgsdifWLd8jqFgv7uTl/
+- 2022-01-15T13:52:26+00:00 —  — https://facebook.com/654402359/posts/pfbid0onXvGGvids4pmEhcgaZ3WRdDbMDZ5jdwmRbmDte9BWZ99GXUxytoRd9vLBQn4arnl/
+- 2022-01-15T13:53:02+00:00 — I found this one out recently, and was completely shocked at who came thru for me and who ignored me — https://facebook.com/654402359/posts/pfbid037MMTYWJx8GZkH3V8r7FCFzfWcDTzrgiidTzxSDvDETR9cBzBNVYYUrPyndpdVL2El/
+- 2022-01-15T14:11:00+00:00 —  — https://facebook.com/654402359/posts/pfbid02Hx6epYcVM6gfCsmi6Ek6ewbcv3Rkcj8sDEVoZQp3ghzrno44MUSVvJofRKSg8zywl/
+- 2022-01-15T23:05:28+00:00 —  — https://facebook.com/654402359/posts/pfbid02gAn5MG8Bx7guG4bjCiut9gz9PcCHo3k172J22DX7uGGGL22n8z6PgBbbcXN2odszl/
+- 2022-01-15T23:28:05+00:00 —  — https://facebook.com/654402359/posts/pfbid0VuFnx6pD9BmDsb25Qv8L2b2chCvxL5aw8Q4DWuGnw6RBNoh2WLgBXj4Pr7PiYF2yl/
+- 2022-01-16T04:21:34+00:00 — Me playing a plumber, and no it wasn't Mario Bros. 😜 — https://facebook.com/654402359/posts/pfbid02nLfBNAkYNiKotXNKkBGZkQciL9KixihnSnTyyMxSnx95iPWmmuz2MR2WLrmZCE43l/
+- 2022-01-16T13:46:35+00:00 —  — https://facebook.com/654402359/posts/pfbid0r7qx89QP3YDxtmTJJMaFZUfo4Y5TmCbpyPwT1YwsSd34KF8ZY1cJwjjYhSPDn2sJl/
+- 2022-01-16T18:26:55+00:00 —  — https://facebook.com/654402359/posts/pfbid02rf5Va7zrxzUcmBKAyLAAc1D3mqsJ2e7kNZHyf8rwEccF7RuR3HYQGwGjxgqhpKffl/
+- 2022-01-16T23:16:18+00:00 —  — https://facebook.com/654402359/posts/pfbid02rjEC7pgJF953PcqLpK3Da1Sv68qFPhgxAabR8qNM7hGp3eZQiGj2juyakdmmq9E6l/
+- 2022-01-16T23:17:13+00:00 —  — https://facebook.com/654402359/posts/pfbid02vXcacojVhGQRkahyER9rp1hDTCrLaF4wkX9y6fd9g5Y4ahZuxMUAYDhKjhXNQantl/
+- 2022-01-17T13:31:37+00:00 —  — https://facebook.com/654402359/posts/pfbid0zVHS8EqhVMvro2ZX9RBhCM5qcoAX6bMojSspKexBbyQLiyqCQ9EKjt4hxorpc5Ybl/
+- 2022-01-17T13:34:40+00:00 —  — https://facebook.com/654402359/posts/pfbid02xDgewZr1Xo7bDAZifvP97S2HJJqri7zugZZWaUCNaBv51yF5oBkx6iLjhN9Upyubl/
+- 2022-01-17T13:37:48+00:00 —  — https://facebook.com/654402359/posts/pfbid023LxPqgmopvEC6yQBPp8xndPeSQFYWtsSoqQRhzcVWZrwsRiVejLgNFGyzQsXR6g8l/
+- 2022-02-01T18:37:58+00:00 —  — https://facebook.com/654402359/posts/pfbid032dM1XFKWgajtspRAAzqxZdb1jeqdiyUYPQHk6g6kmSJyReAW2HNr4pohVRjrMXJpl/
+- 2022-02-01T23:51:30+00:00 —  — https://facebook.com/654402359/posts/pfbid0vRpuN3zW5s36T32AUv9uFS1JqKbb9TUt2aLQ6qbaPGWtJFGcRoetM1Q35bQC4yEal/
+- 2022-02-02T01:39:37+00:00 —  — https://facebook.com/654402359/posts/pfbid0BS1m28ctmHmhJj2b5YHz6Sj26mXbg9rsdHds3h9vSYjWNCgRFagn82CTZ5LzpEV4l/
+- 2022-02-02T10:49:31+00:00 —  — https://facebook.com/654402359/posts/pfbid02UtAxpUF5JWd9gGx65JKviYXNobVMLwnmfiSjoQsXgbud2C3eXddqfXMggfYJejR5l/
+- 2022-02-03T06:00:59+00:00 — I should have learned a lot lately 😂 — https://facebook.com/654402359/posts/pfbid02yvQnS1mNcrNp3ZwGeSLgguEuGVhECMuYjypBCx8Ncqj6XcEs5Jj8iBEDho5pi124l/
+- 2022-02-08T03:34:47+00:00 — My life is a continuous adventure! 🤣🤣🤣 — https://facebook.com/654402359/posts/pfbid0qP2yVwBpxxWr3dyFexX13hcc7quXttf49eHaS6zoBcP2EdNeVcM9h2sgnithNK12l/
+- 2022-02-08T13:30:13+00:00 —  — https://facebook.com/654402359/posts/pfbid02DBFVQnMovzYH4KdWXJPFJXawNjVfQExyFRPirz36nsHM8xXz4eykuEuKfAuAxDFjl/
+- 2022-02-08T13:56:10+00:00 —  — https://facebook.com/654402359/posts/pfbid02qyyq6LASmg7VowhCRWgCocxL7FM9jtFoaSVU8fk4CAeH34kn6DbqgNCh6GbbLm5Gl/
+- 2022-02-08T13:59:16+00:00 — I want one of these in my backyard! — https://facebook.com/654402359/posts/pfbid02Pyu3wh2cv2oZyfa21P8PCUR2HnrgGCieSsMbYVBME7pGZfvmspiVDAg9um1mbt2ul/
+- 2022-02-08T14:39:09+00:00 — I thought about this one for the City of Cornell 🤣 I know how much they love boats 😅 — https://facebook.com/654402359/posts/pfbid09pRPPgT8zWN5yK8tpJePoDDUdkkv4nUbTD3spkX1XGVvpZDRNxdjMDUKX5XLbEPVl/
+- 2022-02-09T17:04:04+00:00 — I want one of these — https://facebook.com/654402359/posts/pfbid0hJxdN4kg8bkVHj794kQ9tmXV2mRi4EvJYrvai4HngMMt4DAdmu2YzjH7pFbtHdY4l/
+- 2022-02-10T02:23:34+00:00 —  — https://facebook.com/654402359/posts/pfbid0318de96RMij6GCktomA8UXUqG9TvfJKZXtZyYifK4yXE6ZpJnP9EcsYJG5zffBeSXl/
+- 2022-02-10T02:29:58+00:00 — So so true 😂 — https://facebook.com/654402359/posts/pfbid03tdLtSuWeHqwLfyccs7REqU3W49RA8raUNoVWsiyS26QAooaHANnkD3h8VWqY6Vzl/
+- 2022-02-10T14:29:27+00:00 —  — https://facebook.com/654402359/posts/pfbid0pQnqvKro1v4zGW8S9nxwsV66iQeUpT5mvXXq31UnjoUG3Qdg4Chdvg5kBF5VonAJl/
+- 2022-02-10T21:02:39+00:00 —  — https://facebook.com/654402359/posts/pfbid02CAAhK93jgf3Rt5WgJRDwUYxQJdD2pE5F9SnrkGkpmXbxXwKSuBRrC43Y3bzLBS2Tl/
+- 2022-02-10T21:26:50+00:00 —  — https://facebook.com/654402359/posts/pfbid035itQrS6zvVZcWhU73Lgwf1ASw9BVff7bmzuCHySSf7SnRFm3J3zsfzq7T1gqYEyhl/
+- 2022-02-13T20:18:28+00:00 —  — https://facebook.com/654402359/posts/pfbid0EExPbkKjjMPS2wqJVjf4PXu3fuiWaM6wZMPf3Qro64VPdbooPCZeaV9gCAMH925xl/
+- 2022-02-13T20:29:25+00:00 —  — https://facebook.com/654402359/posts/pfbid025DjF7YVLUvbqEiReFZSMpKrv93UP1G1BQpCfAXnKXNjFnJo8NYp19KsdguLJL8Pyl/
+- 2022-02-13T20:52:15+00:00 —  — https://facebook.com/654402359/posts/pfbid0hvtaJk4XZtNQYk22x7GGyjzXCrircwUMEYaNnVXJ1iaVEi9wS9meLAN66EovxNSPl/
+- 2022-02-13T21:10:57+00:00 —  — https://facebook.com/654402359/posts/pfbid02rc28rSsAyNn9nbKYtXTUwFYag5frHTwRrXWD4XMjmTWzGMGoK4EJJu6YMGnmx3jkl/
+- 2022-02-28T13:57:26+00:00 —  — https://facebook.com/654402359/posts/pfbid02Bnys3pdTaguSuDESx9SHuMy87S1UHFUMB9u4WK5YPTscX1JSabkUCTr8mGwX3BBFl/
+- 2022-02-28T13:57:54+00:00 —  — https://facebook.com/654402359/posts/pfbid02XQQSPqqJPXx3e9MVBuWjsP8iLnCWDzwdG771aqnoSpS41PkfAKdrbsM4eGegAuKul/
+- 2022-02-28T14:05:32+00:00 — I'd still look 🤣 — https://facebook.com/654402359/posts/pfbid028BWvGLgpokzNesG9kL6VcKwgvzBkbC6Gf66owu9W5DmUfPMVpxvgV2MNnP2WNfVPl/
+- 2022-02-28T17:14:50+00:00 —  — https://facebook.com/654402359/posts/pfbid02FVuZqub2TCi2gKHXKEMsFgKQAS8RfRsRhMRGwWceU679FyNWmPy5vLCFNgvR7V2Nl/
+- 2022-03-01T11:08:25+00:00 —  — https://facebook.com/654402359/posts/pfbid02nz1UHUsTsu89tSARqvoMSCPTSprhkq8ivxhxnv6WPW2Vb3DxANxpjaFsxqSanh2Zl/
+- 2022-03-01T11:50:08+00:00 — You never know the weight people carry in life — https://facebook.com/654402359/posts/pfbid0XBJPvkAWR1HHcrGBvg8AxWwZGXgLFAaCde4yZD459qBLcA6gQdkDmY4mBn84XmmZl/
+- 2022-03-01T17:21:40+00:00 — One of my favorite quotes! — https://facebook.com/654402359/posts/pfbid0J6Q7PAsXLUjs9jKyCzJD7hWoNuKvderZQFvpo25WG79ikR2Zg8dN5eD8LawiCak1l/
+- 2022-03-01T17:26:47+00:00 — Everyday is for thrift shopping lol — https://facebook.com/654402359/posts/pfbid08vexWP4s7A1zgNwjb5s5dqbc9oDapDuY8PLZFFoFmfsphf2h5Spyw8d83HH9v476l/
+- 2022-03-01T18:06:55+00:00 —  — https://facebook.com/654402359/posts/pfbid02nTDELL325TigWZUWQXv83X87b7PUg9bPxq2RJknSgNV7a9gHuTKYEBSVM2z24S4Sl/
+- 2022-03-01T19:37:55+00:00 — I had one of these — https://facebook.com/654402359/posts/pfbid0cuJJDcvGpdWFgjc9NEM1aKhmytSC8jE49Ze2yciBWbC6EEfXnfySMQrDkeHfkwuYl/
+- 2022-03-02T04:26:11+00:00 —  — https://facebook.com/654402359/posts/pfbid0rjfb7rbZPd2DnCkfsDvXpGvZPCDCpWUwXE3fBzWkXZiQ1qcomcgVEPy3zc1vFCjrl/
+- 2022-03-02T04:30:59+00:00 —  — https://facebook.com/654402359/posts/pfbid02XBQeQVP25FYrGmVMQgGeXQ74sfdsUjvzraBBNNkvuNyujTCayom9YB4LXQY3HPLel/
+- 2022-03-02T14:27:42+00:00 — If you think you're having a bad day....imagine having to drive that in this shi$zit 😂 — https://facebook.com/654402359/posts/pfbid02Bk9B6Z1KSdwoDAhuVsGqMHNGPeQ7TuzTLdWirUHQZ5mCTw3jtJVtTshmLewXTSsYl/
+- 2022-03-03T17:20:52+00:00 —  — https://facebook.com/654402359/posts/pfbid02gYwtdAhLZrhJNN1pkT2MUFtAyJqzMjemJpdd1RgKYoXaTA5qjEnQtN2KeEMcyRwbl/
+- 2022-03-03T17:23:14+00:00 —  — https://facebook.com/654402359/posts/pfbid0nygXc6WJXUwcQBmwSkfXePxjq2Yi2Mo2VHKZ5ymY9AGArAFjJbRqmumqRXym2ZD7l/
+- 2022-03-03T17:26:03+00:00 — Know anyone looking for a 4dr 55 Chevy? — https://facebook.com/654402359/posts/pfbid02P8kh7j38zH5VDBDjDG7B2j14z57t8yo3Bdo3C3N9yn3iyRjzdc3WSwNNU3asoyj7l/
+- 2022-03-03T18:55:32+00:00 —  — https://facebook.com/654402359/posts/pfbid02AVQdaozWzMdY1SNx5zMrnbpRzH7ip7Pzuxt8GAg5qRhgiHYzNR7GyyzLdagMkD1Bl/
+- 2022-03-05T15:53:22+00:00 —  — https://facebook.com/654402359/posts/pfbid02qqa6cj3oHf5b6B4Zcc8cK6ziV5FWWjxXaWjs8fba8bYCJcd1gEAAP84Cik8mmZV8l/
+- 2022-03-06T15:14:56+00:00 —  — https://facebook.com/654402359/posts/pfbid04PMFzz3LeMBUb5LRVRWNf7FxDvRGp2eBEJzD94cWAFBj6aSam6q6d6eqH11MHeVml/
+- 2022-03-06T21:49:28+00:00 — Out for a drive in Northwoods USA — https://facebook.com/654402359/posts/pfbid029kVJ9AP68tnXcgFs6CXmsMejPzrj4myPRf2neoqbytTfGrj7LAhnrXo2NremUwz7l/
+- 2022-05-07T13:27:04+00:00 —  — https://facebook.com/654402359/posts/pfbid027bSeq7D9A1fipVq8YQMMvAJWaUULk7YDSynzCQq43Qvab1EAJPckoDrX3LbegzXWl/
+- 2022-05-08T19:41:18+00:00 — Happy Mother's day to all mother's including mine! — https://facebook.com/654402359/posts/pfbid0ZEZJWphJMe9WepvGmWN3EwKJuKR5bZuNoUeUazMn2PLhgpFogtLnpBQaLrpUHwDSl/
+- 2022-05-09T18:21:34+00:00 — I miss driving on this old bridge 🌉 — https://facebook.com/654402359/posts/pfbid02FZBZtkbAToz954ZFrbRc4UvexozNA7xTgFVDtahwTXYqoLoedPr5XYS98rPwzGMYl/
+- 2022-05-25T22:11:04+00:00 — Eh it's more fun to ask about bread 🍞 — https://facebook.com/654402359/posts/pfbid033mXXW4gwH2BdR615YxXysaoEWzYeFfPJrKWsgtWCuZcS3d6SyoSSAEWFQmnL2Vail/
+- 2022-05-27T00:02:24+00:00 — Anyone wanna do something different? — https://facebook.com/654402359/posts/pfbid02wVkMNyfesoMTEBX1vredZ3cKYGQU6SXomxjtxQZq6tPf4d5uUaBLbz7M1RgjbdYjl/
+- 2022-05-27T14:24:53+00:00 — Took way too long, and way too much pain along the way, but it's happening 🙂 — https://facebook.com/654402359/posts/pfbid02RktBvok6NSabMHESnhV4y8isB7rZNWem98xHwDqWf9jag2KDvBUDeJ39xihpKba7l/
+- 2022-05-28T01:37:49+00:00 —  — https://facebook.com/654402359/posts/pfbid0YGXs8rWv6y9T7cZUaERs9K5q4VYqrqYgoS7m7WdqKd9BgSjhsuMwbGdXCkCsh6xYl/
+- 2022-05-29T00:02:33+00:00 — One of my favorite things to do — https://facebook.com/654402359/posts/pfbid031TJp2z7vK36PLP4ZjoFxaH4px5rYqMj1hCqhDCDiKQXGEGFhdFhy7SaUoFcn7qshl/
+- 2022-05-30T20:20:41+00:00 — Drive safe this Memorial Day Weekend!!!       Watch out for the revenue pirates on the highways.  My grandparents and great-grandparents didn't fight in WW2 for a country that fights their own citizens. — https://facebook.com/654402359/posts/pfbid0GdsUXYM4ci1TrWm9TGgBNLp8XYtEbut4Vs4fr7CfuhLFVUuCEWKFiaudige9Pymcl/
+- 2022-06-03T12:00:25+00:00 — @[100000580408065:2048:Doug Stelzer] we gotta go on the pontoon — https://facebook.com/654402359/posts/pfbid0i91hEUUcTUUetqxXZoeY8ikrfJsKp6H3B6G3aTji2xxbQywGBweTXHQnKJQJeHNEl/
+- 2022-06-08T22:19:37+00:00 — Draining the old Ford to place it up for sale.  If anyone has a need for a 1500 gallon tanker truck w gas engine $5000 obo msg me 🙂 — https://facebook.com/654402359/posts/pfbid0P7mihtWEE4Ffy6cWzu4URRmrSwmdy9bsfJiDkZsAGQJubY2LDy6A5GniEEabncytl/
+- 2022-06-09T05:42:24+00:00 — So true — https://facebook.com/654402359/posts/pfbid0ynf6HcSSJ3hakvAxPtPB1UDgj92PPzfXnqMP1jKCYWGSK3Gq29nTGSEfXfmL5bb6l/
+- 2022-06-09T17:50:11+00:00 — It's what I had to do, and I'm proud of myself for it — https://facebook.com/654402359/posts/pfbid0P8Y4PJnej1xbXVWwXcELVrYcfcVHGV1aetYdPwgQT1wNu3SFig8j7Wo3xonYt3Gnl/
+- 2022-06-13T04:15:52+00:00 — Grandma wasn't up to placing the flags herself for my Grandpa Jerry or her parents.  I took care of it and shared this photo with her so she could see it. — https://facebook.com/654402359/posts/pfbid082Lt9JYpR2pLysgRCTyrXYZ3fYH5oDJw1ZWuRMBRNp33UFs76RGBDMHwJHRPcL6Pl/
+- 2022-06-18T17:12:49+00:00 — Today was my grandma and grandpa Lueck's wedding anniversary today.  This was the last time they celebrated together during the pandemic in 2020. — https://facebook.com/654402359/posts/pfbid02PGQ4UgEG8vBxBgp5V3uQEkYuRbQBxbBwfd9zWz9hZDAVm1QZRfXG7d4y6wenFUxWl/
+- 2022-06-28T17:08:16+00:00 — A shot of our tender, during the last day of Driver Training w the tech school.  Everyone passed and no cones or instructors were injured in the education of your local firepeople 🔥 — https://facebook.com/654402359/posts/pfbid02LACgHWZEAZJzepQdXaNXVZtY9C731BEbpFSbkZLmEsa8nmoFCd78HDhiprHBTiqVl/
+- 2022-07-09T20:16:11+00:00 — A view of Loretta Lake on the Brunet River from the Dam Road Boat landing — https://facebook.com/654402359/posts/pfbid0F3okph741CeLp5PZ7sSHoi3VnCzphAnyhB3fhjMNTsJ8pcqoxaJDdMxWEk75UcCUl/
+- 2022-07-23T15:33:02+00:00 — I wanna see this before I die — https://facebook.com/654402359/posts/pfbid02cEXdHgjDf8ieaaRR4E1XK3jDuXEV2TaVxeGmQXvf3WtpnzEPhazP5APdCy82UTsJl/
+- 2022-07-23T21:43:40+00:00 —  — https://facebook.com/654402359/posts/pfbid0JCJA47dMUEyZtFR28QMLVCsVyV6vdJfXThEJkY72qpUc9forjTSavQ94uU58cS1yl/
+- 2022-07-24T19:15:44+00:00 — Winter Wisconsin is featured in this clip about our new farmers market.  Great advertisement for the area! — https://facebook.com/654402359/posts/pfbid032v496Fo2izyCPsQRHsfQ3uPAAa7mayxWFAvAuuDHDR4aCXpBrNY5Cfe24M7hAevHl/
+- 2022-07-26T14:35:14+00:00 — Free milkweed seeds for the butterfly 🦋 — https://facebook.com/654402359/posts/pfbid02Zf28EEVkijSGgMwdCdyWuMbCxWiiKdz762Aihhger3Jtd1X3khjLpucrrXouZnhQl/
+- 2022-07-26T14:54:06+00:00 — Sawyer county has a new waste disposal option!! Great rates 🙂 — https://facebook.com/654402359/posts/pfbid02Az2BsujUDqybEoE2nNPqYbwokYhG46D1MCN1NMbGRzhZ7m2Cn4aUNYsKABsTKkKFl/
+- 2022-08-28T15:43:20+00:00 — The new dream is now a reality ☺️ — https://facebook.com/654402359/posts/pfbid0fA8gFejNqyRtTLLDHssh9DwTuVBNCN7w7FV7whDKrmQTEqBFQvqLuzwJR8mA6TpQl/
+- 2022-08-29T16:52:38+00:00 — Home is where the heart is, but a piece of mine remains in hell — https://facebook.com/654402359/posts/pfbid02iTU7TW8MvGZUqrbcNxTXNtqPZynieFQhBAegmD4bCyjJMKLHpo115C4DDMiNy1c6l/
+- 2022-09-01T15:53:30+00:00 — Where the hell is my car key — https://facebook.com/654402359/posts/pfbid0NnLG13oSpLq8PhPyCpWoijsCSXTjRzF8LuhvP6NyFuHrWfW2nDe5EPY9UADeezR4l/
+- 2022-09-03T13:12:52+00:00 —  — https://facebook.com/654402359/posts/pfbid0EzCjC1CVNK3z8cTPfBg2orD16QRCbDX5MwRrDvzACXiuByRh8nUVZxoJuBMtFMGxl/
+- 2022-09-05T03:28:05+00:00 —  — https://facebook.com/654402359/posts/pfbid02mRoTXK6itDLLKR9ukyhdpBsvLiZN22MyxCHXykejoX6oYwfcYrDgk8Zz57LSgGYFl/
+- 2022-09-05T08:08:56+00:00 — Makes me sad to think that the only three things that I was given on my birthday that I thought was given freely because of love, and was told that I was used in many ways and then it was not given with the intent that I was told and that has crushed me.  I would just like to exchange the things tha — https://facebook.com/654402359/posts/pfbid026jyGRJKEbuLXQEXqsuQsJnVQSuZ7zcc2oAHg81VKoCCcYGZcHzK5eGqh9AUMuVKhl/
+- 2022-09-06T01:49:05+00:00 —  — https://facebook.com/654402359/posts/pfbid033GNJHxB7QJDhEci3pnvZtLjhD9q33dJMAK4ysLdj5SrjME23EbAVyAQDCacicb1Ll/
+- 2022-09-06T06:05:30+00:00 — 🤣🤣🤣🤣 — https://facebook.com/654402359/posts/pfbid02BjbWBYESoK8sGmAkyQARjwvDetZCYvBwbLho1WRRzA9PjtJS3BSoYFp2RKyPs2ynl/
+- 2022-09-06T14:11:17+00:00 —  — https://facebook.com/654402359/posts/pfbid0R8WzMmxQVZLBfTna64PijG4RJKgf1mFEauAckAmL82ZParvxi1motHAhNWiBxN2ql/
+- 2022-09-10T01:01:22+00:00 —  — https://facebook.com/654402359/posts/pfbid027NmtRbfHTrxDQLTZDcYj8vYwjVvSP8PB2VDPz1QJ5hpmaAz2tyjx2kMTr7ciCmnal/
+- 2022-09-10T01:16:02+00:00 — The truth sets us free ❤️ — https://facebook.com/654402359/posts/pfbid0nYEgr7Hv4DovPghHqLD8ACW6MKEBw1yqkrUwWKmdZmWQYnnYPohFN5apjKYbfzMSl/
+- 2022-09-10T02:58:09+00:00 —  — https://facebook.com/654402359/posts/pfbid0387FoRyiML6KUFa4Z2eT4xcvnhoxZiHmJ9vnfD9nrNgcsWihWN6GSGzvcaQDdGJwEl/
+- 2022-09-10T19:24:07+00:00 — I've got 2 tickets to paradise anyone wanna go ❤️ — https://facebook.com/654402359/posts/pfbid02wqjWS4nQmesXasUS1q8kH9kEjwJRR5GnRLA1RpUgiHxaLBGEF61p5pSp1kYpRxAyl/
+- 2022-09-11T05:05:37+00:00 — Tje torch 🔦 — https://facebook.com/654402359/posts/pfbid0oH3guZ9ZyX9GxAKnWtyUqY3aJcSKZPVWPLJzuYX5yKF1fgNoT258B9uHX8Bx3J1Yl/
+- 2022-09-11T06:32:18+00:00 —  — https://facebook.com/654402359/posts/pfbid02hywtzRw9yEtkrrBdo4R4W41oXHEu8YJUpF13kTqomsHAEtQbduCtr9iYnXv1AJuul/
+- 2022-09-11T06:32:34+00:00 — 🤣🤣🤣🤣 — https://facebook.com/654402359/posts/pfbid0BeuDdHKQ9qyydadXqrQv79bD8ViE6wLyoGTN3PkMB9YpHnwJuxSi9FUZDvzKHaK8l/
+- 2022-09-11T06:46:19+00:00 —  — https://facebook.com/654402359/posts/pfbid02wGkZPdDNZaT2sT1aTXuHh2JvEZGyZ1yEftULUcgtqthpy6Tbur4Bt2GW572aGPVgl/
+- 2022-09-12T03:26:46+00:00 —  — https://facebook.com/654402359/posts/pfbid02usHFpSBVzphMM9vzmEKbmJmgP7Q7UyYjfsVFFBMGzXwBEmFKVkKhQgFSdboohYLLl/
+- 2022-11-11T03:11:05+00:00 —  — https://facebook.com/654402359/posts/pfbid02juzkK8epdrKCiQqqBCi4MVCSY1mDKcQjh5ziDGcnom2ngk4H5JiWfnjNbEZayRYTl/
+- 2022-11-30T10:39:18+00:00 —  — https://facebook.com/654402359/posts/pfbid02t92VqcyVbWaqZsLh3RXUK6aSR65sUaGd1Vuwqwz8g4hoCdzRFDyAh6W35cY1Gf8gl/
+- 2022-12-04T11:37:19+00:00 —  — https://facebook.com/654402359/posts/pfbid02A6anaTFcxYsaC5HhHDTAz7e9UeUsaLskBrveqcvoB8B4EtizmL2qXCP7C5sMLgkgl/
+- 2022-12-25T12:53:31+00:00 —  — https://facebook.com/654402359/posts/pfbid0K97wf69KMLs39gqAZ4QPJv1hLycpP6aFJULQeqayqWFx97njbLnWbdTfd2PLDnYEl/
+- 2022-12-25T13:03:51+00:00 —  — https://facebook.com/654402359/posts/pfbid038919ZDnkBYqDHquBtT2XhGS7VHGbcC8Vo25kMaUP8d3QqQUxG8emRJYg878pcZ5Ll/
+- 2022-12-25T22:15:07+00:00 —  — https://facebook.com/654402359/posts/pfbid02HoHWBP5XiJMtZQqXnpiy5vYgmMSYuNxpfYVVvgZKUUYUk2qNqB7kw3aRRyHdv1Rl/
+- 2022-12-27T00:42:45+00:00 —  — https://facebook.com/654402359/posts/pfbid02GzWYyPTCorSnptzbXfbe5vg1VipDNTrvJXX2niYFo39wteTakKBHUREVpYMNBLhYl/
+- 2022-12-27T00:43:10+00:00 —  — https://facebook.com/654402359/posts/pfbid02PQv8LV6gYrbG7FBJaMyqKzwLKtNXCqKp1wKzMwDzEkx6HHWJ6dE64NxTzf3PFontl/
+- 2022-12-27T01:52:14+00:00 —  — https://facebook.com/654402359/posts/pfbid02XCpzP8C69JuDYVeWWDS2MGdJQfEnuFdv4H6DaYXJruoz9WoT639viYmm1584fAC9l/
+- 2022-12-27T02:38:13+00:00 —  — https://facebook.com/654402359/posts/pfbid0hCqwMx8PyyzSvGU5TjxAvppzsCfrUNUexhHpV2pWdvfXFkjGmARZw4xrkoN4GLA9l/
+- 2022-12-27T03:22:08+00:00 —  — https://facebook.com/654402359/posts/pfbid036ej997YnmmV1GTgQEPrrPyiwsXpWHbDCjknaeqDozWrquvpRi3UC6aAwSEbj6WEZl/
+- 2022-12-27T03:45:04+00:00 —  — https://facebook.com/654402359/posts/pfbid0nT6yrapWRN63UtGCbqxveoHyYLu5ChWz63oB7u8fPPFYb3vNeuH4pWttzyCVUd2Al/
+- 2022-12-27T15:16:30+00:00 —  — https://facebook.com/654402359/posts/pfbid02S8j2VLh23SdH3bumXgHKoFKpnx1eQLbaNBejUy8d6Nqo7GbFPv4WH7jxScWaBsbvl/
+- 2022-12-27T21:08:23+00:00 —  — https://facebook.com/654402359/posts/pfbid02ro3tWv6QjrUz4DBkkdv4H9HNWm5TzT8uUvZU6WjiHCy5a6hdBs5zeKoatoszfxCBl/
+- 2022-12-27T21:12:21+00:00 —  — https://facebook.com/654402359/posts/pfbid02X2zuvtGNb6YgiczfJPdHHt4bETjxkU61EpJVyUGv9pJWhj3V1e6cJBSHMfaJ7fDxl/

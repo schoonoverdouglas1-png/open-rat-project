@@ -10,3 +10,5 @@ The open-source home of the Purple Rat crew's public work — founded Nov 14, 20
 
 ## License
 MIT — see LICENSE.
+
+- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

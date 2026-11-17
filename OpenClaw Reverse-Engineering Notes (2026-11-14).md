@@ -439,3 +439,5 @@ rules).
 
 *Filed Nov 14, 2026. Study was read-only; the only file created is this one. All file paths
 above are inside `~/workspace/github-clones/openclaw/` unless stated otherwise.*
+
+- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -1,0 +1,11 @@
+# Evening email-to-calendar check — 2026-11-14 19:08 CST
+- Gmail (schoonoverdouglas1@gmail.com): scanned last 2 days (after 2026/11/12), keyword + broad inbox + clinic/hotel/surgery searches.
+- Candidates found, all excluded per task rules:
+  - OakLeaf MyChart 2026-11-13: Confirm a visit for Cara on 11/16/2026, 2:20 PM (arrive 2:05 PM), Kayla Hertenstein, NP, OakLeaf Willow Creek Women's Clinic — other person's appointment, never add.
+  - Multiple MyChart / Patient Online Services test-result notices (Nov 12-13) — excluded, no appointment.
+  - Patient Online Services 2026-11-12: Prescription ready — excluded (Mayo watch covers).
+  - Mayo Tapestry 2.0 2026-11-14: eligibility survey request, body read — no date, time, deadline, or appointment; not a confirmed plan.
+  - Workspace-session invitation was sent BY Douglas and already answered; ChatGPT project invite has no date/time event.
+- Outlook Mail: tried once — connected, inbox list returned 0 messages, no server error.
+- Google Calendar: no candidate to check/add, so no events created, no duplicates risked.
+- Result: nothing added, no unanswered personal invitation waiting. Silent per reporting rule.

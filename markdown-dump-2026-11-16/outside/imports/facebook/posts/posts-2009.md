@@ -1,0 +1,206 @@
+# Own Facebook posts — 2009 (204 posts)
+
+- 2009-01-19T03:19:20+00:00 — Is Gay — https://facebook.com/654402359/posts/pfbid02xn7w4zeB6WoHdFkQWTRhgKFjXad1jFivZrC7Sm18Ko92wqgLsrcnyDXSCPaCXMyel/
+- 2009-01-21T08:32:04+00:00 — Between Me And Q Our Friends Have Their Own Sped Island — https://facebook.com/654402359/posts/pfbid02UavALSzgcveTrbjML24TzADfARjnAnA7vfe21m2nQwg6k9fbxSnY9AHUgP4LFDaBl/
+- 2009-01-21T09:58:11+00:00 — finds out who your friends are — https://facebook.com/654402359/posts/pfbid02fWSmz8DJ6LZ4xvzkpWaULKd3cXdThLy6vigos2LJkkZUZ5M5DAfZPa3aujjKGFBEl/
+- 2009-01-28T16:12:32+00:00 — Is Sick Of Asking What Are You Doing Right Now As If I Care — https://facebook.com/654402359/posts/pfbid02gzB7VDgNs1juqrqn4pTdQvAgnUBAMynEGsQDbS8wfgstGLu6iwNtLWGsSTWp97mQl/
+- 2009-04-05T16:58:47+00:00 — Knows he emails people and they purposely ignore him, so you have a facebook why??? — https://facebook.com/654402359/posts/pfbid035LHEcUsekbrR3x28VkZXQFTarDpCC8ZvJJ4kjTWMqKnCi8a9r9QU8DxfQXmCrrv3l/
+- 2009-06-01T17:30:52+00:00 — Agrees with Heather White, a cow day. — https://facebook.com/654402359/posts/pfbid02tdkN5gq7uzinkYrcJPQUhiy8LCLU6fVmNhQzBH9iR6vfEbPKYnCuef8etMwiZpJFl/
+- 2009-06-03T08:14:50+00:00 — Love her! — https://facebook.com/654402359/posts/pfbid0YJ4YVh5m6oX3KGW7RZDcahmNVF6W3khGGVtJxEThyG81MZwbMtLTS3YtFqXPHesXl/
+- 2009-06-08T18:43:00+00:00 — That is so me, I love Dolly!! — https://facebook.com/654402359/posts/pfbid02CJMm2LeqK85itQTA6qGbXxGjq4pWS4BF2NwE3r8xgRGovXJgTZsxBjbyD7gQb7f4l/
+- 2009-06-09T02:43:37+00:00 — Meow — https://facebook.com/654402359/posts/pfbid0fJm5VfMaBkjaCijyHJnbKzNytm8F9jevUonkRiQTLm3gVdXZfh4yYbQjHEQN7bZWl/
+- 2009-06-10T04:41:44+00:00 — Needs an interesting journey again... — https://facebook.com/654402359/posts/pfbid038D3Y9xMWNX7ErUZD4PFwPJ5TS9vK8MABabSnzuAsSCryqwTWRTrd2iYG2fMZ4iZFl/
+- 2009-06-10T05:01:44+00:00 — sweet, i got Eventful and fulfilling life — https://facebook.com/654402359/posts/pfbid02eW8KZuBeLtqhAmWqYxqqW6aw5Q7R9tTCaZVYijHySxP9r5yx6gUuaAiuSs1UZJ6pl/
+- 2009-06-11T01:12:43+00:00 — Average Joe.... — https://facebook.com/654402359/posts/pfbid0n8KW1j1Gk6W5hmz6MGupYSJ72KPv73C86o2Zf36z3chSfu58Zgm1kZHjW6xxXhJFl/
+- 2009-06-11T01:25:52+00:00 — Awesome — https://facebook.com/654402359/posts/pfbid0A5pUw2EG43dzqogRQsFhsCQzrEG5496EnHdbTB9949mXp7D9GGBDAf5Tbgs3hNipl/
+- 2009-06-11T01:37:59+00:00 —  — https://facebook.com/654402359/posts/pfbid02FWZYhtUaBURP8skGmMpXxpBqp3cK11uBXKm9XkTx4buRJ47QxnopvejFHNvkzrQQl/
+- 2009-06-11T01:40:09+00:00 —  — https://facebook.com/654402359/posts/pfbid02my9NPUi3KvuF89Eg3i82ZL8jHSry6SCq9QpmMyyvZWK5UvAbd3uZJip1rFKdkPs4l/
+- 2009-06-11T01:43:27+00:00 —  — https://facebook.com/654402359/posts/pfbid02dLCS2c6j4DywJthp1LKLcBhrXV5PeokLfgryVeLih5rE6urySsKYPJSxuCnX3Kqul/
+- 2009-06-11T16:38:33+00:00 — The sun is shining today.. Wow.. What happened? — https://facebook.com/654402359/posts/pfbid0RGVPJa3xGBSgNiWWjzx5WNzYXWqN9phmEKgDdnEiECcgUopsWkZkbj9EwYwdr1z6l/
+- 2009-06-12T05:15:50+00:00 — What a Meez — https://facebook.com/654402359/posts/pfbid0njNkTYdpufTJ5PCLDaePrjLg96oNwaH6ripbhMe7hPR1FzVwPwQZjMsRttNhpnKLl/
+- 2009-06-12T07:08:04+00:00 —  — https://facebook.com/654402359/posts/pfbid0xyG5atXMDu3mh51kJ3CYHT5Jav7LRXm1eEyqb1BQsobZnkFbEKF3eu65887aFRNRl/
+- 2009-06-12T16:50:39+00:00 — Another sunny day in the neighborhood! — https://facebook.com/654402359/posts/pfbid02Dfkjkuz65JwGd3zweZCNRpaZMdeUnn2Suzgyv6vHF2XduX58ctWqJs29tNPjNtmjl/
+- 2009-06-13T01:20:14+00:00 — Went to the funeral today and talk about having the work of GOD intervene... — https://facebook.com/654402359/posts/pfbid054SscJbZAP2A5uG7bDqZ4az2GvBymFW5t6rdfimJjuHRTiGgndpRsEocyPZV3B2al/
+- 2009-06-13T01:52:11+00:00 —  — https://facebook.com/654402359/posts/pfbid02FyD67LdahrcmbDVA3VrdNR7GEg1iAjqMmWF3ybNt2BEREJyS6HzDuKQy3c1tqyzsl/
+- 2009-06-13T01:59:13+00:00 —  — https://facebook.com/654402359/posts/pfbid0ocGUqzLoXiibgGF7aq62mFujHraTXgYn4EnaG1nUh6xpTEjhSgGTGANZNuWeTsHYl/
+- 2009-06-13T03:13:49+00:00 —  — https://facebook.com/654402359/posts/pfbid02eEBWF5MSxfsAvj2vhNgqpLsBC3SVTYDacmzx8CZYzXy2FAxYbRNGWd3s6h6H4HJvl/
+- 2009-06-13T04:14:23+00:00 —  — https://facebook.com/654402359/posts/pfbid0tPzKKNdgNi84qK2w22YTSnfx4yM8yqJPrLboC5qGchykVWfgEJjrpdNFpKHZUfaKl/
+- 2009-06-14T07:05:39+00:00 — Am I the only one who posts on everyone else's status's but never get any on mine? — https://facebook.com/654402359/posts/pfbid0xZzu3imMUm22PvhUusjEmRKmg56n7r42d9iUw4rTJp8WLFAY1F2HyyzfLibDf682l/
+- 2009-06-14T08:22:52+00:00 — I feel so much better getting out my true feelings what I feel about people in general. There are those who can think beyond their tiny 2 walls and then again there are those people who just take up space. It's a great pleasure to meet some of you! And th — https://facebook.com/654402359/posts/pfbid02aAcgyA2gJht1rF7TdTgiTr39gSwTKVGBA74hYv3hpGEmWzxFTQafXqMRDJpiehUCl/
+- 2009-06-14T20:05:30+00:00 — Had an awesomo dream this morning! :) — https://facebook.com/654402359/posts/pfbid02EDXxieyQPczDbb1b1ob9R6pjJPgrkEZwKZiGPiQVCYhgsougbWnGEHnCit5SA5U5l/
+- 2009-06-15T02:19:58+00:00 — Much better! All the "rotten" people on facebook have been deleted so there should not be anymore problems! Either of us will not get anymore nasty messages! — https://facebook.com/654402359/posts/pfbid0J3LkfVjqLojY9vcYGRcCRpzwxGxn3vWCpSzarhuKh72dQAPjBWdJAFNBfucskZa4l/
+- 2009-06-15T02:34:00+00:00 —  — https://facebook.com/654402359/posts/pfbid0217S3qKf6n6m2G2GmfZZ2rW4FszyAnXrDi7xCKTh4vmkYSCBfAjEDU7dNgcYjb6NJl/
+- 2009-06-15T03:17:32+00:00 —  — https://facebook.com/654402359/posts/pfbid02mhCaVtWwnYT3xPMeWnDyruvoL9AvuM31anQXcNch1vpd4b9Qu2nc1MZ8AhhN6fK3l/
+- 2009-06-15T05:28:56+00:00 — Life is like a box of chocolates, just eat it all and hope you dont get fat. — https://facebook.com/654402359/posts/pfbid02y8ejbrthno8fXNvKHFpFu9Y5q3DrpPEwtVSJi8AZSjeQNsxjcDmtmzVxCJDiSBMql/
+- 2009-06-15T06:20:37+00:00 — Too bad i have no chocolates... — https://facebook.com/654402359/posts/pfbid035BKqDrz8dEBvz7afj5nqsicrKwFTnz1sV5dGQ8THB7xFnutLjRMiruAqaawUzHG8l/
+- 2009-06-15T06:23:29+00:00 — Obviously *me* doesnt know how to use facebook! I never try pissing people off but seem to do it so well and I cant figure out anything! — https://facebook.com/654402359/posts/pfbid0cGH2t9hmwaJKwMRPt45MgCfNDbymEBzFeW9SsmTq33ouusGCGUwU7jBHYkR6xbSpl/
+- 2009-06-15T06:27:44+00:00 — Life is like a box of chocolates, just throw them at people! hehe — https://facebook.com/654402359/posts/pfbid0wdB8sytVSV671pnLokuHGiXcX9R6aNLqNAKjytrfHyV3pmXXJVMUUuN5GKe65nnXl/
+- 2009-06-15T06:51:08+00:00 — DO YOU HAVE FACE ON YOUR BOOK? OR IS YOUR BOOK ON YOUR FACE? JW ITS INTERESTING TO KNOW FACE VALUE OF FACEBOOK. IT COULD BE BOOKLESS ON SPACE. TELLS SELF TO HUSH UP AND SLEEP BEFORE ALL DOUGS FRIENDS RUN AWAY. LOL — https://facebook.com/654402359/posts/pfbid0DudDQe6Xa3BhsTrfMPvPdtk24RRCC4SVvzGQBAJpaEhYPdHgQ87xTVbAkPEMexKHl/
+- 2009-06-15T23:13:53+00:00 —  — https://facebook.com/654402359/posts/pfbid02E5zvjuY4B2j947XhNPPDoakhKt412tqqxXwynA2EmUUAJqog7NL4TL5fkzuBFKUZl/
+- 2009-06-15T23:21:34+00:00 —  — https://facebook.com/654402359/posts/pfbid02zge72rnzmPSwmqh8QGFp75fEBhTURKV8hy1aE2L4C8gdFNmMazgqKSJ5PLNecmvZl/
+- 2009-06-15T23:51:29+00:00 —  — https://facebook.com/654402359/posts/pfbid0j9184rbqaaqW5TA3Vrj8iRtCRHMWTcyXPTs67jLpjymWmKXjpMTGBFBfgGSa6sXAl/
+- 2009-06-16T01:31:35+00:00 —  — https://facebook.com/654402359/posts/pfbid02mjiGJYsm8y4QGX9MUyMxXrRLgDvNRKhmBPAeRUojQcp8qMoJtXrutu23AVaGQvD1l/
+- 2009-06-16T03:08:14+00:00 —  — https://facebook.com/654402359/posts/pfbid0GEpxkn6cjSagmM7qsXc7LtBjTL9Fyb9RN1mYxoYihmZ91MZUfvi1MX2XyEbUu5BWl/
+- 2009-06-16T03:12:29+00:00 —  — https://facebook.com/654402359/posts/pfbid07HeEuJ63GJtn4k36nT49Yw9cdaPixCTJTpFSrFa6ivHxmVzaUDsHx5g66jMUZXHtl/
+- 2009-06-17T06:16:25+00:00 —  — https://facebook.com/654402359/posts/pfbid0jjQR5vywrYAE2RX1mrMNfsegtUaNfvS8xs7joNwBzK8e4dJwMeLrvYwSYeEBYoDMl/
+- 2009-06-17T06:17:27+00:00 —  — https://facebook.com/654402359/posts/pfbid02fQf4hPDEtUSJqBQf9g2mWcqFzrPgF572ZChG19ZcUs9qnXnfvRWgq4D6oBPnbT8Nl/
+- 2009-06-18T20:24:45+00:00 —  — https://facebook.com/654402359/posts/pfbid0ezxafPhD2RaxQb6ogmCapKQBaN4Qy3oLrPU6gY6YJNhDAasCEYsdwu1kM4sZBQvxl/
+- 2009-06-19T11:02:51+00:00 —  — https://facebook.com/654402359/posts/pfbid02t2N7VFwExz6KnjWBMn2xEmnyyzSxD5YXEydMWeZ29w5T8fXyrGRESTBL8hewjyBfl/
+- 2009-06-19T11:46:00+00:00 —  — https://facebook.com/654402359/posts/pfbid0FrL6TnywedubEFKikzrr2fBeG4Tmo23mGxn9T3NWE99naCexXQe3RMD82YTnzfuUl/
+- 2009-10-21T23:14:09+00:00 —  — https://facebook.com/654402359/posts/pfbid0oPbjsiS3gNEo9ux5BdnSNnzEwkPcw6PkaLT4KzCELNkwxyURsKNKRovR2ZCAHH19l/
+- 2009-10-22T02:14:27+00:00 —  — https://facebook.com/654402359/posts/pfbid02kzaG6VknRwiE2icp5s9kBjTqwx3FnJ7me6SvRU4bViGPAVQXozGQmMEycAtk3Hj3l/
+- 2009-10-25T07:13:11+00:00 —  — https://facebook.com/654402359/posts/pfbid02qDCp9Eir98VdWYv3BnMMfyWWuM1ovE9duA5BGPkGPxgfPmZHo4tcSpmk7RG9iNrGl/
+- 2009-10-26T03:30:56+00:00 —  — https://facebook.com/654402359/posts/pfbid0CtYRJznTKn3Pzcqwawk2GtYKyVVbF3u3hiUcpd96YCzmnYq9qP2ALNN3k8gJbXzxl/
+- 2009-10-28T04:50:33+00:00 —  — https://facebook.com/654402359/posts/pfbid0jeVNrp265eAjZVHBTYrncQ9hsmttB33LmD2f3GQpkY1XBxaNVYf9MNWJ8hyisu9Jl/
+- 2009-10-28T05:36:18+00:00 —  — https://facebook.com/654402359/posts/pfbid0UmBdniqfKNprTBTRQR2tcWfGvNLRjUEfzWMqQmTo5KfTpAiRAAn8isMDESDT7ashl/
+- 2009-10-28T05:38:28+00:00 —  — https://facebook.com/654402359/posts/pfbid0WHryC43ZKFKdCZc7mgALh7ikq945mBrKYHzNoB5tBkYKzxwLBbaKgR6fPKzsKYTCl/
+- 2009-11-06T06:24:57+00:00 —  — https://facebook.com/654402359/posts/pfbid02xzng3GYvx3qgJhw1Bv6wjC8dMmAfGK4Wq3PM4JRV8JBF56Ra8fr9zbuDuweLXvoTl/
+- 2009-11-07T05:06:55+00:00 —  — https://facebook.com/654402359/posts/pfbid0EMqRHHESP3rqKA8edTuEVzHvNfCoSdc4KDz7sf2Mt4Qog5CjXWpmdwNtAZYtaamgl/
+- 2009-11-07T05:08:50+00:00 —  — https://facebook.com/654402359/posts/pfbid0fsdeHRtdniUJPJMoBZiPu3ZHKNv658A8xEiBHdbPRE3zbThAAKjaK5Ag6GkRa7PZl/
+- 2009-11-09T01:27:34+00:00 —  — https://facebook.com/654402359/posts/pfbid0bmE94EwizmNhQJd2k58Pemezqg91wJ55nn8AbhLz7yo6dUUfzbAgcUBn94YqhB4Hl/
+- 2009-11-09T01:27:40+00:00 —  — https://facebook.com/654402359/posts/pfbid02PRa8dhdL7q3cPp6ipN4fdX1G3QsMqotM4gvXUQ9er1HFU4WE7Bw4BLUQQvYsJGJvl/
+- 2009-11-10T04:13:04+00:00 —  — https://facebook.com/654402359/posts/pfbid0fLWRcuRy3SBQdoUhzPseMJ1CfBaud5rpDMTma49THBnpiQcuxc7BDs8XYbR9av8yl/
+- 2009-11-10T04:13:46+00:00 —  — https://facebook.com/654402359/posts/pfbid02ad3ZcCg8yHQEqfCkFTG1zkPHb3i7i7BcatCWif5kwRJYuXnFUWPh1maataL7Ghcbl/
+- 2009-11-10T04:19:28+00:00 —  — https://facebook.com/654402359/posts/pfbid02CDmiwpxJKXcicopdazXQooQZRUBJo1qcJ1MGeXWNchCskaSpon7BvEdErDA9zxrol/
+- 2009-11-10T04:21:54+00:00 —  — https://facebook.com/654402359/posts/pfbid0kt8bym8F6HJb8tFPqdArBZZqdyBWdL6TH4fqK3k7M1DBBCStFLWTv6G4jx7NLtmvl/
+- 2009-11-10T04:24:01+00:00 —  — https://facebook.com/654402359/posts/pfbid0rs6K9dvEX3Fncbd2qDpSmTNFgjU59xjQxByD2tfommp39qwsuaHqtcc5y7w8oYWJl/
+- 2009-11-11T00:30:27+00:00 —  — https://facebook.com/654402359/posts/pfbid0sdsL6jMq9keZiT4LgfuboTJreSV1DRU1jiEVTMZSVHQCCfu38vdWfPmWJzaNVPhrl/
+- 2009-11-12T08:05:29+00:00 —  — https://facebook.com/654402359/posts/pfbid02qqa6cj3oHXtLQ9QD1e9fTgFjktuTKpHb9VFvbUWLaxYM4Kw1Hwqvt6x8muyqGyiEl/
+- 2009-11-12T08:08:22+00:00 —  — https://facebook.com/654402359/posts/pfbid0mjvy6weNaz2wuq8ns1UdZnmZyiPRi2MxSHFykwK1JzpTpQLYgA5wJvX1zXsaepHSl/
+- 2009-11-12T08:17:03+00:00 —  — https://facebook.com/654402359/posts/pfbid02d7kMpjhX4bpwGPwcvAaTHoZfw1F1WD2tGMq3PVJunXpLgXJJg7yyJ3yoP7ACkwfcl/
+- 2009-11-13T16:33:46+00:00 —  — https://facebook.com/654402359/posts/pfbid033fQp4iRZHacVCwS8pzPw75khjFqPRD2qyDtixRikcPpJaNcGhXpnBfuxFwrxQRi4l/
+- 2009-11-14T01:59:44+00:00 —  — https://facebook.com/654402359/posts/pfbid02ZwHvGRxB3atocwwRnFVVfSJ4DY6tmSmUNPz9GwPoZ4fnAQU2toe6WhU5Vh7aMFSjl/
+- 2009-11-14T02:00:55+00:00 —  — https://facebook.com/654402359/posts/pfbid02r51E8tXBKKZFisyVDLN7Tkm8MhJ5vbFwNa1zQLtiJ216b35du5PycS9JRW96qikXl/
+- 2009-11-14T06:34:07+00:00 —  — https://facebook.com/654402359/posts/pfbid02wmh7qLDeadbDyTdTyJmvh71BoCSJgAYhXDw9jEs4SEJuH5Ehig4XswbvvoyiG7wEl/
+- 2009-11-14T23:43:30+00:00 —  — https://facebook.com/654402359/posts/pfbid02u6HbYAsTMHzN4ZrMJDtXrUxLyS9e54ycRerKcQ4F9GQ3d3bGE6HWPEF6bWeR22DZl/
+- 2009-11-15T00:28:51+00:00 —  — https://facebook.com/654402359/posts/pfbid02Mvy84z83vNPqMpexNP6yvjafhH4tQwpFSAg1QreNn13WtmQH3mkjonSC24yqWQtbl/
+- 2009-11-15T05:50:30+00:00 —  — https://facebook.com/654402359/posts/pfbid02Vbtbceut6koqP2vCyQy9MmSUuVsu4xvHxQC7TYv69myxkR44Lr5aPGVmCJzEmxrBl/
+- 2009-11-15T15:05:41+00:00 —  — https://facebook.com/654402359/posts/pfbid02Ds1ABnishVCsaTE8egB3KB6kp2xVyC9wQmxyZ4Us7RvDUc6zSVM6zG6knXTh3fNdl/
+- 2009-11-15T15:06:27+00:00 —  — https://facebook.com/654402359/posts/pfbid04AgVbUVUxMAKamuxNocZMQGxqntz1fWCXJwj1tSTWXC3CgzWLd6qK7dT2e6btr8il/
+- 2009-11-15T19:51:53+00:00 —  — https://facebook.com/654402359/posts/pfbid02jDomSYukznw6kkYv1gm5Gmq4UyU2zKiUFygA9ykMwidzbMbKV7rV6aEWhA9ra9iMl/
+- 2009-11-16T00:24:35+00:00 —  — https://facebook.com/654402359/posts/pfbid0pUwZuGBL8ZiXTXT7MaBs73GsZj8Urzg1EbbS8JmPg6Zv3UkT1odBZndLP7qe84y7l/
+- 2009-11-16T08:19:04+00:00 —  — https://facebook.com/654402359/posts/pfbid02XPRRx23L2ziuvBuaaG4pNytsYc8s1tBdSSuf1nXqgTPptnfSfawVodJUj4oFSL7Dl/
+- 2009-11-17T07:01:06+00:00 —  — https://facebook.com/654402359/posts/pfbid0p7kiCi7xBwPq5ZWi4boJHRuD9UNdNLna6NgNbqvNo2Nm5U9aPEw1rXZeMyGf7shnl/
+- 2009-11-17T07:06:46+00:00 —  — https://facebook.com/654402359/posts/pfbid0jbYMXLeB1i85kPkmZJUc7CAa6EvKwMUQe1nsawAFyKB6fcTqvNPqgKjA99HAwkqFl/
+- 2009-11-17T07:35:27+00:00 —  — https://facebook.com/654402359/posts/pfbid02kWWNiQnhqeyYMpXjvfPAZSemS6zdyzd2Bc8gRx4CAHvZ8poxz2Yi3UuaotPJCH1nl/
+- 2009-11-17T15:29:50+00:00 —  — https://facebook.com/654402359/posts/pfbid0w6GZYdJGiACpUcoeXZnXSBFPGo9gNtfxHjvW4R6GhHP9dv97g2PsYCxHDbheVoRzl/
+- 2009-11-18T03:24:19+00:00 —  — https://facebook.com/654402359/posts/pfbid0KutxcBauym9Ldrna7XTSC1qW8ZD3db6aGrDQUg57DhYNPUehv6f6CXTHmPdhQqtLl/
+- 2009-11-18T03:27:03+00:00 —  — https://facebook.com/654402359/posts/pfbid0UFv5CQa4WqEpQ36qUaMhyUZFMnEhFS52fhPtjXiK6GE9UMJYxgpiFqwqrwHA2Vswl/
+- 2009-11-18T15:51:11+00:00 —  — https://facebook.com/654402359/posts/pfbid02t2USsTh1tkzdEQnngSsjtaAWLAAN3WpNHXVBQCXqFKm2VbBxcZN2p71FRg2AQRknl/
+- 2009-11-18T17:14:47+00:00 —  — https://facebook.com/654402359/posts/pfbid02SXfEK8pnqf1xWiX8Q8y326ExcZSHDBBPqxgC6zYtBeakdMJwggDhp8GYMHvcW9Wal/
+- 2009-11-18T17:15:42+00:00 —  — https://facebook.com/654402359/posts/pfbid0rRknLcpX91RY7ZUENC4Ga1tH3aX6rvNDumGtJYvRmV8kWqaGTT15g6UoJv2BqsiLl/
+- 2009-11-18T17:36:41+00:00 —  — https://facebook.com/654402359/posts/pfbid02Gzcunpr5aQurPTAuw3u1kqhY3WvgDQtsCESDEUbmiX43LYpQfmdJ3DgYvzRL7gh9l/
+- 2009-11-19T06:13:49+00:00 —  — https://facebook.com/654402359/posts/pfbid027GfAzFPuUcoUeu53AnkUDjpLTEzAYTGJDCM3XwGcCvCPQjCPwG7Lrd1hPwTRTbbPl/
+- 2009-11-19T06:14:33+00:00 —  — https://facebook.com/654402359/posts/pfbid0ZAjc7jHBs2PiMQQurrJheCro3xE662HkxuBodLB9nPp2rdq7CjsRYvjkFcjKE7AUl/
+- 2009-11-19T06:25:39+00:00 —  — https://facebook.com/654402359/posts/pfbid0SeygRwHrUSVsdbon5AJ1M1sf3rHzf1MmwLL5jvYGBVV5xRBXL4WUdqgEK6QhxLKzl/
+- 2009-11-19T06:31:39+00:00 —  — https://facebook.com/654402359/posts/pfbid02NTYhFjSwsCJhSNB8HVUFjwvL2f25rx1m3gHpMCkw4ELgCt7CW6Wryb5HLQNFJeoXl/
+- 2009-11-19T16:27:02+00:00 —  — https://facebook.com/654402359/posts/pfbid02q33jYPXooT8BTMSs2n7iwz8i5TJm6tobYGdFuQen4YJSSbp4KyNeG8muexjJ3fNrl/
+- 2009-11-19T22:34:18+00:00 —  — https://facebook.com/654402359/posts/pfbid02AoeR5RPnBhiXVgA4TSUq7FYdv5Qy525v1fsU9FVNPcp1s1KufNWwsicZqnNECRval/
+- 2009-11-19T22:36:11+00:00 —  — https://facebook.com/654402359/posts/pfbid02iTo7c7PghfJtuRX647NXd9tvoCBqrgofwTJRujG968nLgGNsjAMAgRLXR6ysbwFgl/
+- 2009-11-20T00:02:27+00:00 —  — https://facebook.com/654402359/posts/pfbid07isQtsnssuVsr5AZYWPhZKACy7hHBAm1KQqNRfGXQFquUjbWUvJgGmrAXs2kYHTNl/
+- 2009-11-20T00:49:17+00:00 —  — https://facebook.com/654402359/posts/pfbid02UBmHkFMMy59wpoB27gBrHsXBXYx8PEbsNq4oJkaYF3pGKYT7UcVET9CYff4YAMR3l/
+- 2009-11-20T01:06:25+00:00 —  — https://facebook.com/654402359/posts/pfbid027pSPwzPDnxDQ6V8Sjbh4zacQr3ZpgqUpBfT6pG18gqBxzmAHmK17PHLrZpmJZmCPl/
+- 2009-11-20T03:36:18+00:00 —  — https://facebook.com/654402359/posts/pfbid02b5amdT5NZnL7dkJcdVLAe1aXVuVjNxt84P25caqLcNPWnJKptiaj1qnG5BGqVSPol/
+- 2009-11-20T03:52:49+00:00 —  — https://facebook.com/654402359/posts/pfbid0rr7Jhp8GAZeJzGhwxnf7A2KFGeHbbVb6BtHvxxQj4LXnjDwvF9kvH9oM2LhkpZWel/
+- 2009-11-20T03:52:56+00:00 —  — https://facebook.com/654402359/posts/pfbid0JL3tEWDMP8JVutduCXsYa88Frdwrcbwf6gu6A8vDsSS6Wn6ozVPYiZaMDX3bnXqAl/
+- 2009-11-20T03:53:03+00:00 —  — https://facebook.com/654402359/posts/pfbid0nqpVUjodXF1Ke4J41CDqoyJvDDgo4mM9pEbj3FGb446jm49Rj91eMxuxLqcBEACGl/
+- 2009-11-20T03:53:20+00:00 —  — https://facebook.com/654402359/posts/pfbid02SgPxwMCm7Pw2mv2KJP37MwwDGQxEurDZecEvXuPgz1J8KzTQtbw3W92kEZt496Nsl/
+- 2009-11-20T05:26:56+00:00 —  — https://facebook.com/654402359/posts/pfbid024THCspfxoB4vhPZJ6BjsDGrg6eHmKC2AsLNpg8DmMUAuxgg3P2DiDoFUxAgSToRal/
+- 2009-11-20T10:29:24+00:00 —  — https://facebook.com/654402359/posts/pfbid02eiaRD1DxB9tgesFR52QEaWYmyJUsEkFZj7RMR1TdmcFDi7UdVD1Yu46knbvfgVzKl/
+- 2009-11-20T10:33:42+00:00 —  — https://facebook.com/654402359/posts/pfbid0Mg1Q6Sd6AbCeBwSCghXKs1z6WvBHXedSMXbfPSQ6pdcoK49uJEBA2a6CbaAHowojl/
+- 2009-11-20T10:35:23+00:00 —  — https://facebook.com/654402359/posts/pfbid0m6oNPGg6nKYiim1mntr2vaaYUUGhNoL93FdDh8xcKPtxfM7n5yxm4gr3gzj5vtpnl/
+- 2009-11-20T15:50:54+00:00 —  — https://facebook.com/654402359/posts/pfbid02Jpt5G2Cnt6PoDWk1CMHKAFdWMjjFCgYSjqxQsVU5dvv4kYfY3ki1PQePjAqbxA3Dl/
+- 2009-11-20T20:49:14+00:00 —  — https://facebook.com/654402359/posts/pfbid0F4gRtK9FRyFcc19wA1LCydjPfeorZ38vYDBhH6Y6CnU5PNGMmqv5BDPFV7JqjyfZl/
+- 2009-11-21T05:00:48+00:00 —  — https://facebook.com/654402359/posts/pfbid02KcRQTJHiAwUwdwuFdxEojLi1hP689U3FsxduE7BDNEyZgrsnue4btBtzWFgbnbMXl/
+- 2009-11-21T05:04:17+00:00 —  — https://facebook.com/654402359/posts/pfbid02VLpWDvQ5piqa6AinbNuYpEZeMZhQNcEnwXKCZfXDYq8ng6zk2NX4vB3LuJLHzaLql/
+- 2009-11-21T05:28:16+00:00 —  — https://facebook.com/654402359/posts/pfbid033SdgqmUppz8twVEXwkWvxPcio1Jwagsoh8podLcpFU9gHXbYW3uqrn4PeJVYoYrxl/
+- 2009-11-21T06:24:39+00:00 —  — https://facebook.com/654402359/posts/pfbid02n71QWqQiLCThjuEfrRUqoMK4Vhq62P6etXq1tpvQDMffRXpmKnXoRg5tAgKfeviUl/
+- 2009-11-21T17:06:57+00:00 —  — https://facebook.com/654402359/posts/pfbid02hhg5WzqdoTjBNkcSUjG7Tcgq2QuLHVeHTCewcwAPJw56VxYvw1FJ1w7VuDV8dWrdl/
+- 2009-11-21T18:42:03+00:00 —  — https://facebook.com/654402359/posts/pfbid0GF3dXBcAb6ecz2ZJhfumPSZFXJrMWE5jLaAQ5xb4Zg9k9fHybxf62QUx8kjK6AVrl/
+- 2009-11-21T23:02:19+00:00 —  — https://facebook.com/654402359/posts/pfbid0CGBAGk6c1uPVYb3qpeB3SXmUnCs8grNjPorUd9LAqC4i7Q9fUM4hprFadFqdh1YRl/
+- 2009-11-21T23:34:04+00:00 —  — https://facebook.com/654402359/posts/pfbid02cPNfrsDs1vmrWFmUQ1MZWYf5A7NvVxBRmEYSYEeXp9J8bZtvwx2SrKHA9jocDRT5l/
+- 2009-11-22T00:14:09+00:00 —  — https://facebook.com/654402359/posts/pfbid0nZSLd6xLRpu8bRAeZXk2v7c8zPhbjdszvLARXfMvkTGGAppoTNHJnvVRD3AwBibcl/
+- 2009-11-22T06:43:32+00:00 —  — https://facebook.com/654402359/posts/pfbid02iiDChdNqQdXzxa7sawcZDHWjYa3TPPuUpSfzLSjffUdZb3CbXuKFXVsgKPZkr4xQl/
+- 2009-11-24T14:27:00+00:00 —  — https://facebook.com/654402359/posts/pfbid02MrvnLiqVQr4iogSobK6LHkoJygLTbG4QisYfi3URZEQxuSs5WVAfFFyd6oPA5fs5l/
+- 2009-11-24T18:46:11+00:00 —  — https://facebook.com/654402359/posts/pfbid0216ziJWe14fmxJsWcwBXUpxpnAQyghfirVEHFSujWFjS8xZhBtzbrGtNJ1hPnmNael/
+- 2009-11-24T19:07:41+00:00 —  — https://facebook.com/654402359/posts/pfbid0235mvCHE2whhRiDwpvcsVio2b1MbcBQYeEr7VJFkF1fe97K15e49GufXeDBc6REwQl/
+- 2009-11-24T20:02:13+00:00 —  — https://facebook.com/654402359/posts/pfbid02oQ31wJYyxXv54L98XtwM2AB7j83oLr1SjMb11jrvEANPMvtLJ55LPRLpzNTu7kfbl/
+- 2009-11-25T06:39:45+00:00 —  — https://facebook.com/654402359/posts/pfbid0dNiBJVMhqnnCEAZzG9NzKri4SDVe1W6wQZax4AkrP2JPzAu5zbLo6wPQ9MD9chevl/
+- 2009-11-26T10:20:46+00:00 —  — https://facebook.com/654402359/posts/pfbid02Jxxob247afYs13zVNyjJTjWH3ji8kHGYkQ9B9fNWfH3U8QE3K4yBAgoHK6t5cSM4l/
+- 2009-11-30T16:50:59+00:00 —  — https://facebook.com/654402359/posts/pfbid02apqex6BoEhKCKRPLyqxNnz34hija7sDEKRWFf5KWoqcieqXy5fRiPs1hPQ1K9mWzl/
+- 2009-12-01T02:31:03+00:00 —  — https://facebook.com/654402359/posts/pfbid0oVPRjDo13Si7qZuNZoGebkyZy5VwSEvWfc9UWpcbHbpn2JftdS75asMY3BAyP9Xvl/
+- 2009-12-01T11:08:30+00:00 —  — https://facebook.com/654402359/posts/pfbid02KhfUGG9za9QyyUcQ2JnEmsqo951bgbss4B9oL2J2UCKguPR4cTCjy2mgCZGNWSJel/
+- 2009-12-01T19:31:38+00:00 —  — https://facebook.com/654402359/posts/pfbid0XPkVZrCpFRCnhMk724iVQe9H8hMmDZRkd1qjjwaivtjdmvoNv4DtwQTxNKwCp4itl/
+- 2009-12-02T05:30:50+00:00 —  — https://facebook.com/654402359/posts/pfbid02nC98wbXDoegtEkWqutFimsP8oG1GzxjNae5CepbF6aMptcUatNXzDhgE29tahBuhl/
+- 2009-12-02T05:51:40+00:00 —  — https://facebook.com/654402359/posts/pfbid0wdwUZQAuwKyjjTVcLoHxTVYjh65S6PB79cLeL5GN2kDgr2HaHacvV9uHUDH5h7DSl/
+- 2009-12-02T05:51:40+00:00 —  — https://facebook.com/654402359/posts/pfbid02jRiCAeBCBzENvWL5HHj8MwcvWp1RP8c68p6UbgPU55nrZa5LL3HTKVoq6Fv3bhw6l/
+- 2009-12-02T05:52:46+00:00 —  — https://facebook.com/654402359/posts/pfbid0P6u3eGU2oJAuS98UX4zaWAeCAmsA6GQSoeZZ35PY1Wss415vYZn1KwvTbeavRcj3l/
+- 2009-12-02T06:01:17+00:00 —  — https://facebook.com/654402359/posts/pfbid02dtrMVCmLdz2zn7x55UooDbykNyMhv7jLnC4zsGNPW99ZDrTsBfZq12gDeLXaXEKcl/
+- 2009-12-02T06:11:13+00:00 —  — https://facebook.com/654402359/posts/pfbid0VL4CaVNivFfstaPyQYLyu8Q4Y7ar1EiLV8bhz2oYqCfBvw3mGFqGfSdB2CHLCXiBl/
+- 2009-12-02T06:12:38+00:00 —  — https://facebook.com/654402359/posts/pfbid04ZPynPqWDTWcQnAqqfZdE2UZJCvFbXorLWibQ7bbpmBCqFKpBpk6rP8L1cqDT5hal/
+- 2009-12-02T06:12:53+00:00 —  — https://facebook.com/654402359/posts/pfbid0VV7xnYf7p2UXyHpanhrJYXcTHhwd7cahwxAywDHLakCFKb7U7jHQxRyYEsrxbu5Tl/
+- 2009-12-02T06:20:04+00:00 —  — https://facebook.com/654402359/posts/pfbid03RSA1DcjKV47FxiiKcKSP7jmJW5pcLNhEZygcegF4SGLB4pP11WRuGc8RwTkt2Qml/
+- 2009-12-02T06:21:01+00:00 —  — https://facebook.com/654402359/posts/pfbid022coNeDohdnQsA8y7qVR8sRQgN8wNJSYwDD1DAWgtLNTeS5FCPAtYZbJ6kLbX7mKel/
+- 2009-12-02T18:04:29+00:00 —  — https://facebook.com/654402359/posts/pfbid029UKp3w3Lu8zBgr3wouSRcadg7Nq2DfiWdQY7p3f4CMq812RZEzVBiG35u3hPf43ml/
+- 2009-12-02T18:06:09+00:00 —  — https://facebook.com/654402359/posts/pfbid0FfC2rMe2o4L4gioHXbhhxZnXyYnNGLPC2sxmXjtM8bxPzYk7z4tkPsbwEQ2469xxl/
+- 2009-12-03T12:00:15+00:00 —  — https://facebook.com/654402359/posts/pfbid0ypd7BG2P1DVRhhQ9an6iK8odWo2zdXdfvyhQVbA7Lc9hf8XmQp3mJRSkQkPVh8WKl/
+- 2009-12-03T16:40:28+00:00 —  — https://facebook.com/654402359/posts/pfbid02S852C8ANURB6CBafRD6hWWNrZih4K6GLn47thjH84ChLHLu4see8LhdGXEU1t5eVl/
+- 2009-12-04T09:39:05+00:00 —  — https://facebook.com/654402359/posts/pfbid02rinrb1fCXw9bHBDjfeNkCxKzBFGWRd2Ak8XcYSas5bEz1jy4WftopP2nJZZppcHSl/
+- 2009-12-04T09:47:42+00:00 —  — https://facebook.com/654402359/posts/pfbid02RibAtYtpsYuZLnmFePXomRepfu242wEomED15dQAAXeLCza18QKsEZcU6zNofduhl/
+- 2009-12-04T10:00:56+00:00 —  — https://facebook.com/654402359/posts/pfbid02vUmtfY7MZS48CBBD971ndxVGk7kPGLCDkzB5wBdrxrLfhnGPz13MvmXaK6h77joNl/
+- 2009-12-04T10:15:03+00:00 —  — https://facebook.com/654402359/posts/pfbid02Mt28AkPEhLoAWpjpQipZqWBZYZ99EmTm5R2Q22NteormbAmVQpP3w5NtmBJuKt3tl/
+- 2009-12-04T10:20:57+00:00 —  — https://facebook.com/654402359/posts/pfbid023NNjpKastsVAH2cgX11nMQp3o4k7hhxjunv7PJ37LZfvHrMwLoT6r9mE13jYTvpnl/
+- 2009-12-05T05:17:35+00:00 —  — https://facebook.com/654402359/posts/pfbid0jX4eq2hQx577dvFFQav13bw7hPdyG3j6qBJGc7sBSfYz46v4mNp7AJuDhHSfpX7Xl/
+- 2009-12-05T06:52:49+00:00 —  — https://facebook.com/654402359/posts/pfbid02NFXxag4qanyxAQxnB9Xon5dregYzpqNwefzZwJETKN4FCi1uJR4bcQEJFEfHmSNil/
+- 2009-12-05T07:21:56+00:00 —  — https://facebook.com/654402359/posts/pfbid0qgj65XpDXAuMjtGBFLizj47CmYn424fZgXTKtzZ9x1RUi5cE6g1e9dCHK36WNYgWl/
+- 2009-12-05T07:22:23+00:00 —  — https://facebook.com/654402359/posts/pfbid0u6qKvQYVRXRHVsouojRHvu7ZEJiUBfojhsWLZzDTkfbyeNYPgbNVozup95QSC1a4l/
+- 2009-12-06T01:42:26+00:00 —  — https://facebook.com/654402359/posts/pfbid0QHhcFBb9WjtDvk3gZHC5HmWzFCPQHwjfks2WuuvEZtukZmqAzc2wxgRCXR6rnBvJl/
+- 2009-12-06T01:43:25+00:00 —  — https://facebook.com/654402359/posts/pfbid036BrvyFtEPiqgVYdrEdm3sMXLXweSQSJu5dT7gKAucgz2qTSzMjxq2QforbZg2oycl/
+- 2009-12-06T01:56:39+00:00 —  — https://facebook.com/654402359/posts/pfbid02GwnDqZDwSLdp65i3SAwFzRz7h6Sz2NFuid6Ppg5gU2wkAMqQTTtpvLUvj8no9yiul/
+- 2009-12-06T05:07:24+00:00 —  — https://facebook.com/654402359/posts/pfbid02A8mUEWM7XSTtJVfSs6RB2UvkjdRiW4deeJz5fyngTX7LY4CxfiTyZkY7vLscySRMl/
+- 2009-12-06T09:43:06+00:00 —  — https://facebook.com/654402359/posts/pfbid02P9JN2jp1dVPxuYTgkAETN9GaF12A56sDQ1NDAWwFVGvX16eriREtzSXrEhsKR6Ntl/
+- 2009-12-06T09:55:26+00:00 —  — https://facebook.com/654402359/posts/pfbid02kwqt6CFKP8hTHuq2tnT8hbwGPniGHqkMC2D4sEnYQ9jF3Cn8cRUtetHZkbucXifXl/
+- 2009-12-06T20:45:19+00:00 —  — https://facebook.com/654402359/posts/pfbid0jtaToijuzzzjFG7h6LtvM9akhe7wDyffher61gzf6nLKQeNW9N9JGx3DB6MiSWJUl/
+- 2009-12-06T22:37:14+00:00 —  — https://facebook.com/654402359/posts/pfbid02akUGCkMiGBwzFwXt5kzT14fEaR7UCYSrcEDFjX5dSwgb8ZYM7qd982r3ViaXjpXRl/
+- 2009-12-07T05:40:00+00:00 —  — https://facebook.com/654402359/posts/pfbid0X8F1mqPiaq6ZNEbWgnhezVf7CA6Zgy8AytDq8CzcaqtPGdJmpkxyxs8U4DsRvMPYl/
+- 2009-12-08T07:06:37+00:00 —  — https://facebook.com/654402359/posts/pfbid02Kb7PrsER2ero4Ls27veLUvaAGYPkCrUBFkn8axNRK2uJ4T973Eu3rX9ttiUU6j7dl/
+- 2009-12-10T01:41:25+00:00 —  — https://facebook.com/654402359/posts/pfbid022VV1RssuGx9Zq9JYnQRTf3gtGkKL8KR4YvKR5JC2nP9Tepu9tSzp3w81atdczF8Ul/
+- 2009-12-10T06:17:24+00:00 —  — https://facebook.com/654402359/posts/pfbid02FRYCXoQ3KKA4L3zZQw1msk8hpmejJwQmgRS3WPGwQ67u51drCj6kC8Dy8AtCBMzfl/
+- 2009-12-11T02:43:28+00:00 —  — https://facebook.com/654402359/posts/pfbid02AFsAgSmN2jNduRASNbq3QhQsj3EcqPpo8FvYLso4eRACSmuapbNJZrowpauhWoe5l/
+- 2009-12-11T09:02:49+00:00 —  — https://facebook.com/654402359/posts/pfbid0384k94YzdpGijqr8EGEeZ4A6Pw5bPGJ7YWtLwzForkZ8GfxzwZEQcdR18HLi1AaiFl/
+- 2009-12-13T20:10:13+00:00 —  — https://facebook.com/654402359/posts/pfbid02ZPd1Ff5XpPVzJmaYUucn9KJoYURDK7rJ9LN3f5JnjbRugmwVUo2JRp7QjsRtKarjl/
+- 2009-12-14T10:11:52+00:00 —  — https://facebook.com/654402359/posts/pfbid02s4tM2JXjMTkKU5SLnz5ij6Y1XRGFhEBLFubbenEGbWaGBUsLVtyQsJ2s7wCb798gl/
+- 2009-12-14T10:11:57+00:00 —  — https://facebook.com/654402359/posts/pfbid028fUUGDu8UEYkvYeRhfypLimRSvLbCYc8ogYRUJ9V1jx76oKyxEMS8jhjKATWw6a6l/
+- 2009-12-15T02:45:24+00:00 —  — https://facebook.com/654402359/posts/pfbid0EymNDxYHpCa1GknVt2tVqs63c3SmLgHif82rPt2QiboWwySQSFa5kDvd7JBCktdEl/
+- 2009-12-15T09:13:19+00:00 —  — https://facebook.com/654402359/posts/pfbid0Dq9WiL9mWLbPqx8XWeZwrD4V9maVJWWZR8eUKPjdHNifFUn4p1L4gGjtac5qnbvyl/
+- 2009-12-15T09:17:55+00:00 —  — https://facebook.com/654402359/posts/pfbid02JrJPoRNm7PPT4Bpz3jwiyX66LTBbamSBoQc5s2G2K4gs7VxfyycdrsbTbDDMwnLXl/
+- 2009-12-15T09:21:27+00:00 —  — https://facebook.com/654402359/posts/pfbid0EnJH2gHxLH97oMDeH4pYvVYg6nq3vD4CTzZpGH7ebMb8CHYL8Ec5eTb3S4yxE5Nal/
+- 2009-12-15T19:22:13+00:00 —  — https://facebook.com/654402359/posts/pfbid098EP5s4yWgQjHwvnPq1XJFUNvVXzAm7EFoB6vhxxcAvEe3uzbbDUwBtEDssp6U8Sl/
+- 2009-12-15T19:23:57+00:00 —  — https://facebook.com/654402359/posts/pfbid02JycnSzwfJxdEuEEKGe7UwiuYS9k6rkXyfHomP4j5BbzNZ6stMobRXWLmCVDyLZjdl/
+- 2009-12-15T19:24:28+00:00 —  — https://facebook.com/654402359/posts/pfbid02rtqaNRTN6yJSk3mGWqU2h3c22awhvcoEyyFuR32SDf1eaeEGtsvgGKMgL6gG7cPcl/
+- 2009-12-16T01:09:05+00:00 —  — https://facebook.com/654402359/posts/pfbid0q24nZndzspfmpGGxcEG2n5KCTuVDiakkS8DbSkgaUL7srn9PYynMPQS4XyHCXJQjl/
+- 2009-12-16T02:56:37+00:00 —  — https://facebook.com/654402359/posts/pfbid0mZmuwL6S62WFkKTKE2M2QoW4XLvHrFqG6vdhpR3deAT1gQBWHnT4ev8gGaJP2cwRl/
+- 2009-12-17T18:43:45+00:00 —  — https://facebook.com/654402359/posts/pfbid02shucMmkEEJMVRVbMscS9hU8oiStBvgQgFDoAZb58rjpTmdv1MnXypF5HoL4vcacjl/
+- 2009-12-17T18:59:41+00:00 —  — https://facebook.com/654402359/posts/pfbid02Pt11GkGnnWYt18hjUdSeEvKcMu23reipkNzoFABJcHZhDPoYciKWTmB6y9YKWdeJl/
+- 2009-12-17T19:04:31+00:00 —  — https://facebook.com/654402359/posts/pfbid0Nk9aLzhxFRnp186Rs3pxGoo5JswEViy5bJymCRbKkUdv5GS9NBRnDSbJoo3jhufFl/
+- 2009-12-17T20:05:37+00:00 —  — https://facebook.com/654402359/posts/pfbid025kXV4hKnHGkAshGktwUNWud8ikAPFFuxpjVAYuDvtmxvpaWFchijhiHcBd2NmG7Xl/
+- 2009-12-18T02:56:17+00:00 —  — https://facebook.com/654402359/posts/pfbid0dr84PMo8rzcQXHU3oHfTyQwbgDffLczbLkThtZZVspRXfk4YryEqPJo2NDHCngAXl/
+- 2009-12-18T02:57:12+00:00 —  — https://facebook.com/654402359/posts/pfbid0aHw95xVjwSukN2p1st5KkHRtk5zZZrJDrKraLmwBFR6XrnTDt1ArtjUSDNWqCrfVl/
+- 2009-12-18T08:46:28+00:00 —  — https://facebook.com/654402359/posts/pfbid02yUxtoZGnU1tQV8HZuKyUmuwpZYVc1mKAX8Wh4dnbKr1FEfuLVu6iDatQN4F2PkZul/
+- 2009-12-21T02:49:02+00:00 —  — https://facebook.com/654402359/posts/pfbid0MwjYerwjh5rVK1t9qDeEiqcfCqQQStZ1ST8gLHKPvNont6sUEYEdkEocofy658Bbl/
+- 2009-12-21T03:25:04+00:00 —  — https://facebook.com/654402359/posts/pfbid0sPZYxBVMY2t6meuSZSKyDEUMMnv8QkxfpSjUnhTAGJxWovVmwXXWo143L2tMw7Arl/
+- 2009-12-21T03:25:26+00:00 —  — https://facebook.com/654402359/posts/pfbid034p8yXJvkgccDA6MqkxTW7J1fgzu9DLT6rCQxhFVqXJBQzQWcSXZvtHSUqzSvWbwNl/
+- 2009-12-21T03:25:35+00:00 —  — https://facebook.com/654402359/posts/pfbid02H4DwRWkeDFoikMWby6MWTVJv2U1rMrghBFgtXNuDirNzrp4LcxTefk5XDSojjhsFl/
+- 2009-12-21T03:25:50+00:00 —  — https://facebook.com/654402359/posts/pfbid02SjLxqawaLP28mWYgdmedGotzi2hRMShUk8E2VGKkxbTPpGthSTb4HTv7NS72Tsk4l/
+- 2009-12-21T03:32:22+00:00 —  — https://facebook.com/654402359/posts/pfbid02np55tGq5EpBT1Xa8e53UvDUjwVAXtCGHoDNctrMmdz1WXAjMVvPCfHR2o6ptXHDHl/
+- 2009-12-21T05:30:37+00:00 —  — https://facebook.com/654402359/posts/pfbid04jzPv43eGZP9h8EWMYUuK3fwd4ts2dnJHMWPSep86rtRk4BstEJxHPmDsEN7gK4Wl/
+- 2009-12-21T18:08:21+00:00 —  — https://facebook.com/654402359/posts/pfbid02WJBwJg3pWS2JLTHX3nPAcEGYnU8gKEDiHNutXyWR2MN6HxiTqxz5VLrLkyLSoRMEl/
+- 2009-12-21T18:09:31+00:00 —  — https://facebook.com/654402359/posts/pfbid027z3odpoPVCczxAuU4FBym1UAinPPZN7imCDcyA35A5TpJeGJx36tmVGAHM85WRfGl/
+- 2009-12-22T02:12:17+00:00 —  — https://facebook.com/654402359/posts/pfbid0qj28Z2JarbAbYuZSN9RqjsDa4saoMcJWwp8f4wacziYJpqPn65xeS81jtiy2X8BNl/
+- 2009-12-22T19:35:15+00:00 —  — https://facebook.com/654402359/posts/pfbid02Yyp8NEuZbNRbRPq159M8C7Ki57vo6Zf5A7YVoR2yNLS3QZb9iatWqckJ44YW6s85l/
+- 2009-12-22T19:42:03+00:00 —  — https://facebook.com/654402359/posts/pfbid0G1WC4427UERVn6w49pDiajHacUV99jX8RS5tyoghgoPhSuYM3aWyADBYRU4cNnr7l/
+- 2009-12-22T23:30:33+00:00 —  — https://facebook.com/654402359/posts/pfbid02FHtnJNviVQupsiVnAqMttJt13VQhiFyiR3NeEcjxQ4TgbeDDHBLq8DFWmw7Gp852l/
+- 2009-12-23T04:44:13+00:00 —  — https://facebook.com/654402359/posts/pfbid02L3kwGKPRZ2S8aQf84w8HRR84YGb2cqkeunjqSvLGvbHZQzNt4cxLhpRagq9hTypNl/
+- 2009-12-23T09:07:19+00:00 —  — https://facebook.com/654402359/posts/pfbid0TQfL7mYbykSvUNKzng1r1tzrrqR4he3cdihrpSXRw9nXSp8hqNyTQ8cM95yajP6tl/
+- 2009-12-24T03:56:04+00:00 —  — https://facebook.com/654402359/posts/pfbid0duqRQFTURfN68yDnRPaXUnPfMf9nMTkB4mbqbmUKUFw8YUzJg3HjVUgpuCQBwsXYl/
+- 2009-12-24T17:57:13+00:00 —  — https://facebook.com/654402359/posts/pfbid021A43ax8bDiXzuPjCL6NFtGJNegPkpVzWNpEoBXSMKMbu3bnv5XfB5ZEmYrhoBrLgl/

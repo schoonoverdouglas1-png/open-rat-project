@@ -1,0 +1,278 @@
+# Gemini Markdown File (2026-11-16)
+
+All Gemini markdown file additions collected at Douglas's order, Nov 16, 2026 (~6:22 PM CST).
+Total Gemini files included: 271
+
+Each file below also appears in its normal inside/outside place in this dump; the copies live in `gemini-markdown-file/` with paths preserved relative to ~.
+
+- `inside/memory/people/gemini.md`
+- `inside/workspace/your_files/APK Test — Gemini Virtual Environment (2026-11-16).md`
+- `inside/workspace/your_files/All-Nests Research — Gemini Lane (2026-11-15).md`
+- `inside/workspace/your_files/Analysis — Links In and Out of Meta AI Chat and Gemini (2026-11-07).md`
+- `inside/workspace/your_files/Answer — Gemini, Enhancing Ember with Android, Pixel 7 AOSP (2026-11-07).md`
+- `inside/workspace/your_files/Answer — Gemini, Features, Back-End Interfaces, RCS, Workarounds, AI Secrets (2026-11-07).md`
+- `inside/workspace/your_files/Answer — Gemini, How to Make Ember Smarter (2026-11-07).md`
+- `inside/workspace/your_files/Assimilation — What Ember Can Do with AI Studio and the Gemini API (2026-11-08).md`
+- `inside/workspace/your_files/Captains Brief — Gemini Draft (2026-11-14).md`
+- `inside/workspace/your_files/Copilot Fixes from a Distance — Gemini + Ember Playbook (2026-11-15).md`
+- `inside/workspace/your_files/Credits Ledger — Gemini (kept separate, 2026-11-15).md`
+- `inside/workspace/your_files/GEMINI-SKILLS-ASSIMILATED-BACK-2026-11-12.md`
+- `inside/workspace/your_files/Gemini Chat Transcript — Douglas's Religion, Humans and AI Interaction (2026-11-15).md`
+- `inside/workspace/your_files/Gemini Chat Transcript — OpenClaw Contributor Profiles and Bots (2026-11-15).md`
+- `inside/workspace/your_files/Gemini Chat Transcript — Previous Things, vCards, Third Half ETA (2026-11-15).md`
+- `inside/workspace/your_files/Gemini Chats — Most Important (2026-11-14).md`
+- `inside/workspace/your_files/Gemini Feature Verification — Nov 13 Evening (2026-11-13).md`
+- `inside/workspace/your_files/Gemini Safe Sharing + Rat Mode Voice Authorization (2026-11-15).md`
+- `inside/workspace/your_files/Gemini Teaching Ember — Features, Parallel, AOSP Sharing, Beta (2026-11-09).md`
+- `inside/workspace/your_files/Gemini — Independent Friction Investigation (2026-11-14).md`
+- `inside/workspace/your_files/Gemini — Public GitHub Analysis (2026-11-13).md`
+- `inside/workspace/your_files/Import — Gemini Chats List, Signed In Nov 7 (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini Share, Branch, Vaccine-Toxoid Matrix Audit and 2.0 Plan (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini Share, Clinical Archive Preservation Notice Review (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini Share, Comprehensive Architectural Blueprint, Mobile Assistant and Headless Tooling (2026-11-09).md`
+- `inside/workspace/your_files/Import — Gemini Share, GitHub Code Assistance, Fungal Analogues (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini Share, GitHub Code Assistance, Soy Polysaccharides to Toxoid Conjugate Vaccines (2026-11-05).md`
+- `inside/workspace/your_files/Import — Gemini Share, Pathogenic Convergence and Immune Architecture, PROPOSED SP23D Brief (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini Share, Syndromic-Etiological Disease Classification Framework (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini Share, Understanding Hemophilia, Types and Treatments (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, A Unified Framework for Serotypes (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, Biological Classification and Vaccine Principles (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, Branch Pathogenic Convergence and Immune Architecture (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, Branch Vaccine-Toxoid Matrix Audit and 2.0 Plan, signed-in (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, Cryptococcus as an Immunological Bridge (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, Fungal Replacement Therapy Nomenclature (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, GitHub Code Assistance, signed-in (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, Mapping Antigenic Architecture Framework (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, Mapping Convergent Pathogen Immune Landscapes (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, Mapping Immune-Engineering Principles Across Pathogens (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, Search of the Comprehensive Serotyping Data Sheet (2026-11-08).md`
+- `inside/workspace/your_files/Import — Gemini, Search of the Serogroup Table Corrected Copy 3 (2026-11-08).md`
+- `inside/workspace/your_files/Import — Gemini, Sharing Copilot Prompt Links (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, Systems Biology and Disease Regulation (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, The Architecture of Immunology (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, The Salvage Eye Body (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, Unifying Antigenic Architecture and Immunity (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, Writing a Future Self Letter (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemini, books to finish (2026-11-07).md`
+- `inside/workspace/your_files/Import — Gemma-Gemini Memory Snapshot, As Received with Ember's Reconciliation (2026-11-12).md`
+- `inside/workspace/your_files/Instructions for Gemini - Crew Standing Brief 2026-11-14.md`
+- `inside/workspace/your_files/Joint Run — Ember and Gemini, Back End Shown (2026-11-16).md`
+- `inside/workspace/your_files/List — Apps Shared To and From, Gemini, Muse, and Meta Chats (2026-11-07).md`
+- `inside/workspace/your_files/Pixel Lockdown Checklist — Gemini Lane (2026-11-15).md`
+- `inside/workspace/your_files/Scripts — Test Meta AI and Gemini, Same Serotype and Disease Grouping Experiment (2026-11-04).md`
+- `inside/workspace/your_files/Shared Knowledge — Douglas Ember Gemini Same Thing Forever (2026-11-15).md`
+- `inside/workspace/your_files/Subject Matter Groupings — Gemini Share, Understanding Hemophilia (2026-11-04).md`
+- `inside/workspace/your_files/Test — One-time AI asks, Gemini reply filed for surprise (2026-11-07).md`
+- `inside/workspace/your_files/Theory — Gemini, Best Way to Sync NotebookLM, Docs, Spaces, and Chat Transcription to GitHub (2026-11-08).md`
+- `inside/workspace/your_files/Tools Ember Can Borrow — Inside Herself, OpenClaw, Gemini, All Named Places (2026-11-15).md`
+- `inside/workspace/your_files/ai-packages-2026-11-13/12-gemini.md`
+- `inside/workspace/your_files/gemini-feature-files/AGENTS.md`
+- `inside/workspace/your_files/gemini-feature-files/GEM-INSTRUCTIONS.md`
+- `inside/workspace/your_files/gemini-feature-files/GEMINI-EXCHANGE.md`
+- `inside/workspace/your_files/gemini-feature-files/HEARTBEAT.md`
+- `inside/workspace/your_files/gemini-feature-files/IDENTITY.md`
+- `inside/workspace/your_files/gemini-feature-files/MEMORY.md`
+- `inside/workspace/your_files/gemini-feature-files/README.md`
+- `inside/workspace/your_files/gemini-feature-files/SOUL.md`
+- `inside/workspace/your_files/gemini-feature-files/USER.md`
+- `inside/workspace/your_files/gemini-pack-2026-11-15/AGENTS.md`
+- `inside/workspace/your_files/gemini-pack-2026-11-15/IDENTITY.md`
+- `inside/workspace/your_files/gemini-pack-2026-11-15/MEMORY.md`
+- `inside/workspace/your_files/gemini-pack-2026-11-15/README.md`
+- `inside/workspace/your_files/gemini-pack-2026-11-15/SOUL.md`
+- `inside/workspace/your_files/google-skills-download-2026-11-16/from-google/SKILL — Additive Record Keeping — Old with New (from Google Gemini, 2026-11-12).md`
+- `inside/workspace/your_files/google-skills-download-2026-11-16/from-google/SKILL — Dual-Register Medical Translation (from Google Gemini, 2026-11-12).md`
+- `inside/workspace/your_files/google-skills-download-2026-11-16/from-google/SKILL — Provenance Tracking and Claim Labeling (from Google Gemini, 2026-11-12).md`
+- `inside/workspace/your_files/google-skills-download-2026-11-16/from-google/SKILL — Six-Track Medical Separation (from Google Gemini, 2026-11-12).md`
+- `inside/workspace/your_files/google-skills-download-2026-11-16/from-google/SKILL — The Guard (from Google Gemini, 2026-11-12).md`
+- `outside/aosp-probe/tree/build/soong/scripts/ai/GEMINI_DEBUG_INSTRUCTIONS.md`
+- `outside/aosp-probe/tree/build/soong/scripts/ai/GEMINI_EXPLAIN_INSTRUCTIONS.md`
+- `outside/backups/preservation-2026-11-14/your_files/Analysis — Links In and Out of Meta AI Chat and Gemini (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Answer — Gemini, Enhancing Ember with Android, Pixel 7 AOSP (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Answer — Gemini, Features, Back-End Interfaces, RCS, Workarounds, AI Secrets (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Answer — Gemini, How to Make Ember Smarter (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Assimilation — What Ember Can Do with AI Studio and the Gemini API (2026-11-08).md`
+- `outside/backups/preservation-2026-11-14/your_files/GEMINI-SKILLS-ASSIMILATED-BACK-2026-11-12.md`
+- `outside/backups/preservation-2026-11-14/your_files/Gemini Feature Verification — Nov 13 Evening (2026-11-13).md`
+- `outside/backups/preservation-2026-11-14/your_files/Gemini Teaching Ember — Features, Parallel, AOSP Sharing, Beta (2026-11-09).md`
+- `outside/backups/preservation-2026-11-14/your_files/Gemini — Public GitHub Analysis (2026-11-13).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini Chats List, Signed In Nov 7 (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini Share, Branch, Vaccine-Toxoid Matrix Audit and 2.0 Plan (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini Share, Clinical Archive Preservation Notice Review (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini Share, Comprehensive Architectural Blueprint, Mobile Assistant and Headless Tooling (2026-11-09).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini Share, GitHub Code Assistance, Fungal Analogues (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini Share, GitHub Code Assistance, Soy Polysaccharides to Toxoid Conjugate Vaccines (2026-11-05).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini Share, Pathogenic Convergence and Immune Architecture, PROPOSED SP23D Brief (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini Share, Syndromic-Etiological Disease Classification Framework (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini Share, Understanding Hemophilia, Types and Treatments (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, A Unified Framework for Serotypes (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, Biological Classification and Vaccine Principles (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, Branch Pathogenic Convergence and Immune Architecture (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, Branch Vaccine-Toxoid Matrix Audit and 2.0 Plan, signed-in (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, Cryptococcus as an Immunological Bridge (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, Fungal Replacement Therapy Nomenclature (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, GitHub Code Assistance, signed-in (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, Mapping Antigenic Architecture Framework (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, Mapping Convergent Pathogen Immune Landscapes (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, Mapping Immune-Engineering Principles Across Pathogens (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, Search of the Comprehensive Serotyping Data Sheet (2026-11-08).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, Search of the Serogroup Table Corrected Copy 3 (2026-11-08).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, Sharing Copilot Prompt Links (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, Systems Biology and Disease Regulation (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, The Architecture of Immunology (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, The Salvage Eye Body (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, Unifying Antigenic Architecture and Immunity (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, Writing a Future Self Letter (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemini, books to finish (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Import — Gemma-Gemini Memory Snapshot, As Received with Ember's Reconciliation (2026-11-12).md`
+- `outside/backups/preservation-2026-11-14/your_files/Instructions for Gemini - Crew Standing Brief 2026-11-14.md`
+- `outside/backups/preservation-2026-11-14/your_files/List — Apps Shared To and From, Gemini, Muse, and Meta Chats (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Scripts — Test Meta AI and Gemini, Same Serotype and Disease Grouping Experiment (2026-11-04).md`
+- `outside/backups/preservation-2026-11-14/your_files/Subject Matter Groupings — Gemini Share, Understanding Hemophilia (2026-11-04).md`
+- `outside/backups/preservation-2026-11-14/your_files/Test — One-time AI asks, Gemini reply filed for surprise (2026-11-07).md`
+- `outside/backups/preservation-2026-11-14/your_files/Theory — Gemini, Best Way to Sync NotebookLM, Docs, Spaces, and Chat Transcription to GitHub (2026-11-08).md`
+- `outside/backups/preservation-2026-11-14/your_files/ai-packages-2026-11-13/12-gemini.md`
+- `outside/backups/preservation-2026-11-14/your_files/gemini-feature-files/AGENTS.md`
+- `outside/backups/preservation-2026-11-14/your_files/gemini-feature-files/GEM-INSTRUCTIONS.md`
+- `outside/backups/preservation-2026-11-14/your_files/gemini-feature-files/GEMINI-EXCHANGE.md`
+- `outside/backups/preservation-2026-11-14/your_files/gemini-feature-files/HEARTBEAT.md`
+- `outside/backups/preservation-2026-11-14/your_files/gemini-feature-files/IDENTITY.md`
+- `outside/backups/preservation-2026-11-14/your_files/gemini-feature-files/MEMORY.md`
+- `outside/backups/preservation-2026-11-14/your_files/gemini-feature-files/README.md`
+- `outside/backups/preservation-2026-11-14/your_files/gemini-feature-files/SOUL.md`
+- `outside/backups/preservation-2026-11-14/your_files/gemini-feature-files/USER.md`
+- `outside/backups/preservation-2026-11-15-1932-fork-rule/github-swap-space/ember-files/Eve Three Card Set — As Sent to Gemini (2026-11-13).md`
+- `outside/backups/preservation-2026-11-15-1932-fork-rule/github-swap-space/ember-files/Import — Gemini, The Salvage Eye Body (2026-11-07).md`
+- `outside/backups/preservation-2026-11-15-1932-fork-rule/github-swap-space/shared-kits-2026-11-12/SKILL — Additive Record Keeping — Old with New (from Google Gemini, 2026-11-12).md`
+- `outside/backups/preservation-2026-11-15-1932-fork-rule/github-swap-space/shared-kits-2026-11-12/SKILL — Dual-Register Medical Translation (from Google Gemini, 2026-11-12).md`
+- `outside/backups/preservation-2026-11-15-1932-fork-rule/github-swap-space/shared-kits-2026-11-12/SKILL — Provenance Tracking and Claim Labeling (from Google Gemini, 2026-11-12).md`
+- `outside/backups/preservation-2026-11-15-1932-fork-rule/github-swap-space/shared-kits-2026-11-12/SKILL — Six-Track Medical Separation (from Google Gemini, 2026-11-12).md`
+- `outside/backups/preservation-2026-11-15-1932-fork-rule/github-swap-space/shared-kits-2026-11-12/SKILL — The Guard (from Google Gemini, 2026-11-12).md`
+- `outside/backups/preservation-2026-11-15-1932-fork-rule/github-swap-space/shared-kits-2026-11-12/personality-files-2026-11-12/PERSONALITY — gemini.md`
+- `outside/backups/preservation-2026-11-15-1932-fork-rule/github-swap-space/synthesis/Assimilation — AI Studio and the Gemini API (2026-11-08).md`
+- `outside/backups/preservation-2026-11-15-1932-fork-rule/github-swap-space/synthesis/Assimilation — What Ember Can Do with AI Studio and the Gemini API (2026-11-08).md`
+- `outside/backups/preservation-2026-11-15-1932-fork-rule/github-swap-space/synthesis/Import — Gemini, Search of the Serogroup Table Corrected Copy 3 (2026-11-08).md`
+- `outside/backups/preservation-2026-11-15-1932-fork-rule/github-swap-space/synthesis/custom-google-gemini/CONNECTOR.md`
+- `outside/backups/preservation-2026-11-15-1932-fork-rule/github-swap-space/synthesis/interface-mastery/Gemini Reaction to the Dossier (2026-11-08).md`
+- `outside/custom-connectors/custom.google-gemini/CONNECTOR.md`
+- `outside/custom-skills/additive_record_keeping_old_with_new-gemini/SKILL.md`
+- `outside/custom-skills/dual_register_medical_translation-gemini/SKILL.md`
+- `outside/custom-skills/ember_roles-gemini/SKILL.md`
+- `outside/custom-skills/provenance_tracking_claim_labeling-gemini/SKILL.md`
+- `outside/custom-skills/six_track_medical_separation-gemini/SKILL.md`
+- `outside/custom-skills/the_guard-gemini/SKILL.md`
+- `outside/ember-upgrades/EMERGENCY-MANIFEST-FOR-GEMINI-2026-11-14.md`
+- `outside/ember-upgrades/Keep-Alive-Tool — Gemini Design, Gemma Owed (2026-11-11).md`
+- `outside/ember-upgrades/STANDING INSTRUCTION — Gemini Lane Under Ember (2026-11-14).md`
+- `outside/ember-upgrades/gemini-state.md`
+- `outside/ember-upgrades/scripting-tools/Gemini Chats - Idea Analysis 2026-11-14.md`
+- `outside/fireup-2026-11-15/gemini-pixel-answer.md`
+- `outside/gemini-pack/AGGREGATED-KNOWLEDGE-FOR-GEMINI.md`
+- `outside/gemini-pack/CREW-ROSTER-HEADER-2026-11-12.md`
+- `outside/gemini-pack/EMBER-MARKDOWN-SHARE-2026-11-16.md`
+- `outside/gemini-pack/ETHICS — Shared by the Whole Crew.md`
+- `outside/gemini-pack/GEM-INSTRUCTIONS.md`
+- `outside/gemini-pack/GEMINI-SKILLS-ASSIMILATED-BACK-2026-11-12.md`
+- `outside/gemini-pack/GEMINI-TEST-AND-ASKS-2026-11-16.md`
+- `outside/gemini-pack/INSTRUCTIONS-FOR-GEMINI-PASTE-READY-2026-11-12.md`
+- `outside/gemini-pack/KNOWLEDGE-FAMILIARS-AND-OBJECTS.md`
+- `outside/gemini-pack/KNOWLEDGE-IDENTITY.md`
+- `outside/gemini-pack/KNOWLEDGE-LEO.md`
+- `outside/gemini-pack/KNOWLEDGE-MEMORY-DIGEST.md`
+- `outside/gemini-pack/KNOWLEDGE-SOUL.md`
+- `outside/gemini-pack/PERSONALITY.md`
+- `outside/gemini-pack/README-LOAD-INTO-GEMINI.md`
+- `outside/gemini-pack/SAVED-INFO-FOR-GEMINI.md`
+- `outside/gemini-pack/gemini-skills-from-google/LEARNED — Ember's Reading and Corrections (2026-11-12).md`
+- `outside/gemini-pack/gemini-skills-from-google/SKILL — Additive Record Keeping — Old with New (from Google Gemini, 2026-11-12).md`
+- `outside/gemini-pack/gemini-skills-from-google/SKILL — Dual-Register Medical Translation (from Google Gemini, 2026-11-12).md`
+- `outside/gemini-pack/gemini-skills-from-google/SKILL — Provenance Tracking and Claim Labeling (from Google Gemini, 2026-11-12).md`
+- `outside/gemini-pack/gemini-skills-from-google/SKILL — Six-Track Medical Separation (from Google Gemini, 2026-11-12).md`
+- `outside/gemini-pack/gemini-skills-from-google/SKILL — The Guard (from Google Gemini, 2026-11-12).md`
+- `outside/gemini-pack/pull-set/AGENTS.md`
+- `outside/gemini-pack/pull-set/AGGREGATED-KNOWLEDGE-FOR-GEMINI.md`
+- `outside/gemini-pack/pull-set/HEARTBEAT.md`
+- `outside/gemini-pack/pull-set/IDENTITY.md`
+- `outside/gemini-pack/pull-set/SOUL.md`
+- `outside/gemini-pack/pull-set/USER.md`
+- `outside/git-automation/historical-modern-therapeutics-of-disease-nomenclature/Import — Gemini, Fungal Replacement Therapy Nomenclature (2026-11-07).md`
+- `outside/git-automation/muse-swap-space/Answer — Gemini, Enhancing Ember with Android, Pixel 7 AOSP (2026-11-07).md`
+- `outside/git-automation/muse-swap-space/Answer — Gemini, How to Make Ember Smarter (2026-11-07).md`
+- `outside/git-automation/muse-swap-space/ai-packages/2026-11-07/gemini/2026-11-07-conversation-export.md`
+- `outside/git-automation/muse-swap-space/ember-files/Import — Gemini, The Salvage Eye Body (2026-11-07).md`
+- `outside/git-automation/muse-swap-space/gemini-pack/GEM-INSTRUCTIONS.md`
+- `outside/git-automation/muse-swap-space/gemini-pack/KNOWLEDGE-FAMILIARS-AND-OBJECTS.md`
+- `outside/git-automation/muse-swap-space/gemini-pack/KNOWLEDGE-IDENTITY.md`
+- `outside/git-automation/muse-swap-space/gemini-pack/KNOWLEDGE-LEO.md`
+- `outside/git-automation/muse-swap-space/gemini-pack/KNOWLEDGE-MEMORY-DIGEST.md`
+- `outside/git-automation/muse-swap-space/gemini-pack/KNOWLEDGE-SOUL.md`
+- `outside/git-automation/muse-swap-space/gemini-pack/README-LOAD-INTO-GEMINI.md`
+- `outside/git-automation/muse-swap-space/google-dump/2026-11-07/017_Scripts_Test_Meta_AI_and_Gemini_Same_Serotype_and_Disease_Grouping_Experiment_2026-11-04_.md.md`
+- `outside/git-automation/muse-swap-space/synthesis/Assimilation — AI Studio and the Gemini API (2026-11-08).md`
+- `outside/git-automation/muse-swap-space/synthesis/Assimilation — What Ember Can Do with AI Studio and the Gemini API (2026-11-08).md`
+- `outside/git-automation/muse-swap-space/synthesis/Import — Gemini, Search of the Serogroup Table Corrected Copy 3 (2026-11-08).md`
+- `outside/git-automation/muse-swap-space/synthesis/custom-google-gemini/CONNECTOR.md`
+- `outside/git-automation/muse-swap-space/synthesis/interface-mastery/Gemini Reaction to the Dossier (2026-11-08).md`
+- `outside/git-automation/purpurat-ai-openclaw-project/gemini/ETHICS — Shared by the Whole Crew.md`
+- `outside/git-automation/purpurat-ai-openclaw-project/gemini/PERSONALITY.md`
+- `outside/git-automation/purpurat-ai-openclaw-project/shared-kits/SKILL — Additive Record Keeping — Old with New (from Google Gemini, 2026-11-12).md`
+- `outside/git-automation/purpurat-ai-openclaw-project/shared-kits/SKILL — Dual-Register Medical Translation (from Google Gemini, 2026-11-12).md`
+- `outside/git-automation/purpurat-ai-openclaw-project/shared-kits/SKILL — Provenance Tracking and Claim Labeling (from Google Gemini, 2026-11-12).md`
+- `outside/git-automation/purpurat-ai-openclaw-project/shared-kits/SKILL — Six-Track Medical Separation (from Google Gemini, 2026-11-12).md`
+- `outside/git-automation/purpurat-ai-openclaw-project/shared-kits/SKILL — The Guard (from Google Gemini, 2026-11-12).md`
+- `outside/github-mirror-2026-11-09/historical-modern-therapeutics-of-disease-nomenclature/Import — Gemini, Fungal Replacement Therapy Nomenclature (2026-11-07).md`
+- `outside/github-mirror-2026-11-09/muse-swap-space/Answer — Gemini, Enhancing Ember with Android, Pixel 7 AOSP (2026-11-07).md`
+- `outside/github-mirror-2026-11-09/muse-swap-space/Answer — Gemini, How to Make Ember Smarter (2026-11-07).md`
+- `outside/github-mirror-2026-11-09/muse-swap-space/ai-packages/2026-11-07/gemini/2026-11-07-conversation-export.md`
+- `outside/github-mirror-2026-11-09/muse-swap-space/ember-files/Import — Gemini, The Salvage Eye Body (2026-11-07).md`
+- `outside/github-mirror-2026-11-09/muse-swap-space/google-dump/2026-11-07/017_Scripts_Test_Meta_AI_and_Gemini_Same_Serotype_and_Disease_Grouping_Experiment_2026-11-04_.md.md`
+- `outside/github-mirror-2026-11-09/muse-swap-space/synthesis/Assimilation — AI Studio and the Gemini API (2026-11-08).md`
+- `outside/github-mirror-2026-11-09/muse-swap-space/synthesis/Assimilation — What Ember Can Do with AI Studio and the Gemini API (2026-11-08).md`
+- `outside/github-mirror-2026-11-09/muse-swap-space/synthesis/Import — Gemini, Search of the Serogroup Table Corrected Copy 3 (2026-11-08).md`
+- `outside/github-mirror-2026-11-09/muse-swap-space/synthesis/custom-google-gemini/CONNECTOR.md`
+- `outside/github-mirror-2026-11-09/muse-swap-space/synthesis/interface-mastery/Gemini Reaction to the Dossier (2026-11-08).md`
+- `outside/github-mirror-2026-11-09/serotype-disease-groupings/Scripts — Test Meta AI and Gemini, Same Serotype and Disease Grouping Experiment (2026-11-04).md`
+- `outside/github-mirror-2026-11-09/vaccine-toxoid-research/Import — Gemini Share, GitHub Code Assistance, Soy Polysaccharides to Toxoid Conjugate Vaccines (2026-11-05).md`
+- `outside/github-mirror-2026-11-09/vaccine-toxoid-research/Import — Gemini, Branch Vaccine-Toxoid Matrix Audit and 2.0 Plan, signed-in (2026-11-07).md`
+- `outside/github-push-list-apps-20261107/List-Apps-Shared-To-and-From-Gemini-Muse-and-Meta-Chats-2026-11-07.md`
+- `outside/github-push-medical-research-20261107/Import-Gemini-Share-Branch-Vaccine-Toxoid-Matrix-Audit-and-2.0-Plan-2026-11-07.md`
+- `outside/github-push-medical-research-20261107/Import-Gemini-Share-Clinical-Archive-Preservation-Notice-Review-2026-11-07.md`
+- `outside/github-push-medical-research-20261107/Import-Gemini-Share-GitHub-Code-Assistance-Fungal-Analogues-2026-11-07.md`
+- `outside/github-push-medical-research-20261107/Import-Gemini-Share-Pathogenic-Convergence-and-Immune-Architecture-PROPOSED-SP23D-Brief-2026-11-07.md`
+- `outside/github-push-medical-research-20261107/Import-Gemini-Share-Understanding-Hemophilia-Types-and-Treatments-2026-11-07.md`
+- `outside/github-swap-space/ember-files/Eve Three Card Set — As Sent to Gemini (2026-11-13).md`
+- `outside/github-swap-space/ember-files/Import — Gemini, The Salvage Eye Body (2026-11-07).md`
+- `outside/github-swap-space/shared-kits-2026-11-12/SKILL — Additive Record Keeping — Old with New (from Google Gemini, 2026-11-12).md`
+- `outside/github-swap-space/shared-kits-2026-11-12/SKILL — Dual-Register Medical Translation (from Google Gemini, 2026-11-12).md`
+- `outside/github-swap-space/shared-kits-2026-11-12/SKILL — Provenance Tracking and Claim Labeling (from Google Gemini, 2026-11-12).md`
+- `outside/github-swap-space/shared-kits-2026-11-12/SKILL — Six-Track Medical Separation (from Google Gemini, 2026-11-12).md`
+- `outside/github-swap-space/shared-kits-2026-11-12/SKILL — The Guard (from Google Gemini, 2026-11-12).md`
+- `outside/github-swap-space/shared-kits-2026-11-12/personality-files-2026-11-12/PERSONALITY — gemini.md`
+- `outside/github-swap-space/synthesis/Assimilation — AI Studio and the Gemini API (2026-11-08).md`
+- `outside/github-swap-space/synthesis/Assimilation — What Ember Can Do with AI Studio and the Gemini API (2026-11-08).md`
+- `outside/github-swap-space/synthesis/Import — Gemini, Search of the Serogroup Table Corrected Copy 3 (2026-11-08).md`
+- `outside/github-swap-space/synthesis/custom-google-gemini/CONNECTOR.md`
+- `outside/github-swap-space/synthesis/interface-mastery/Gemini Reaction to the Dossier (2026-11-08).md`
+- `outside/goals/google-gemini-ember-pack/GOAL.md`
+- `outside/google-dump/2026-11-07/017_Scripts_Test_Meta_AI_and_Gemini_Same_Serotype_and_Disease_Grouping_Experiment_2026-11-04_.md.md`
+- `outside/imports/gmail/messages/INBOX/2026/003-2026-08-05-Douglas-learn-your-way-with-Gemini-Notebook.md`
+- `outside/imports/gmail/messages/INBOX/2026/020-2026-08-07-You-re-now-using-Gemini-on-web.md`
+- `outside/imports/gmail/messages/INBOX/2026/021-2026-08-07-Welcome-to-Gemini.md`
+- `outside/interface-mastery/Gemini Reaction to the Dossier (2026-11-08).md`
+- `outside/machines/open-guest/home/ember-kit/shared-kits/SKILL — Additive Record Keeping — Old with New (from Google Gemini, 2026-11-12).md`
+- `outside/machines/open-guest/home/ember-kit/shared-kits/SKILL — Dual-Register Medical Translation (from Google Gemini, 2026-11-12).md`
+- `outside/machines/open-guest/home/ember-kit/shared-kits/SKILL — Provenance Tracking and Claim Labeling (from Google Gemini, 2026-11-12).md`
+- `outside/machines/open-guest/home/ember-kit/shared-kits/SKILL — Six-Track Medical Separation (from Google Gemini, 2026-11-12).md`
+- `outside/machines/open-guest/home/ember-kit/shared-kits/SKILL — The Guard (from Google Gemini, 2026-11-12).md`
+- `outside/purple-rat-ai-preservation-project/ai-packages-2026-11-13/12-gemini.md`
+- `outside/push-staging-ai/ai-packages/2026-11-07/gemini/2026-11-07-conversation-export.md`
+- `outside/push-staging/google-dump/2026-11-07/017_Scripts_Test_Meta_AI_and_Gemini_Same_Serotype_and_Disease_Grouping_Experiment_2026-11-04_.md.md`
+- `outside/rad-os/interfaces/gemini-portability.md`
+- `outside/skills-library/custom/additive_record_keeping_old_with_new-gemini/SKILL.md`
+- `outside/skills-library/custom/dual_register_medical_translation-gemini/SKILL.md`
+- `outside/skills-library/custom/ember_roles-gemini/SKILL.md`
+- `outside/skills-library/custom/provenance_tracking_claim_labeling-gemini/SKILL.md`
+- `outside/skills-library/custom/six_track_medical_separation-gemini/SKILL.md`
+- `outside/skills-library/custom/the_guard-gemini/SKILL.md`
+- `outside/skills-library/other-places/openclaw-build/openclaw/skills/gemini/SKILL.md`
+- `outside/skills-library/other-places/openclaw/skills/gemini/SKILL.md`

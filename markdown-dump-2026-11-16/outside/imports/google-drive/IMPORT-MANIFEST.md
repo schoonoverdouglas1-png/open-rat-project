@@ -1,0 +1,53 @@
+# Google Drive Import — Manifest
+
+Completed Nov 1, 2026, from Douglas Roy Schoonover's connected Google Drive.
+Destination: ~/workspace/imports/google-drive/ — read-only on the Drive side; nothing in Drive was deleted, trashed, moved, renamed, or shared, and nothing was uploaded back to Drive.
+
+Summary: 39 Drive files found, 36 already present from the earlier partial import, 3 newly imported in this completion pass, 0 failed.
+
+Notes:
+- Duplicate Drive names are kept distinct locally with a " (2)" suffix (e.g. the two Chapter XVIII documents, the two Clinical Pharmacology and Immunology Study Guide documents, the two Master Resume V3 documents, the two Historical & Modern Therapeutics documents, and the Book — Medical Elements document versus its stored .md file).
+- Two Google-native documents are genuinely empty in Drive (their exported text is a single newline); their local files are header-only by design, not failures: the Chapter XVIII duplicate modified 2026-11-01T16:12:04Z, and the fixed_physics document modified 2026-09-13T14:07:49Z.
+- Google-native documents were read through the Docs connector; stored files were downloaded through Drive. No Drive export was used for native content.
+
+| Drive name | MIME type | Drive modified (UTC) | Local file | Local bytes | Status |
+|---|---|---|---|---|---|
+| Book — Medical Elements and Thoughtology — Complete (2026-11-01) | application/vnd.google-apps.document | 2026-11-01T19:51:29.071Z | Book — Medical Elements and Thoughtology — Complete (2026-11-01).md | 105048 | already present |
+| Book — Medical Elements and Thoughtology — Complete (2026-11-01).md | text/markdown | 2026-11-01T19:47:11.150Z | Book — Medical Elements and Thoughtology — Complete (2026-11-01) (2).md | 104950 | already present |
+| Chapter XXII: Community Investigations, Surveillance Networks, and Non-Electronic Communication Protocols | application/vnd.google-apps.document | 2026-11-01T16:23:48.097Z | Chapter XXII: Community Investigations, Surveillance Networks, and Non-Electronic Communication Protocols.md | 1560 | already present |
+| Chapter XXI: Forensic Inquiry, Toxicological Identification, and the Cornell Investigations | application/vnd.google-apps.document | 2026-11-01T16:19:23.973Z | Chapter XXI: Forensic Inquiry, Toxicological Identification, and the Cornell Investigations.md | 1357 | already present |
+| Chapter XX: Physical Semiology of Ancient and Modern Pathologies and Toxicological Differential Diagnosis | application/vnd.google-apps.document | 2026-11-01T16:18:30.094Z | Chapter XX: Physical Semiology of Ancient and Modern Pathologies and Toxicological Differential Diagnosis.md | 1595 | already present |
+| Chapter XIX: The Anti-Lawsuit Covenant, Emotional Resilience, and Protecting Healing Professionals | application/vnd.google-apps.document | 2026-11-01T16:17:37.130Z | Chapter XIX: The Anti-Lawsuit Covenant, Emotional Resilience, and Protecting Healing Professionals.md | 1894 | already present |
+| Chapter XVIII: Arboviral Panels as Fungal Indicators, Unculturable Pathogen Solutions, and Oakleaf Clinic Collaboration | application/vnd.google-apps.document | 2026-11-01T16:12:16.341Z | Chapter XVIII: Arboviral Panels as Fungal Indicators, Unculturable Pathogen Solutions, and Oakleaf Clinic Collaboration.md | 1924 | already present |
+| Chapter XVIII: Arboviral Panels as Fungal Indicators, Unculturable Pathogen Solutions, and Oakleaf Clinic Collaboration | application/vnd.google-apps.document | 2026-11-01T16:12:04.220Z | Chapter XVIII: Arboviral Panels as Fungal Indicators, Unculturable Pathogen Solutions, and Oakleaf Clinic Collaboration (2).md | 209 | already present |
+| Chapter XVII: Cryptococcal Mortality, Modern PCR Diagnostic Expansion, and Algorithmic Thought Synchronization | application/vnd.google-apps.document | 2026-11-01T16:10:17.904Z | Chapter XVII: Cryptococcal Mortality, Modern PCR Diagnostic Expansion, and Algorithmic Thought Synchronization.md | 9007 | already present |
+| Chapter XV: Environmental Reservoirs, Soil-Borne Fungal-Viral Ecology, and the Therapeutic Hierarchy of Antivirals and Antifungals | application/vnd.google-apps.document | 2026-11-01T16:06:56.271Z | Chapter XV: Environmental Reservoirs, Soil-Borne Fungal-Viral Ecology, and the Therapeutic Hierarchy of Antivirals and Antifungals.md | 14645 | already present |
+| Chapter XV: Soil Microbiomes, Multi-State Vector Exposure, and the Clearing Role of Viruses over Antifungal-Antiviral Synergy | application/vnd.google-apps.document | 2026-11-01T16:03:50.333Z | Chapter XV: Soil Microbiomes, Multi-State Vector Exposure, and the Clearing Role of Viruses over Antifungal-Antiviral Synergy.md | 11196 | already present |
+| Chapter XIV: Mutual Host-Vector Immune Reactivity, Arboviral-Fungal Symbiosis, and the Shared Disease Terrain | application/vnd.google-apps.document | 2026-11-01T15:59:02.351Z | Chapter XIV: Mutual Host-Vector Immune Reactivity, Arboviral-Fungal Symbiosis, and the Shared Disease Terrain.md | 11599 | already present |
+| Chapter XIII: Arbovirus Panel Dynamics, Size-Dependent Blood-Brain Barrier Filtration, and Fungal-Bacterial Co-Factors | application/vnd.google-apps.document | 2026-11-01T15:57:03.678Z | Chapter XIII: Arbovirus Panel Dynamics, Size-Dependent Blood-Brain Barrier Filtration, and Fungal-Bacterial Co-Factors.md | 11572 | already present |
+| The Cross-Axis Diagnostic Framework: Integrating Streptococcal, Meningococcal, and Encephalitic Serology for Systemic Terrain Diagnosis | application/vnd.google-apps.document | 2026-11-01T15:50:07.896Z | The Cross-Axis Diagnostic Framework: Integrating Streptococcal, Meningococcal, and Encephalitic Serology for Systemic Terrain Diagnosis.md | 12192 | already present |
+| Chapter XII: Emotional Dissociation in Clinical Practice and the Axis of Systemic Disease | application/vnd.google-apps.document | 2026-11-01T15:40:22.465Z | Chapter XII: Emotional Dissociation in Clinical Practice and the Axis of Systemic Disease.md | 2116 | already present |
+| Chapter XI: Minimizing Legal Liability through Discovery-Based Diagnostics and Standard of Care | application/vnd.google-apps.document | 2026-11-01T15:37:20.046Z | Chapter XI: Minimizing Legal Liability through Discovery-Based Diagnostics and Standard of Care.md | 3043 | already present |
+| Chapter X: Chemical Pigments of Algae and the Ancient Origins of Vector-Discovered Illness | application/vnd.google-apps.document | 2026-11-01T15:35:51.019Z | Chapter X: Chemical Pigments of Algae and the Ancient Origins of Vector-Discovered Illness.md | 4596 | already present |
+| Green Algae Species Composite Illustration | application/vnd.google-apps.document | 2026-11-01T15:10:07.478Z | Green Algae Species Composite Illustration.md | 1472 | already present |
+| Shareable Research Bundle Links | application/vnd.google-apps.document | 2026-11-01T14:52:46.262Z | Shareable Research Bundle Links.md | 16402 | already present |
+| Clinical Pharmacology and Immunology Study Guide.docx | application/vnd.openxmlformats-officedocument.wordprocessingml.document | 2026-10-31T20:31:17.438Z | Clinical Pharmacology and Immunology Study Guide.docx | 3121842 | already present |
+| Clinical Pharmacology and Immunology Study Guide | application/vnd.google-apps.document | 2026-10-31T20:24:10.227Z | Clinical Pharmacology and Immunology Study Guide.md | 4049 | already present |
+| Clinical Pharmacology and Immunology Study Guide | application/vnd.google-apps.document | 2026-10-31T20:23:54.729Z | Clinical Pharmacology and Immunology Study Guide (2).md | 4049 | already present |
+| Shareable Research Bundle (2026-10-30).zip | application/zip | 2026-10-31T00:08:34.529Z | Shareable Research Bundle (2026-10-30).zip | 1716699 | already present |
+| The Historical & Modern Therapeutics of Disease Nomenclature.md | application/vnd.google-apps.document | 2026-10-29T15:04:37.938Z | The Historical & Modern Therapeutics of Disease Nomenclature.md.md | 14500 | already present |
+| The Historical & Modern Therapeutics of Disease Nomenclature.md | application/vnd.google-apps.document | 2026-10-29T12:48:26.205Z | The Historical & Modern Therapeutics of Disease Nomenclature.md (2).md | 14500 | already present |
+| The Mycelial Transposition - Complete Book Manuscript.md | application/vnd.google-apps.document | 2026-10-29T12:39:37.487Z | The Mycelial Transposition - Complete Book Manuscript.md.md | 27458 | already present |
+| Please show me an expanded book upon this and show... | application/vnd.google-apps.document | 2026-10-26T12:00:18.803Z | Please show me an expanded book upon this and show....md | 21009 | already present |
+| The Mycelial Transposition — Book Manuscript | application/vnd.google-apps.document | 2026-10-26T06:03:13.108Z | The Mycelial Transposition — Book Manuscript.md | 21290 | already present |
+| Doug's Thoughts on Teaching Medicine | application/vnd.google-apps.document | 2026-10-24T16:14:17.062Z | Doug's Thoughts on Teaching Medicine.md | 3933 | already present |
+| Douglas Schoonover - Master Resume V3 | application/vnd.google-apps.document | 2026-10-23T03:43:49.142Z | Douglas Schoonover - Master Resume V3.md | 5675 | already present |
+| Douglas Schoonover - Master Resume V3 | application/vnd.google-apps.document | 2026-10-23T03:37:51.291Z | Douglas Schoonover - Master Resume V3 (2).md | 5675 | already present |
+| Oaklair Scenario - Outline & Notes | application/vnd.google-apps.document | 2026-10-21T23:50:22.678Z | Oaklair Scenario - Outline & Notes.md | 7384 | already present |
+| Douglas Schoonover - Updated Complete Resume | application/vnd.google-apps.document | 2026-10-21T23:25:30.052Z | Douglas Schoonover - Updated Complete Resume.md | 4938 | already present |
+| Douglas Schoonover - Professional Resume | application/vnd.google-apps.document | 2026-10-21T23:19:31.305Z | Douglas Schoonover - Professional Resume.md | 4970 | already present |
+| American Names to Viruses — The Full Table (2026-10-18).md | text/markdown | 2026-10-18T20:46:08.056Z | American Names to Viruses — The Full Table (2026-10-18).md | 45431 | already present |
+| MEMORY.md | text/markdown | 2026-10-03T03:35:43.767Z | MEMORY.md | 393 | already present |
+| SOUL.md | text/markdown | 2026-10-03T03:35:36.056Z | SOUL.md | 795 | newly imported |
+| fixed_physics_pillowcase_theory_agentic_artifact_1_1bcd90d368f9 | application/vnd.google-apps.document | 2026-09-13T14:07:49.500Z | fixed_physics_pillowcase_theory_agentic_artifact_1_1bcd90d368f9.md | 152 | newly imported |
+| fixed_physics_pillowcase_theory_agentic_artifact_1_1bcd90d368f9.html | text/html | 2026-08-26T01:32:11.492Z | fixed_physics_pillowcase_theory_agentic_artifact_1_1bcd90d368f9.html | 226567 | newly imported |

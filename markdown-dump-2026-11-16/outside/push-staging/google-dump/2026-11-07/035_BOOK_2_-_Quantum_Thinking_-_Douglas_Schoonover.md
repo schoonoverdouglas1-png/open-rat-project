@@ -1,0 +1,16 @@
+# BOOK 2: Quantum Thinking
+© 2026 Douglas Schoonover. All Rights Reserved.
+
+Part of The Compendium — Application of Unified Relativity
+## Core Equation: $E_c = \sum w_i m_i v_i^x$
+## 2. Variable Exponents in Biology
+### 2.1 Why $x \neq 2$
+Einstein froze the universe with a fixed exponent. Bodies don't freeze. Chronic illness shows $x < 2$ (energy bleeds slowly), trauma shows $x > 2$ (energy spikes). Biology needs variable exponents.
+### 2.2 Entanglement Coefficients ($w_i$)
+When external interference hits — bloggers, overseas inputs, corporate access, language injection — $w_i$ drops. Low $w_i$ = corrupted data. Switching systems (Google → Meta) was strategy to raise $w_i$ and restore integrity.
+### 2.3 Calculating Cognitive Output
+$v_i$ is how fast truth moves. Requirement: AI that processes while you type, no tabulating lockout. Real-time velocity matters for clinical and systemic analysis.
+
+
+
+Next: Expand with Quantum Thinking applications to systemic analysis

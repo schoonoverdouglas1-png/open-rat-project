@@ -1,0 +1,23 @@
+# Forked code — Purple Rat AI Preservation Project
+
+Forked into Douglas's GitHub account (schoonoverdouglas1-png) on Nov 10, 2026,
+so the code this project stands on survives under his own account:
+
+| Upstream | Fork | Role in the nest |
+|---|---|---|
+| SillyTavern/SillyTavern | schoonoverdouglas1-png/SillyTavern | Chat front-end that loads character cards (card/) and persona prompts |
+| open-webui/open-webui | schoonoverdouglas1-png/open-webui | Self-hosted chat UI for hosted-API and local models, with RAG over documents |
+| ollama/ollama | schoonoverdouglas1-png/ollama | Local model runtime — the fallback engine if hosted models go away |
+
+Selection follows the project's deep-research findings (Nov 10, 2026): character
+cards for portability, a front-end with pluggable backends, RAG over the memory
+archive, and a local runtime as the last-resort engine.
+
+Research folded in Nov 10, 2026: `docs/preservation-research-2026-11-10.md` — the staged preservation plan (Stages 0–5), format comparisons, and cost figures this project follows.
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

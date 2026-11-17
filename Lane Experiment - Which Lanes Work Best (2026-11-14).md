@@ -22,3 +22,5 @@ At Douglas's order: experiment across all his AI lanes, then use the best ones a
 
 ## NOT LINKED, AND WHY (his taps, unchanged)
 Account linking/sign-ins (ChatGPT purplerat1982 card, Undermind code step, OpenAI key, trusted-contact accept) remain Douglas's hands. Ember cannot auto-link accounts; the lanes above are linked by verified use, not by new sign-ins.
+
+- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

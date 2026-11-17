@@ -1,0 +1,714 @@
+# Ubuntu 24.04.5 — Command Knowledge Base (2026-11-08)
+
+Self-taught from this machine's own man pages: 704 commands with their official one-line descriptions.
+
+- `` — w - Show who is logged on and what they are doing.
+- `CA.pl.1ssl` — CA.pl - friendlier interface for OpenSSL certificate programs
+- `Xserve` — Xserver - X Window System display server
+- `Xtigervn` — Xtigervnc - the X VNC server
+- `Xvf` — Xvfb - virtual framebuffer X server for X Version 11
+- `Xvn` — Xtigervnc - the X VNC server
+- `a` — AS - the portable GNU assembler.
+- `addr2lin` — addr2line - convert addresses or symbol+offset into file names and line numbers
+- `arc` — arch - print machine hardware name (same as uname -m)
+- `asn1parse.1ssl` — asn1parse,
+- `autoexpec` — autoexpect - generate an Expect script from watching a session
+- `aw` — mawk -
+- `b2su` — b2sum - compute and check BLAKE2 message digest
+- `bas` — bash - GNU Bourne-Again SHell
+- `base3` — base32 - base32 encode/decode data and print to standard output
+- `base6` — base64 - base64 encode/decode data and print to standard output
+- `basen` — basenc - Encode/decode data and print to standard output
+- `basenam` — basename - strip directory and suffix from filenames
+- `bunzip` — bzip2, bunzip2 - a block-sorting file compressor, v1.0.8
+- `bzca` — bzip2, bunzip2 - a block-sorting file compressor, v1.0.8
+- `bzcm` — bzcmp, bzdiff - compare bzip2 compressed files
+- `bzdif` — bzcmp, bzdiff - compare bzip2 compressed files
+- `bzegre` — bzgrep, bzfgrep, bzegrep - search possibly bzip2 compressed files for a regular expression
+- `bzex` — bzexe - compress executable files in place
+- `bzfgre` — bzgrep, bzfgrep, bzegrep - search possibly bzip2 compressed files for a regular expression
+- `bzgre` — bzgrep, bzfgrep, bzegrep - search possibly bzip2 compressed files for a regular expression
+- `bzip` — bzip2, bunzip2 - a block-sorting file compressor, v1.0.8
+- `bzip2recove` — bzip2, bunzip2 - a block-sorting file compressor, v1.0.8
+- `bzles` — bzmore, bzless - file perusal filter for crt viewing of bzip2 compressed text
+- `bzmor` — bzmore, bzless - file perusal filter for crt viewing of bzip2 compressed text
+- `c` — cp - copy files and directories
+- `c+` — gcc - GNU project C and C++ compiler
+- `c++fil` — c++filt - demangle C++ and Java symbols
+- `c8` — c89 - ANSI (1989) C compiler
+- `c89-gc` — c89 - ANSI (1989) C compiler
+- `c9` — c99 - ANSI (1999) C compiler
+- `c99-gc` — c99 - ANSI (1999) C compiler
+- `c_rehash.1ssl` — openssl-rehash, c_rehash - Create symbolic links to files named by the hash
+- `ca` — cat - concatenate files and print on the standard output
+- `ca.1ssl` — asn1parse,
+- `caps` — capsh - capability shell wrapper
+- `captoinf` — \%captoinfo\fP -
+- `ccz` — ccze - A robust log colorizer
+- `ccze-cssdum` — ccze-cssdump - Dump CCZE color setup into CSS format
+- `charde` — chardet - universal character encoding detector
+- `chardetec` — chardet - universal character encoding detector
+- `chatt` — chattr - change file attributes on a Linux file system
+- `chco` — chcon - change file security context
+- `chgr` — chgrp - change group ownership
+- `chmo` — chmod - change file mode bits
+- `chow` — chown - change file owner and group
+- `chv` — chvt - change foreground virtual terminal
+- `ciphers.1ssl` — asn1parse,
+- `ckbcom` — ckbcomp - compile a XKB keyboard description to a keymap suitable for loadkeys or kbdcontrol
+- `cksu` — cksum - compute and verify file checksums
+- `clea` — \%clear\fP -
+- `clear_consol` — clear_console - clear the console
+- `cm` — cmp - compare two files byte by byte
+- `cmak` — cmake - CMake Command-Line Reference
+- `cmp.1ssl` — asn1parse,
+- `cms.1ssl` — asn1parse,
+- `codepag` — codepage - extract a codepage from an MSDOS codepage file
+- `com` — comm - compare two sorted files line by line
+- `corelis` — corelist - a commandline frontend to Module::CoreList
+- `cpa` — cpan - easily interact with CPAN from the command line
+- `cpac` — cpack - CPack Command-Line Reference
+- `cpan5.38-x86_64-linux-gn` — cpan - easily interact with CPAN from the command line
+- `crl.1ssl` — asn1parse,
+- `crl2pkcs7.1ssl` — asn1parse,
+- `cryptdi` — cryptdir - encrypt/decrypt all files in a directory
+- `cspli` — csplit - split a file into sections determined by context lines
+- `ctes` — ctest - CTest Command-Line Reference
+- `cu` — cut - remove sections from each line of files
+- `cur` — curl - transfer a URL
+- `d` — du - estimate file space usage
+- `dat` — date - print or set the system date and time
+- `deallocv` — deallocvt - deallocate unused virtual consoles
+- `debcon` — debconf - run a debconf-using program
+- `debconf-apt-progres` — debconf-apt-progress - install packages using debconf to display a progress bar
+- `debconf-communicat` — debconf-communicate - communicate with debconf
+- `debconf-copyd` — debconf-copydb - copy a debconf database
+- `debconf-escap` — debconf-escape - helper when working with debconf's escape capability
+- `debconf-set-selection` — debconf-set-selections - insert new values into the debconf database
+- `debconf-sho` — debconf-show - query the debconf database
+- `debian-distro-inf` — debian-distro-info - provides information about Debian's distributions
+- `decryptdi` — cryptdir - encrypt/decrypt all files in a directory
+- `del` — delv - DNS lookup and validation utility
+- `der` — .B derb
+- `dgst.1ssl` — asn1parse,
+- `dh_numpy` — dh_numpy3 - adds Numpy depends to python:Depends substvar
+- `dhparam.1ssl` — asn1parse,
+- `di` — dir - list directory contents
+- `dif` — diff - compare files line by line
+- `diff` — diff3 - compare three files line by line
+- `dircolor` — dircolors - color setup for ls
+- `dirmngr-clien` — .B dirmngr-client
+- `dirnam` — dirname - strip last component from file name
+- `dislocat` — Dislocate - disconnect and reconnect processes
+- `distro-inf` — distro-info - provides information about the distributions' releases
+- `dnsdomainnam` — hostname - show or set the system's host name
+- `domainnam` — hostname - show or set the system's host name
+- `dpk` — dpkg - package manager for Debian
+- `dpkg-architectur` — dpkg-architecture - set and determine the architecture for package building
+- `dpkg-buildap` — dpkg-buildapi - returns the build API level to use during package build
+- `dpkg-buildflag` — dpkg-buildflags - returns build flags to use during package build
+- `dpkg-buildpackag` — dpkg-buildpackage - build binary or source packages from sources
+- `dpkg-buildtre` — dpkg-buildtree - helper for build tree operations during package builds
+- `dpkg-checkbuilddep` — dpkg-checkbuilddeps - check build dependencies and conflicts
+- `dpkg-de` — dpkg-deb - Debian package archive (.deb) manipulation tool
+- `dpkg-distaddfil` — dpkg-distaddfile - add entries to debian/files
+- `dpkg-diver` — dpkg-divert - override a package's version of a file
+- `dpkg-genbuildinf` — dpkg-genbuildinfo - generate Debian .buildinfo files
+- `dpkg-genchange` — dpkg-genchanges - generate Debian .changes files
+- `dpkg-gencontro` — dpkg-gencontrol - generate Debian control files
+- `dpkg-gensymbol` — dpkg-gensymbols - generate symbols files (shared library dependency information)
+- `dpkg-maintscript-helpe` — dpkg-maintscript-helper - works around known dpkg limitations in maintainer scripts
+- `dpkg-mergechangelog` — dpkg-mergechangelogs - 3-way merge of debian/changelog files
+- `dpkg-nam` — dpkg-name - rename Debian packages to full package names
+- `dpkg-parsechangelo` — dpkg-parsechangelog - parse Debian changelog files
+- `dpkg-quer` — dpkg-query - a tool to query the dpkg database
+- `dpkg-realpat` — dpkg-realpath - print the resolved pathname with DPKG_ROOT support
+- `dpkg-scanpackage` — dpkg-scanpackages - create Packages index files
+- `dpkg-scansource` — dpkg-scansources - create Sources index files
+- `dpkg-shlibdep` — dpkg-shlibdeps - generate shared library substvar dependencies
+- `dpkg-sourc` — dpkg-source - Debian source package (.dsc) manipulation tool
+- `dpkg-spli` — dpkg-split - Debian package archive split/join tool
+- `dpkg-statoverrid` — dpkg-statoverride - override ownership and mode of files
+- `dpkg-trigge` — dpkg-trigger - a package trigger utility
+- `dpkg-vendo` — dpkg-vendor - queries information about distribution vendors
+- `dsa.1ssl` — asn1parse,
+- `dsaparam.1ssl` — asn1parse,
+- `dumpkey` — dumpkeys - dump keyboard translation tables
+- `dw` — dwp - The DWARF packaging utility
+- `e` — vim - Vi IMproved, a programmer's text editor
+- `eatmydat` — eatmydata - transparently disable fsync() and other data-to-disk synchronization calls
+- `ec.1ssl` — asn1parse,
+- `ech` — echo - display a line of text
+- `ecparam.1ssl` — asn1parse,
+- `edito` — vim - Vi IMproved, a programmer's text editor
+- `egre` — grep, egrep, fgrep, rgrep - print lines that match patterns
+- `elfedi` — elfedit - update ELF header and program property of ELF files
+- `en` — env - run a program in a modified environment
+- `enc.1ssl` — asn1parse,
+- `enc2x` — enc2xs -- Perl Encode Module Generator
+- `encgues` — encguess - guess character encodings of files
+- `engine.1ssl` — asn1parse,
+- `errstr.1ssl` — asn1parse,
+- `exp` — expr - evaluate expressions
+- `expan` — expand - convert tabs to spaces
+- `expec` — expect - programmed dialogue with interactive programs, Version 5
+- `expect_autoexpec` — autoexpect - generate an Expect script from watching a session
+- `expect_cryptdi` — cryptdir - encrypt/decrypt all files in a directory
+- `expect_decryptdi` — cryptdir - encrypt/decrypt all files in a directory
+- `expect_dislocat` — Dislocate - disconnect and reconnect processes
+- `expect_kibit` — kibitz - allow two people to interact with one shell
+- `expect_mkpassw` — mkpasswd - generate new password, optionally apply it to a user
+- `expect_multixter` — multixterm - drive multiple xterms separately or together
+- `expect_passmas` — passmass - change password on multiple machines
+- `expect_tknewsbif` — tknewsbiff - pop up a window when news appears
+- `expect_unbuffe` — unbuffer - unbuffer output
+- `expect_xkibit` — xkibitz - allow multiple people to interact in an xterm
+- `facto` — factor - factor numbers
+- `fals` — false - do nothing, unsuccessfully
+- `fc-ca` — fc-cat - read font information cache files
+- `fc-cach` — fc-cache - build font information cache files
+- `fc-conflis` — fc-conflist - list the configuration files processed by Fontconfig
+- `fc-lis` — fc-list - list available fonts
+- `fc-matc` — fc-match - match available fonts
+- `fc-patter` — fc-pattern - parse and show pattern
+- `fc-quer` — fc-query - query font files
+- `fc-sca` — fc-scan - scan font files or directories
+- `fc-validat` — fc-validate - validate font files
+- `fdfin` — fd - find entries in the filesystem
+- `ffmpe` — ffmpeg - ffmpeg media converter
+- `ffmpeg-al` — ffmpeg - ffmpeg media converter
+- `ffmpeg-bitstream-filter` — ffmpeg-bitstream-filters - FFmpeg bitstream filters
+- `ffmpeg-codec` — ffmpeg-codecs - FFmpeg codecs
+- `ffmpeg-device` — ffmpeg-devices - FFmpeg devices
+- `ffmpeg-filter` — ffmpeg-filters - FFmpeg filters
+- `ffmpeg-format` — ffmpeg-formats - FFmpeg formats
+- `ffmpeg-protocol` — ffmpeg-protocols - FFmpeg protocols
+- `ffmpeg-resample` — ffmpeg-resampler - FFmpeg Resampler
+- `ffmpeg-scale` — ffmpeg-scaler - FFmpeg video scaling and pixel format converter
+- `ffmpeg-util` — ffmpeg-utils - FFmpeg utilities
+- `ffpla` — ffplay - FFplay media player
+- `ffplay-al` — ffplay - FFplay media player
+- `ffprob` — ffprobe - ffprobe media prober
+- `ffprobe-al` — ffprobe - ffprobe media prober
+- `fgconsol` — fgconsole - print the number of the active VT.
+- `fgre` — grep, egrep, fgrep, rgrep - print lines that match patterns
+- `fin` — find - search for files in a directory hierarchy
+- `fm` — fmt - simple optimal text formatter
+- `fol` — fold - wrap each input line to fit in specified width
+- `fre` — free - Display amount of free and used memory in the system
+- `funzi` — funzip - filter for extracting from a ZIP archive in a pipe
+- `fuse` — fuser - identify processes using files or sockets
+- `g` — gm - command-line utility to create, edit, compare, convert, or display images
+- `g+` — gcc - GNU project C and C++ compiler
+- `g++-1` — gcc - GNU project C and C++ compiler
+- `gapplicatio` — gapplication - D-Bus application launcher
+- `gc` — gcc - GNU project C and C++ compiler
+- `gcc-1` — gcc - GNU project C and C++ compiler
+- `gcc-a` — gcc-ar - a wrapper around ar adding the --plugin option
+- `gcc-ar-1` — gcc-ar - a wrapper around ar adding the --plugin option
+- `gcc-n` — gcc-nm - a wrapper around nm adding the --plugin option
+- `gcc-nm-1` — gcc-nm - a wrapper around nm adding the --plugin option
+- `gcc-ranli` — gcc-ranlib - a wrapper around ranlib adding the --plugin option
+- `gcc-ranlib-1` — gcc-ranlib - a wrapper around ranlib adding the --plugin option
+- `gdbu` — gdbus - Tool for working with D-Bus objects
+- `gdbus-codege` — gdbus-codegen - D-Bus code and documentation generator
+- `genbr` — .B genbrk
+- `gencf` — .B gencfu
+- `gencnva` — .B gencnval
+- `gendic` — .B gendict
+- `gendsa.1ssl` — asn1parse,
+- `genpkey.1ssl` — asn1parse,
+- `genr` — .B genrb
+- `genrsa.1ssl` — asn1parse,
+- `gi` — gio - GIO commandline tool
+- `gi-compile-repositor` — gi-compile-repository - Typelib compiler
+- `gi-decompile-typeli` — gi-decompile-typelib - Typelib decompiler
+- `gi-inspect-typeli` — gi-inspect-typelib - Typelib inspection tool
+- `gio-querymodule` — gio-querymodules - GIO module cache creation
+- `glib-compile-resource` — glib-compile-resources - GLib resource compiler
+- `glib-compile-schema` — glib-compile-schemas - GSettings schema compiler
+- `glib-genmarsha` — glib-genmarshal - C code marshaller generation utility for GLib closures
+- `glib-gettextiz` — glib-gettextize - gettext internationalization utility
+- `glib-mkenum` — glib-mkenums - C language enum description generation utility
+- `gmak` — make - GNU make utility to maintain groups of programs
+- `gobject-quer` — gobject-query - display a tree of types
+- `gol` — gold - The GNU ELF linker
+- `gp` — .B gpg
+- `gp-archiv` — gp-archive - Archive gprofng experiment data
+- `gp-collect-ap` — gp-collect-app - Collect performance data for the target application
+- `gp-display-htm` — gp-display-html - Generate an HTML based directory structure to browse the profiles
+- `gp-display-sr` — gp-display-src - Display source code and optionally disassembly of the target object
+- `gp-display-tex` — gp-display-text - Display the performance data in plain text format
+- `gpg` — .B gpgv
+- `gpg-agen` — .B gpg-agent
+- `gpg-check-patter` — .B gpg-check-pattern
+- `gpg-connect-agen` — .B gpg-connect-agent
+- `gpg-preset-passphras` — .B gpg-preset-passphrase
+- `gpgcon` — .B gpgconf
+- `gpgparsemai` — .B gpgparsemail
+- `gpgs` — .B gpgsm
+- `gpgspli` — gpgsplit - Split an OpenPGP message into packets
+- `gpgta` — .B gpgtar
+- `gpro` — gprof - display call graph profile data
+- `gprofn` — gprofng - The next generation GNU application profiling tool
+- `gre` — grep, egrep, fgrep, rgrep - print lines that match patterns
+- `gresourc` — gresource - GResource tool
+- `group` — groups - print the groups a user is in
+- `gsetting` — gsettings - GSettings configuration tool
+- `gteste` — gtester - test running utility
+- `gtester-repor` — gtester-report - test report formatting utility
+- `gunzi` — gzip, gunzip, zcat - compress or expand files
+- `gzex` — gzexe - compress executable files in place
+- `gzi` — gzip, gunzip, zcat - compress or expand files
+- `h2p` — h2ph - convert .h C header files to .ph Perl header files
+- `h2x` — h2xs - convert .h C header files to Perl extensions
+- `hea` — head - output the first part of files
+- `heif-conver` — heif-dec - decode HEIC/HEIF image
+- `heif-de` — heif-dec - decode HEIC/HEIF image
+- `heif-en` — heif-enc - convert image to HEIC/HEIF
+- `heif-inf` — heif-info - show information on HEIC/HEIF file
+- `helpztag` — helpztags - generate the help tags file for directory
+- `hos` — host - DNS lookup utility
+- `hosti` — hostid - print the numeric identifier for the current host
+- `hostnam` — hostname - show or set the system's host name
+- `i` — id - print real and effective user and group IDs
+- `icuexportdat` — .B icuexportdata
+- `info.1ssl` — asn1parse,
+- `infocm` — infocmp\fP -
+- `infotoca` — \%infotocap\fP -
+- `instal` — install - copy files and set attributes
+- `instmods` — instmodsh - A shell to examine installed modules
+- `iptables-xm` — iptables-xml \(em Convert iptables-save format to XML
+- `ischroo` — ischroot - detect if running in a chroot
+- `joi` — join - join lines of two files on a common field
+- `json_p` — json_pp - JSON::PP command utility
+- `kbd_mod` — kbd_mode - report or set the keyboard mode
+- `kbdinf` — kbdinfo - obtain information about the status of a console
+- `kbxuti` — kbxutil - List, export, import Keybox data
+- `kdf.1ssl` — asn1parse,
+- `keybox` — keyboxd - Public key management for GnuPG
+- `kibit` — kibitz - allow two people to interact with one shell
+- `kil` — kill - send a signal to a process
+- `killal` — killall - kill processes by name
+- `l` — ls - list directory contents
+- `lc` — lcf - Determine which of the historical versions of a config is installed
+- `ld.bf` — ld - The GNU linker
+- `ld.gol` — gold - The GNU ELF linker
+- `les` — less - opposite of more
+- `lessech` — lessecho - expand metacharacters
+- `lessfil` — lessfile, lesspipe - "input preprocessor" for  less.
+- `lesske` — lesskey - specify key bindings for less
+- `lesspip` — lessfile, lesspipe - "input preprocessor" for  less.
+- `libnetcf` — libnetcfg - configure libnet
+- `libpng-confi` — libpng16-config - get information about installed libpng library
+- `libpng16-confi` — libpng16-config - get information about installed libpng library
+- `lin` — link - call the link function to create a link to a file
+- `loadkey` — loadkeys - load keyboard translation tables
+- `lognam` — logname - print user\'s login name
+- `lp_solv` — lp_solve - a mixed integer linear programming (MILP) solver
+- `lsatt` — lsattr - list file attributes on a Linux second extended file system
+- `lspgpo` — lspgpot - extracts the ownertrust values from PGP keyrings and list them in
+- `lzca` — xz, unxz, xzcat, lzma, unlzma, lzcat - Compress or decompress .xz and .lzma files
+- `lzcm` — xzcmp, xzdiff, lzcmp, lzdiff - compare compressed files
+- `lzdif` — xzcmp, xzdiff, lzcmp, lzdiff - compare compressed files
+- `lzegre` — xzgrep - search compressed files for a regular expression
+- `lzfgre` — xzgrep - search compressed files for a regular expression
+- `lzgre` — xzgrep - search compressed files for a regular expression
+- `lzles` — xzless, lzless - view xz or lzma compressed (text) files
+- `lzm` — xz, unxz, xzcat, lzma, unlzma, lzcat - Compress or decompress .xz and .lzma files
+- `lzmainf` — lzmainfo - show information stored in the .lzma file header
+- `lzmor` — xzmore, lzmore - view xz or lzma compressed (text) files
+- `m` — mv - move (rename) files
+- `mac.1ssl` — asn1parse,
+- `mak` — make - GNU make utility to maintain groups of programs
+- `makecon` — .B makeconv
+- `maw` — mawk -
+- `md5su` — md5sum - compute and check MD5 message digest
+- `md5sum.textutil` — md5sum - compute and check MD5 message digest
+- `mdi` — mdig - DNS pipelined lookup utility
+- `migrate-pubring-from-classic-gp` — migrate-pubring-from-classic-gpg - Migrate a public keyring from "classic" to "modern" GnuPG
+- `mkdi` — mkdir - make directories
+- `mkfif` — mkfifo - make FIFOs (named pipes)
+- `mkno` — mknod - make block or character special files
+- `mktem` — mktemp - create a temporary file or directory
+- `multixter` — multixterm - drive multiple xterms separately or together
+- `n` — nm - list symbols from object files
+- `naw` — mawk -
+- `nic` — nice - run a program with modified scheduling priority
+- `nisdomainnam` — hostname - show or set the system's host name
+- `nohu` — nohup - run a command immune to hangups, with output to a non-tty
+- `npro` — nproc - print the number of processing units available
+- `nseq.1ssl` — asn1parse,
+- `nslooku` — nslookup - query Internet name servers interactively
+- `nsupdat` — nsupdate - dynamic DNS update utility
+- `numfm` — numfmt - Convert numbers from/to human-readable strings
+- `o` — od - dump files in octal and other formats
+- `objcop` — objcopy - copy and translate object files
+- `objdum` — objdump - display information from object files
+- `ocsp.1ssl` — asn1parse,
+- `openssl-asn1parse.1ssl` — openssl-asn1parse - ASN.1 parsing command
+- `openssl-ca.1ssl` — openssl-ca - sample minimal CA application
+- `openssl-ciphers.1ssl` — openssl-ciphers - SSL cipher display and cipher list command
+- `openssl-cmds.1ssl` — asn1parse,
+- `openssl-cmp.1ssl` — openssl-cmp - Certificate Management Protocol (CMP, RFC 4210) application
+- `openssl-cms.1ssl` — openssl-cms - CMS command
+- `openssl-crl.1ssl` — openssl-crl - CRL command
+- `openssl-crl2pkcs7.1ssl` — openssl-crl2pkcs7 - Create a PKCS#7 structure from a CRL and certificates
+- `openssl-dgst.1ssl` — openssl-dgst - perform digest operations
+- `openssl-dhparam.1ssl` — openssl-dhparam - DH parameter manipulation and generation
+- `openssl-dsa.1ssl` — openssl-dsa - DSA key processing
+- `openssl-dsaparam.1ssl` — openssl-dsaparam - DSA parameter manipulation and generation
+- `openssl-ec.1ssl` — openssl-ec - EC key processing
+- `openssl-ecparam.1ssl` — openssl-ecparam - EC parameter manipulation and generation
+- `openssl-enc.1ssl` — openssl-enc - symmetric cipher routines
+- `openssl-engine.1ssl` — openssl-engine - load and query engines
+- `openssl-errstr.1ssl` — openssl-errstr - lookup error codes
+- `openssl-fipsinstall.1ssl` — openssl-fipsinstall - perform FIPS configuration installation
+- `openssl-format-options.1ssl` — openssl-format-options - OpenSSL command input and output format options
+- `openssl-gendsa.1ssl` — openssl-gendsa - generate a DSA private key from a set of parameters
+- `openssl-genpkey.1ssl` — openssl-genpkey - generate a private key
+- `openssl-genrsa.1ssl` — openssl-genrsa - generate an RSA private key
+- `openssl-info.1ssl` — openssl-info - print OpenSSL built-in information
+- `openssl-kdf.1ssl` — openssl-kdf - perform Key Derivation Function operations
+- `openssl-list.1ssl` — openssl-list - list algorithms and features
+- `openssl-mac.1ssl` — openssl-mac - perform Message Authentication Code operations
+- `openssl-namedisplay-options.1ssl` — openssl-namedisplay-options - Distinguished name display options
+- `openssl-nseq.1ssl` — openssl-nseq - create or examine a Netscape certificate sequence
+- `openssl-ocsp.1ssl` — openssl-ocsp - Online Certificate Status Protocol command
+- `openssl-passphrase-options.1ssl` — openssl-passphrase-options - Pass phrase options
+- `openssl-passwd.1ssl` — openssl-passwd - compute password hashes
+- `openssl-pkcs12.1ssl` — openssl-pkcs12 - PKCS#12 file command
+- `openssl-pkcs7.1ssl` — openssl-pkcs7 - PKCS#7 command
+- `openssl-pkcs8.1ssl` — openssl-pkcs8 - PKCS#8 format private key conversion command
+- `openssl-pkey.1ssl` — openssl-pkey - public or private key processing command
+- `openssl-pkeyparam.1ssl` — openssl-pkeyparam - public key algorithm parameter processing command
+- `openssl-pkeyutl.1ssl` — openssl-pkeyutl - public key algorithm command
+- `openssl-prime.1ssl` — openssl-prime - compute prime numbers
+- `openssl-rand.1ssl` — openssl-rand - generate pseudo-random bytes
+- `openssl-rehash.1ssl` — openssl-rehash, c_rehash - Create symbolic links to files named by the hash
+- `openssl-req.1ssl` — openssl-req - PKCS#10 certificate request and certificate generating command
+- `openssl-rsa.1ssl` — openssl-rsa - RSA key processing command
+- `openssl-rsautl.1ssl` — openssl-rsautl - RSA command
+- `openssl-s_client.1ssl` — openssl-s_client - SSL/TLS client program
+- `openssl-s_server.1ssl` — openssl-s_server - SSL/TLS server program
+- `openssl-s_time.1ssl` — openssl-s_time - SSL/TLS performance timing program
+- `openssl-sess_id.1ssl` — openssl-sess_id - SSL/TLS session handling command
+- `openssl-smime.1ssl` — openssl-smime - S/MIME command
+- `openssl-speed.1ssl` — openssl-speed - test library performance
+- `openssl-spkac.1ssl` — openssl-spkac - SPKAC printing and generating command
+- `openssl-srp.1ssl` — openssl-srp - maintain SRP password file
+- `openssl-storeutl.1ssl` — openssl-storeutl - STORE command
+- `openssl-ts.1ssl` — openssl-ts - Time Stamping Authority command
+- `openssl-verification-options.1ssl` — openssl-verification-options - generic X.509 certificate verification options
+- `openssl-verify.1ssl` — openssl-verify - certificate verification command
+- `openssl-version.1ssl` — openssl-version - print OpenSSL version information
+- `openssl-x509.1ssl` — openssl-x509 - Certificate display and signing command
+- `openssl.1ssl` — openssl - OpenSSL command line program
+- `openv` — openvt - start a program on a new virtual terminal (VT).
+- `original-aw` — original-awk - pattern-directed scanning and processing language
+- `p` — ps - report a snapshot of the current processes.
+- `page` — less - opposite of more
+- `pango-vie` — pango-view - "Pango text viewer"
+- `passmas` — passmass - change password on multiple machines
+- `passwd.1ssl` — asn1parse,
+- `past` — paste - merge lines of files
+- `patc` — patch - apply a diff file to an original
+- `pathch` — pathchk - check whether file names are valid or portable
+- `pcre2-confi` — pcre2-config - program to return PCRE2 configuration
+- `pdb` — pdb3.12 - the Python debugger
+- `pdb3.1` — pdb3.12 - the Python debugger
+- `pdfattac` — pdfattach - Portable Document Format (PDF) document embedded file
+- `pdfdetac` — pdfdetach - Portable Document Format (PDF) document embedded file
+- `pdffont` — pdffonts - Portable Document Format (PDF) font analyzer (version
+- `pdfimage` — pdfimages - Portable Document Format (PDF) image extractor
+- `pdfinf` — pdfinfo - Portable Document Format (PDF) document information
+- `pdfseparat` — pdfseparate - Portable Document Format (PDF) page extractor
+- `pdfsi` — pdfsig - Portable Document Format (PDF) digital signatures tool
+- `pdftocair` — pdftocairo - Portable Document Format (PDF) to PNG/JPEG/TIFF/PDF/PS/EPS/SVG using cairo
+- `pdftohtm` — pdftohtml - program to convert PDF files into HTML, XML and PNG images
+- `pdftop` — pdftops - Portable Document Format (PDF) to PostScript converter
+- `pdftopp` — pdftoppm - Portable Document Format (PDF) to Portable Pixmap (PPM)
+- `pdftotex` — pdftotext - Portable Document Format (PDF) to text converter
+- `pdfunit` — pdfunite - Portable Document Format (PDF) page merger
+- `peekf` — peekfd - peek at file descriptors of running processes
+- `per` — perl - The Perl 5 language interpreter
+- `perl5.38-x86_64-linux-gn` — perl - The Perl 5 language interpreter
+- `perl5.38.` — perl - The Perl 5 language interpreter
+- `perlbu` — perlbug - how to submit bug reports on Perl
+- `perliv` — perlivp - Perl Installation Verification Procedure
+- `perlthank` — perlbug - how to submit bug reports on Perl
+- `pgre` — pgrep, pkill, pidwait - look up, signal, or wait for processes based on name and other attributes
+- `pi` — pip - A tool for installing and managing Python packages
+- `picon` — piconv -- iconv(1), reinvented in perl
+- `pidwai` — pgrep, pkill, pidwait - look up, signal, or wait for processes based on name and other attributes
+- `pinentr` — pinentry-curses - PIN or pass-phrase entry dialog for GnuPG
+- `pinentry-curse` — pinentry-curses - PIN or pass-phrase entry dialog for GnuPG
+- `pink` — pinky - lightweight finger
+- `pip` — pip - A tool for installing and managing Python packages
+- `pkcs12.1ssl` — asn1parse,
+- `pkcs7.1ssl` — asn1parse,
+- `pkcs8.1ssl` — asn1parse,
+- `pkey.1ssl` — asn1parse,
+- `pkeyparam.1ssl` — asn1parse,
+- `pkeyutl.1ssl` — asn1parse,
+- `pkgdat` — .B pkgdata
+- `pkil` — pgrep, pkill, pidwait - look up, signal, or wait for processes based on name and other attributes
+- `pl2p` — pl2pm - Rough tool to translate Perl4 .pl files to Perl5 .pm modules.
+- `pma` — pmap - report memory map of a process
+- `pod2htm` — pod2html - convert .pod files to .html files
+- `pod2ma` — pod2man - Convert POD data to formatted *roff input
+- `pod2tex` — pod2text - Convert POD data to formatted ASCII text
+- `pod2usag` — pod2usage - print usage messages from embedded pod docs in files
+- `podchecke` — podchecker - check the syntax of POD format documentation files
+- `prime.1ssl` — asn1parse,
+- `print` — printf - format and print data
+- `printen` — printenv - print all or part of environment
+- `prov` — prove - Run tests through a TAP harness.
+- `prtsta` — prtstat - print statistics of a process
+- `psfaddtabl` — psfaddtable - add a Unicode character table to a console font
+- `psfgettabl` — psfgettable - extract the embedded Unicode character table from a console font
+- `psfstriptabl` — psfstriptable - remove the embedded Unicode character table from a console font
+- `psfxtabl` — psfxtable - handle Unicode character tables for console fonts
+- `pslo` — pslog - report current logs path of a process
+- `pstre` — pstree - display a tree of processes
+- `pstree.x1` — pstree - display a tree of processes
+- `pt` — ptx - produce a permuted index of file contents
+- `pta` — ptar - a tar-like program written in perl
+- `ptardif` — ptardiff - program that diffs an extracted archive against an unextracted one
+- `ptargre` — ptargrep - Apply pattern matching to the contents of files in a tar archive
+- `pw` — pwd - print name of current/working directory
+- `pwd` — pwdx - report current working directory of a process
+- `py3clea` — py3clean - removes .pyc and .pyo files
+- `py3compil` — py3compile - byte compile Python 3 source files
+- `py3version` — py3versions - print python3 version information
+- `pydoc` — pydoc3.12 - the Python documentation tool
+- `pydoc3.1` — pydoc3.12 - the Python documentation tool
+- `pygettext` — pygettext - Python equivalent of xgettext(1)
+- `pygettext3.1` — pygettext - Python equivalent of xgettext(1)
+- `pysetup3.1` — pysetup3.3 - pysetup tool
+- `python` — python - an interpreted, interactive, object-oriented programming language
+- `python3-confi` — python-config - output build options for python C/C++ extensions or embedding
+- `python3.1` — python - an interpreted, interactive, object-oriented programming language
+- `python3.12-confi` — python-config - output build options for python C/C++ extensions or embedding
+- `qt-faststar` — qt-faststart - utility for Quicktime files
+- `r` — rm - remove files or directories
+- `rand.1ssl` — asn1parse,
+- `ranli` — ranlib - generate an index to an archive
+- `rbas` — rbash - restricted bash, see bash(1)
+- `readel` — readelf - display information about ELF files
+- `readlin` — readlink - print resolved symbolic links or canonical file names
+- `realpat` — realpath - print the resolved path
+- `rehash.1ssl` — asn1parse,
+- `req.1ssl` — asn1parse,
+- `rese` — \%tset\fP,
+- `rgre` — grep, egrep, fgrep, rgrep - print lines that match patterns
+- `rmdi` — rmdir - remove empty directories
+- `rpcge` — \f4rpcgen\f1 - an RPC protocol compiler
+- `rsa.1ssl` — asn1parse,
+- `rsautl.1ssl` — asn1parse,
+- `runco` — runcon - run command with specified security context
+- `rvi` — vim - Vi IMproved, a programmer's text editor
+- `rvie` — vim - Vi IMproved, a programmer's text editor
+- `s_client.1ssl` — asn1parse,
+- `s_server.1ssl` — asn1parse,
+- `s_time.1ssl` — asn1parse,
+- `screendum` — screendump - dump the contents of a virtual console to stdout
+- `sdif` — sdiff - side-by-side merge of file differences
+- `se` — seq - print a sequence of numbers
+- `select-edito` — select-editor - select your default sensible-editor from all installed editors
+- `sensible-browse` — sensible-browser - sensible web browsing
+- `sensible-edito` — sensible-editor - launch sensibly chosen text editor
+- `sensible-page` — sensible-pager - sensible paging
+- `sensible-termina` — sensible-terminal - sensible terminal emulator
+- `sess_id.1ssl` — asn1parse,
+- `setled` — setleds - set the keyboard leds
+- `setmetamod` — setmetamode - define the keyboard meta key handling
+- `setupco` — setupcon - sets up the font and the keyboard on the console
+- `setvtrg` — setvtrgb - customize the console color map
+- `setxkbma` — setxkbmap
+- `sha1su` — sha1sum - compute and check SHA1 message digest
+- `sha224su` — sha224sum - compute and check SHA224 message digest
+- `sha256su` — sha256sum - compute and check SHA256 message digest
+- `sha384su` — sha384sum - compute and check SHA384 message digest
+- `sha512su` — sha512sum - compute and check SHA512 message digest
+- `shasu` — shasum - Print or Check SHA Checksums
+- `showke` — showkey - examine the codes sent by the keyboard
+- `shre` — shred - overwrite a file to hide its contents, and optionally delete it
+- `shu` — shuf - generate random permutations
+- `siz` — size - list section sizes and total size of binary files
+- `skil` — skill, snice - send a signal or report process status
+- `slabto` — slabtop - display kernel slab cache information in real time
+- `slee` — sleep - delay for a specified amount of time
+- `smime.1ssl` — asn1parse,
+- `snic` — skill, snice - send a signal or report process status
+- `sor` — sort - sort lines of text files
+- `speed.1ssl` — asn1parse,
+- `spkac.1ssl` — asn1parse,
+- `splai` — diagnostics, splain - produce verbose warning diagnostics
+- `spli` — split - split a file into pieces
+- `splitfon` — splitfont - extract characters from an ISO-type font.
+- `sqldif` — sqldiff - sqlite3 database difference utility
+- `sqlite` — .B sqlite3
+- `srp.1ssl` — asn1parse,
+- `sta` — stat - display file or file system status
+- `stdbu` — stdbuf -
+- `storeutl.1ssl` — asn1parse,
+- `strac` — strace - trace system calls and signals
+- `strace-log-merg` — strace-log-merge - merge strace -ff -tt output
+- `streamzi` — streamzip - create a zip file from stdin
+- `stri` — strip - discard symbols and other data from object files
+- `string` — strings - print the sequences of printable characters in files
+- `stt` — stty - change and print terminal line settings
+- `su` — sum - checksum and count the blocks in a file
+- `syn` — sync - Synchronize cached writes to persistent storage
+- `t` — tr - translate or delete characters
+- `ta` — tar - an archiving utility
+- `tab` — \%tabs\fP -
+- `tai` — tail - output the last part of files
+- `tarca` — tarcat - concatenates the pieces of a GNU tar multi-volume archive
+- `te` — tee - read from standard input and write to standard output and files
+- `tempfil` — tempfile - create a temporary file in a safe manner
+- `tes` — test - check file types and compare values
+- `ti` — \%tic\fP -
+- `tigervncconfi` — tigervncconfig - configure and control a VNC server
+- `tigervncserve` — tigervncserver - start or stop a TigerVNC standalone server
+- `timeou` — timeout - run a command with a time limit
+- `tknewsbif` — tknewsbiff - pop up a window when news appears
+- `tloa` — tload - graphic representation of system load average
+- `to` — .\" ----------------------------------------------------------------------
+- `touc` — touch - change file timestamps
+- `tpu` — \%tput\fP,
+- `tre` — tree - list contents of directories in a tree-like format.
+- `tru` — true - do nothing, successfully
+- `truncat` — truncate - shrink or extend the size of a file to the specified size
+- `ts.1ssl` — asn1parse,
+- `tse` — \%tset\fP,
+- `tsget.1ssl` — tsget - Time Stamping HTTP/HTTPS client
+- `tsor` — tsort - perform topological sort
+- `tt` — tty - print the file name of the terminal connected to standard input
+- `tzselec` — tzselect - view timezones
+- `ubuntu-distro-inf` — ubuntu-distro-info - provides information about Ubuntu's distributions
+- `uc` — ucf - Update Configuration File:  preserve user changes in configuration files
+- `ucf` — ucfr - Update Configuration File Registry:  associate packages with configuration files
+- `ucon` — .B uconv
+- `unam` — uname - print system information
+- `unbuffe` — unbuffer - unbuffer output
+- `uncompres` — gzip, gunzip, zcat - compress or expand files
+- `unexpan` — unexpand - convert spaces to tabs
+- `uni` — uniq - report or omit repeated lines
+- `unicode_star` — unicode_start - put keyboard and console in unicode mode
+- `unicode_sto` — unicode_stop - revert keyboard and console from unicode mode
+- `unlin` — unlink - call the unlink function to remove the specified file
+- `unlzm` — xz, unxz, xzcat, lzma, unlzma, lzcat - Compress or decompress .xz and .lzma files
+- `unx` — xz, unxz, xzcat, lzma, unlzma, lzcat - Compress or decompress .xz and .lzma files
+- `unzi` — unzip - list, test and extract compressed files in a ZIP archive
+- `unzipsf` — unzipsfx - self-extracting stub for prepending to ZIP archives
+- `update-alternative` — update-alternatives - maintain symbolic links determining default commands
+- `update-mime-databas` — update-mime-database - a program to build the Shared MIME-Info database cache
+- `uptim` — uptime - Tell how long the system has been running.
+- `user` — users - print the user names of users currently logged in to the current host
+- `v` — vim - Vi IMproved, a programmer's text editor
+- `vdi` — vdir - list directory contents
+- `verify.1ssl` — asn1parse,
+- `version.1ssl` — asn1parse,
+- `vi` — vim - Vi IMproved, a programmer's text editor
+- `vie` — vim - Vi IMproved, a programmer's text editor
+- `vimdif` — vimdiff - edit between two and eight versions of a file with Vim and show differences
+- `vncconfi` — tigervncconfig - configure and control a VNC server
+- `vncserve` — tigervncserver - start or stop a TigerVNC standalone server
+- `w` — wc - print newline, word, and byte counts for each file
+- `watc` — watch - execute a program periodically, showing output fullscreen
+- `watchgnup` — .B watchgnupg
+- `wge` — Wget - The non-interactive network downloader.
+- `wh` — who - show who is logged on
+- `whic` — which - locate a command
+- `which.debianutil` — which - locate a command
+- `whiptai` — whiptail - display dialog boxes from shell scripts
+- `whoam` — whoami - print effective user name
+- `x` — xz, unxz, xzcat, lzma, unlzma, lzcat - Compress or decompress .xz and .lzma files
+- `x509.1ssl` — asn1parse,
+- `x86_64-linux-gnu-a` — AS - the portable GNU assembler.
+- `x86_64-linux-gnu-addr2lin` — addr2line - convert addresses or symbol+offset into file names and line numbers
+- `x86_64-linux-gnu-c++fil` — c++filt - demangle C++ and Java symbols
+- `x86_64-linux-gnu-cp` — cpp - The C Preprocessor
+- `x86_64-linux-gnu-cpp-1` — cpp - The C Preprocessor
+- `x86_64-linux-gnu-dw` — dwp - The DWARF packaging utility
+- `x86_64-linux-gnu-elfedi` — elfedit - update ELF header and program property of ELF files
+- `x86_64-linux-gnu-g+` — gcc - GNU project C and C++ compiler
+- `x86_64-linux-gnu-g++-1` — gcc - GNU project C and C++ compiler
+- `x86_64-linux-gnu-gc` — gcc - GNU project C and C++ compiler
+- `x86_64-linux-gnu-gcc-1` — gcc - GNU project C and C++ compiler
+- `x86_64-linux-gnu-gcc-a` — gcc-ar - a wrapper around ar adding the --plugin option
+- `x86_64-linux-gnu-gcc-ar-1` — gcc-ar - a wrapper around ar adding the --plugin option
+- `x86_64-linux-gnu-gcc-n` — gcc-nm - a wrapper around nm adding the --plugin option
+- `x86_64-linux-gnu-gcc-nm-1` — gcc-nm - a wrapper around nm adding the --plugin option
+- `x86_64-linux-gnu-gcc-ranli` — gcc-ranlib - a wrapper around ranlib adding the --plugin option
+- `x86_64-linux-gnu-gcc-ranlib-1` — gcc-ranlib - a wrapper around ranlib adding the --plugin option
+- `x86_64-linux-gnu-gi-compile-repositor` — gi-compile-repository - Typelib compiler
+- `x86_64-linux-gnu-gi-decompile-typeli` — gi-decompile-typelib - Typelib decompiler
+- `x86_64-linux-gnu-gi-inspect-typeli` — gi-inspect-typelib - Typelib inspection tool
+- `x86_64-linux-gnu-gol` — gold - The GNU ELF linker
+- `x86_64-linux-gnu-gp-archiv` — gp-archive - Archive gprofng experiment data
+- `x86_64-linux-gnu-gp-collect-ap` — gp-collect-app - Collect performance data for the target application
+- `x86_64-linux-gnu-gp-display-htm` — gp-display-html - Generate an HTML based directory structure to browse the profiles
+- `x86_64-linux-gnu-gp-display-sr` — gp-display-src - Display source code and optionally disassembly of the target object
+- `x86_64-linux-gnu-gp-display-tex` — gp-display-text - Display the performance data in plain text format
+- `x86_64-linux-gnu-gpro` — gprof - display call graph profile data
+- `x86_64-linux-gnu-gprofn` — gprofng - The next generation GNU application profiling tool
+- `x86_64-linux-gnu-l` — ld - The GNU linker
+- `x86_64-linux-gnu-ld.bf` — ld - The GNU linker
+- `x86_64-linux-gnu-ld.gol` — gold - The GNU ELF linker
+- `x86_64-linux-gnu-n` — nm - list symbols from object files
+- `x86_64-linux-gnu-objcop` — objcopy - copy and translate object files
+- `x86_64-linux-gnu-objdum` — objdump - display information from object files
+- `x86_64-linux-gnu-python3-confi` — python-config - output build options for python C/C++ extensions or embedding
+- `x86_64-linux-gnu-python3.12-confi` — python-config - output build options for python C/C++ extensions or embedding
+- `x86_64-linux-gnu-ranli` — ranlib - generate an index to an archive
+- `x86_64-linux-gnu-readel` — readelf - display information about ELF files
+- `x86_64-linux-gnu-siz` — size - list section sizes and total size of binary files
+- `x86_64-linux-gnu-stri` — strip - discard symbols and other data from object files
+- `x86_64-linux-gnu-string` — strings - print the sequences of printable characters in files
+- `xarg` — xargs - build and execute command lines from standard input
+- `xaut` — xauth - X authority file utility
+- `xkbbel` — xkbbell - XKB extension user utility
+- `xkbcom` — xkbcomp - compile XKB keyboard description
+- `xkbev` — xkbevd - XKB event daemon
+- `xkbprin` — xkbprint - print an XKB keyboard description
+- `xkbvled` — xkbvleds - XKB extension user utility
+- `xkbwatc` — xkbwatch - XKB extension user utility
+- `xkibit` — xkibitz - allow multiple people to interact in an xterm
+- `xsubp` — xsubpp - compiler to convert Perl XS code into C code
+- `xvfb-ru` — xvfb-run - run specified X client or command in a virtual X server environment
+- `xzca` — xz, unxz, xzcat, lzma, unlzma, lzcat - Compress or decompress .xz and .lzma files
+- `xzcm` — xzcmp, xzdiff, lzcmp, lzdiff - compare compressed files
+- `xzdif` — xzcmp, xzdiff, lzcmp, lzdiff - compare compressed files
+- `xzegre` — xzgrep - search compressed files for a regular expression
+- `xzfgre` — xzgrep - search compressed files for a regular expression
+- `xzgre` — xzgrep - search compressed files for a regular expression
+- `xzles` — xzless, lzless - view xz or lzma compressed (text) files
+- `xzmor` — xzmore, lzmore - view xz or lzma compressed (text) files
+- `ye` — yes - output a string repeatedly until killed
+- `ypdomainnam` — hostname - show or set the system's host name
+- `zca` — gzip, gunzip, zcat - compress or expand files
+- `zcm` — zcmp, zdiff - compare compressed files
+- `zdif` — zcmp, zdiff - compare compressed files
+- `zegre` — zgrep - search possibly compressed files for a regular expression
+- `zfgre` — zgrep - search possibly compressed files for a regular expression
+- `zforc` — zforce - force a '.gz' extension on all gzip files
+- `zgre` — zgrep - search possibly compressed files for a regular expression
+- `zi` — zip - package and compress (archive) files
+- `zipcloa` — zipcloak - encrypt entries in a zipfile
+- `zipdetail` — zipdetails - display the internal structure of zip files
+- `zipgre` — zipgrep - search files in a ZIP archive for lines matching a pattern
+- `zipinf` — zipinfo - list detailed information about a ZIP archive
+- `zipnot` — zipnote - write the comments in zipfile to stdout, edit comments and rename files in zipfile
+- `zipspli` — zipsplit - split a zipfile into smaller zipfiles
+- `zles` — zless - file perusal filter for crt viewing of compressed text
+- `zmor` — zmore - file perusal filter for crt viewing of compressed text
+- `zne` — znew -   recompress .Z files to .gz files
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

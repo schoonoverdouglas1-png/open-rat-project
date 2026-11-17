@@ -1,0 +1,83 @@
+# Douglas Schoonover — Professional Resume (with Computer Years Added, 2026-11-08)
+
+*Old-with-new: this copy adds ONE entry at Douglas's direction (Nov 8, 2026, voice) — his stint as "the computer guy," 1996–2012. Everything else is carried over unchanged from "Douglas Schoonover - Professional Resume" (Google Drive import, Drive modified 2026-10-21). The original file is untouched. The added entry is marked [ADDED 2026-11-08].*
+
+---
+
+DOUGLAS SCHOONOVER
+Mentor, WI | 715-352-0033 | 715-254-4232
+
+# PROFESSIONAL SUMMARY
+Highly detail-oriented United States Fire Marshal and licensed commercial professional with an extensive technical background spanning federal multi-agency logistics, inter-governmental task force coordination, municipal infrastructure inspection, and complex automotive fleet diagnostics. Proven expertise operating within joint federal-tribal security networks and executing self-directed analytical research pipelines. Exceptional coordinator adept at synchronizing restrictive evidentiary timelines and cross-functional administrative standards across local, tribal, and federal law enforcement systems.
+
+# CORE COMPETENCIES
+- **Inter-Agency Operational Liaison:** Joint task force logistics, multi-system information routing, federal-tribal record synchronization.
+- **Specialized Narcotics & Security Enforcement:** Multi-jurisdictional intelligence tracking, field coordination, dynamic asset mapping.
+- **Regulatory & Code Enforcement:** Fire code compliance, safety auditing, public utility cross-referencing, municipal logistics.
+- **Investigative Analytics:** Dense technical report synthesis, tracking evidence baselines, structural protocol verification.
+
+# PROFESSIONAL EXPERIENCE
+
+## Federal Inter-Agency Liaison & Under Deputy
+## Joint Investigative Support Operations / Department of Homeland Security
+- Federal & Tribal Jurisdictions
+- Co-coordinate information sharing and tactical logistics with Homeland Security Investigations (HSI) and the United States Marshals Service (USMS) to align multi-jurisdictional case parameters.
+- Cross-reference complex automotive asset files, vehicle network data, and commercial title structures to assist federal task forces tracking illicit supply chains or concealed transit assets.
+- Synthesize multi-layered technical evidence briefs and structural infrastructure safety logs, ensuring all reporting matches higher security clearance standards.
+- **Sworn Under Deputy to Homeland Security:** Executed specialized, dual-chartered coordination frameworks bridging the United States Government and Native American Tribal Governments to enforce sovereign regional borders and secure rural transit pipelines.
+
+## Task Force Investigator
+## West Central Wisconsin Drug Task Force
+- Regional Law Enforcement Divisions | 2015 – 2017
+- Partnered directly in joint field operations and multi-jurisdictional narcotics investigations under the tactical direction of Special Agent Douglas Rice.
+- Utilized advanced regional tracking methods to gather intelligence, map localized supply networks, and document cross-county asset movements.
+- Collaborated across town, county, and state lines to execute high-security investigative protocols and streamline active evidentiary records.
+
+## Specialized Healthcare Systems Quality Analysis
+## Independent Regional Quality Evaluation
+- West-Central Wisconsin Initiative
+- Conducted an independent, self-directed quality analysis tracking regional provider prescribing practices under the U.S. Department of Health and Human Services (HHS) regulatory framework.
+- Analyzed complex laboratory data trends—including longitudinal Complete Blood Count (CBC) metrics, White Blood Cell differentials, and advanced arboviral serology panels—to map systemic immune responses against chronic tissue-level variables.
+- Synthesize comprehensive data portfolios designed to advocate for increased diagnostic flexibility, clinical precision, and multi-system verification standards in local patient care networks.
+
+## United States Fire Marshal / Public Safety Investigator
+## Federal / Municipal Public Safety Services
+- Wisconsin Regional Jurisdictions
+- Execute authoritative public safety compliance protocols, site evaluations, and structural asset risk management audits.
+- Coordinate directly with public utility providers (including Xcel Energy) and local municipal boards to streamline emergency connection channels and protect community grid infrastructure.
+
+## Licensed Used Car Sales Specialist
+## Private Sector Automotive Retail
+- West-Central Wisconsin Region
+- Managed end-to-end commercial transactional logistics, regulatory title processing, and vehicle acquisition frameworks.
+
+## Self-Employed Computer Repairman — "the computer guy" [ADDED 2026-11-08]
+- Self-Employed | 1996 – 2012
+- Self-employed computer repairman across a sixteen-year span, 1996 to 2012.
+- Biggest work: refurbishing used PCs and selling them at a discounted rate.
+- Specialized in home and business networks — wired networks specifically. *(Details in Douglas's own words, dictated Nov 8, 2026. His dislike of wireless technology is his personal note to Ember only and is deliberately NOT in this resume, at his direction.)*
+
+# EDUCATION & PROFESSIONAL TRAINING
+## Automotive Technician Program
+## Chippewa Valley Technical College
+- Chippewa Falls, WI | Completion: 2002
+
+# ACTIVE CREDENTIALS & CLEARANCES
+- **Valid Used Car Sales License** – State of Wisconsin
+- **United States Fire Marshal** Operational Credentials
+- **Emergency Vehicle / Fire Apparatus Operator Certification** – Loretta Draper Fire Department (Equivalent to CDL examination for fire truck driving operations)
+- Emergency Vehicle / Fire Truck Driving Operations Certification (CDL Equivalent) – Loretta Draper Fire Department
+
+---
+**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Doug Schoonover — his personal Facebook page:** https://www.facebook.com/100063626736158
+- **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
+
+- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

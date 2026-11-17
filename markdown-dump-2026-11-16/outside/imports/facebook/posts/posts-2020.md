@@ -1,0 +1,265 @@
+# Own Facebook posts — 2020 (263 posts)
+
+- 2020-01-01T09:23:59+00:00 —  — https://facebook.com/654402359/posts/pfbid0rCm1nW1LfLegmtorhjfvgkpiFdHxAe1LUa3CzZSMnRW6KTQFs8crXebeB4LnKcW2l/
+- 2020-01-01T18:54:25+00:00 — Brits want Beaver — https://facebook.com/654402359/posts/pfbid0gL4WvUY6TCpENrN2akoeuAr7DF211RZHh9qgNfpCrGH7vwGjqEF88LKLbf4VffT4l/
+- 2020-01-01T19:11:32+00:00 — Selling a wood coffee table — https://facebook.com/654402359/posts/pfbid04wZqvmgrWkBofD86hjEkwSVA1ERBe8AWzW566miwBu5QwpwcyVLqCcJe5XpdRiYvl/
+- 2020-01-10T22:48:53+00:00 —  — https://facebook.com/654402359/posts/pfbid02z3BWAaZQB7EFhfefbjJdSGsinZ3QowvJVrS44wWGg92AhxwVgTeHL11auyxXDnGPl/
+- 2020-01-11T00:44:37+00:00 —  — https://facebook.com/654402359/posts/pfbid02Kga8SEcFHgLKjLS74MnZmfjC3MUdBJ67Qq9mbfxv17ebaz7LNKLb3pHgtCo7iqcPl/
+- 2020-01-11T06:57:50+00:00 —  — https://facebook.com/654402359/posts/pfbid02drELJLekMqY5H1Y6koLUxPSXHVBmoF9e5KK2VDDekrh6h8J4igUuEdUnwqRva65gl/
+- 2020-01-11T17:48:49+00:00 —  — https://facebook.com/654402359/posts/pfbid049v8UpZxccch74pBgZpJchPNjMNNogGywxBDZ1VYRAgCqdRWv1q91cQWmo3ir2cal/
+- 2020-01-11T18:04:17+00:00 — Yup — https://facebook.com/654402359/posts/pfbid0qTqgLrPup5N3szBK1oGkH6ry7xMKZ8cuXzYZeuybDTGnPVsRe6QQhzdv9tve4skcl/
+- 2020-01-15T01:13:18+00:00 —  — https://facebook.com/654402359/posts/pfbid02k7aAtcew3X6BngY3WHXtVsyZvCE4guaJqq1BksZ25VVX2cYGmvF4BNv7eVQCRLHKl/
+- 2020-01-15T01:49:50+00:00 —  — https://facebook.com/654402359/posts/pfbid0YG6Xc3VpPcri9VccQKj4A6Z3Wmm4tN195m3RM27J8e7UX8JPjtdkQ95DHFLxN7HQl/
+- 2020-01-15T06:20:48+00:00 —  — https://facebook.com/654402359/posts/pfbid02ijJYXevah4rQ97fvwmabmfFGyDznr61QjPxKvYBTSNM6pmC5dHTBWA2HhmKhkkdil/
+- 2020-01-15T16:48:13+00:00 — King of the castle — https://facebook.com/654402359/posts/pfbid0239VHDAtNWLcwS369cQuCK836YjzV13kyPnJxmMqLPUFRCpCR8atiYGXNu5V6XiFCl/
+- 2020-01-15T16:50:16+00:00 — Id never do that.......... — https://facebook.com/654402359/posts/pfbid02Waa3HqcuvWDdFpSJMotjr9nG1ZkvqkNSUCufjzjvReH1ce8JBhEZttfFSPWftrQ9l/
+- 2020-01-16T04:40:46+00:00 —  — https://facebook.com/654402359/posts/pfbid02maKVwtL3Tdtz8cAGHbQAWXJmZmmtkMSPNvScc7iAoWFh9tCNDaN23dBjttm3wCajl/
+- 2020-01-16T04:41:16+00:00 —  — https://facebook.com/654402359/posts/pfbid02j2zhyiqAvid57KC6aLawoMXc57gVNbmTQbCeDhoV4ox8AKD8V2DGtuKREFrMKugdl/
+- 2020-01-16T17:08:47+00:00 — You know you're single when your fridge looks more like a tavern cooler than a food storage device 🤣🤣🤣🤣 — https://facebook.com/654402359/posts/pfbid02g3ngrHpcXxnvmUPj4vF2Zoatpn7wtSEvoLCHZEqfsRTTF6A8hCyEg2bKQSHe6ix6l/
+- 2020-01-16T17:15:57+00:00 —  — https://facebook.com/654402359/posts/pfbid0b95VuvVDsGAdvfptJLMfEqEmkNFNCAm25qmZPp5XSTFTefzmJM3QJ6fgACo84nEzl/
+- 2020-01-16T17:17:04+00:00 —  — https://facebook.com/654402359/posts/pfbid0hV1NaiBwYVUFi68bQMpdwgX6RN92dfqFMSs5ubYtGD3EyHdB3MzByPx28zaW7XTHl/
+- 2020-01-16T20:47:12+00:00 — Grandpa is headed in an ambulance to St Joe's.  He hasn't been feeling well for a while.  I'm giving grandma a lift down so she can be by him.  My mother or myself will try to keep ppl updated. — https://facebook.com/654402359/posts/pfbid02DPbH6vHSgBjndE5TjCHt7yPwM8giZp2oH1AevwRxckdUrWYwCQ5BYBi56kAdeKsql/
+- 2020-01-18T02:18:47+00:00 —  — https://facebook.com/654402359/posts/pfbid064YfG87f45gMok2q6EySieaNBrPQtBkkLZZ5jn4opQMct1bgTnYufm4GcEoURKMTl/
+- 2020-01-18T02:25:38+00:00 —  — https://facebook.com/654402359/posts/pfbid0LY3aKGQKGdyV3X7QcSzhgdM6MErTkNHcoUUAFUGPjv7eHdGaLs7fXgBFuEDxhaXQl/
+- 2020-01-18T14:04:10+00:00 —  — https://facebook.com/654402359/posts/pfbid0hJJd4rE2ZZQSBuFH7J7o5L5oEnGUpsBwfiQH33kXVqFryHDSFr72Xv9LAbuR7kVBl/
+- 2020-01-18T14:04:58+00:00 —  — https://facebook.com/654402359/posts/pfbid0wcr8jNdAenBcu4WyvXALxB4SrVvvxFMb33PqyNQgzCHwKEeLs3wb6KTtz2cG4nHUl/
+- 2020-01-30T02:05:23+00:00 — https://youtu.be/vDit5MsPhRg click on the YouTube link  Facebook muted the audio,  they claim that too closely matches the original and I'm copyright-infringing lmfao......🤣🤣🤣🤣🤣🤣 Here's the YouTube link if they don't pull it https://youtu.be/vDit5MsPhRg  Ozzy Osbourne's Crazy Train! Sounds like a fu — https://facebook.com/654402359/posts/pfbid0ayU6E654AskYhmeKxTu8MQeUxbLhhmp2rKFXjyn3eBmKF3Uo64QqKV8FReYNsHYAl/
+- 2020-01-30T03:47:23+00:00 — Wasted Time by The Eagles / Don Henley sang by Doug Schoonover.     #wastedtime #eaglesmusic #donhenley Sing on #Smule https://www.smule.com/p/1009136457_3376677377 — https://facebook.com/drschoonover/videos/10158112665162360/
+- 2020-01-30T04:49:22+00:00 —  — https://facebook.com/654402359/posts/pfbid034J76gp1qDhYMGnZtEX24GhaAtUxprNunuAwXbLt3VcmpW3GikbmX5h7R3G8mbp4El/
+- 2020-01-30T16:51:20+00:00 — The Way by Fastball 90s flashback haha sang be me #fastball #theway Sing on #Smule Check out my YouTube channel it has more www.youtube.com/user/gearhead54732  https://www.smule.com/p/1009136457_3377598492 — https://facebook.com/drschoonover/videos/10158115312027360/
+- 2020-01-31T01:52:02+00:00 — Just talked to Grandma a few minutes ago and Grandpa's tumor grew back and is pushing on his eye again.  They're going to do surgery sometime next month in February.   Figured this would be a good way to let some people know — https://facebook.com/654402359/posts/pfbid0Y72pGTVdB8vyo2yxLWNSp2ey9kxCqxAavR8NLxezsZMEasvBPxxbBMCPxAsSyKBel/
+- 2020-02-01T14:28:59+00:00 — Going to my storage unit this morning I discovered that somebody parked their car on the snowmobile trail....... on top of a snowbank 🤣🤣🤣 apparently their night was slightly wilder than mine — https://facebook.com/654402359/posts/pfbid02BXoSGtMtNjdcJXUJASGyMqneCYzKR16rGWTk3KaHjUozoGgzGWZoEDtt7gJD5Upjl/
+- 2020-02-01T15:26:05+00:00 — Life in the fast Lane by The Eagles performed by me, was playing around with some different styles I almost deleted this one — https://facebook.com/drschoonover/videos/10158121858827360/
+- 2020-02-02T20:10:31+00:00 — The Thunder Rolls.  A little Garth Brooks today   Sing on #Smule https://www.smule.com/p/1009136457_3382447109 — https://facebook.com/drschoonover/videos/10158125790447360/
+- 2020-02-03T02:10:17+00:00 — The Wallflowers One Headlight sang by yours truly Doug Schoonover 😁  Sing on #Smule https://www.smule.com/p/1009136457_3382692069 — https://facebook.com/drschoonover/videos/10158126647347360/
+- 2020-02-04T17:09:46+00:00 — If You Could Only See...... sang by me 😁 — https://facebook.com/drschoonover/videos/10158131179222360/
+- 2020-02-04T17:12:28+00:00 — Slide by the Goo Goo Dolls #slide #googoodolls #Smule — https://facebook.com/654402359/posts/pfbid02PCaN5ap9eFo2C7vpgsjBhz5eLGtJbGbHTv656u7QRHiDj5eE2nwoGjsN5RXhRnRFl/
+- 2020-02-04T20:44:30+00:00 — I never realized before the view I had from my sliding door.  I added the one Google doctored up of the original.  Looks cool. — https://facebook.com/654402359/posts/pfbid0Dx2Zq6hZzh2BHidvmT8LxbpF54b4r1vfGxzVaefqp9tyxkpKaj1e8TTHSprSCjzUl/
+- 2020-02-05T02:23:17+00:00 — Slide by the Goo Goo Dolls Acoustic Cover sang by Doug @[654402359:2048:Schoonover] — https://facebook.com/drschoonover/videos/10158132451072360/
+- 2020-02-05T16:14:43+00:00 — After The Thrill Is Gone, originally a duet by Glenn Frey and Don Henley of the Eagles and now it's my solo.  #AfterTheThrillisGone #eaglescover on #Smule https://www.smule.com/p/1009136457_3385633901 — https://facebook.com/drschoonover/videos/10158133932512360/
+- 2020-02-06T16:40:10+00:00 — Breakfast at Tiffany's by Deep Blue Something, cover sang by Doug Schoonover — https://facebook.com/654402359/posts/pfbid02VFaSQxXoRYCLDFLVLGaADcLZedudRQairGUc8UUgEsCdvFLLB3kKr8AX3dh78jFgl/
+- 2020-02-06T20:15:27+00:00 —  — https://facebook.com/654402359/posts/pfbid0UfcbGPM9yHMpnMKAkWRdekLjA5uaSkKwZBtRghGmKGRz8vkvEGK9khSPY1mxWUEjl/
+- 2020-02-07T05:44:14+00:00 — Marcy Playground Sex and Candy 🍬 — https://facebook.com/654402359/posts/pfbid0xYFYvUgxdGb7Q7BgNjsaVuQ5kxB99kCWiEkftw9P1dbfdQYY1ZnkQpta1y7uZTjWl/
+- 2020-02-08T05:45:37+00:00 — 1979 by The Smashing Pumpkins covered by me — https://facebook.com/654402359/posts/pfbid0VMNDAvS24HmWnk2cPCyXbQUo6PixDcXHUwJrETBrWPtEJGdTkw7Nb2i8V4AqfD8Al/
+- 2020-02-09T05:11:37+00:00 —  — https://facebook.com/654402359/posts/pfbid02s9N3icUVR9vnkvur1feTPrsuwS3PA5ChLu4BYXPQeR6dFCL6GZ2tVCEpWaTspQjcl/
+- 2020-02-09T18:13:43+00:00 —  — https://facebook.com/654402359/posts/pfbid0EVG9K4Z7WYNv1mz5NngiS55Ns9rVxkXzQz23oRVpVv884qk19NUHhUuz3vL7D9Dcl/
+- 2020-02-20T20:25:57+00:00 —  — https://facebook.com/654402359/posts/pfbid0DpvqwveDegFA5x2Zy2wnuuaGaGyZCSGfbdUsmYqmNxRjaUiXnLYULPtC9uFCpquRl/
+- 2020-02-21T17:11:04+00:00 — My rendition of Earth Angel originally by the penguins this is the version that was played on back to the Future covered by me — https://facebook.com/654402359/posts/pfbid02nrukQJp7Y3YgJMqGWT5yUNA6LbGLKiaEwkAS1Pz574ekKEbcpoJSvwzEZTcqDHLcl/
+- 2020-02-21T22:26:00+00:00 — Here's some Everly Brothers Bye Bye Love — https://facebook.com/654402359/posts/pfbid02T4TUGHfEeAy6p3deA9zJMFuCBq11ksysabRfwjeHEyJb1zWHD3gnZGcSe1XWDQjkl/
+- 2020-02-21T22:52:06+00:00 — Some Everly Brothers Bye Bye Love  💔 👋 — https://facebook.com/654402359/posts/pfbid02v6w2fmXL3d11WpJtKtwMFBcwC5qE2ButvetD7P8XGSM5xcvxBD4xXEtjiG4Uiq5El/
+- 2020-02-22T02:02:20+00:00 — Mack the knife by Bobby Darin — https://facebook.com/654402359/posts/pfbid02KZuiedvtpL2JtMh6EMtjPwJHFr1J9TPRPkqsY7dfV8pW4gzxPn2BQL3Kp56VVkBsl/
+- 2020-02-22T03:48:58+00:00 — All I Have To Do Is Dream  💭 — https://facebook.com/654402359/posts/pfbid02TYXMeNdKEK4NpxXubSjjaUX2szb6eUXUraAL7U2RWf5R1KZ6L8rcNboLyY3NzEBcl/
+- 2020-02-22T03:50:30+00:00 — Feel the vapors with Turning Japanese 🙃🤭🤯🎶 one I just wanted to do for fun — https://facebook.com/654402359/posts/pfbid02hcDNNs6uP95oWmqsRfTFBszD8u4PCF4A9QG5r84UNrmpERDLs56S5YevRAkGRBEfl/
+- 2020-02-22T19:37:52+00:00 — Interstate Love Song in the style of The Stone Temple Pilots — https://facebook.com/654402359/posts/pfbid032w9TV3hgAm5RdasQsA3CcsLWx1H5EtePQiq5n2GcEYSUupn6HzTfZJYPeRxV7Aucl/
+- 2020-02-22T20:56:55+00:00 —  — https://facebook.com/654402359/posts/pfbid02ysTm6YPTYvNMwtVGXBmvaU51h9Pzb3e9sEMLNMEvzHtgHnYJxTQ3rBNYxGxmWMevl/
+- 2020-02-23T04:35:05+00:00 — Tom Petty You Dont Know How It Feels — https://facebook.com/654402359/posts/pfbid083sZW97fQyjiNePdooACEu2Yt5useVe3moE6MuzfSMDbXSzmyLqk5NFpyM1wBMmbl/
+- 2020-02-23T16:05:06+00:00 — The implications of this is both spectacular and devastating because it's only chess today, what will it be  used it for tomorrow? — https://facebook.com/654402359/posts/pfbid0ETjTxDzGWZHgf29ynA3cGYY3wP7qxRVPmE6Ns2XHrB25npApZpemPsS6jEaHHeaBl/
+- 2020-02-23T23:32:33+00:00 — I had a blast hanging out with you guys...... We definitely have to do this more often! — https://facebook.com/654402359/posts/pfbid02RgWpchZ7EWKEWDTmiEyund73iRFCKH5Vwe4gAzDTGmxFKv2L15uRy4wS3U5xD5jFl/
+- 2020-02-24T03:19:27+00:00 —  — https://facebook.com/654402359/posts/pfbid0eMHK2hx4aKP2KfJJzhVCCupqrM4NSCQXfUtRjRcwo6YN5HGviWfsFiu9qU3gFfrCl/
+- 2020-02-24T03:39:59+00:00 — Disease by Matchbox 20 I wanted to try it again it's a lot better I think — https://facebook.com/654402359/posts/pfbid027Ctokp3KMcF9GT9udBV9AkWZMhBFHu9Z3MDzEVca5QDq1NaFMuJs98MExAEpHC4l/
+- 2020-02-24T07:58:12+00:00 — Here's some Maroon 5 Won't go Home Without You — https://facebook.com/654402359/posts/pfbid0SqMRoBzSfj9AQCFsznwukmLpLD9qXDeEjvTa4JhdDVDYbktVzim7W9NtvcZgxr8Ul/
+- 2020-02-25T02:55:37+00:00 —  — https://facebook.com/654402359/posts/pfbid0hnUqq8wt5ft1vAurYymYgbmWaCiDq76pvDuYNWxzVQaumWh6Ry6czVRAovanDRuUl/
+- 2020-02-25T22:19:53+00:00 — Long Black Train in the style of Josh Turner — https://facebook.com/654402359/posts/pfbid02uSvktUWrp2KBEJYoVnkKgmDTG2M9SevMkCaSnYopE2HnCsBddnYL6NvTL7izfaCTl/
+- 2020-02-27T06:18:19+00:00 — So there I was with the worst case of laryngitis I've had in years..... asking a Walmart employee to help me find something that their app says they have in stock on the shelf.  The woman proceeded to argue with me that they did not have the item I was looking for when I know for certain they do.  I — https://facebook.com/654402359/posts/pfbid02jiJzMStwJL87avSZ3Lwfa92G9FtQmr8RBdspRVfGCxuwAidGDX1xnFrZseNsUhEwl/
+- 2020-02-28T03:16:09+00:00 — Midland Drinking Problem covered by me — https://facebook.com/654402359/posts/pfbid02taug8RCyn9ae6jGLv9peAGfnNkEWJPqRVNpdBJ78g9kgoJcKV3X3EpToWj5g8Sbxl/
+- 2020-02-28T19:22:43+00:00 —  — https://facebook.com/654402359/posts/pfbid0AMsde3pEMupSumfR4sFGtdTuhCbf96wEKSUjBsP6HQkQg8mGp19LGLPD5q791PpEl/
+- 2020-03-16T15:54:09+00:00 —  — https://facebook.com/654402359/posts/pfbid02LdBDqZyZUSUPbVqu58NatKUbN3AiZ9JHUrahc2FHXhHot7g12drE2R6twiGH3yAcl/
+- 2020-03-16T17:26:00+00:00 —  — https://facebook.com/654402359/posts/pfbid02dawa9CdQE3syS5ZPLzRtdjyjczZUSiLYD3E2pLHfSH9RN51mTRBdj3HbfUTQPobSl/
+- 2020-03-16T18:57:37+00:00 — Collective Soul Shine, I didn't share this one the other day so here it is — https://facebook.com/654402359/posts/pfbid02YzaU3fBz6MgV3maF8MmtiREahkPkSTiQEUCgLKSaSniZc1Gt1yzML2RwwZNBJRZol/
+- 2020-03-16T20:25:06+00:00 —  — https://facebook.com/654402359/posts/pfbid03c2YheBmXmYwr2ffnhYbDwDKDEnL2Ss7R5chzdGAzvdMZ2ZFRM9gUmfz12T4AzbVl/
+- 2020-03-17T14:14:36+00:00 —  — https://facebook.com/654402359/posts/pfbid02qFHAR64Zn72pmJYm4iBhNa1tqfF7BwgRpbE8msXj4AG1SdMXx7qPjbAiqL9NidMnl/
+- 2020-03-17T17:17:46+00:00 —  — https://facebook.com/654402359/posts/pfbid0cSDSibPGRXtFve9R5fMk4cNv7y4xX4JapfWUJTtWSf8WN5o4L4uBcnDnok83a3Tel/
+- 2020-03-18T21:09:57+00:00 — Leo is ready........... for a nap — https://facebook.com/654402359/posts/pfbid0B7tHUVLJf1nLCv99vLKWnmbK8K5AhbutJVLiGbY185zPBLtie6MmSicbSYFVm2fFl/
+- 2020-03-20T05:52:30+00:00 — https://www.facebook.com/1692913151/posts/10207324275460465/ — https://facebook.com/654402359/posts/pfbid037ggcJNu4SqDsmuhSuLKeq4soyFoe6C6vrqEXDJZgWpFG8u6sAvKMsdNYFausY9E8l/
+- 2020-03-21T13:47:24+00:00 —  — https://facebook.com/654402359/posts/pfbid02YeGJqxouRDDSmkiasTAmhzBr6xpibTaWbAzFa8P3bwpLxTDVjLfE85QxRz4j35zEl/
+- 2020-03-21T20:12:25+00:00 —  — https://facebook.com/654402359/posts/pfbid0iNmn2mw7bDNJGz6n3ZyMmfxG6xEtJspFCumnNjrNytqYp5eHU3NZFdfMAnPPjrWCl/
+- 2020-03-22T12:35:54+00:00 —  — https://facebook.com/654402359/posts/pfbid02Ywr8upxiize574KUytGFqmdxa2SZG1naL48YQwWghgJ87QTyJz83np4QjNhKZMA5l/
+- 2020-03-22T14:24:31+00:00 —  — https://facebook.com/654402359/posts/pfbid05bu7rfxeXp8gkNfYHwkmPJA6WMDapbhBZmYREJogMRzZgcLWJ9FgmbzH4w6GbjAUl/
+- 2020-03-22T14:30:47+00:00 —  — https://facebook.com/654402359/posts/pfbid0wMEKZA4J4LN652xrJSRmv9YwaQev2jYLdDRTULpvsri2rPt8LAxjXP4TyMy1y2bGl/
+- 2020-03-22T14:54:20+00:00 —  — https://facebook.com/654402359/posts/pfbid02VY4veo8sSppmSWskwpxGc44VhoU3puVBd4aV3dUygBZQcQsyHbrhcbnzpvV92nQkl/
+- 2020-03-22T22:55:16+00:00 — It's Been Awhile by Staind for your COVID-19 quarantine listening pleasure 🙉 — https://facebook.com/654402359/posts/pfbid029wFNpgQXaPyw9URg5xEyYb6eJSAxLC4JjzqqLsFiEYAqqPppLFVAvqKuBycsNE3l/
+- 2020-03-23T15:18:35+00:00 —  — https://facebook.com/654402359/posts/pfbid035LiYi4FedKWstjR8KqUjdqDmFuB6EiZHmYgnGyftqkBZkKmqmHub5fgRaCrd5ATZl/
+- 2020-03-23T22:14:50+00:00 — Here's some Oasis Wonderwall for your covid-19 quarantine listening pleasure 🤣🤣🎶 — https://facebook.com/654402359/posts/pfbid0gYHyEQhxGdk64Am2V4QWpaJBYkDcstBbBMa56ZT4Sb7DnkuGjQroauKcw2tnN1sol/
+- 2020-03-24T02:39:10+00:00 —  — https://facebook.com/654402359/posts/pfbid02SHgRsxaYAhA4iBGvJYf9A2BQZu4ZWMHcZLY4FidABmZfox3zo24q9CFnZU8xfNDzl/
+- 2020-03-24T03:19:33+00:00 — Everything You Want by Vertical Horizon, an acoustic cover sang by me 😁😯 — https://facebook.com/654402359/posts/pfbid0234FEqSfBwj1oCzQhiB4dGi4av6Z8NYMqa518Ys2pkLACT8rCgbCqsCLbGDoXd8p1l/
+- 2020-03-24T04:32:06+00:00 — Abracadabra 🎶😉 — https://facebook.com/654402359/posts/pfbid0irBf7eNYcMweN3HiRFPAv7QEFAg63tCU6rFeUuPq5JQ1wadCmx3fEGLWPicBk5ggl/
+- 2020-04-11T18:31:28+00:00 —  — https://facebook.com/654402359/posts/pfbid0pcoc2ct18uRSSbafiBA7L3qHAXRgoMF6gZcdJj6YvER8AxU1w9edEXwDcvQS5jufl/
+- 2020-04-11T19:33:35+00:00 —  — https://facebook.com/654402359/posts/pfbid02fb2ndQGjF92DRS8cYJUQe8XEdtdW3i6SKLMBj75YTuxq1PKubR6z5UMmTzSLo8V5l/
+- 2020-04-11T23:19:13+00:00 —  — https://facebook.com/654402359/posts/pfbid0cMQjsgBBaPH9TvxUHWsym8BG6HPUXTCGRvVSBw4wpagbFUu69xw3qscCyX9iLiTgl/
+- 2020-04-12T17:52:52+00:00 —  — https://facebook.com/654402359/posts/pfbid035eC3Pieh1AG9S5YtWkVSZcQ9u8ozaJFRTPhTthADDhSjWjHndYkjNJ6oBQei7FiHl/
+- 2020-04-13T11:36:26+00:00 —  — https://facebook.com/654402359/posts/pfbid0vM2CX8nREe29LRXqp35C6BBAb2be3LWgjKNbBmKp965c2A5UYpDGBtsyQu7kgQTWl/
+- 2020-04-13T22:15:19+00:00 — #Smule — https://facebook.com/654402359/posts/pfbid02yJGAivwyKvFrdz5dj2EJ65JMZBNSwZ65kSVL8dAAos3dcCtNjhiFJ6aWURbMm9vUl/
+- 2020-04-14T22:58:22+00:00 — 😂😂😂 — https://facebook.com/654402359/posts/pfbid02K6VqZmVTo6hoCvMXDkra1T6BRatdAf1NFdFQGvXp5ettUpZdbqHgMfApD4fkCY1Rl/
+- 2020-04-14T23:40:56+00:00 —  — https://facebook.com/654402359/posts/pfbid02MrGkcGfk13NkNd33mdQQ6yBSz3aC1FPugZZcBLP6yBviQfpanJp2kCgpXBTeJhoPl/
+- 2020-04-14T23:51:50+00:00 —  — https://facebook.com/654402359/posts/pfbid02bCgVWd8iurGpebEjANcmhG4P4GRoY1QAYBegcdCS1BiyJC9njzTsYUyHiYs8kn6rl/
+- 2020-04-14T23:55:30+00:00 —  — https://facebook.com/654402359/posts/pfbid02s7whjyfRM2SKr4QQvjbAaJPsYd8xsMxUsbrU5f9JubWRAhNkCLes4BEEmmhhTWz9l/
+- 2020-04-15T02:00:34+00:00 — Here's something a little different...... Lol I immediately thought of the rabbit from Donnie Darko — https://facebook.com/654402359/posts/pfbid0mCoj1BYc19icvFgw6zgjwogQqXTbF8xyREkSdabBaeXWwTmNC8EwDLFfXSrprkSsl/
+- 2020-04-15T03:22:08+00:00 —  — https://facebook.com/654402359/posts/pfbid0emdoxfchm7VarD7rbPwz8MJsy4odaCgKWmp5x8YZRfu41cPPwkDMLr1fR4qho3o7l/
+- 2020-04-15T03:39:13+00:00 —  — https://facebook.com/654402359/posts/pfbid0r8pxZyCMQGqVi4coqDvtU7Cq7qQUZV5yqMGYTiULk3mK8Pmy7MxdHJYqfqhZdZpyl/
+- 2020-04-15T14:41:53+00:00 —  — https://facebook.com/654402359/posts/pfbid02vu25eXfKewi4GJtr7APT96GXk9sT7i6PoJofEJQxqSHEoX3f9KJSa1jKnaucVhLNl/
+- 2020-04-15T19:47:43+00:00 —  — https://facebook.com/654402359/posts/pfbid02oLky1zGeGUcLsQNsL1d9npKMR5ScdR5hUvsaYHyJMByXWYt4YznesmFTvy8KgAKZl/
+- 2020-04-16T06:28:06+00:00 —  — https://facebook.com/654402359/posts/pfbid0LmNM1zUpXpJDWNyAEHUL1VUkxwH9xnkYTDVLm3d6RXhLM4zRGuk8pHqEgRJhtAeDl/
+- 2020-04-17T23:38:42+00:00 —  — https://facebook.com/654402359/posts/pfbid02E5zuJftxLPCFQouLeu4pA5R6WKkSef84vt2FHoqbbQxffAYvRBFHJWS2TghprvLFl/
+- 2020-04-18T13:42:55+00:00 — �� — https://facebook.com/654402359/posts/pfbid02SDK4ZrPZ2wp1yQZ3urGZ4u2kXHy8jy37c4d5qnV8TcJEsEeQj3UadrEVhKYRPHD9l/
+- 2020-04-18T13:43:47+00:00 — yup I think this will about sum it up........ ��� — https://facebook.com/654402359/posts/pfbid0iYiDJTFhukLTP2DJeYhmfd5jL23h4rDUH1sT3SwqDGzQGgULohDV6PtamEMy5nmtl/
+- 2020-04-18T19:52:35+00:00 — Extreme More than Words sang by me — https://facebook.com/654402359/posts/pfbid0kDFcGNoNkZMNzr8y3R1jcbF61nB9BeGBYg1xtHHg5BqFwUR9fGE6TMbUjwJcea21l/
+- 2020-05-24T21:09:50+00:00 —  — https://facebook.com/654402359/posts/pfbid0347x25xpnszYrUzwhVqEwGjbDnJAPBRds78gmBT2sZZDPF4gzkKf2geyTBp31iPSml/
+- 2020-05-24T21:10:22+00:00 —  — https://facebook.com/654402359/posts/pfbid02Tc8Mqptn2XpDnwe9bSPPyyshYFYNTACSRvqKHZ76j2n2MU119VgwS95tMy6hvCaul/
+- 2020-05-24T21:12:04+00:00 —  — https://facebook.com/654402359/posts/pfbid0237xbrLKXWWZZ4FbXfAyhLPSqRwGf1LGgbwSH5nrTsh6EinYHqNVxDdNQGK6RkFicl/
+- 2020-05-24T21:14:36+00:00 —  — https://facebook.com/654402359/posts/pfbid02Jjy32uEw6rM3VNCwqTgyjMowUZoFjZ2G2DSK2sFDEA1wafkxPJtDpFNink7moCVnl/
+- 2020-05-24T21:19:03+00:00 — So so true — https://facebook.com/654402359/posts/pfbid021XEsrGYsKnk7iZsm1y9VuE7tgQWn5hXTs96y8fdjJnRq1WAKruwJfu7JpzxkUDD2l/
+- 2020-05-25T05:20:35+00:00 —  — https://facebook.com/654402359/posts/pfbid02dkmdACv1wQZEzbeqdaU9MNNrra29XhgLeB3X6XGu48L1G6A64gEJwUuwgC6tX4uDl/
+- 2020-05-25T05:25:00+00:00 —  — https://facebook.com/654402359/posts/pfbid02E4MuzsDSFKebsCevttk9bTYwYSDbJceKFUcwh1UZLUDTzFhAcJytizNe9xatR8Kzl/
+- 2020-05-25T06:03:01+00:00 —  — https://facebook.com/654402359/posts/pfbid02yWiEvoMBKZTQthjDgrwEB21sJeo7WFj1VR5QmBPUPpBgrbhYyU4YXe4MjnmDobfGl/
+- 2020-05-25T07:54:28+00:00 —  — https://facebook.com/654402359/posts/pfbid038LuaHK4BNfmwwFmMpc4xyHjwrNTfKsqu229Zd2JR819HuFaqR4Ukx2Bwy2kw9qctl/
+- 2020-05-25T07:59:15+00:00 —  — https://facebook.com/654402359/posts/pfbid02jBJ5dtYweLzpBciVgxXWi4qFFUWSr7uqeCtFRYsM4xvAsai2g4cWVCXkoQZJWyYBl/
+- 2020-05-25T08:44:46+00:00 —  — https://facebook.com/654402359/posts/pfbid0cQaRyZ4eVwuph3etVXfETMtJY6zPGcY4kmFNgWyBkGbBEu5MZmMvbVWo1pwSCd6Ll/
+- 2020-05-25T08:48:17+00:00 — I did a double take......... 🤣🤣🤣🤣🤣🤣🤣🤣🤷‍♂️🤔 — https://facebook.com/654402359/posts/pfbid02J9tkAS89cVK39PtejG1aabX2XFzzengi6ZUKma7VWsyxRrVpXhDqjcm49TrWwtL6l/
+- 2020-05-25T16:19:05+00:00 —  — https://facebook.com/654402359/posts/pfbid02QFjXtK73NVhrJJMs5nXo47pmfjXhdGsjeBUWTPXvJc2tYjUZ8xE5r9CdTcvApQhPl/
+- 2020-05-25T16:50:17+00:00 — I can still remember being a 2nd grade kid quizzing great grandpa Fields about the Philippines and World War II, talked about how he got drafted right after Pearl Harbor and had said his basic training was a rifle and a donut and a boat ride to the Pacific on an old slow bonana boat. — https://facebook.com/654402359/posts/pfbid0XebwdQrAWXf2aU45DTLsBZjGkfdPbA1wac1aivTWjRKqdPzQzqJQJeVhrQHTopj7l/
+- 2020-05-25T19:53:53+00:00 —  — https://facebook.com/654402359/posts/pfbid021Ai3tAfEnmydcjLctvmYMqBpniguvRuTMsHUjMnyundd3BLhrsZnpUJL6DxYCZh9l/
+- 2020-05-25T20:11:13+00:00 — Some country for your Monday — https://facebook.com/654402359/posts/pfbid0uLGQa6jfmppA929Sgn6qU2kPTmaYRKkpCFAXm3ZU1XVjSHp9q2eHiXbuu1KYkMLtl/
+- 2020-05-25T20:45:43+00:00 —  — https://facebook.com/654402359/posts/pfbid034W1VyfeAa6nuye4KBEPBvrVkfLhAVeZojt8KZB5cfWK7PNkytZPu7vv4hysZfJChl/
+- 2020-05-25T20:47:42+00:00 — 🤣🤣🤣🤣🤣🤣 — https://facebook.com/654402359/posts/pfbid055eYpXu5NficvqAKtwN6oX3nBeborcXvPFiKN4c3fD4UenhreaSag4zRhF3MafMel/
+- 2020-05-25T21:51:56+00:00 —  — https://facebook.com/654402359/posts/pfbid02aueLMmknFCrbQ9NpJX9NtDjLBk5WwcENnCtnUigSYqM23ExH3ZHpduD6D3TkXuUtl/
+- 2020-05-25T22:47:14+00:00 — If you are correct, I'll delete your answer.  You walk into Dr. Dolittle's room and see a bed. On his bed, there are 2 dogs, 4 cats, a giraffe, 5 cows, and a duck. There are also 3 chickens flying. How many legs are on the floor?  I won against @[100000373701743:2048:Sherlee Ryan] — https://facebook.com/654402359/posts/pfbid02ziH9D8kiXr1TNhKAK876aVCv93r1DhvAWCvNaXrUmQHXFX9gtccG6VS8cSa6D5bBl/
+- 2020-06-15T17:35:31+00:00 —  — https://facebook.com/654402359/posts/pfbid0CpHQpKzLxKvcHUUy4ivooRsmQYSj2R2oSkCb5WXz1ubv9kE52zfMtVDy8pUpZ3Lql/
+- 2020-06-18T05:10:37+00:00 — Won't Go Home Without You as performed by Maroon 5 vocal cover By Doug Schoonover 😉 — https://facebook.com/654402359/posts/pfbid02NBpbZnQW22od6v1qWThiB4HFtBVwqRhzdy6cUbwqGxFTUJDxNb3wkJZa3CLQszSvl/
+- 2020-06-18T06:25:46+00:00 — If the idea or thought of something both excites you and scares you at the same time you should probably do it 😉 — https://facebook.com/654402359/posts/pfbid02y2eNyx2Ca2wi9sKQ7HTrN4Kj1TtwpZ9xAArLubRMre2GJW8N2nLzNczNkpNWuPKQl/
+- 2020-06-19T00:28:28+00:00 — Happy 60th Anniversary to my grandparents Anna and Jerry Lueck.  Although unconventional we have found ways to cope w a Bluetooth speaker.  One inside a nursing home.  Great time w the family all together — https://facebook.com/654402359/posts/pfbid02wkVSd6v8NCC74yXtzETeRZkxJxsPqmwBdv7wdzgA3WaB3hQFypnrb3mTC4TX8raSl/
+- 2020-06-19T03:07:23+00:00 —  — https://facebook.com/654402359/posts/pfbid04dL1Zh1PdzbgkZR9TrEZykxzrurRWE3Shh3vHwaW3p4REJV6kUWoAJXvQKAoWFN9l/
+- 2020-06-20T15:05:21+00:00 — Yesterday I learned the true value of a cell phone when I wanted to borrow one for 2 hours, most people would be willing to loan out their first born child for two hours of free slave labor before they would loan out their cell phone for that long....... — https://facebook.com/654402359/posts/pfbid0ofeqiGjpJrktRRkkgrsTqZZtsgEgjpZzhu5FT5B7ZcMEVqnJXWSPBjTBEFmaJKhol/
+- 2020-06-20T23:19:21+00:00 — "Intelligence is the ability to use your knowledge" — https://facebook.com/654402359/posts/pfbid0G1cXSFmtQ7c1sVpGgy1cXviyQVXyHxk2wfCoek6sHkcNF7YzX2zihfUAoRKRF36Wl/
+- 2020-06-22T13:49:58+00:00 — Grandma and Grandpa having a visit on Father's Day ♥️ — https://facebook.com/654402359/posts/pfbid035RXFYyTjUPkGUa2pAXQtQxAqvThkoUyp68yyGfNLUkpGtUs4Fu5HG17xNPXHXuhwl/
+- 2020-06-22T13:57:39+00:00 —  — https://facebook.com/654402359/posts/pfbid0cdaB6SEj8oCpuhsRVUWQoioK7T7hthXBRmuqzMPKT4DpZKM9c6gyaX6GPfSZyLbel/
+- 2020-06-22T17:55:16+00:00 — I keep crankin em out haha — https://facebook.com/654402359/posts/pfbid02K9ms3r8heUF9gXQycRpRTJbAMpqUPT22cj5xQvW4gydQ4FH1ZTjPahNV54nUwiYkl/
+- 2020-06-22T18:03:54+00:00 —  — https://facebook.com/654402359/posts/pfbid035LwDUTmCUrCsE6Zn1UA7c2ZgSh3jc4XYxezqvRCFAh8hMpWqA8bcffasYEmN7kcHl/
+- 2020-06-22T21:20:28+00:00 —  — https://facebook.com/654402359/posts/pfbid02xUeSPLF8ifDETrpYxf1P2S84HbCN9FRrW6i5NRYiKu1tCHEysjsrMNbWEax1K6GXl/
+- 2020-06-23T00:17:54+00:00 — Underwear on your head is optional 🤣🤣 — https://facebook.com/654402359/posts/pfbid0LWJEC2KvR7rKeoPEfjhFqBMNHhZLgtZDSVyPNRBXhpYCnmXiDNEurpfnHACk94PAl/
+- 2020-06-23T06:54:42+00:00 —  — https://facebook.com/654402359/posts/pfbid025edQxWvrK1JVFRFA1wS13RGLYCMLk9XdmzfQoGV7snHJshRL7ymRybU5fSCr65GWl/
+- 2020-06-23T06:57:28+00:00 —  — https://facebook.com/654402359/posts/pfbid02o5UBRccCJBtstuAavTVsvKRDJbGHZuUxXCJkkAnvhRkCniz5UzEP4xFHJPQWGY5Al/
+- 2020-06-23T07:20:12+00:00 —  — https://facebook.com/654402359/posts/pfbid0LrB3ruguP745GY1swK9sMRCWHVuxdHPhZ43j73TpqshUcrHfvu6G5qvz3YU6ZSiMl/
+- 2020-06-23T20:24:52+00:00 —  — https://facebook.com/654402359/posts/pfbid0RsyyHChc9QrdkX8VAviuSyBkYae4BCWtTPZyMnT33dRGnaADcjdQV4cyqqmd46sfl/
+- 2020-06-24T00:39:14+00:00 —  — https://facebook.com/654402359/posts/pfbid038KVEJgF7JhYQKnzU7X95jdEu49Gpk8GPxtp4Zu8Jc3ykVzpUMtW8Pc6nG2ddfMPPl/
+- 2020-06-24T01:52:29+00:00 —  — https://facebook.com/654402359/posts/pfbid0cqhJ2Aep2K9Mm41rym7ZsiWs1rJJHXLsY1SyerkcN9axaHPse2EJnVibg9RnCUBpl/
+- 2020-06-24T17:44:07+00:00 —  — https://facebook.com/654402359/posts/pfbid0R61H7sxVJTYZM8FyG4TYgiNVgdhE1Dad52VHXzD37gevaQgS1nArp5hXTCgJKfm9l/
+- 2020-07-04T18:03:05+00:00 —  — https://facebook.com/654402359/posts/pfbid0EmXwMG1XqWZ2XiuUJEUjQh2BKsfJrwGVVzaBewwyXmmeTKnzfmVyxTFoRb7jaUB7l/
+- 2020-07-04T18:15:18+00:00 — July 3 2020 Cornell Fireworks sample — https://facebook.com/drschoonover/videos/10158658572977360/
+- 2020-07-04T20:25:08+00:00 —  — https://facebook.com/654402359/posts/pfbid02zQG13hDuMTb7K5yd3RMDH1XUPjVRjq5mXcK3mWS2ucPzEURxMX5LTRNKj2Rp614Hl/
+- 2020-07-05T19:24:19+00:00 —  — https://facebook.com/654402359/posts/pfbid0RS6mZAq27zzUQzSuBkmcBcdefEaYwws1WHG5VTj4Bx7nhDHL2eY2cEeXMXyM6NMyl/
+- 2020-07-05T19:24:33+00:00 —  — https://facebook.com/654402359/posts/pfbid02mNJjqbJqLdVnpjXZkCTBWE2RvESXhyuhwkT4EwPAsQYw7TiExgWSrMAdmiE1gWPrl/
+- 2020-07-05T20:47:38+00:00 —  — https://facebook.com/654402359/posts/pfbid02NpdC8r7T3LYLzwTD8jH5rpuEXM9jtRMEA8vsASnCexHwDFDhR8pGfp9cT8rSwYBml/
+- 2020-07-07T05:17:33+00:00 —  — https://facebook.com/654402359/posts/pfbid0wVXk5o4GTGGHaDFTeAEnDKXviH3xb2CoBqE4oABUs5964vsoGa9gj2eKAJ4fe4Til/
+- 2020-07-07T05:19:51+00:00 —  — https://facebook.com/654402359/posts/pfbid02dmyJNSDY9i2dVW8K2MdAkjJZD1kugamfU46onPEHxHoREb6Nn5PGutJvcfWBQoWbl/
+- 2020-07-07T05:40:11+00:00 —  — https://facebook.com/654402359/posts/pfbid02LJHPBGmT2YMMQDWNKEE1VgjozyCh77549gaYTqkBo3uE3AXjHXYXFVJyTZVvBZcql/
+- 2020-07-07T06:35:25+00:00 —  — https://facebook.com/654402359/posts/pfbid0iiKczHfscBxGnmHnVSCLeFsfcNXvpXehL1w59eKYjhoey3fdT5pRG3F9pEC4St71l/
+- 2020-07-07T14:50:28+00:00 — Last time I heard it's a possibility? — https://facebook.com/654402359/posts/pfbid0B17ZjvYH6ZYhA9VxV4sMNAnGr2gYbBSiFg7EvY6djzVbiqQAoby1bZB26Bf1tFHBl/
+- 2020-07-07T17:45:52+00:00 —  — https://facebook.com/654402359/posts/pfbid02uD4HqW2P4yaLxNvj3m38YdPxC7auFT4krn1HtkwAtKENKcsYmEK2C1kHvJ9uaTw7l/
+- 2020-07-07T20:00:19+00:00 — Who wants to play Centipede?  Got a 55" for your playing pleasure 😉😁 — https://facebook.com/654402359/posts/pfbid0CMxsZV6fDhZcLWPPXANkw4RDxYJHzwyd8dFHuxS2kun8AskkiZAS6iB3eprbotvil/
+- 2020-07-07T22:38:55+00:00 —  — https://facebook.com/654402359/posts/pfbid0emxp7Gt2YnmJVq9rEqpSDTCVz7PuatRcXq2nA5qvt3aoxP8jxLtzBnRV1rGtxtFJl/
+- 2020-07-08T00:56:37+00:00 —  — https://facebook.com/654402359/posts/pfbid02J9tkAS89cbCVRyZ9qsTkVfXRqCt4bkHDp2RjNJEmeW7Xp16eHKuu47kfhdrjNpb4l/
+- 2020-07-08T14:44:53+00:00 —  — https://facebook.com/654402359/posts/pfbid02x11uyHwFgT1VFEJ65okuJv8CEMapUZB9ndJa3wqghK4THRn86N6YcCmehXpXgBLVl/
+- 2020-07-09T05:19:16+00:00 —  — https://facebook.com/654402359/posts/pfbid02HWendKm13Bhsxfc4HLDAgAVtYz3TjLWT1CzpSRnyGXSLFpp8y6pewRU3XwLDjEfdl/
+- 2020-07-09T05:21:11+00:00 —  — https://facebook.com/654402359/posts/pfbid08xBfJTGowdMGmYjvXhL3TKY5wcJ1cE1PqkBE2kWaFrSz67xoHNpTiKHXt6fX6VFql/
+- 2020-07-09T14:06:27+00:00 —  — https://facebook.com/654402359/posts/pfbid02i4RaFWEpCBTHmUkd94EQYa9AgcAVHtFYE6ShVCDbfcg7V5iGFV855KUqA12xorfzl/
+- 2020-07-10T01:08:05+00:00 —  — https://facebook.com/654402359/posts/pfbid0ikHcShciUmpYizbFAZA7AwCNPmuD9hNSXdvL5LvbfYqjpB416JkYwxj5cNGZTM8wl/
+- 2020-07-18T20:31:09+00:00 —  — https://facebook.com/654402359/posts/pfbid02GEpsrKZMTjJCggLz6ioFgf1X1BDNb3sd4yB8SigAWoTvKd5YkLe6S4gLpA24nPCDl/
+- 2020-07-18T20:31:40+00:00 —  — https://facebook.com/654402359/posts/pfbid02oK1ctkCFQx5cFFmvjqeDYh22YfuSME1U9gDb1V2WdmrTwhD8PQyFaii9WJQ3QVMRl/
+- 2020-07-18T21:14:19+00:00 —  — https://facebook.com/654402359/posts/pfbid02fUb6UgP8JqCFjp1c8PWCNJykbQgRwABTWDu1n8EdXQDE8HF6ZPkyutZfZQ1GcnNpl/
+- 2020-07-18T23:44:19+00:00 — @[100000433780444:2048:Steve Benaszeski] playing w the Home Grown Tomatoes — https://facebook.com/drschoonover/videos/10158701422152360/
+- 2020-07-19T03:24:02+00:00 —  — https://facebook.com/654402359/posts/pfbid02f1wZ5EE7nXMNXxJ9v2iBMRvBqvhs8FhHPbDiYFYvpbU9Ggnac7oq459ARSyyiCWLl/
+- 2020-07-19T03:38:34+00:00 — A sample from tonight's Home Grown Tomatoes show at Uncle Saltys in Holcombe WI w Dan McCleod lead vocal guest — https://facebook.com/drschoonover/videos/10158701813027360/
+- 2020-07-19T16:24:33+00:00 — Homelessness up 25% in the area since the COVID shit started.  That's the real disease — https://facebook.com/654402359/posts/pfbid02QCgBAdyMNfNm5GKtfkUSJWU2D2RDLMHynjAovhP159PdHBNMMdnudbKyWXUZV6Ail/
+- 2020-07-19T18:04:10+00:00 — Rock This Town performed by The Home Grown Tomatoes w vocal guest Doug Schoonover.  A special thanks to @[100000433780444:2048:Steve Benaszeski] and The Home Grown Tomatoes for snagging me up for a song!  It was a gas! — https://facebook.com/654402359/posts/pfbid0wGeHUeMm4hCmujfJdMb8WQhzSYvKnkiK4q1VAGb78PdkGFMsEPm9khV5Xra8KtjJl/
+- 2020-07-19T21:34:26+00:00 —  — https://facebook.com/654402359/posts/pfbid02seJaj5qfbNuJkraR7Ktb5DuniFwrq5uAHeKfyKCa4exmvdtfjfi8j1kbaYG1hj5ol/
+- 2020-07-20T00:31:46+00:00 —  — https://facebook.com/654402359/posts/pfbid02oQafR5gkmDM97f8aVuyemTyGLynCZ5cmk3QtZFivwTHQdof5uhksEqq5RMS1Gdnnl/
+- 2020-07-20T02:15:09+00:00 —  — https://facebook.com/654402359/posts/pfbid02QKEChZcjEqY2mivzARKXccz9tXBmyYSEHp19pwxzmbESPqh8J3MyMPkYUMru8mP6l/
+- 2020-07-20T02:17:36+00:00 —  — https://facebook.com/654402359/posts/pfbid02aST83Jpu5at7HFuhivpMvsreLmMZaCagkVqmgHjDRCbDuo5P3zyKz3zwTwKYX2GUl/
+- 2020-07-20T06:20:37+00:00 —  — https://facebook.com/654402359/posts/pfbid027NfXcAGQhREGrZv5oLDAfnNY49a15Pge48yYcxKncjaxaD3gQsQdB8nUdfEDWFbsl/
+- 2020-07-20T06:23:59+00:00 —  — https://facebook.com/654402359/posts/pfbid02KTuLbVRHm11GZtfsCdXay2jKqfyzHdzZDxX57Szcy8puoAFLpszRJHYEkeUXCUV1l/
+- 2020-07-20T06:24:38+00:00 —  — https://facebook.com/654402359/posts/pfbid02DkfkYoJr1g2dgadSY8MXmjW4hQAWa8jo1JefrWuGT2NdMFkHXtTHhSqhw2bgB7wAl/
+- 2020-07-20T21:39:11+00:00 —  — https://facebook.com/654402359/posts/pfbid0YvRrQR3p5uJ1WYuFKXszRnKbX72zoi6dGnuhncnrztPG4RQbK5L12z5qNDc2T8NUl/
+- 2020-07-21T06:02:48+00:00 — Grandma Lueck w grandpa's favorite kitty Tabby — https://facebook.com/654402359/posts/pfbid0jhsiHrn126h7JZcqnCMTmK9efpW1Qeq9ewCFasVmZq1XmHNPWNepEsuREa4kpzwel/
+- 2020-07-21T16:09:48+00:00 — It seems as though I'm finding out who my friends are based upon the fact that we're not allowed to have our own opinions.  That's okay though because ironically those are the same friends that don't stop and see me when they're in town anyways.  My circle gets smaller — https://facebook.com/654402359/posts/pfbid02EQZjpMqjzs3k2WKtpRCaBquvzvd6CLV3gpFrdj1BXQwi8cUGYG1t1uvmpe27MntGl/
+- 2020-07-21T16:59:43+00:00 —  — https://facebook.com/654402359/posts/pfbid0MRUycitAXoKMvBxPHnz3RXp8z9AfYLhakannte81JXv7JXgFQQ1qbSKyR8xd4k5Ml/
+- 2020-07-22T05:34:49+00:00 —  — https://facebook.com/654402359/posts/pfbid0Y7gpZg2GkEekQUcJUe88Qfwf92tP549hycXT23KWUpCK9g5JHTdncqMZ6pyBkcYel/
+- 2020-07-29T01:29:44+00:00 —  — https://facebook.com/654402359/posts/pfbid029U79HXXo3WTbkepmH28rCVntAqyyeLZAtoAdwi4c5yfSAyiWFMdLJ2WmdWWgBDEPl/
+- 2020-07-29T14:08:11+00:00 — https://saveyourcinema.com/ — https://facebook.com/654402359/posts/pfbid0o3PtczAe6BBg3QfmSuGfJe5VcVR7hGjTqGSasR7UP9eW8UtvYEPEobRgLcx8f3SAl/
+- 2020-07-29T17:18:17+00:00 —  — https://facebook.com/654402359/posts/pfbid03bUsndQttiqcRo8QGJ5ZrYvcWcbCtjUweYbfAvxmPzDiSxWLU1Hk54kCck2apQqml/
+- 2020-07-29T17:19:08+00:00 —  — https://facebook.com/654402359/posts/pfbid02jB5QsV3PnaQ7Tu7aNHkyohMxNsdtYtz4Ee8gLgLKaq1oQyT5Wwrfw5arUGc8hxM4l/
+- 2020-07-29T21:03:57+00:00 — 🤣🤣🤣🤣 — https://facebook.com/654402359/posts/pfbid0fMi5Pu6PQvkWE8tX1eH3zpwyrvNewYaDEnmM3gqJtnRxMq1vKb62qzAbXzi2sq93l/
+- 2020-07-29T21:16:30+00:00 —  — https://facebook.com/654402359/posts/pfbid02nDfpJS64oUQeHVGkjDm37va9bxRkZH888VcExjYAJp7RcV4VJ223qP5NnUuGyw68l/
+- 2020-07-29T23:41:21+00:00 —  — https://facebook.com/654402359/posts/pfbid0R7KK9YetHCDy3vbijdRDtzTnovRqoAUechcLVrxiqkADDbX2yzbY3ieHTMuerUP9l/
+- 2020-07-29T23:45:46+00:00 —  — https://facebook.com/654402359/posts/pfbid02dJLmxPuf7UebpuxzhoQMTWPVkGdLmJSBogQ2h8D6N3D5hYPQYpbh5V6b2m1F5FwDl/
+- 2020-07-29T23:47:36+00:00 —  — https://facebook.com/654402359/posts/pfbid023FAf7i8enJkVT51YY9ovyZVFuXZoNkxXcU2o2W6y1TBXCDpmWHRutwiKGxnXZvHFl/
+- 2020-07-29T23:48:21+00:00 —  — https://facebook.com/654402359/posts/pfbid0GpMXqmAKuBoRBW2cYS6o17WTEk13rpiVYcsRxFAYFbgcHh6kaTsSqRcAuD83hTaTl/
+- 2020-07-30T04:43:02+00:00 —  — https://facebook.com/654402359/posts/pfbid032AhU7oAWAKzEcUF9tkaD7YChKL3RW6j5f9Stq6jrUgq4o6hdxzo9XZTA2DrGHjtxl/
+- 2020-07-31T00:55:11+00:00 — He gets what it means to uphold and defend the constitution.  To protect individual rights and choices.  The constitution cannot be suspended, even for illness — https://facebook.com/654402359/posts/pfbid02h9TX2SqDmqYdK3dvLRWBVTGqEHSxBg21LALf6ZHAacK3x8oSAKtNSWxw4SR7MEwsl/
+- 2020-07-31T05:11:09+00:00 —  — https://facebook.com/654402359/posts/pfbid035ZH1AbgqE7xdjkadEJ75HesKYx4gqevTcsAZVimzBFnvxer2VsaUAKGqoUTH4EV6l/
+- 2020-07-31T05:16:33+00:00 —  — https://facebook.com/654402359/posts/pfbid0BHphJw1o8zAbkKkrMWu3GHGKzEPaw7419kvk9Ax7X4S9LLXrSALmHksPbzX1MZFql/
+- 2020-07-31T05:19:38+00:00 —  — https://facebook.com/654402359/posts/pfbid034fqbs9Cyy3F8TYjxFuRbRuV1ryZrfdBjixutA54ggNym1nTnC5ua6bYNaVUomGkVl/
+- 2020-08-01T05:48:49+00:00 —  — https://facebook.com/654402359/posts/pfbid034NUSZgZiWqaXRRCX9CiWDYLXTW6c3KBc31j66WQHSbvpJuGqkcR4uANNPhQQG1oJl/
+- 2020-08-01T05:52:29+00:00 — Grandpa gets to be outside! — https://facebook.com/654402359/posts/pfbid0MfgPwqMmP66zZihRv9CGRtxJZTPh7VLc4xaAc7k1s4KezUK2Y1gQjNxQmH2p3G6ul/
+- 2020-08-01T05:54:54+00:00 —  — https://facebook.com/654402359/posts/pfbid02YWcv3mygRysaFdbS3JXg11ZYF4226hVBBjhuEQZNc22u4UZsBjUB3wc7ZTKVXo9Rl/
+- 2020-08-01T05:59:31+00:00 —  — https://facebook.com/654402359/posts/pfbid032ndR4UUMbVXHjbKZcAxLVy5Eogy6pkQSguEdfZh8MMYdSghCBTbDBd2cH34BbPQEl/
+- 2020-08-01T06:05:29+00:00 —  — https://facebook.com/654402359/posts/pfbid02BL1KVmD8GkZhyPaLbVryH5G8nHyRx6c8mpp4XEmpDQ9ymcJjMvMvSnXDWtBCCZbgl/
+- 2020-08-29T00:29:40+00:00 —  — https://facebook.com/654402359/posts/pfbid02NWVibCprvudM5xfdzcTqi479aGMNtSjutsUFKPc9CVm1gEzXhRNH5HV9gREcMftrl/
+- 2020-08-29T00:33:13+00:00 —  — https://facebook.com/654402359/posts/pfbid0yJosfvyuZaeEg3ASWBmEf19FMSwyDnk5n6vjKWoAK1fRjheeFPBfnEvoLk7GAkftl/
+- 2020-08-30T17:36:17+00:00 —  — https://facebook.com/654402359/posts/pfbid0shFgy1kqw1o23p9Xd7UVdCV9vQ6wxocPNrRBHbWCd5gV7mdJNzqCo14T8Wi1Sihcl/
+- 2020-08-30T17:42:33+00:00 —  — https://facebook.com/654402359/posts/pfbid0WDiGeMN838fqPATKKhjHLcbdttVXAJVnxZHME1rgHavm48p6QSRfLNS1WWF3k2DGl/
+- 2020-08-30T17:44:08+00:00 —  — https://facebook.com/654402359/posts/pfbid0zhxB6WkTLhcBHsdSkxX2CWzxNFGoF1UYpyJ6WzHDJseYzDU1Knwp33tZgyh5dgyql/
+- 2020-09-08T15:42:25+00:00 —  — https://facebook.com/654402359/posts/pfbid02YnnQ91KRfkN8nnneQAT8rR2EzPPD5rSNFfLYTEnG6Ny4MtUH6g1BmrBNghzhN3jDl/
+- 2020-09-08T18:30:00+00:00 —  — https://facebook.com/654402359/posts/pfbid0XZMspSyt7ETQ4mbtFZDcTv2tprBRopuJJ55cbExCMBnJQs5FYgmaLpt8GsGVKn3Wl/
+- 2020-09-08T18:35:11+00:00 — Elected City Councilman — https://facebook.com/654402359/posts/pfbid02n17MqtetCYaAt6kWwGLQ6eQsN3AJv4VxpcBbEpGaZzxbFfVc7qPYLTrfiHuur5Kbl/
+- 2020-09-08T18:35:11+00:00 — Elected City Councilman — https://facebook.com/654402359/posts/pfbid034aADxbxhh6nviFfvsHkJoaGnDb17QCSrzPcCUCJ7Wg5bUahWQ8MyF4BUh9Lg4M9al/
+- 2020-09-10T13:16:26+00:00 —  — https://facebook.com/654402359/posts/pfbid0GYxSJRPCqn61LqdC22dND3M16YfjbskEVKLi9cxL3TQmuRuSeejRiQTESKLkA9w8l/
+- 2020-09-13T12:54:35+00:00 —  — https://facebook.com/654402359/posts/pfbid0rrDe61t36RKfXmXUjxBYMsCaWjuDGmczcJCQaoPk9356ktrk97WZnBU7TMqeawd8l/
+- 2020-09-13T13:27:45+00:00 — Funny thing cash is legal tender for "all"  debts public and private, I would think that it would be illegal for them to not take cash as it discriminates — https://facebook.com/654402359/posts/pfbid0Ey7Mvk1eF2Y9LNuha8y5DWwVGDMGmHVfi2eeD7HUfMug7Rgx8o7rqA3vwvszyXLvl/
+- 2020-09-16T12:39:52+00:00 —  — https://facebook.com/654402359/posts/pfbid0sATT1rvQ8aWKnksCo7jqnH9kKaWoKwrJHvU8ZSCoMhbVkVzdzPPY7YpXDF3jc5Lfl/
+- 2020-09-16T15:52:16+00:00 —  — https://facebook.com/654402359/posts/pfbid0ZZZUZKfBjRdx7L2oNoC1b8aGWEhYre98rSx933MC9yR1z17afdrizDLVaoKZA49fl/
+- 2020-09-17T00:10:02+00:00 —  — https://facebook.com/654402359/posts/pfbid038BJC2iH7WvHyeDbvc1ksZKmjTVVsQG6kuNGvSXrW68hLh5bh83ZL49gsvsbYW35Jl/
+- 2020-09-17T13:24:58+00:00 — 😂😂😂 I'm much more exciting when I hear how others see me — https://facebook.com/654402359/posts/pfbid02nPPZNUG1ReQSdcZBTS5F9d2ptt9WHfESPFVxftwSddiWr4snVgygzyyN157UeZBtl/
+- 2020-09-19T23:38:09+00:00 —  — https://facebook.com/654402359/posts/pfbid0xAQgvi6w7XCDdeEFGXCpk8U9PbBgU1bZ95M24VQN8kN9MhmK1xWWgtGVuXVY4Tgfl/
+- 2020-09-27T17:06:23+00:00 — Here is something to go with your Sunday Funday — https://facebook.com/654402359/posts/pfbid0v4K6PMx1361iqRtngdhcKwMdTS7FWF6fNYqUUAMwFRy8ARkJXdBf4hQ6fhh7bi9el/
+- 2020-09-30T06:40:11+00:00 — 😂😂😂😂 — https://facebook.com/654402359/posts/pfbid02TA8pjbGR5Q3jShXw7LHyHXLPwESnhUxdMpq3RffVdrvYJiCBtXu4gNdXrbTcWDwGl/
+- 2020-09-30T18:08:02+00:00 —  — https://facebook.com/654402359/posts/pfbid06uN4ox81siEGhpgk48YarjqnohdE3FnpE2VBdRWrGwHBoY2HNbUzfeZnFnv2BnVql/
+- 2020-12-04T05:09:28+00:00 — Lol for real — https://facebook.com/654402359/posts/pfbid02s3gfp5ED93RjfVYNnjfgBKkPECAS2nFvpr5kskuxN7dhXcN55h8ZAz1pwm76zKedl/
+- 2020-12-04T05:46:47+00:00 —  — https://facebook.com/654402359/posts/pfbid0FFiBYnNVCACyhRgW3Jvhdmv4tm5vQtU1YoF3MoiteSbe6FWFt7GtXHra2AV7WWHnl/
+- 2020-12-04T05:55:44+00:00 —  — https://facebook.com/654402359/posts/pfbid02csDtUYgPkRn4ciPHVe32KZqMo1Gw2s7ZubcQCKW8bxYXGk8vGvxfAaLbfK5wJrFdl/
+- 2020-12-04T15:49:54+00:00 —  — https://facebook.com/654402359/posts/pfbid02wSFf8VWsAtzKuPawFEidjPXFW7dswJFWbNSQcDzcGuezovAwX1vc1xf4fMEwV4Wyl/
+- 2020-12-05T08:39:16+00:00 —  — https://facebook.com/654402359/posts/pfbid08KANXkRDE2X6xULANnEZMA6kQp2YadrAZsUrBen1RZUiANRM1RRCYMx3cAm3ZQo8l/
+- 2020-12-05T09:23:12+00:00 —  — https://facebook.com/654402359/posts/pfbid0Mu1AeZSGeECXmhHaCvb5sHVkd46Ux5dD3MWpsk6X1vHeafYqKVMma2f9viSjHRKfl/
+- 2020-12-05T22:55:43+00:00 — My day started with a request to dogsit this old bitch 😂😂 — https://facebook.com/654402359/posts/pfbid0ZSTkg9bqPRBC5ZZF51nBHEmXEC5o6ZYPhBi5uZ8WFL4WKfjhEqNNW7r4iLycnjcCl/
+- 2020-12-05T23:03:13+00:00 —  — https://facebook.com/654402359/posts/pfbid031MjmWedQxvkzLf3Qa2x7iVKekxkm1PHXE1PwovdBxa4fPCmLQEcwbpCrnu3MGZGXl/
+- 2020-12-06T01:53:43+00:00 — Come on out and party with me 😁 — https://facebook.com/654402359/posts/pfbid03nBdJVNosNLzaEk7w2Bt4uyXmEoiMDPvcX8aVQpwkmK9SWvcUSkiGN4gfkMFhtYcl/
+- 2020-12-07T01:57:01+00:00 —  — https://facebook.com/654402359/posts/pfbid0xixH171mmYGHhyU2zyArtvoG14RJA1bo9t21c36xdMMHDzuLTvzdFN4ztTeMyM7Pl/
+- 2020-12-07T01:58:55+00:00 —  — https://facebook.com/654402359/posts/pfbid02oWv3cqTgc9WadxxkiKtWdVHi3X3sHJ9b5j4aVkPK8zjzuKzVJRVKXVJ1xGPJqLTEl/
+- 2020-12-07T02:01:29+00:00 —  — https://facebook.com/654402359/posts/pfbid02g5s389ALB1gCZvhC8se6BbZ1i1C7S7DzkvZUW74JFH7j9UiZuwL2e9Ja8KV8msabl/
+- 2020-12-07T05:50:16+00:00 —  — https://facebook.com/654402359/posts/pfbid083yvKaWYBNeQ5ChAX5LP4FWzt4yUBL1t9ThcNbqF1fzVAqivbc4yCKRCyRvZy9SEl/
+- 2020-12-07T14:25:50+00:00 —  — https://facebook.com/654402359/posts/pfbid02NDtvQQ77pRmQu2wbQVwqegCf4Zh26wS5LXjNdyCNV5qnfw8aC6d8f3hVep6AbJ3Vl/
+- 2020-12-07T14:26:19+00:00 —  — https://facebook.com/654402359/posts/pfbid024x17zMono3X5FDpWYqxVbj7AUX236t6e6qyGvsZPbi5DwkpWpHXJmQoNyV1r9ziFl/
+- 2020-12-07T17:51:15+00:00 — Anyone need a gently used food grinder? — https://facebook.com/654402359/posts/pfbid0v9E8cUurp7GRN3pX4W5Ev8YDzkGyZU63iV4xaMth8ifn4Byb4fL54xXpLSdnAxcJl/
+- 2020-12-07T19:11:46+00:00 — My wheel man is taking care of business in Ladysmith 😂😂😂😂 — https://facebook.com/drschoonover/videos/10159098010677360/
+- 2020-12-08T17:15:58+00:00 —  — https://facebook.com/654402359/posts/pfbid02N1ZA9Vpav1nnmfovHdhKDrgkS5StGUmecehSXeSULeVjS5prCUdjJby2WGVShtTol/
+- 2020-12-08T17:17:27+00:00 —  — https://facebook.com/654402359/posts/pfbid023tqycs9zuh4pfdPxLFhGHt7CTzn5UpJ8zUbJdZqz59ZEp123RJMNmsgaBE8vJkdkl/
+- 2020-12-08T17:19:22+00:00 —  — https://facebook.com/654402359/posts/pfbid0SVav5Gk8o1GobjNH5EP22TKwbv3ouaAP57SL3CsprgYq2yGoFN4juHWTxiT1SmwTl/
+- 2020-12-17T15:43:32+00:00 —  — https://facebook.com/654402359/posts/pfbid0YXAeS1eiW7FL8ieE91d9LxY3kZeq9yMHYS4agBv7L9eLRXgwUMUYm6gXZaDvMnQsl/
+- 2020-12-17T17:09:04+00:00 —  — https://facebook.com/654402359/posts/pfbid0WrqtoFyVgSc6FyiLYBBvKnmQHnQsBya3UMZFDwGXL6BXnhxpxj9LXQPbBuDjRt39l/
+- 2020-12-17T18:06:47+00:00 —  — https://facebook.com/654402359/posts/pfbid034UUpcq5KaFyuCqcMByecySYbKJBzn1BTvPv3hsMKXQh2Z78EddddgoD8M9eKoASGl/
+- 2020-12-19T05:24:51+00:00 —  — https://facebook.com/654402359/posts/pfbid0ne4J4sFeubtBNpb7Y7tocBCpUBegnYvoiUbrrveLhZTeHJhyLPvgy9KaeRYtQrsl/
+- 2020-12-19T05:26:38+00:00 —  — https://facebook.com/654402359/posts/pfbid0QEkauiDESnNj5tzvJp6Bu1qJwKM2kX64qyUbB3HYSb7rrGAUg5jYiRyoByvRRJbil/
+- 2020-12-20T00:20:04+00:00 —  — https://facebook.com/654402359/posts/pfbid0CzYoN9J4PE3opRC44PsnhssUq4tFikfxKjABQDHSJohN4nCG7Yvz9ZMrzkZuLZiJl/
+- 2020-12-20T00:20:04+00:00 —  — https://facebook.com/654402359/posts/pfbid0eLQdy5us9chpBCEzr3HXM6ta8Thw5b1eG2eVfww2keovzZW71DVxWJSkopr4URNwl/
+- 2020-12-20T09:15:16+00:00 —  — https://facebook.com/654402359/posts/pfbid0257WArkq5j4cArP4RLN2gTvUuLqvixhqjqRr9rX5WEmo3G53PEfpEuceYna5uUNwSl/
+- 2020-12-20T11:38:18+00:00 —  — https://facebook.com/654402359/posts/pfbid0drfkjcD7Lx6mGvSGSahB4E72SSZYXnvZRdQhhWr7mhudFEqniFUEF6usiV2dTrwml/
+- 2020-12-20T18:07:30+00:00 —  — https://facebook.com/654402359/posts/pfbid0a6Mh5ErXh4i4hqNnDw3yJMuuxeXSPErfedN1Jy9RQPjsv38E6w2urdKuJ9HinQDel/
+- 2020-12-21T19:21:11+00:00 — Hot dog!  Check out this vintage Presto Hot Dogger Electric Hot Dog Cooker and my demo.  Gotta love the weiner dog logo lol — https://facebook.com/drschoonover/videos/10159132454967360/
+- 2020-12-22T01:29:47+00:00 — Drove the old international w a 5 gallon bucket seat and a shoestring throttle 😂😂 — https://facebook.com/654402359/posts/pfbid0m1tLA9iF18uqxoba6CRQQ16Zpo1LLdVCZQAUFh5iKHSvNyLxpTg5rWjuyHZZL1x7l/
+- 2020-12-22T01:42:39+00:00 —  — https://facebook.com/654402359/posts/pfbid0RmKcN5JTMSr6Z1fzhonHTCL7LdofjYYVqgqCa3JNvRhuk5p85RfdZwYWsmQKqMKwl/
+- 2020-12-22T01:42:53+00:00 —  — https://facebook.com/654402359/posts/pfbid02BzfeSk2SkncJoxmMHWnR9GDq4h7mHCcamNc55aJX7G6yPXDM7u1mtvfz2WtTTCYGl/
+- 2020-12-22T02:30:59+00:00 —  — https://facebook.com/654402359/posts/pfbid08o7vXddWtM7JYtEHPk1Rc6gzxJJ7mNe2Wq7TvyjFWYrbvrg56GKRdSz3jGUKg6zol/
+- 2020-12-22T02:40:53+00:00 —  — https://facebook.com/654402359/posts/pfbid02h3T8yJKciD3wxMhnTWVs54s7wXtpC9R2ZvQ467SSveD5tkNtjVGkMCtaNhcYuskjl/
+- 2020-12-22T08:55:57+00:00 — Grandpa and me w the International Truck fleet 😁 — https://facebook.com/654402359/posts/pfbid0GRy3oT5dRgLRoZeUptBtZ4FoLttJuT4Gob5bQoNfyFjNz4y8xVRJ5S3b1U2xDFArl/
+- 2020-12-22T18:15:02+00:00 — I think these may still exist 🤔 — https://facebook.com/654402359/posts/pfbid034JekAb9c2HtT2faunLtfaMZzxC2tnaG7T1UaDaL6kR1vztSoiR7STG6RT4E5Kqp5l/
+- 2020-12-22T19:39:04+00:00 — Degenerative disc disease has affected most of my life since childhood, I am forever grateful for the doctors and people in my life that listened to me, genuinely attempted to help, and give encouragement and hope when I had none. — https://facebook.com/654402359/posts/pfbid02wWWfdAJyY1ETs7ca4e4udPafFhNTHqbRGUYPN2WVYiQsyjwJyZDsnF1xiKGj8QYVl/
+- 2020-12-22T19:42:04+00:00 —  — https://facebook.com/654402359/posts/pfbid0vwkUFankTUAWbF6Rt1qyVh9Cd1uJw8CgcJ1RfdUDGK6wwatjBzkgRisVEqucy7y5l/

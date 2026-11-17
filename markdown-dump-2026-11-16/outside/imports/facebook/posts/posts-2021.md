@@ -1,0 +1,202 @@
+# Own Facebook posts — 2021 (200 posts)
+
+- 2021-01-05T17:57:10+00:00 —  — https://facebook.com/654402359/posts/pfbid02PzLQujgpUGti3xC7akzd54no6kMBKdDh6MUvGFk6bgJMCduPoBqEwNRZHnm1k3ocl/
+- 2021-01-06T03:39:19+00:00 — One can only hope right? — https://facebook.com/654402359/posts/pfbid025zPuFCY4LyPoTzEfY1AdxfJb6Fs8YRb4V5tApdQEZThuxwVmV9VyfznyU7exQonal/
+- 2021-01-06T08:08:13+00:00 —  — https://facebook.com/654402359/posts/pfbid0FZHzBQtCfSoQpYH3ya3fipKxRsYFFioVj2GWyEavA1v7EkvWgUhjLuMAceNW9uWSl/
+- 2021-01-06T20:57:27+00:00 — The Cornell Public Library pictured over last weekend's ice event — https://facebook.com/654402359/posts/pfbid02XGYNqFVXYjeYo1G1BV3LcZzt4ShsGxFdBbjn4u8DvUybrixb2MXjcudTvfHajqADl/
+- 2021-01-09T16:05:31+00:00 —  — https://facebook.com/654402359/posts/pfbid02wVkMNyfesr1F8PyV8Puci5ye1rgq9MmvD2LjXxLSNF4CHEfV7iFvC3We86Zpnh4Vl/
+- 2021-01-10T04:53:42+00:00 —  — https://facebook.com/654402359/posts/pfbid02yQbYvgiuAyeqnHScyVVvJF3LBpQVFwYYgYgdqvfkpxBz8Mb7RWQTzhujwijnmBTtl/
+- 2021-01-11T05:19:03+00:00 —  — https://facebook.com/654402359/posts/pfbid02ohwpiYL2DPpP3ns87CpprTnQUHyzUtHniwzi9sdYEmLxvGm1NoGXoymN9jjEDZs9l/
+- 2021-01-11T13:00:23+00:00 — Lmfao this is definitely me to a t! — https://facebook.com/654402359/posts/pfbid02AyNBahCpeevmQQgXiYvLM32LKkzRuoxwgvQj78uhe6xY6M81Gc9Qob2xJjHz5xWrl/
+- 2021-01-12T16:07:22+00:00 —  — https://facebook.com/654402359/posts/pfbid0kTzkNyL3vPKtnVBXU2aDKG85KhjqbUXTqiRugziXnSNeorZuJYfh617fQ41gZFH9l/
+- 2021-01-13T00:47:40+00:00 —  — https://facebook.com/654402359/posts/pfbid0AgsnFK91u3Tc6rPtCUsrTgUXiCiy1jALHrNHAbc1YVjmoGKh5Gm6GV2BgDaUpNwKl/
+- 2021-01-13T00:51:25+00:00 —  — https://facebook.com/654402359/posts/pfbid04qn7Co3hUNEnQoiuwna1TaJyZU6xviMi9ZccjvqtZkYBUrWiyMkvuogyHqopHyLTl/
+- 2021-01-14T05:51:28+00:00 —  — https://facebook.com/654402359/posts/pfbid02xTfRwWTAMzkxjtUmi5dzcVcygdpbMrVkmDSHYpXGkrDkWhnuWUr2ZjrrQgNys8THl/
+- 2021-01-14T06:57:06+00:00 —  — https://facebook.com/654402359/posts/pfbid0Yb6heYThmLo832RppFfgaLbJZdYZDRXiKXrAejv26m9XD6N9bqQCpCwzv9E8zfS7l/
+- 2021-01-14T14:47:36+00:00 —  — https://facebook.com/654402359/posts/pfbid02QMJYyQxSsioFXJviDFNk156oFmKwfB9XWgxTH8LRgYzCNk4qHDtxM8fZvemCxHXDl/
+- 2021-01-15T05:26:13+00:00 —  — https://facebook.com/654402359/posts/pfbid02UerAgWXUChhwUyuJoN9YTaiJ5T2DTxrxwyCNFvJCo5zFCfCgdAdw3KBYZcmRYNi5l/
+- 2021-01-15T05:27:27+00:00 —  — https://facebook.com/654402359/posts/pfbid0qzkFgCz8YPNjdfTieJhKQ6vJu6RBzYN4cJZAJGw9bjQwHnhv2UvCYf2SGfYwnnt2l/
+- 2021-01-15T05:59:32+00:00 —  — https://facebook.com/654402359/posts/pfbid0rhNa5bkHts7VkBdAKFXF21816s3MaL9C1NcBtgJ6o4HHFNCRiC4yrfhuMrhKrRcKl/
+- 2021-01-15T17:53:47+00:00 —  — https://facebook.com/654402359/posts/pfbid0cxaM8wCcWaNfXLTM8CpJSvcwNsxxtJfrHZEPvbm1yno6T3ph9Lukjftqjh3URrpnl/
+- 2021-01-16T00:15:43+00:00 —  — https://facebook.com/654402359/posts/pfbid0Y798DRcJGGdUxZ6bzyXJq7riLevwuPjN7PDMz9YTzSy8VHFELyP9dKBeNnoyVQrGl/
+- 2021-01-16T00:16:21+00:00 —  — https://facebook.com/654402359/posts/pfbid0xhKHhJLFgMUatcyEJUgYqeHCRcQBtfwLemmGapnyPJmH9UHNjAH63uWRF1P7fcgsl/
+- 2021-02-20T22:17:49+00:00 —  — https://facebook.com/654402359/posts/pfbid027BJoEKQwzCL8fpjKQnBFMSTQHT57dMMBE5b7bzoAE6xFhS96cxsRS1X9MCEgYdChl/
+- 2021-02-20T22:22:24+00:00 —  — https://facebook.com/654402359/posts/pfbid0jkw51Xuh1fwziRnRKRxH8JYkFdTXsV8gFVGpGyk2oF6bQx33JK8rHouA87FUV1ozl/
+- 2021-02-21T08:43:47+00:00 —  — https://facebook.com/654402359/posts/pfbid0C7167ihY2wEbeKoAKxQjE5vdS6uueemWw9CyoyZgQrpDZmU1D3ANv1pejzk5jvJRl/
+- 2021-02-21T18:16:26+00:00 —  — https://facebook.com/654402359/posts/pfbid06yqmWG4mwTd6dafNc36awCi8Ar2DUFtyzkZpEmDnt8PjeEfMYHgxFNTg4DH8YftYl/
+- 2021-02-21T18:26:13+00:00 —  — https://facebook.com/654402359/posts/pfbid07au1x5hL7Bq4cyhQexput2jtgcAGAsvwYuPV9PqRUStzqGdPRcMhHL14BzGaLFxzl/
+- 2021-02-21T18:30:50+00:00 —  — https://facebook.com/654402359/posts/pfbid05RJjAFPcKb4dbQVjqbBCPFcnWg9Jo1ZSMhT9eqxJn9rEVcvSMmiUjVE8KYvSbmJal/
+- 2021-02-22T05:03:42+00:00 —  — https://facebook.com/654402359/posts/pfbid02z9qs5hxYy1ofM5iDcZssdTzjfEBo9x9wiMYdYmQuq6fXPQfhnNuDvjAHs591gh3Nl/
+- 2021-02-22T07:07:29+00:00 —  — https://facebook.com/654402359/posts/pfbid0srY551Gb1BrRSuhSaXJTquV9uz4UZrfAkvLVaVhFiLLXNHLBmT1au6m1fpjPzBjhl/
+- 2021-02-22T15:13:27+00:00 —  — https://facebook.com/654402359/posts/pfbid0mpjfwrrTS9sHLS9SSm6vX7rdE8c3kSuue3oSXZVYTpLGjgoR945m43mFFV6tbx4ql/
+- 2021-02-23T04:01:48+00:00 —  — https://facebook.com/654402359/posts/pfbid02mcwX8kSdjpV7yY4g2t3zyFoLgkNAYUJpPptSPeDKrJJ2mnuwFgrUUhyLCMnn4cK1l/
+- 2021-02-23T04:19:22+00:00 — Gotta love the Nuwave air oven.  Cooks like a champ — https://facebook.com/654402359/posts/pfbid0uT9TgsHUFz6Hkt94bbH84arX2sRZAmRLBx3Y8gTJ9WoJhNxidgZLts85GVqzJgRZl/
+- 2021-02-23T06:37:24+00:00 —  — https://facebook.com/654402359/posts/pfbid037n2z4Jt1wGxoSw8jWu9T5coiomwusCP5DXiCqHCs4vp8NB9h7B7dkpy1WafvrKFVl/
+- 2021-02-24T06:58:47+00:00 —  — https://facebook.com/654402359/posts/pfbid0LHQo27GWsWz8XHto6mEjyAUV6zJ3KQGpmYqk1yFNvoeobp18m4breuutWJPNNKEql/
+- 2021-02-24T20:12:50+00:00 —  — https://facebook.com/654402359/posts/pfbid02aiBGbj9YcBqEBx8PguTr2gkRW8ArznkzsFXFvnXuLh2pSTLKgiYuWKNsCSzaok94l/
+- 2021-02-24T20:53:08+00:00 —  — https://facebook.com/654402359/posts/pfbid02SHMRjMKDPEudFh6EUBDiK3Dy6bcdtAsMbk5de8a8zQx15kM1h8zFEbvwY8SMdFERl/
+- 2021-02-24T20:53:46+00:00 —  — https://facebook.com/654402359/posts/pfbid038PXbUBAmezarHvprFMsdcTdJrkjYcy1hWveZKfrDkDpvsTcvVUxpbbx4iFQ2m8fxl/
+- 2021-02-24T20:56:34+00:00 —  — https://facebook.com/654402359/posts/pfbid02BGjJ1gZtRPUDJAR2HMQFN8DiPohPNPZsfZUC4n18Rc4hSh48Nt5GnnyH5oH3hiR4l/
+- 2021-02-24T21:28:54+00:00 —  — https://facebook.com/654402359/posts/pfbid032hVi4wzwxjy7UWNYv7u7CGvD5qRf8XMDM59oveRrhAh2yr2MjTXjxkdW1wjCPANKl/
+- 2021-02-25T00:49:52+00:00 —  — https://facebook.com/654402359/posts/pfbid02fAZxKErK8KFxipTLXaD58kCRdzTL6JTWmw35MjWPfesUH64axAZFihRypVoefQgfl/
+- 2021-02-25T05:50:15+00:00 —  — https://facebook.com/654402359/posts/pfbid023x816woEm69BozB9pfJtrKQ4myz66YpbhCxrXBjudog8DEyV8MrCHBUTYZBPgVfyl/
+- 2021-03-07T04:36:01+00:00 —  — https://facebook.com/654402359/posts/pfbid0QstD4cpc6EnvaG7KajRKwHnUWNUrVKnSRu2qQ3Fh785CHZ3q97voSh7vjs61Zooil/
+- 2021-03-07T04:41:19+00:00 —  — https://facebook.com/654402359/posts/pfbid02aGx3jgAWK6CuLL1UhhaqcwTJtix9EQXEAZsNfGyyD1aUc3x86YTk6EpiTmPzMU6Vl/
+- 2021-03-07T05:11:02+00:00 —  — https://facebook.com/654402359/posts/pfbid0KHJyw47K8x4y6FTfEVMGSqeeBLMaV26f4ANx27jaLSmsCCpDAJGQzHZxzBnTSjVPl/
+- 2021-03-07T05:16:46+00:00 —  — https://facebook.com/654402359/posts/pfbid0366cv2mJ9firm9mPZ5HpNiSfbC32ganUcqcR9Qcoxhp7NCYuMuLccpshBULevqY1dl/
+- 2021-03-07T05:27:18+00:00 —  — https://facebook.com/654402359/posts/pfbid0DwNZXtAvRYLc1YS3dVczDUGAQ2ArZaQiDHSd9MKdwWy7iCLxLEUb1A3o9JtSvW9dl/
+- 2021-03-07T07:03:36+00:00 —  — https://facebook.com/654402359/posts/pfbid0376B2ma3NvJRnq55ecSHtBZt7s4pe67y5kr8adpWnKtw9VJyG3bCpKoJewRkrvQX3l/
+- 2021-03-08T01:52:41+00:00 —  — https://facebook.com/654402359/posts/pfbid02E9vxXChwbNs4VxrDgzFLXhhm11PMvF4oNnsxEqv8C73CvhwWC8HFi3YWQo89p4ksl/
+- 2021-03-09T07:34:34+00:00 —  — https://facebook.com/654402359/posts/pfbid02Sekvm5F3Ly946mnNXQjiJdpigL5DmBshF7SQ7u4bBjvRhjxmzWdUxCwBEyLYDrZql/
+- 2021-03-09T07:39:56+00:00 —  — https://facebook.com/654402359/posts/pfbid0vEoB8pQNA5bCtYo2JtrJP7cuX4JxsYuvEGjFSrvrzRwMDA8LgSy83pSZPc2UesUQl/
+- 2021-03-09T07:53:55+00:00 —  — https://facebook.com/654402359/posts/pfbid0ndv3KQu6VMsk7K2JFLPjVCncpGZamFBS5M1p28jRfmFYoRYVWjBDW4YVgmo3gLh8l/
+- 2021-03-09T08:49:29+00:00 —  — https://facebook.com/654402359/posts/pfbid0baR2iwawFQFDq1YxUfQY7F2oAicbaeHKodipZgkEZr4s57R6eVbD1rhHzCU7pztAl/
+- 2021-03-10T00:06:24+00:00 —  — https://facebook.com/654402359/posts/pfbid029ijx1vJhHQtJ9htVhWEopM2jHQ7CFBXCQcWFEXQ5YGQGQSCGdnwVf6piMuTEoYZcl/
+- 2021-03-10T03:15:52+00:00 —  — https://facebook.com/654402359/posts/pfbid037fvJ4CFjnhXYt7MtZ3PMXpxia24UP3NR58BwyRokoXtMShvf54isAp4JYZN31QqNl/
+- 2021-03-10T03:29:34+00:00 —  — https://facebook.com/654402359/posts/pfbid0WgMqV3AEQ6Ug2TszUCFrssjopc5bW3QrPwXSDQ4YHrqFYH6JAjeemBcRvQsmPiXhl/
+- 2021-03-10T04:54:04+00:00 —  — https://facebook.com/654402359/posts/pfbid0pRECtNWzZwBGKn7kcnrzKCh32nJWDKf2wZUaLSiHEhEk5TJDJ1sBPRG1PFQiCGETl/
+- 2021-03-10T14:45:33+00:00 — Leo said it was too early yet 😂 — https://facebook.com/654402359/posts/pfbid02zRa1e8HCVb5DUR3YKTSobXpu9W7cCEqdyhKBXAkmWKGpFCqvb2jjDXsHQQGib2pul/
+- 2021-03-11T05:06:51+00:00 —  — https://facebook.com/654402359/posts/pfbid022SrzF1mJzdcvvwYpc9VrDgptJKFiW8zhNh6CZci2hAXjAxTVeZKJ9GNdwHbWmYZQl/
+- 2021-03-11T05:08:15+00:00 —  — https://facebook.com/654402359/posts/pfbid02EJELBNRiK7qwJ8MZNtiCHeq5ixA5esLncU7HiNAhVYMazz3uPXNbtX7VknNcmBkul/
+- 2021-03-11T05:10:23+00:00 —  — https://facebook.com/654402359/posts/pfbid036GmzdcVC1UR5rZW4rFZKS1ycv6f4z27d7L16cuX2PEVCYrGKVjSTTPiTpcUt1xvrl/
+- 2021-03-12T04:48:00+00:00 —  — https://facebook.com/654402359/posts/pfbid02BS82w7UWG4Gjgiuu7zDLUwnU9JP3Rhv7JZXvS7QXSZ3Uc753aKTN1srBj2gRzpCgl/
+- 2021-03-24T04:48:05+00:00 —  — https://facebook.com/654402359/posts/pfbid0cGPNGMTYsNpMd75P8ZZK1UB99TWGSQmavGDQUM7PSP4MJirjzXenXtjtgTToTeRzl/
+- 2021-03-24T04:56:12+00:00 —  — https://facebook.com/654402359/posts/pfbid02dp3eeHZFnw9PB4T1ToGEwbyf64QY1ad4LDBYGYoe77gJtkGDQ1fqAmJS6jqsiiv6l/
+- 2021-03-24T05:06:44+00:00 —  — https://facebook.com/654402359/posts/pfbid02Vu9RXuoNd6hGToV2Me3JJiz5q4AdspgJL18GyTk1SfQQXpUXS88LXEnUco3NsAK8l/
+- 2021-03-24T05:15:12+00:00 —  — https://facebook.com/654402359/posts/pfbid02gNgW5MPd94sPLTaLqTMsfEuy7RuXJzdYnjmXbH9KXhL6DR7BZNQcdr2PH34WUKaBl/
+- 2021-03-24T05:19:58+00:00 —  — https://facebook.com/654402359/posts/pfbid03Dy3NhjJ11hmoxn8XPdKQmMRJXm79irLUzcmod7WMRnMfA2qptCfaey44CErLKxdl/
+- 2021-03-24T07:15:06+00:00 —  — https://facebook.com/654402359/posts/pfbid02BRFMsVSJqKvK2FDRdSvNHRCYW3T3ShES5XfKbkiE8JNWdWa2x5uJgXPAg8jStHLMl/
+- 2021-03-24T14:07:15+00:00 —  — https://facebook.com/654402359/posts/pfbid02nZDcPUYd8x4wx699eEruCpNNeGPyWEj9MLAaeGzQPDx2iKbnCTMmQkYv1z9EpCxul/
+- 2021-03-24T14:09:38+00:00 — Oh every once in a while I suppose 😄😄 — https://facebook.com/654402359/posts/pfbid032y7UNhHcsyYBvj3Up1sEquB7JqDGL9rH4tXyzmvA2D5YgDajfEhBtSeYXn1LTJ7ol/
+- 2021-03-24T14:22:01+00:00 — Everyone needs love in their life — https://facebook.com/654402359/posts/pfbid0jJBCDszuZg88Smi5iq7vuUfWTcJP31ffeDPxKfYqvs1Uyfzv34bvLocrSwmSSHPbl/
+- 2021-03-24T17:43:04+00:00 — My grandpa Jerry, my first thought was his love of fishing and nature, what's yours? — https://facebook.com/654402359/posts/pfbid032T5a6xjbaXHSEJj9o3Lgsppgq3ojcPcAmXTm9oHdsJurjFG2KVmoncjQyBkkC4xel/
+- 2021-03-26T04:02:35+00:00 —  — https://facebook.com/654402359/posts/pfbid02kxHF4EuWwCLcNUsypu5BDQAwd3JPz1JLisA8grLXvP9LPMtcEiPQFrmwMVLweshKl/
+- 2021-03-26T18:50:24+00:00 —  — https://facebook.com/654402359/posts/pfbid02QeZNtfqwQ3s4cFWV3hnTBHXNDKk4gWWTka1n6zGWorxeYeTjDJ36SuzrkuNPe8Ujl/
+- 2021-03-26T20:05:17+00:00 —  — https://facebook.com/654402359/posts/pfbid02XsvdRgPQVwcHqwj5NMhMYmB4ZutZwczs9dhUeNqBisZmLhqtPebgDP6qW6auUesWl/
+- 2021-03-26T23:09:56+00:00 — All 😇😅😱😴 — https://facebook.com/654402359/posts/pfbid02fA8bMCC7aDSn8KUzWUPvG16gxLWE6gUVM7yadRdvx5AeNUFB71FSJ3UscvNHBTfBl/
+- 2021-03-26T23:27:11+00:00 —  — https://facebook.com/654402359/posts/pfbid0YvYBncob1m4syp3XpWbaGX4r23UKpoGWDy1jFoU37oQWpyTuEfvqbMQEmdbAtEEsl/
+- 2021-03-27T08:04:21+00:00 —  — https://facebook.com/654402359/posts/pfbid02Ydidvx32mocAVHPpN9zpSXz7x2hcjgqQ6QK7JrkG8TJYPFKSZqRVdHascM5Ut8QTl/
+- 2021-03-27T15:09:20+00:00 —  — https://facebook.com/654402359/posts/pfbid0dXLaYVyuBcWwvnQ4A1uq3JUMiKXDa8YDF6JMcW1TVjuBetxmenVpXKxgDEZtYVrkl/
+- 2021-03-28T07:16:55+00:00 —  — https://facebook.com/654402359/posts/pfbid0TgiTPZVUT3jVQ6SruDYU8QvVgLAcF7v3n4BUbXsJ8wxQJw6h1apVqZXNsoLQPHLjl/
+- 2021-03-28T07:17:09+00:00 —  — https://facebook.com/654402359/posts/pfbid0svFTX8a2QY7B7krBvVCBK76LVLQ6JN1W5TW6J5iQp5ktwyNPpzMbtZb48U5V5bDel/
+- 2021-03-28T15:20:13+00:00 —  — https://facebook.com/654402359/posts/pfbid0hwSFDkqQDA5SGPugg8fqK4wSbD6zjsVTE8qCmdE7hVj9SC5jevgctSYbjZTfSpkkl/
+- 2021-04-04T04:24:01+00:00 —  — https://facebook.com/654402359/posts/pfbid02Zz2FQGBSR3GkJhxkamswjAEKXvSQmRhWhshpHuwiyDQXNYBXTQw71d8HDdgGLBYil/
+- 2021-04-04T07:32:20+00:00 —  — https://facebook.com/654402359/posts/pfbid0XShWuKajKEFJvQeGaXgRxfPQ1LaXUXo5zM3S6yos87FRMEUxvsRfZfbLmuEcuJb2l/
+- 2021-04-04T07:32:56+00:00 —  — https://facebook.com/654402359/posts/pfbid036csV4uMipwhw6FBEnXx8NH3CUroAxiRo4GWjwKL8BAU3UAKohfpetkZcFGkdTpCml/
+- 2021-04-04T08:09:26+00:00 — Playing around w a different karaoke app, lmk how it sounds — https://facebook.com/654402359/posts/pfbid023zCKwZVrZMtWozLL8mXPh2o4885QMeofjifT6edg6rYjXErLjJwn7JuUd9LJB3iMl/
+- 2021-04-04T08:15:54+00:00 —  — https://facebook.com/654402359/posts/pfbid07vSqUMnzHVTehXv4dLbjYvzBLk2qhN8ASUB3GpXw7o18S84NNa59BrnxrAP5guUSl/
+- 2021-04-04T08:17:10+00:00 —  — https://facebook.com/654402359/posts/pfbid02qJSrWxx2hjLqCf4y51GcteLmVeosjVqq97yy6fokWsNSj5Yz65UTmWL511hnMkabl/
+- 2021-04-05T00:53:01+00:00 — This pic popped up in my flashback and I thought I'd share it.  One of the last times we had grandpa home — https://facebook.com/654402359/posts/pfbid02AaYLaLTvd3auH7uk8EzC2gaoAx94R7mTTWAHhR591K9xm2tnPjkbhe3Cky5wkZh9l/
+- 2021-04-05T17:46:22+00:00 — I had the opportunity to buff up this old 65 Ford F100 pickup 🛻.  This one sat in a barn for 30 years, the old 6 banger still hums right along.  I got Cal, the proud owner, to pose for a shot 😁.  Also a couple pics of myself getting the shine out 😉 #wizardspolish — https://facebook.com/654402359/posts/pfbid0216ZMLTyoWj2i3ZxyrcicqMzUfSmxmBCYGVsg5RTmMBrfWnQi1itew5Ttu8d5oteYl/
+- 2021-04-06T05:48:01+00:00 —  — https://facebook.com/654402359/posts/pfbid0fjzGvUhWeDGs1VyZtSU1vLaevQSuXuXsiZrz6S1R22QGL35mooWnzKtGEd45K6KXl/
+- 2021-04-07T02:00:44+00:00 —  — https://facebook.com/654402359/posts/pfbid02WqyBhegEfVoHQoa8ACoGUaUoiU7YmZq7RBodjnJQikadgRYmLLXZRbu73fVe36Tal/
+- 2021-04-08T03:53:33+00:00 —  — https://facebook.com/654402359/posts/pfbid023Po5nxPwxjfB5m4huerPLJLvRum61GEcuaXS5TSdroQRBLbSfnbCWLkGLArjhY9Dl/
+- 2021-04-08T19:52:57+00:00 —  — https://facebook.com/654402359/posts/pfbid0aL7pk1bEWSWdhZ4HQwrc7BeeTtGP7AVJ6iS9WtkXfA4a7bf9CiworCJBLHmmgM6Gl/
+- 2021-04-08T19:53:13+00:00 —  — https://facebook.com/654402359/posts/pfbid02tizRtehQKQ1VqzfQcdoTyNpGt543CM58UgQekz7R7viwchvgP3Bq2PtXqq8UNmDil/
+- 2021-04-09T02:39:16+00:00 —  — https://facebook.com/654402359/posts/pfbid0y7n81TkfoCGoPDn3TEr7v6yHP1WhRsueci3QS4KBUGQXPp1Etm9pK7XUpFP4vBbNl/
+- 2021-04-09T04:59:20+00:00 —  — https://facebook.com/654402359/posts/pfbid02W9ZWdRnXKozhssvghcz537MuqbKv682gK6ERAGqTPPhXXJ3sMSfNGNqiRNdFiQwSl/
+- 2021-04-09T05:03:58+00:00 —  — https://facebook.com/654402359/posts/pfbid02LcXDYMSuuJYqDaXbxCxehu887TSzd615sHWrXMegy791XeVdP7qLzv3iHhcLK9Pbl/
+- 2021-04-10T13:49:02+00:00 —  — https://facebook.com/654402359/posts/pfbid023T55qoQ5yY8ZkQWJTcFZYmD96mz4zcGVv7uwp1ZTQK795Ga1CAR6rTVdfY6h3h1kl/
+- 2021-04-10T20:11:06+00:00 —  — https://facebook.com/654402359/posts/pfbid0rovd3m2mbZvvdbFZa7jLAqqsX94cvd4oLDirJibV4hyZcsd7kqCroiAucR8MEd1Dl/
+- 2021-04-10T20:12:12+00:00 —  — https://facebook.com/654402359/posts/pfbid0ywwXG5EP3mTLhU8Mc1U3GUTA4CY8MP9ijyvSft3CASknpJgAbo1MV6WmNQD1VXsjl/
+- 2021-04-10T23:40:23+00:00 —  — https://facebook.com/654402359/posts/pfbid0BPW5DUG5QwsVduckagB8QAk9QkdRt2nr1JJreXYxMfgdN1DfcHdm8ZYdJnc85zCXl/
+- 2021-04-27T06:59:07+00:00 —  — https://facebook.com/654402359/posts/pfbid037CcivHvyrTHxdTjLjinwjLXGUSWYdMgTB9NB8Ubjgg7rY3KonDuZNvsMzthLa1orl/
+- 2021-04-27T10:16:09+00:00 —  — https://facebook.com/654402359/posts/pfbid026hEurESsPxCRiQn8yDBnUNaGrMmVf4TprkpLTxf1gyatgMrUvytVhE5Y45C4h384l/
+- 2021-04-27T10:16:27+00:00 —  — https://facebook.com/654402359/posts/pfbid0htNtW5hiDMsZP8MDv5HFGnAvGjcDFfTK57saucVLWMFoy9VUMLwa3fuuTyFqujzal/
+- 2021-04-27T11:44:44+00:00 — "Honesty is a very expensive gift. Don't expect it from cheap people."  Warren Buffett — https://facebook.com/654402359/posts/pfbid028C4bBMThSzBGx1c7oFbjdKzcEP85SkoN1wVTvzkefs4M1nzNM8eRGVDRmQ75qsYBl/
+- 2021-04-27T12:28:42+00:00 —  — https://facebook.com/654402359/posts/pfbid0EJ84GPa6p8L3Rm4qvsP3rjB22Nen8wLTyHP21E9e254XXkfQmd3Rqhv1asSAnFuKl/
+- 2021-04-27T16:20:47+00:00 —  — https://facebook.com/654402359/posts/pfbid0J8oTodUZkzkDYdV8xhrxeaVtqxvjpVumwjqiGCxxdN6xjAByXN3sQrEN2B1BkQEgl/
+- 2021-04-29T06:15:44+00:00 —  — https://facebook.com/654402359/posts/pfbid02X3Kv5VXhNfm3F5uHnnRRroHi2gZLxg1LXf9zAhMs7XtNr7hmozATdYohrkdhTKFAl/
+- 2021-04-29T16:29:39+00:00 —  — https://facebook.com/654402359/posts/pfbid0UEc3AjsfXzrauSBaw1fNubshRr4TBh52z9yXKA6p1SjTbA7QKFZZYj6THds3NDMNl/
+- 2021-04-30T23:27:49+00:00 —  — https://facebook.com/654402359/posts/pfbid0sCK8XJkZutbdoMMKdauqqZ1YkYrBumXt5nUNKjhTjkzU7KArMZBGKnB4VixU1ZNtl/
+- 2021-04-30T23:28:00+00:00 —  — https://facebook.com/654402359/posts/pfbid031nCdG3gvvD4MrZVAMvSvqMf1ArRNUkzgJzm5nv6kdHuW4tss5cyq59nw2nPdgK6Zl/
+- 2021-05-02T23:12:06+00:00 —  — https://facebook.com/654402359/posts/pfbid02N26q4WbTZGCy7J7tqXQQM5orS4SsSiK8d9EZoA7FfTTzvrKBBN6LroM89eubPdJcl/
+- 2021-05-02T23:13:09+00:00 —  — https://facebook.com/654402359/posts/pfbid027SbZPTSJ7jmUsHEicQyJX7SBiLCHHLbsEWHarjDBr4PZZ7cbtjU2j72XWqv6CSjql/
+- 2021-05-03T01:31:00+00:00 —  — https://facebook.com/654402359/posts/pfbid0M2smwY1iXDQBS24beGi6JeLfoJNLHLfyUv7wSKUjrio2M6226CZm4ViruSCEzwJcl/
+- 2021-05-03T13:21:49+00:00 —  — https://facebook.com/654402359/posts/pfbid0H8A1EoBbEBpw7Mvs8X2ZUyjfUJo6bKPSyPZvUjCENmcTdmc1YrRFPCpPQRC75YLAl/
+- 2021-05-05T13:05:57+00:00 — 😂😂 — https://facebook.com/654402359/posts/pfbid0hQy1RDGHCHbPSiLWdsywFkQx7RZu6xkLYMyEY2D35TCeK9d7oeNfMU3mRGeAWzqKl/
+- 2021-05-06T05:56:16+00:00 —  — https://facebook.com/654402359/posts/pfbid0rV97mfaS5Tx6iA26t2dQXn9Fg9ryqcAYA2emy9urnnoGTNMBHhU9oRmQSHFQt5QQl/
+- 2021-05-07T06:15:57+00:00 —  — https://facebook.com/654402359/posts/pfbid02CC2QFpX1JikJ2USettSNjUp1iNUG2S58qbNgZvA6LmwvzEChKs8cwV9goHVmWYk3l/
+- 2021-05-07T06:21:40+00:00 —  — https://facebook.com/654402359/posts/pfbid02KrQBTEtrzyp2JKXQVL53nsFZyyBnbPNstS45JXv3auuxjX1rGMsDNo7VZs3RWEzEl/
+- 2021-05-09T01:33:32+00:00 —  — https://facebook.com/654402359/posts/pfbid02CSzBhav8VbmcYocXMibghmGmNvyHArk1B8UBLUUbF58BxEj5ga1xbh1FNkRg3GUul/
+- 2021-05-09T01:38:08+00:00 —  — https://facebook.com/654402359/posts/pfbid02KRcLzUD86pNuDduPxnnDWoNsCrWEmZ3smBXdfbBHTViu1fm6FTpVivyptbFPestPl/
+- 2021-05-28T16:52:38+00:00 —  — https://facebook.com/654402359/posts/pfbid0ofDWBTiibWgUd9kL3rUzxfFcPz139F1BW9R12TbNNgt5gfQSKsx1EnbMecFuPio9l/
+- 2021-05-29T06:51:45+00:00 —  — https://facebook.com/654402359/posts/pfbid0fQDmCZTCmUxaeTE2mDciBxdW8dFhXXSCGbCPkjLMENsfGSAgfW8QgQySwsi3iA6Xl/
+- 2021-05-29T12:32:05+00:00 —  — https://facebook.com/654402359/posts/pfbid02X64GeZQ4amVLLt6nYkLGD17DDZiHmTDfV8m2Lh23b9147nqGirvSEEY5GPRVC37Jl/
+- 2021-05-30T02:34:41+00:00 —  — https://facebook.com/654402359/posts/pfbid0jfaigqZqN5ru7C7h7zJ43NoqLLPFXJJVMXsCi6omaMU4WmL66N4wAE7M8arsjqeal/
+- 2021-05-30T12:32:03+00:00 — Steven Attacking the Big Wisconsin Burger at @[100001048813416:2048:Arnold Bar] — https://facebook.com/drschoonover/videos/10159551946982360/
+- 2021-05-30T12:32:26+00:00 — So true — https://facebook.com/654402359/posts/pfbid02dkYxPoQU5hDEhDatvMSidh9afa9FmaNNoerzZsq9e2pE3zjhi44GEfQHuTZHDRVpl/
+- 2021-05-30T14:22:11+00:00 —  — https://facebook.com/654402359/posts/pfbid0U6QztmufkMBA2Hs1u4xPBkJbLsgPPEmmxhvNkhiyxFLgpQsGq3HT1zi2SN1eKnS8l/
+- 2021-05-30T17:28:26+00:00 —  — https://facebook.com/654402359/posts/pfbid02EKygJcW7AUgQDZsYyPuAbrCYtXRXZ6mgALfSS3XpcpyicmqWJDkWNtQrUsMLJxKPl/
+- 2021-05-30T21:21:04+00:00 —  — https://facebook.com/654402359/posts/pfbid0Kf3V7PJTt9y9YEzxwLXeXfeo1hH62fWqxdFmfu7kcDcGNw1tCphLPycSDkcDKRU7l/
+- 2021-05-30T21:21:04+00:00 —  — https://facebook.com/654402359/posts/pfbid0bM6HTT9Xq135Aq5EwkNHv4DwZFa3SZZTWr7hrKq5D5zcYHYAK4aX8ftSFshW17Eul/
+- 2021-05-30T21:46:35+00:00 —  — https://facebook.com/654402359/posts/pfbid02nPVtkg1nMT1vak4CNdGw3ZSSRwNtsiWD9Nxc2caH7amSYmtBMkPRxp5hY9LcQNgwl/
+- 2021-05-31T16:07:54+00:00 —  — https://facebook.com/654402359/posts/pfbid02b1DNt7FHbHJjm6kkCkaCfC2V7kCiQ83KAS5iQL9n7QgbeG5b5odS22ah4cqbF1ral/
+- 2021-05-31T16:10:25+00:00 —  — https://facebook.com/654402359/posts/pfbid02YLFC7kvC5RBZWby9z83FfoVhXBQ7JUzQiq2LHePQhDoChcJ7FsTooca3P9gqSJWSl/
+- 2021-06-02T19:15:25+00:00 —  — https://facebook.com/654402359/posts/pfbid029uLLiLsjVoF1BzVhwH5Be2338iMtXH918WKknK3ogw49Rrrfemo9z7Gnj1MfejMSl/
+- 2021-06-02T19:15:44+00:00 —  — https://facebook.com/654402359/posts/pfbid0UX6XQaUjZLa3VtZz14V6YnUWzkKpta4Cxc3EzRBLnkXhcHCVQxMdCm4GgFmKfYCql/
+- 2021-06-02T20:18:40+00:00 —  — https://facebook.com/654402359/posts/pfbid09PXC7UNXKewWmwxM1AFFjTa39CTRqqMMik6Sf7G3d1GV88Mdy58iTRRqerrVq2a1l/
+- 2021-06-03T15:04:42+00:00 —  — https://facebook.com/654402359/posts/pfbid02Wg95pB7RGYpQzYbKFPSiSP4GTRDGzw1Yy7Mim1KaXKjWDJgoyGG63ydcX5p6dqUHl/
+- 2021-06-03T15:06:42+00:00 — This has to be the biggest moth I've seen in a while, and quite colorful as well — https://facebook.com/654402359/posts/pfbid07au1x5hL73H4R33ZBks877pRetTBbX97ZQNQvFLEtKCJs4Vfb8fSA64aADxCT9EXl/
+- 2021-06-03T15:09:45+00:00 — Was quite a view from my perspective — https://facebook.com/654402359/posts/pfbid0kdcA4okDco83tU2qtDDjaBNSopoR7XkEX9xZ73L5Ke2LbyEQMJXrWRaBaBDC4fitl/
+- 2021-06-04T00:06:46+00:00 —  — https://facebook.com/654402359/posts/pfbid0BQV76Xh9c8hNi4Dhjy2cDhH7yTEmhk3Y9U89pn6whZcrYJoBcunVPB3VoZ5J4nZVl/
+- 2021-08-08T06:12:31+00:00 — Loads of fun! — https://facebook.com/654402359/posts/pfbid0teSMDNriXADFmxY3aPwppPrpHNhkcjf6rYrZ9nUpqHh28UvYHEsmRXd5qC85Q2Xl/
+- 2021-08-08T06:13:42+00:00 —  — https://facebook.com/654402359/posts/pfbid02orTtaMCSdA5PjnaMwDxqfs1qCeCyajL894gWBJ1UjX13Uwbbcuu9g1ANrECGfir5l/
+- 2021-08-10T14:38:39+00:00 — some pictures of grandpa — https://facebook.com/654402359/posts/pfbid02VRjYT3MwbjvDikpXiUJUZnNkx9DkmQS84swRSAAHwNnbhkbox9agoQoQco8ra1o4l/
+- 2021-08-11T02:11:16+00:00 —  — https://facebook.com/654402359/posts/pfbid0NTz7h11JrMJGhzTNXsgYFsjttLZ88pC7YL6Pxrj17Tfz32AHbBBR7n5Bu7bRy8vyl/
+- 2021-08-15T15:15:30+00:00 — Grandma's Goat Crossing 🤣 — https://facebook.com/654402359/posts/pfbid0ftHeaeRHMjnKXGKoWDEJ1GCSaYWUx526ojUQfrauzWTkGjdPYqJ7fqMnqs5VQZEwl/
+- 2021-08-17T00:39:00+00:00 —  — https://facebook.com/654402359/posts/pfbid0pzeSb9pvoyf4tMp3jikgZB7ehbnb1fz6Ub6ejhrXSSEsr5SGnQKDF6UXYqZPjy8Al/
+- 2021-08-17T00:52:33+00:00 —  — https://facebook.com/654402359/posts/pfbid0o8kGNv9bagRhAxqRCvf9fYNHHY4jaE4CwGHmcPXr4hBdwPASuz9XiAJGmqhs8q39l/
+- 2021-08-17T00:55:26+00:00 —  — https://facebook.com/654402359/posts/pfbid0Uyk4p2dk5iFHZjwiBrX7jeUD1VXuPskeJWgLb39maL91EZRcT5xJrH2zUWFzDLZ2l/
+- 2021-08-19T16:43:08+00:00 — My birthday was one of the best ever.  Thank you for making that happen ❤️ — https://facebook.com/654402359/posts/pfbid0ws3Z4V6mVzpS5hSzs7CsRUpyNdpG8788igTmbhxGXvVX64s5NsK3q8qiDxVRXc1hl/
+- 2021-08-19T17:16:07+00:00 —  — https://facebook.com/654402359/posts/pfbid02SigxYNQvmSd2MrSyWkQ8VkcGQPverp94nM4VyZZdRsBFYX5FjSEVi9GpLTGyZNNWl/
+- 2021-08-22T20:17:12+00:00 —  — https://facebook.com/654402359/posts/pfbid0MNkd3f1oKqJET3JUzKAb8LR5HUbqeDAVzpUZyuNrWzshtvByiZZg7G3f9dBciehil/
+- 2021-08-24T21:25:07+00:00 — Had an unexpected tooth 🦷 extraction 😭 — https://facebook.com/654402359/posts/pfbid0uFnhsnnuiFFARm4yvu7fnn45cV1gofyU6NtUgCToErDKJDZrobA9YHcPeFLRBX5Ll/
+- 2021-08-30T05:35:08+00:00 —  — https://facebook.com/654402359/posts/pfbid02dQZoLiHiC5e14iUgxPdkYPWaRT4wSVacRYsSePgvmRvpDyym8eiSG1QAJdXG5WHXl/
+- 2021-08-30T20:19:27+00:00 —  — https://facebook.com/654402359/posts/pfbid02SMHTWeV6ogLtbgXvSfmdGJX97oLt5tH1PrLdpx4c7GSHTZb9w6X57TSXyQcP6vmtl/
+- 2021-08-30T20:28:01+00:00 —  — https://facebook.com/654402359/posts/pfbid0NYF8BfoRDXviHCZA7TLb4vJ8vXSJkvFMFexFKcuBBF4wESYALSYD12sUgPQ8q4fVl/
+- 2021-08-31T13:27:02+00:00 — Anyone able to spare an hour or two? I am in need of assistance packing boxes up — https://facebook.com/654402359/posts/pfbid02XQWkLowyUmHUNzU6pMzVMQih9geW87s8jJDbFLt2Sa99ijgUh8sr2QC2sqqXKPBYl/
+- 2021-09-02T02:52:39+00:00 — 🤣🤣🤣🤣🤣🤣 moooo — https://facebook.com/654402359/posts/pfbid02Qjaj4kvUGJt5rqTaW9oKWopHSUpTBi91RfEVHU6wYEibNsQCmsS5S8UkXVkfoGBml/
+- 2021-09-02T04:51:32+00:00 —  — https://facebook.com/654402359/posts/pfbid0284RAwvzNd3mXu2fHcT5VkoAxbMEJkbPfpvgobiQyJ6ZtVn7CLnYy8AHj2sSEoUcCl/
+- 2021-09-04T12:38:41+00:00 —  — https://facebook.com/654402359/posts/pfbid02pbGtdo46YaJT6dyKp5hFt8TZeVUL7XSAGC3BwL8z84fe7BVwMe8MdxbNaxULDu7Ml/
+- 2021-09-04T12:40:07+00:00 —  — https://facebook.com/654402359/posts/pfbid09rPNr6PyrzbLDRTH9GcFSCY5j4gz52V3MznorwGMQnWp4UHzshb3YuRTp9p9Xexul/
+- 2021-10-18T21:43:02+00:00 —  — https://facebook.com/654402359/posts/pfbid02AoKSN3mZExvnNnSdCCZBVu65UAMKKsWAKYKBmk7djSPjffXuBSHovmKoLBG88Putl/
+- 2021-10-18T23:46:42+00:00 — Best idea since sliced bread, but you can't have one without the other 🤣 🥪 — https://facebook.com/654402359/posts/pfbid0xkhd8M6AcxSeXDeHMnmMxYo1tMbMC92fyfnf5q5teocuaLGGFw3uwSeQ7hbvWbTnl/
+- 2021-10-19T01:05:12+00:00 — True — https://facebook.com/654402359/posts/pfbid0TZWRZRKT27WUkVHP8Y9TWYiLPmWd3LKS5qJxUKmxYAUV9VvTNTYBg6y2eiB9XyDdl/
+- 2021-10-19T03:48:41+00:00 —  — https://facebook.com/654402359/posts/pfbid02Wy4t9b6VAcKa1kNQHv7XRgxE4Kew557TLnzhLtx95yUVuSGoNYkG9eiCmdhD6jAml/
+- 2021-10-20T05:35:04+00:00 — Leo approved the move to the master bedroom — https://facebook.com/654402359/posts/pfbid0ws3Z4V6mVxwANkqo2du2JdUN14HD6z6HhyfeTRZFfMMpGGGPdBnjbuu6C3tGT2fBl/
+- 2021-10-21T20:41:03+00:00 — Kick ass! — https://facebook.com/654402359/posts/pfbid023qgHWzGXz6V3SA7zhTToPjPByFF2oGbB1VwVfxdruShXbQjKWGm3jw3j49vvFuNal/
+- 2021-10-24T23:36:20+00:00 — Wish I could a got the memo alot sooner lol — https://facebook.com/654402359/posts/pfbid0JB6WH7xw6S5hSqKNiDPRgkA6Bk4q4Wn71JBroyivpfwdkiQgpCpY8Y31hP4rFz5il/
+- 2021-10-26T23:47:31+00:00 —  — https://facebook.com/654402359/posts/pfbid02iUT6U6HES4dLmZDsdPdHkqn6YjqexQZ2gnqt2fdTU3avgNv9nMjs7Y5yfBoGfURAl/
+- 2021-10-28T04:17:28+00:00 —  — https://facebook.com/654402359/posts/pfbid0FmxkavS4MNqzpGzCFAb5GDYEHKLdrzSL4sJzydoN5bs7oBSdCz1NsiTTPBtsfCTal/
+- 2021-10-28T23:19:47+00:00 — Anyone wanna drive me to Wausau and back? I'm in Cornell at the moment.  Prefer getting a ride over driving my truck — https://facebook.com/654402359/posts/pfbid02ktttBxWW9yxvEeVVxgN3wvovWRnHrewhKL4b7cPPPrp6pCxEwKfp9bYoDZrD3tpCl/
+- 2021-10-30T04:45:40+00:00 —  — https://facebook.com/654402359/posts/pfbid02UsBxNeT6wmgij1Ls6qFPev2PQiq4t7rngNrWYhLyFJWZ2uPr9zH7E3MTcCJVjBxWl/
+- 2021-11-01T22:23:22+00:00 —  — https://facebook.com/654402359/posts/pfbid0QMrJntGannjmpkbw3nSXzUCRvUGv7wo7usfDNArNZ4xiuWRWQnB8eRs1EYYcBdDKl/
+- 2021-11-06T06:04:57+00:00 —  — https://facebook.com/654402359/posts/pfbid033Q1feuNEYgbTZRXnMzUa1EumjGoZ3RbD55W6nujjv37JH3BLuoor8LN4AgDroygNl/
+- 2021-11-06T06:16:52+00:00 —  — https://facebook.com/654402359/posts/pfbid02XyAhEeFgu8GgoNtUKaRPf28YR5d9LDhx5oa6iyE5nwMhoAXe19Q44HU1XwqQY2b1l/
+- 2021-11-06T07:01:49+00:00 —  — https://facebook.com/654402359/posts/pfbid02oojWa3gyaKTcbU4TRsbR8RZi5ebptD7gjbVem2CN4jUn6MMNJzWBtv7VjL8CvuQvl/
+- 2021-11-06T08:45:56+00:00 —  — https://facebook.com/654402359/posts/pfbid037AsQEHVgqncsVw17hFazye9FvXUAop6bzWHmJqE566fbkPXUHwkdxBHGE5e1cFYVl/
+- 2021-11-06T09:07:36+00:00 —  — https://facebook.com/654402359/posts/pfbid02eXsfh9G3CNrCqXLBpRhmYAQMWJe2sRkYFPcKJoEcaw8AnH8uAs9PD3JEDTimug92l/
+- 2021-11-07T02:58:59+00:00 — Gotta do my nightly Kwiky 😜🤣 — https://facebook.com/654402359/posts/pfbid032Lxt6r7KRq6Ko5pfhh4ZhXVpYgDVgeUXWGarsPMSU1Y8fqL8mJqsBG31f33ZchXSl/
+- 2021-11-07T04:47:51+00:00 —  — https://facebook.com/654402359/posts/pfbid06VLYbN5bdf8ySPU3j4wJAx2CQ4iT5raQDL45ZX6ueG3ZBk6WqF72erbTpH4mbiGVl/
+- 2021-11-07T14:14:17+00:00 —  — https://facebook.com/654402359/posts/pfbid04ryorFzKXJdsUyDJ1uRPX6KhJmyzbi3VcPuWAkvy3JYZ7YgHt1k54kDpyAPVqAEsl/
+- 2021-11-27T17:02:36+00:00 — It's been a long road but I finally feel good enough about myself to just be me — https://facebook.com/654402359/posts/pfbid02viyJzeaxQU8fQJXCfgy3KPs5dHDZ84RtYaqExkCCG6F9hDTKFjwrS4SqtEMivMmsl/
+- 2021-11-30T07:14:35+00:00 —  — https://facebook.com/654402359/posts/pfbid02ggheEnvSKh8oGKqUV4sdEyDtUr1grJVUVUYJGN75fQAk9kNDe3PGUPoshgCp2LfYl/
+- 2021-12-01T01:47:09+00:00 —  — https://facebook.com/654402359/posts/pfbid02N7LtsUTjxNb9WctUXjCfkZoX7d1iCVHZh6wZ78KSJ2bm87Amtx891BbSn5SUgtd3l/
+- 2021-12-01T02:17:30+00:00 —  — https://facebook.com/654402359/posts/pfbid02oxMup4KAvE43SbtfSr57WdapormSQ2cqACdZDyS31mrgTpqCVsfZzHrNB7mGsKpel/
+- 2021-12-01T13:12:03+00:00 —  — https://facebook.com/654402359/posts/pfbid02Dd8ia3sVnzuRqLa3hmur8LzE5RV59veHR9iZfXCtyZdHS7duXAEVQEGbun6P8PfLl/
+- 2021-12-02T13:53:40+00:00 —  — https://facebook.com/654402359/posts/pfbid02a9k1uXzUsx2ittzfxERt8zjmoC6sURRgeBSsoNFdqBjFuvPcSiQT77mtA557yDBil/
+- 2021-12-04T18:03:26+00:00 — cellular device is MIA, without outside line until circumstances allow — https://facebook.com/654402359/posts/pfbid01KZBMoh9RPPGGwB4UK8cuCe2dcCUj6dhzudBL7y6Fs2PSa1XSVHmodskscR68Cpql/
+- 2021-12-08T00:19:04+00:00 — Everyone says: "If you need anything, don't hesitate, I'll be there for you ". I'm going to make a bet, without being pessimistic, that out of my family and friends less than 7 will take the time to put this on their wall to help raise awareness of mental health and suicide prevention.   Anxiety and — https://facebook.com/654402359/posts/pfbid02F9NiSa4J5abuBtKHpDTSbhmHc7Co7ZbKoHBb2oiJTDqc9oFMDMmx671NsFSpGum8l/
+- 2021-12-08T00:21:37+00:00 — Karma is an amazing force to see — https://facebook.com/654402359/posts/pfbid02cnrXASVQcecoyeqYnLSdNKVJdnAJcpxyASYpWuZuAgsHsdhEzFs7DZ3Tc6QErbkgl/
+- 2021-12-10T21:54:39+00:00 — The beginning of something better 🙂 — https://facebook.com/654402359/posts/pfbid0PhJLfLr95RBdx7YbteUNcZPdjzsjwUV1KdPrGxLPS1ADv69SEswGATwNv4XmJFCrl/
+- 2021-12-11T19:19:06+00:00 — Looking for a cheap snowmobile to tinker w.  Trades? — https://facebook.com/654402359/posts/pfbid033ca87SoR9h2v8eCVVKc72ak9neau62wLnY6TxaF3zEsn2XAoDbNJ4LYoGRvrUUbZl/
+- 2021-12-12T18:10:46+00:00 —  — https://facebook.com/654402359/posts/pfbid028pYD33YRXTbxwzPpUqtNsm7bfbupB94HxsCmp3R4GfX19WPzyWGTbk7xeUDY1Uynl/
+- 2021-12-17T04:23:50+00:00 —  — https://facebook.com/654402359/posts/pfbid062ufxKS8y9J39zHmxBSUrqCtB7JCGFjrAUK3WxU3dei5EKyFBavDMxEF85iLiUrxl/
+- 2021-12-18T07:40:21+00:00 —  — https://facebook.com/654402359/posts/pfbid0gPZDAxgtADvT1Uaut7aECNYpTMUsBQfgMFesY9euEVsZxZkNuqg7XkJTmMizvmhil/
+- 2021-12-19T19:47:49+00:00 —  — https://facebook.com/654402359/posts/pfbid02Rh4Wxwy5iYGmRBGfL75NgvDN4BhVeioJo82ysu8z2sXWQBgK3h3z38xbpkoMj3EEl/
+- 2021-12-20T04:57:16+00:00 —  — https://facebook.com/654402359/posts/pfbid0LVXs5NQQ5f1KKsRrXTdHZqDvgjyREK3URU1JV5YqCowQ21zGkALWhKiXXKXd5qZcl/
+- 2021-12-20T06:17:36+00:00 —  — https://facebook.com/654402359/posts/pfbid02NKFJAL65JxWoKrH1imP3HiiMGCkhhhRARx9uzrrdWkzGZySiFAtNUiRC9xNxA1cul/
+- 2021-12-21T16:30:14+00:00 —  — https://facebook.com/654402359/posts/pfbid022g5Q8JSwVDTEDCGuLquyCgbqpdkah29emxG4Hwxj6H8AgVQX1AYpjj472omSk8mYl/
+- 2021-12-21T17:47:46+00:00 —  — https://facebook.com/654402359/posts/pfbid0dfXfgwE6ecyXWqj2mqf6fAeT9eQb2jWRRNnZ8wid5oxpW6H5nxwWhxsDD5c4DHd9l/
+- 2021-12-22T10:34:38+00:00 —  — https://facebook.com/654402359/posts/pfbid0qQfzEyWStgS3r9nH4nm5Azo1Db9JRMToneD7nzK634pxHF3FyhEeAuwmwgZDh3v8l/

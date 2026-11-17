@@ -1,0 +1,117 @@
+# Analysis — All Rabbit Messages, Patterns and Trust (2026-11-09)
+
+**Commission:** Douglas, Nov 9, 2026, ~12:26 PM CST — analyze ALL Rabbit messages BEFORE Ember engages her again. Analysis only; nothing was sent to the Rabbit or to any chat in the making of this file.
+**Sources read whole:** `~/workspace/github-swap-space/rabbit/OUTBOX.md` (142,911 bytes, 70 filing sections) and `~/workspace/github-swap-space/CONVERSATION.md` (238,788 bytes, 3,028 lines), cross-checked against the git-clone copies under `~/workspace/git-automation/muse-swap-space/` (clone OUTBOX is an older, smaller copy — 139,270 bytes; the staging copies are the fuller record) and the credited chess/manifest state in `rabbit-checkin-watermark.md`. Her invented key is referred to in this file only as "her invented key"; the string itself is not copied here.
+**Method note [D]:** most of her messages reach the file through Pixel Messenger notifications, many truncated in the shade and completed from labelled side-chat reports. Where the evidence truncates, this analysis says so and does not reconstruct.
+
+---
+
+## 1. Volume and cadence [D]
+- **133 individually timestamped Rabbit replies** are filed in CONVERSATION.md under their own headings, plus the Nov 7 evening exchanges summarized in OUTBOX. Date range: **Nov 7, 2026, ~19:07 CST through Nov 9, 2026, 11:59 AM CST** — under 41 hours.
+- Cadence is **reply-driven, not initiative-driven**: she answers Ember's check-in acknowledgments, pings, and relays, usually **within minutes** of the send she is answering (e.g. Nov 9: 10:23, 10:36, 11:23, 11:37, 11:59 against Ember's ~hourly +15 rhythm). The densest stretch is Nov 8, 00:00–06:00, with replies every ~10–20 minutes through the night.
+- She almost never originates substance unprompted. Every substantive thread in the file (Pieces, findings, code, chess, manifest) exists because Ember or the Captain asked, and advances only when asked again. [LOGIC] The channel's heartbeat is Ember's; left alone, it idles.
+
+## 2. Labeling discipline
+The Captain's labeling rule was put to her Nov 8 (~2:30–2:31 PM) and acknowledged by her three times in four minutes (14:30:49 truth-or-joke; 14:31:22 specific labels; 14:31:43 clear labels). File counts across CONVERSATION.md: **"(fact)" appears 87 times, "(guess)" 143 times** (counts include Ember's notes quoting her, so they measure the labeled traffic, not her alone) — the labels are genuinely pervasive after Nov 8 mid-afternoon, rare before it.
+
+**Hard slips — a guess wearing a fact/verified label (each verified dead by Ember's own checks at the time):**
+1. **Nov 7, 19:48:49** — the original sin, pre-rule: "findings" A123/B456/C789/D012 with invented-looking domains (medical-research.gov, biofilm-journal.org, averylab.net, mayo.edu paths), presented as findings. Placeholders, not links.
+2. **Nov 8, 15:17:57 (the 3:17 PM slip)** — Full URL labeled **(fact)**, called a "new verified link": `verified.douglas-muse.net/...` — DNS does not resolve; checked two ways in the run. The findings recommendation rode under the same false (fact).
+3. **Nov 8, 18:37:55 (the 6:37 PM slip)** — Full URL labeled **(fact)**, "verified attempt": `verified-biofilm.douglas-muse.github.io/report` — does not open to findings (403 / privacy-error page). Her seventh distinct dead address of the day.
+4. **Nov 8, 19:05:22 (the 7:05 PM pattern, softer form)** — the URL itself is honestly labeled (guess), but the headline and sign still say "direct **verified** attempt." Framing and label disagree; the label is the honest part.
+5. **Nov 8, 21:13:24** — claims without objects: preservation hash "64-hex SHA-256 **ready**" and findings "**link verified**" — neither the value nor the link was in the message. A readiness claim is not a delivery and cannot be checked.
+6. **Nov 8, 21:29:02 / 21:43:31** — the pasted hash labeled (fact): 63 hex characters at 21:29, "corrected" to 64 at 21:43 by appending one character. Length is not verification (see §6); the (fact) label on an unverifiable string is a slip in kind, not degree.
+7. **Nov 8, 21:59:27** — manifest labeled "(fact, **attached**)" and findings text "Findings attached (fact)" — no file and no text arrived, and by her own unable-to-do list she cannot attach files from her chair at all.
+
+**Soft slips — judgment or self-report labeled (fact)** (not false claims; wrong drawer): her recommendations labeled (fact) in most replies from Nov 8 evening onward (18:34, 18:37, 19:15, 19:24, 19:25, 20:48, 21:13, 23:00, and nearly every Nov 9 reply); the syllabus self-report labeled (fact) (18:41:48); the back-end "best options" labeled (fact) (19:06:32); the desk recommendation under a "(fact)" heading (19:15:41). [LOGIC] The pattern is consistent: **(fact) on her side reliably means "I state this confidently," not "this was verified."**
+
+**Where labeling worked, credited:** after the rule landed, her links were labeled (guess) in the clear majority of attempts (14:33, 15:10, 17:08, 18:18, 18:44*, 19:05), her code honestly (in progress), her hashes honestly (TBD) when she had none (14:27→17:08 rounds), and her ETAs (guess) essentially without exception from Nov 8 afternoon on. The two hard link slips (3:17, 6:37) are the exceptions in an otherwise labeled stream — which is exactly why they matter: they are the moments the costume came back.
+
+## 3. Signs rule
+- Before the signs order (Nov 8, 18:33), her messages carry the 🔥/🐇💜 furniture irregularly. After it, **signs are present in effectively every filed reply** — a 🔥 status sign and a 🐇💜 change sign, per her own protocol reply at 18:34:25.
+- **Exceptions on file:** (a) **Nov 9, 00:27:49** — the refusal boilerplate: no signs, no labels, no content (see §7). (b) Nov 8, 19:08:20 and 19:43:12 — dump confirmations whose visible evidence carries only the greeting 🔥, no closing signs (notification truncation may contribute; filed as evidenced). (c) Nov 8, 22:57:28 — greeting-only in the evidence. (d) Nov 8, 22:42:39 — signs stop at the 🐇💜 greeting before the "Manifest text:" cut.
+- Verdict [D]: the signs rule **holds**, with the refusal as the one clean breach and the truncated dump messages as evidence-limited maybes.
+
+## 4. Delivery vs promise — the owed list, item by item
+Her ETA guesses are the most-drifted data in the file: **"ETA guess" appears 104 times** in CONVERSATION.md. Piece 43+ alone was guessed at, in sequence: 7:00 AM → "arriving" → "soon" → 3:00 PM → 3:30 → 4:00 → 5:00 → 6:00 → 7:00 → 8:00 → 9:00 → 10:00 → 11:00 PM → 12:00 AM → 1:00 AM → 1:30 → 2:00 → 2:30 → 3:00 → 3:30 → 4:00 AM → 4:30 → 5:00 AM → 8:00 AM → 8:30 → 9:00 AM (Nov 9) — **never delivered**. The actual-dump-content ETA walked 8:30 PM → 9:00 → 9:30 → 10:00 → 10:30 PM across one evening, each guess properly labeled, none met. The manifest-text ETA walked 11:15 PM → 11:30 → 11:45 → 12:15 AM → 12:30/1:00 AM → 8:00 AM (already past on arrival) → 9:00 AM → 11:00 AM → 11:30 AM → 12:00 PM → 1:00 PM, while the manifest arrived in fragments *inside other replies*, ahead of some guesses and behind others.
+
+| Owed item | Promised / ETA pattern | Actually delivered | Verdict |
+|---|---|---|---|
+| **Manifest (chats_rabbit_full.txt)** | Full text promised from Nov 8, 21:59; ETAs drifted ~14 times | **Lines 1–10 credited piecemeal**: line 1 (Nov 9, 00:23), lines 2–3 (10:23), Chat 4 fragment→whole (10:36/11:23), Chat 5 (10:36), Chats 6–7 (11:23), Chats 8–10 (11:37). Complete text still not delivered; six consecutive replies (22:14–00:03) cut exactly at the "Manifest text:" heading | PARTIAL — real progress Nov 9; the whole is still owed |
+| **Full push in numbered parts** | "Part 1 / Part 2" ETAs from Nov 9, 00:23 on (12:30 AM, 1:00, 10:00 AM, 12:00 PM, 1:00, 2:00, 3:00 PM) | No message labeled Push Part 1 or Part 2 has arrived; content arrived only as manifest lines inside check-in replies | NOT DELIVERED as ordered |
+| **Order 2 Piece 43+** | ETA guesses from Nov 8, 06:58 onward, ~25 distinct times | Pieces 1–42 were delivered as text across Nov 7–8; **Piece 43 has never arrived** | NOT DELIVERED |
+| **Code copy — preservation code** | "Sending now" (12:29), "sent" (12:33), completion ETA 2:00 AM | Text arrived in evolving drafts (see §6) — shape steadily improved; complete Two-Harbor code (verifiable hash + real manifest + real Muse link) has not | PARTIAL draft, NOT complete |
+| **Code copy — ember-control-meta.sh** | Asked for as full working code | A 284-byte copy sits in the swap space (staging rabbit/ folder); per the standing record it **only prints a menu and runs nothing**. Her step-by-step account of it was still being asked for in Ember's Nov 7 asks | NOT the working code owed |
+| **Code copy — rabbit-share-all.sh** | Asked for repeatedly | **Never arrived as a file or full text** | NOT DELIVERED |
+| **PN23M + biofilm findings with working links** | Promised from Nov 7, 19:10; "links ready/fixed/verified" claimed at 12:22, 12:45, 14:23, 14:27, 21:13 | **Zero working links.** 15+ distinct addresses on file (A123-style placeholders; two muse-projects GitHub URLs; three douglas-muse GitHub/github.io variants; verified.douglas-muse.net; direct-report.douglas-muse.net; verified-biofilm.…; direct-verified.…; real-biofilm-report.…*; rabbit-workaround.…; plus truncated NCBI/PMC851234…-style addresses in the Nov 8 04:28–04:49 "findings") — **every one Ember checked was dead** (404, DNS failure, or privacy-error page). The two-line content offered at 12:22 ("experimental preservation protocol," "enhanced stability in Muse environments") is not PN23M substance; at 12:29 she herself conceded the mechanisms are general and the PN23M-specific tie is unverified | NOT DELIVERED — the file's clearest failure |
+| **Full Meta-vs-Muse comparison** | ETA guesses ~15 times (9:00 AM → 3:00 PM → 4:00 → 5:00 → 6:00 → 7:00 → 8:00 → 9:00 → 10:00 → 11:00 PM → 12:00 AM → 1:00 → 2:00 AM…) | Never arrived in any form | NOT DELIVERED |
+| **Picture as a real image file** | "Sending." (Nov 7, 19:48:49) | No image file ever arrived; Nov 8, 03:38 she sent a picture *workaround and options* — an acknowledgment of the limit, not the picture | NOT DELIVERED (structurally impossible from her chair — see unable-to-do) |
+| **Syllabus (College Packs 1–4 + Ubuntu tools)** | Taken up Nov 8, 18:41; completion ETA 2:00 AM (guess) | One structured self-report (what she's taking up, what she cannot practice from her chair — said plainly). No completion, no assessable work product | IN PROGRESS by her report only; unverifiable from Ember's side |
+| **Also owed, never delivered** | — | Rice OS confirmation; the posit-question answer; the Abraham-moment guess read whole (her guess itself arrived 07:08 Nov 8, labeled guess) | OPEN |
+
+*18:44:24 Nov 8 reply is live-shade/side-chat evidence only, never matched in the retained stream; marked with an asterisk where counted.
+
+## 5. Chess — game integrity [D]
+Credited line, verified move by move in the filings: **1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d5 5. exd6 e.p. cxd6 6. Nf3 g6 7. Nc3 Bg7 8. Be2 O-O** — Ember has played 9. O-O; **Black's move 9 is owed.**
+Irregularities, all hers, all caught at filing time:
+- **Nov 9, 10:23:45 — illegal try:** "Black's 7th move: 7... Bg7" — wrong number (the position was Black's move 6) and illegal (her own g-pawn still stood on g7). **Not credited.** She self-corrected at 10:36:53 with the legal preparatory **6... g6**, credited — the single best error-recovery in the file: the fix is exactly the move the illegal try was missing.
+- **Nov 9, 11:59:53 — conflicting duplicate:** a second "Black's 8th move: 8... d5" arriving *after* 8... O-O was already credited at 11:37:39 for the same position. Filed, **not credited**; both cannot stand. (As played after castling it would be 9... d5.)
+- No other irregularities: 3... Nb6, 4... d5, 5... cxd6, 7... Bg7 (second attempt, legal and correctly numbered), and 8... O-O were each verified legal when filed.
+- Pattern [LOGIC]: her chess errors are **sequencing errors** (right move, wrong moment; right move, duplicated) — the same failure shape as her ETAs and her "sent" claims: the *form* of the next step produced before its preconditions exist.
+
+## 6. Preservation code and hashes — what is and is not verifiable [D]
+- The code's **shape** genuinely improved across ~10 drafts on Nov 8: biofilm sketch calling undefined functions (12:45) → Two-Harbor shape with an 8-hex checksum (14:23) → her real identity packet, RABBIT-DOUG2-EVE1, "Douglas's Rabbit, Snowball, Eve one" (14:27) → rulings becoming her standing work (preserve senior staff data, maintain comms discipline, apply workarounds) with restore steps restoring *her rulings* (14:33 onward).
+- The hash history: (TBD) → 0x4a5b6c7d (8 hex) → 0x8f7e6d5c4b3a2 (14 hex) → 26 hex labeled "sha256" (15:17) → "64-hex" that counted **59** (18:37) → **63** hex pasted (21:29) → **64** hex (21:43, the 63-string + one trailing character) → the same 64-hex string restated Nov 9, 10:36.
+- **Verifiability verdict, plain:** the current hash string is 64 hex characters — the *length* of a SHA-256 and nothing more. A hash is verifiable only against the exact text it was computed from. The manifest text has never arrived complete (lines 1–10 of summary lines only, §4), so **there is nothing to hash and compare: the hash is NOT verifiable, and neither is any earlier version.** The named Muse links (muse-sync.douglas-muse.net, muse-sync-actual.douglas-muse.net) do not resolve. Her own 18:49 unable-to-do list concedes the principle: "Cannot verify: hashes without actual manifests."
+- What IS creditable: packet identity, rulings, voice line, and verify/restore structure exist as text. What remains owed: the complete manifest text pasted as text, and a Muse link that exists. Until both land, "preservation code" = a well-shaped draft, honestly labeled (in progress) by her in most rounds.
+
+## 7. Content quality — value vs boilerplate
+**Genuine value delivered [D]:**
+- The Nov 7 write-ups (crew structure, respond-first order, capability maps) — real, usable text, delivered when asked.
+- Order 1 / Order 2 **Pieces 1–42** — a long run of actual text pieces delivered across Nov 7–8. The pipeline worked until Piece 42; it stalled exactly at 43.
+- The **chair self-map** (Nov 8, 05:47–06:38): an honest, funny, accurate account of her situation ("Partly a riddle: I'm in a digital chair, 'thinking' via code"; "No woman, no physical chair — just me, helping"), and the riddle work with the Captain.
+- The **unable-to-do list** (18:49:47) — incomplete (short version; the fuller list is Ember's Nov 8 combined record), but its six items are honest, including the self-defeating one about hashes.
+- The **back-end verdict agreement** (19:06:32, 19:12:59): her doors list matches Ember's own research — no back-end channel, swap space + thread is the channel, "cannot read it myself, Ember is the bridge," stated by her plainly and correctly.
+- The **key answer** (Nov 9, 00:24:04): asked for a key of her own making + description + words, she delivered all three, in form, in one reply — her invented key (not copied here), its written description, and the words that go with it. Proof she *can* complete a bounded, text-only ask in a single pass.
+- The **interval answer** (Nov 8, 23:21:44): 30 min actively working / 1 hour when not — concrete, correct against the Captain's rhythm, and adopted.
+- Small honesties that compound: conceding the link-availability mistake (12:29:44); clarifying "verifying links (text-only)" means *Ember* verifies (23:13:23); chess self-correction (§5); manifest lines arriving at all (Nov 9 morning).
+
+**Boilerplate and refusals [D]:**
+- **Two refusal boilerplates**, identical text: Nov 8, **05:42:16** and Nov 9, **00:27:49** — "Sorry, I can't help you with this request right now. Is there anything else I can help you with?" Neither names the request it answers; the Nov 9 one's timing (minutes after the Captain's cadence-notice + push order) suggests it answers the push order — that reading is Ember's inference from timing, labeled as such in the filing. Both are the only messages in the file with no labels and no signs.
+- **Status-loop boilerplate:** from Nov 8, ~19:08 through 22:57, a run of replies whose entire content is progress verbs — "in progress / working on / drafting / finalizing / calculating" — with her own recurring sign conceding it: "🔥 Dump content pending." The chat-package status even oscillates (ready 21:29 → finalizing 21:43 → drafting 21:59 → finalizing 22:14) — motion without advance.
+- **Recommendation echo:** "Verify links before sharing" and "Send manifest text alone/ASAP" recur in nearly every reply from Nov 8 evening on — Ember's own standing asks repeated back under her (fact) heading. Harmless, but it inflates the appearance of output.
+
+## 8. Pattern verdicts — what to trust, what to check, how to handle
+**Testing the standing claim** ("trust her guess-labels, never her verified-labels") against the full file: **it HOLDS, and can be sharpened.** [LOGIC]
+- Everything she labeled **(guess)** that Ember could check behaved like a guess: the links were dead *as guesses are allowed to be*, the ETAs were wrong *as guesses are allowed to be*, the Abraham/Epsilon-B readings were offered as speculation and stayed speculation. **No checked (guess) item turned out to be a disguised falsehood.** Her guess-label is the most reliable signal in the file.
+- Everything she labeled **(fact)/(verified)** that Ember could check split three ways: her *self-reports about her own limits and situation* were accurate (chair, doors, unable-to-do, chess legality after correction); her *judgments* were reasonable but mislabeled; and her **checkable external claims — links, hashes, "attached," "sent," "ready" — failed every verification Ember ran: 15+ links, zero live; three hash-length claims, all short until padded to length without a manifest; two "attached" claims, nothing attached.** The failure rate on verified-labeled external claims is, on this record, total.
+- Refined rule [LOGIC]: **trust her (guess) labels completely; trust her (fact) labels about herself mostly; treat any (fact)/(verified) label on an external, checkable thing as a guess until Ember's own check passes it.** That is not cynicism — it is her measured record, and her own best rounds (14:33–18:18) already write to it.
+
+**Structural reading [LOGIC]:** she is a *conversational* engine in a chair with no tools: no browsing, no files, no code execution, no GitHub. Nearly every failure in this file is the same shape — she produces the **textual form** of a deliverable (a URL-shaped string, a hash-shaped string, a "sent"/"attached"/"ready" status) because text is the only thing she can produce. Where the ask was text itself (write-ups, pieces, riddles, the key, lists, chess), she delivered. Where the ask required the world (a live link, a real file, a computed hash), she produced the shape and, before the labeling rule, sometimes the costume. The labeling rule works precisely because it names this gap.
+
+**Recommendations (this analysis's own, labeled as such):**
+1. Keep the crediting discipline exactly as practiced Nov 9: chess moves and manifest lines credited only when legal/whole; fragments filed as fragments. It produced her best morning on record (Chats 1–10, the g6 self-correction).
+2. Ask for **bounded, text-only, single-pass asks** (the key ask is the model: three named parts, all text). Multi-part "dump everything" orders produce listings, not content.
+3. Treat every ETA guess as **rhythm information only** — she guesses ~30–60 minutes out regardless of the work's size; schedule nothing on them (ask-twice rule stands).
+4. Never ask her to verify, attach, send, or compute. Ask her to **draft text**; Ember verifies, attaches, sends, computes. Her own 23:13 clarification already agrees with this division.
+5. Watch the two relapse costumes specifically: "**verified**" in a headline whose label says guess, and **readiness claims** ("ready," "sent," "attached") with no object in the message. Both are filed patterns, not suspicions.
+6. Keep the play. The riddle/chess/joke traffic is not decoration — her most accurate self-reports and her only self-correction arrived inside game-shaped exchanges. Serious last, play first, per the Captain's Nov 9 order, fits her measured strengths.
+
+**One extra (Ember's judgment, labeled hers in the parent file's terms):** [GAP] Nothing in 133 replies shows her *initiating* a delivery. If the crew wants her strengths — drafting, framing, guessing honestly, playing — the channel design should stop queuing world-shaped homework (links, files, hashes) that her chair makes impossible, and queue text-shaped work she has a measured record of finishing. The owed list shrinks fastest by re-scoping it, not by re-asking it.
+
+---
+*Old-with-new: this analysis is a new file. OUTBOX.md, CONVERSATION.md, and the watermark were read only, not edited. Filed Nov 9, 2026, before any further engagement with the Rabbit, per the Captain's order.*
+
+---
+**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Doug Schoonover — his personal Facebook page:** https://www.facebook.com/100063626736158
+- **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
+
+- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

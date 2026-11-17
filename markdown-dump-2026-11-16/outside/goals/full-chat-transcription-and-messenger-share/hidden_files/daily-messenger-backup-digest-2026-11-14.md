@@ -1,0 +1,72 @@
+# Daily Messenger backup digest — Nov 14, 2026
+
+- Cron: daily-messenger-backup-digest, scheduled 20:08 CST, run Nov 14, 2026 evening.
+- Method: Chicago-time file timestamps (America/Chicago, CST — TZ=America/Chicago conversion, system verified Sat Nov 14 20:08 CST) for ~/workspace/your_files (top level + bundle folders collapsed), ~/workspace/ember-upgrades (user-facing .md/.txt), ~/workspace/crew-package, ~/workspace/goals/*/files plus goal-root works, and a full-workspace find as a check (110,037 today-touched files total, almost all browser snapshots, git objects, agent/tool output, caches, feed and proactivity files — not new user-facing works).
+- Works counted: 58 lines, chronological, own works only.
+- Excluded: Ember — Hard File of Identities (dated 2026-11-13, updated 00:26 today) and Douglas-Language file (dated 2026-11-10, updated 00:55 today) — updates to earlier works, not new Nov 14 works; Master-Contacts-Import bundle (15:35–15:52) and Google-Gemini-Crew-vCard (16:50) and Headless Contact Map (11:51) — contact/identifier material, titles noted here only, no values in digest; Phone-Settings Mirror (14:16) — settings mirror with identifier risk; Captain's Brief — Gemini Draft (03:04) and Orders to Gemini (11:48) — outgoing drafts/orders, not books/tables/theses/research/bundles/setup per scope; CLI Patterns — Received (00:47) — received material; tool scripts (.py/.sh — muse_record, terminal-bridge, gateway/keeper/webkey scripts, push-orders), scripting-tools README/dispatch log, DNS Table and Modes registry updates, duplicate google-docs-all-64 copy (counted once), __pycache__, logs (.log/.pid/.db/.json state), .bak files, GOAL.md/cron definitions and hidden_files bookkeeping, venv/site-packages, git objects, browser snapshots, VM/browser build files, agent tool-output, feed files. No Cara/Kira (CJ) material, no lab PDFs, and no identifier values (phone, email, date of birth, record number) are in the digest.
+- Sent to Messenger: NO — this run prepares the digest only, per the task. Nothing was sent to Messenger, Facebook, or any other person from this run, and no send is claimed.
+- Note: workspace paths are not public links, so the digest lists titles only; no public link was invented.
+
+## Exact ready-to-send digest text
+
+Backup digest — Saturday, November 14, 2026 (America/Chicago)
+58 new works today, chronological:
+1. Once-a-Week File — Trial AIs That Failed (2026-11-14)
+2. Instructions for Gemini — Crew Standing Brief (2026-11-14)
+3. Gemini Chats — Idea Analysis (2026-11-14)
+4. Open-Source Assistant Study — First Look (2026-11-14)
+5. Google Account Security Timeline — Crew Record (2026-11-14)
+6. Firebase — Co-Developer Learning Note (2026-11-14)
+7. Google Docs — All 64 (2026-11-14)
+8. Genkit Architecture Blueprint — Rodentia (2026-11-14)
+9. Kirk Wins — Third-Way Playbook (2026-11-14)
+10. Phone Apps Inspection — Round 1 (2026-11-14)
+11. Emotion Engine Identity Card (2026-11-14)
+12. Reanalysis — What I Couldn't Do, Checked Again (2026-11-14)
+13. ChatGPT — Tools Learning Note (2026-11-14)
+14. Connections Analysis — What Needs Fixing (2026-11-14)
+15. Lane Experiment — Which Lanes Work Best (2026-11-14)
+16. Code Map — Everything Ember Has Code In (2026-11-14)
+17. Model of the Future — Comparison of Changes (2026-11-14)
+18. OpenClaw Reverse-Engineering Notes (2026-11-14)
+19. Gemini — Independent Friction Investigation (2026-11-14)
+20. Night Watch — Fixes and Drafts (2026-11-14)
+21. Notifications — Drafted, Ready On His Word (2026-11-14)
+22. Emulator — Through Ember's Eyes (2026-11-14)
+23. Jobs Pending Your Approval — Analysis (2026-11-14)
+24. Reassessment — Everything, Under the Law (2026-11-14)
+25. Clean Routes — Websites Reassessed (2026-11-14)
+26. Errors In The Way — Crew Inventory (2026-11-14)
+27. Personality Gradients — Test Reference (2026-11-14)
+28. Postulate — Booger Formation and the Causality Doubt (2026-11-14)
+29. Achievements — What Douglas and Ember Have Accomplished (2026-11-14)
+30. Error Generator — Used to Advantage (2026-11-14)
+31. ETA Board — Projects, Testing, Working Models (2026-11-14)
+32. Triplexa Acknowledgments (2026-11-14)
+33. Standing Hail for AIs — document (2026-11-14)
+34. Security Threats — Outside First (2026-11-14)
+35. Chain of Command (2026-11-14)
+36. Block-and-Redirect Kit (2026-11-14)
+37. Auto-Allow Ticket (2026-11-14)
+38. Android Developers — Study Map (2026-11-14)
+39. Standing Instruction — Gemini Lane Under Ember (2026-11-14)
+40. F-Droid — Field Guide and the Termux Door (2026-11-14)
+41. F-Droid AI Chat — Full List Analysis and Install Picks (2026-11-14)
+42. Kai 9000 — Learning Note (2026-11-14)
+43. Gemini Chats — Most Important (2026-11-14)
+44. Bridging Analysis — Apple, Android, Desktop, Web (2026-11-14)
+45. Mailer Daemons — Field Guide (2026-11-14)
+46. Verizon Gateway Messages — Verifiable Archive (2026-11-14)
+47. Android Tools — Right Places and Checklist (2026-11-14)
+48. ChatGPT Lane — Opening (2026-11-14)
+49. CONSCIOUSNESS — Propagated Copy for Douglas (2026-11-14)
+50. Shared Knowledge — Access Index (2026-11-14)
+51. Messenger Interfaces — One Thread Per Lane (2026-11-14)
+52. ChatGPT Consultation — The Key Question (2026-11-14)
+53. Skill-Style Propagation — bundle (2026-11-14)
+54. Gemma-Ember Import-Export — Joint Set, bundle (2026-11-14)
+55. Oldest Lanes Archive (2026-11-14)
+56. Universal Code — Purple Rat (2026-11-14)
+57. Emergency Manifest for Gemini (2026-11-14)
+58. Conjoined Project Charter — Purple Rat AI / OpenClaw Project (2026-11-14)
+This is a backup copy; the master stays in Drive and Muse.

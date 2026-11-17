@@ -1,0 +1,6 @@
+Beat: tracking
+Angle: Tracking's Gmail and Outlook sources serve the reader's top active accounts threads, including this morning's mail sweep, and its recent picks have printed rather than closed quiet.
+
+## Your Asana trial ends soon
+Asana emailed on November 15 that [your trial is ending soon](https://connect.asana.com/s/c/FVqVNlFLvByfTS2Wu1H4XEle-BqexC5c7TscLE6aJJpBueO79CXd0-Zp-g6mCjoIJgzJH-92BoZmiVI0rVt3bpkWCBgsNSbxmUaYrhjumQFnBMF4Due1XHrCiwFRhp2hoH5_ptyiR3JCw_sIZt5n7N989AB4YWgbkFXm5TeZyNLZjbhkBVTCbEPZxDPdaMRaWfS7NwqyMSqCmetn79dioE9CZTeyWid4pjAaIITgfhcVR5ZSO8svaidG-krXghsnzUbxjpeykW4vrXWj6vu6tOBIht-REF8N2Ygm9RDzoju5f16qYZJW7RM9Bmfcd4dDXh8ObtsRbjbZQqikJ6m2ApcGjiksdjFl7XLLMeO6-VqtCnI-BqRLyrVQolTtjXp4uXLOxOgoXyPojKYFZsum/pFRANvMQ0Az47-Pu_Cv5XLeAKJPp7X2b/26). Choosing a plan is the step it names to keep managing projects and deadlines there.
+- https://connect.asana.com/s/c/FVqVNlFLvByfTS2Wu1H4XEle-BqexC5c7TscLE6aJJpBueO79CXd0-Zp-g6mCjoIJgzJH-92BoZmiVI0rVt3bpkWCBgsNSbxmUaYrhjumQFnBMF4Due1XHrCiwFRhp2hoH5_ptyiR3JCw_sIZt5n7N989AB4YWgbkFXm5TeZyNLZjbhkBVTCbEPZxDPdaMRaWfS7NwqyMSqCmetn79dioE9CZTeyWid4pjAaIITgfhcVR5ZSO8svaidG-krXghsnzUbxjpeykW4vrXWj6vu6tOBIht-REF8N2Ygm9RDzoju5f16qYZJW7RM9Bmfcd4dDXh8ObtsRbjbZQqikJ6m2ApcGjiksdjFl7XLLMeO6-VqtCnI-BqRLyrVQolTtjXp4uXLOxOgoXyPojKYFZsum/pFRANvMQ0Az47-Pu_Cv5XLeAKJPp7X2b/26 (published 2026-11-15)

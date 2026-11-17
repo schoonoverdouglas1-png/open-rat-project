@@ -1,0 +1,93 @@
+# Overview
+
+This is a binding to the Signal client code in rust/, implemented on top of the C FFI produced by rust/bridge/ffi/. It's set up as a Swift Package, both for integration into the Signal iOS client and for local development.
+
+
+# Use as a Swift Package
+
+The Swift code is built from source as part of your app, but the Rust library is distributed separately as a prebuilt XCFramework, so you need two dependencies, both targeting the same release:
+
+1. Add this repository as a package dependency pinned to the release, and link the `LibSignalClient` product.
+
+        .package(url: "https://github.com/signalapp/libsignal", exact: "X.Y.Z")
+
+2. In a package defined in the app, add a binary target for the XCFramework and link it into the same target(s) as `LibSignalClient`. You can find the checksum in the [GitHub Releases][] for the project.
+
+        .binaryTarget(
+            name: "LibSignalFfi",
+            url: "https://build-artifacts.signal.org/libraries/libsignal-client-ios-build-vX.Y.Z.xcframework.zip",
+            checksum: "..."
+        )
+
+If the two versions don't match, linking will fail with an undefined `signal_ffi_version_X_Y_Z` symbol.
+
+[GitHub Releases]: https://github.com/signalapp/libsignal/releases
+
+
+# Development as a Swift Package
+
+1. Build the Rust library using `swift/build_ffi.sh`. The Swift Package.swift is configured to use the debug build of the Rust library.
+
+2. Use `swift build` and `swift test` as usual.
+
+To run the tests on an iOS simulator instead, use `swift/run_ios_tests.sh`. Extra arguments go to `xcodebuild`, for example `swift/run_ios_tests.sh -only-testing:LibSignalClientTests/PublicAPITests`. Any `LIBSIGNAL_TESTING_*` environment variables are forwarded to the tests.
+
+When exposing new APIs to Swift, you will need to add the `--generate-ffi` flag to your
+`build_ffi.sh` invocation.
+
+
+## Development with an App
+
+0. Make sure the directory containing the checkout of the git repository is named "libsignal", matching the last component of the package URL you normally depend on. Xcode won't see it as the same package otherwise!
+
+1. Build the Rust library for simulator or device.
+
+        CARGO_BUILD_TARGET=aarch64-apple-ios swift/build_ffi.sh --release
+        CARGO_BUILD_TARGET=aarch64-apple-ios-sim swift/build_ffi.sh --release
+
+2. Uncomment the appropriate line in Package.swift for `extraLinkerSettingsForUseAsLocalDependency`.
+
+3. Add the top-level directory (the one named "libsignal") to your Xcode workspace, choosing "reference files in place". (If you only have a project file, you can add it there too, that'll work fine.) Xcode will take a while to think about this---do not be alarmed by the wait cursor---but should then allow the local package to supersede the remote dependency.
+
+When you're done, remove the package from the Xcode workspace, and then revert the change from step #2.
+
+### macOS Apps
+
+macOS apps can use a locally built XCFramework. Signal does not publish macOS prebuilds or officially support this configuration.
+
+Install the [build prerequisites](../README.md#building), then run these commands from the repository root to build a universal macOS XCFramework:
+
+    rustup target add aarch64-apple-darwin x86_64-apple-darwin
+    MACOSX_DEPLOYMENT_TARGET=12.0 CARGO_BUILD_TARGET=aarch64-apple-darwin swift/build_ffi.sh --release
+    MACOSX_DEPLOYMENT_TARGET=12.0 CARGO_BUILD_TARGET=x86_64-apple-darwin swift/build_ffi.sh --release
+    swift/build_xcframework.py --macos-only
+
+Use the same deployment target for your app and Rust builds; these examples use macOS 12.0. For a single architecture, build only the corresponding Rust target and use `--macos-only arm64` or `--macos-only x86_64`.
+
+Use the local package dependency and `LibSignalFfi` binary target described above, building both from the same checkout. The generated `target/LibSignalFfi.xcframework` contains only macOS libraries. Add `--zip` to also create a ZIP archive.
+
+To run the package tests against this XCFramework on your Mac:
+
+    LIBSIGNAL_FFI_XCFRAMEWORK=target/LibSignalFfi.xcframework swift test
+
+
+# Benchmarks
+
+The package in Benchmarks is set up for *relative* benchmarking on a build machine (rather than on iOS devices). This is mostly interesting to test that the bridging layer is not imposing undue overhead. Best results will come from testing on an Apple Silicon Mac, since that's closest in system libraries to an iOS device.
+
+1. Build the Rust library using `swift/build_ffi.sh --release`.
+
+2. `swift run -c release` from within the `swift/Benchmarks/` directory.
+
+SwiftPM hides the executable in `.build/release/`, but you can find it there to run profiling tools on it.
+
+
+# Catalyst Support
+
+Mac Catalyst is not supported by this repository, but we've done experiments with it in the past. Rust targets for Catalyst are still in tier 3 support, so we use the experimental `-Zbuild-std` flag to build the standard library.
+
+In order to compile for Catalyst you will need to:
+* Install the standard library component with `rustup component add rust-src`
+* Add the `--build-std` flag to your `build_ffi.sh` invocation
+
+There may be other issues. For example, at one point the `cmake` crate had trouble compiling for Catalyst; you can try downgrading to version 0.1.48 if that's affecting you.

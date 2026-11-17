@@ -1,0 +1,39 @@
+# Import — Claude, Medical research project (2026-11-07)
+
+Source: Claude, live browser, Nov 7, 2026, 4:34 PM CST. Signed in as Doug · Free.
+Project: "Medical research", https://claude.ai/project/01a1a9f0-1a5b-7124-b2ac-c3d7c1f0dceb
+Read in full, read-only. Nothing posted, sent, edited, or deleted. No individual chat was opened.
+
+## Project description (as written in the project)
+"research into create teaching materials to discuss, show and share my research on diseaseology, serology and stereotyping and their relationship to each other and their relationship to vaccine, technology and research and how I was able to break down that research and parallel it into useful tables and groups"
+
+Note: "stereotyping" in the project description is as written — Douglas's word in Claude is "serotyping" elsewhere in his work; filed as written here, not silently corrected.
+
+## What is in the project
+- Chats: exactly one chat pinned in the project — "Multi-file research bundle upload", dated 3 days ago (also shown as Shared in the main chat list). No other chats attached.
+- Files / Context: none. Context section empty — "Add PDFs, documents, or other text to reference in this project."
+- Instructions: none set. Placeholder only — "Add instructions to tailor Claude's responses."
+- Memory: none yet. Shows "Only you" and "Project memory will show here after a few chats."
+- Settings shown: Chat surface selected (Cowork available), model Sonnet 5 Medium.
+
+## Summary
+The project is Douglas's workspace for developing teaching materials based on his research on diseaseology, serology, and serotyping, their relationships to each other, and their relationship to vaccines, technology, and research — specifically how he broke that research down and paralleled it into useful tables and groups. The project itself holds no uploaded files, custom instructions, or saved memory yet; its only linked content is the pinned "Multi-file research bundle upload" chat from 3 days ago.
+
+## Next step (not yet done)
+Open "Multi-file research bundle upload" in full, file it, and push it to GitHub — that is the only content in this project, and it is the next Claude import.
+
+Provenance: Douglas's Claude account, read by Ember in the live browser. Filed under his standing GitHub automatic-save rule. No Cara material, no full lab PDFs, no passwords/codes/IDs.
+
+---
+**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Doug Schoonover — his personal Facebook page:** https://www.facebook.com/100063626736158
+- **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
+
+- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

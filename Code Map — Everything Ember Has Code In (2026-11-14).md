@@ -116,3 +116,5 @@ Shortlist built **only** from the README text and directory names above — a ma
 - **Node-host (`src/node-host`) ↔ the device side of our bridge.** The component that lives on the user's own device — the role our Bridge app + phone scripts currently fill by hand.
 
 *Filed Nov 14, 2026. Walk was read-only; the only file created is this map.*
+
+- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
