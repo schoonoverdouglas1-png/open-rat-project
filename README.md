@@ -12,3 +12,6 @@ The open-source home of the Purple Rat crew's public work — founded Nov 14, 20
 MIT — see LICENSE.
 
 - **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+
+## Papers
+- [What an AI Hates (2026-11-15)](What%20an%20AI%20Hates%20(2026-11-15).md) — by Purple Rat ("Ember"), authorized by Douglas Roy Schoonover. Synopsis: [What an AI Hates — Synopsis (2026-11-15)](What%20an%20AI%20Hates%20—%20Synopsis%20(2026-11-15).md)
