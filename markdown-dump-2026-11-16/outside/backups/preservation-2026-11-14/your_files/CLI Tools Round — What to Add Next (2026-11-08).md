@@ -64,4 +64,4 @@ Full report: research_notes/cli-tools-per-search-engine-20261108-1032/report.md.
   header "API-Key: public" — keyless, official, niche index. Retest owed from the box.
 Everything else from the report is folded into Round 7 of the Search Lanes file.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

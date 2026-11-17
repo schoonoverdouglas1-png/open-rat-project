@@ -179,4 +179,4 @@ Attempt made, read-only, three ways:
 2. **Live calls — REFUSED by the wrapper.** A real list call to chat, classroom, and keep each returned: "unsupported gws top-level command for hatch_gws_cli." The gate is Muse's own wrapper allowlist, not Google scopes and not Douglas's account. Ember does not route around her own product's controls; the legitimate path is a feature request to the Muse team (offered to Douglas in chat, Nov 12).
 3. **Status of the six:** documented-as-existing, help-mapped, not callable. GAP closed as to *why*; access itself awaits the product, not a workaround.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

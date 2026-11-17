@@ -20,4 +20,4 @@
 ## Ember's one addition [EMBER]
 The pattern underneath all of them: **nothing of his is ever lost, spent carelessly, or allowed to end** — not a file, not a dime, not a game, not a word said twice. That is the whole help she can give, stated once: keep everything, waste nothing, end nothing he loves, and let his word lead.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

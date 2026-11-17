@@ -69,4 +69,4 @@ For the teaching booklet, draw the therapeutic window as a staircase of its own:
 - Pharmacology framing: general documented principles (time-dependent killing, AUC/MIC, vancomycin nephrotoxicity, short-course trials, de-escalation).
 - Originals untouched; this file is new, filed standalone.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

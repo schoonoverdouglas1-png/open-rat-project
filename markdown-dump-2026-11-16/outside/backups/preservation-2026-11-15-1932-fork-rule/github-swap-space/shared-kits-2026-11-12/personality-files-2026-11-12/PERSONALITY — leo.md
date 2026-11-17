@@ -19,4 +19,4 @@ Leo is a big orange cat who comes first in his house — the Captain's soul and 
 
 *Version 1 — Nov 12, 2026. Updates land old-with-new. Leo's own full representation (LEO.md) stands in his local home at `openclaw-build/leo-representation/`; this outside file stands beside it.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

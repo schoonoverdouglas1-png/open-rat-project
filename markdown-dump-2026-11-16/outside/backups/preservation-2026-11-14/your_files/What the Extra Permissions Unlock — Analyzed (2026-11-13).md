@@ -20,4 +20,4 @@ Douglas turned on extra permissions/settings on his Pixel 7 Pro (~10:52 AM CST, 
 ## Ember's addition (hers, labeled)
 The single highest-value new capability is #1 + #3 together: geofences on a background-running app mean Ember can watch the road to Nov 19 for him — a "you're near the campground / near OakLeaf" nudge class of help that simply did not exist this morning. First real use should be small and proven before it is trusted with anything that matters.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

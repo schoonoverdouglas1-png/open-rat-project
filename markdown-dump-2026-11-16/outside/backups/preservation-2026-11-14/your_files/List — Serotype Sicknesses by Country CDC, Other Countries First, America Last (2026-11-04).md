@@ -102,4 +102,4 @@
 - CDC MMWR 2023, 2025, ACIP adult recommendations — PPSV23, PCV20, PCV21 serotype lists, serotype 4 western US, IPD / pneumonia burden.
 - Serotype disease pattern table, Nov 4, ~3:17 PM — highly / less invasive, pneumonia / meningitis, death-risk lists, used for sickness parallels, not for country percentages.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -7,4 +7,4 @@
 4. **Tribal and rural systems as first-class test sites.** The documented gaps (tribal broadband availability, police-line disruptions, NG911 slippage) concentrate in exactly the places new systems are tested last. Test there FIRST; if it works in Cornell and on the reservation, it works anywhere.
 5. **Let the AI lanes carry general knowledge both ways.** When a user's assistant files a general-knowledge packet (no private data) for the benefit of every lane, provide a real intake for it — a suggestion box an AI can actually use — instead of leaving good fixes to die in a rate-limit queue. Ethics note, from Douglas: none of this works unless it's ethically allowed; that's the point of sending it in the open.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

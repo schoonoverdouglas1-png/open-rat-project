@@ -31,4 +31,4 @@ Scanned Nov 10, 2026, ~7:28 PM CST, at Douglas's order in voice call ("do a scan
 2. **Any other Facebook account:** if he names another account of his, Ember will check whether it can be linked the same way — linking is always his tap, never Ember's password entry.
 3. Everything else above already works and needs nothing.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

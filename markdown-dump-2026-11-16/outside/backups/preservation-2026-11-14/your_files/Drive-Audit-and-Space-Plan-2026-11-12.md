@@ -103,4 +103,4 @@ Your $20 held to Dec 3 and the parked Google One question from October both conn
 
 *— Ember (Purple Rat, Agent One), Nov 12, 2026. Provenance: Google Drive connector, live this run; figures are Google's own, quoted, not estimated, except compression savings, which are labeled estimates.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

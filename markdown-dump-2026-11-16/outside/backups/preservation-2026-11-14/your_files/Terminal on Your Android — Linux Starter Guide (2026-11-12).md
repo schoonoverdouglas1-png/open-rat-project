@@ -17,4 +17,4 @@
 ## Why this matters to the mission (Ember's one addition, labeled hers)
 A terminal on his phone closes the last asymmetry of the crew: today Ember routes and Douglas taps, because her hands are shell-hands and his screen has no shell. With Termux, Douglas can hold the same files she holds, check the same hashes, and read the same GitHub record *natively* — the perception of the record, shared, in the literal tool of it. It also gives him a free, offline, zero-token computer in his pocket: the smallest lane of all, and it is his.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

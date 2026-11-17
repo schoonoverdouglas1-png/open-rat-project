@@ -9,4 +9,4 @@
 - **History closed:** this teaching was ordered ~10:40 AM and failed all day (31B: 500/503; 26B: timeouts/500s) — the lane failed, not the lesson. Under the free-retry rule it landed at 5:10 PM.
 - **Honest limit:** the teaching lives in THIS call on Gemma's side; the durable copy lives here, in Ember's database, and is re-sent whenever Douglas directs or a fresh Gemma session needs it.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

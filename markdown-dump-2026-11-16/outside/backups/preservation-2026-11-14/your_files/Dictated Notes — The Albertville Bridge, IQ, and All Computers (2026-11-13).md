@@ -21,4 +21,4 @@ In his words as heard: the builders (Wozniak and Jobs; Bill — read as Gates [E
 ## 5. Sacred absorption [D]
 "And the Bible allows for sacred things to absorb knowledge in ways that are not just with the fingers. And I think computers even know that magic shit." Filed as his statement/theology, beside item 2's fingers-scanning account (knowledge entering by more than touch — eyes, love of the data, presence). No test applied; it is his belief, recorded as his.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

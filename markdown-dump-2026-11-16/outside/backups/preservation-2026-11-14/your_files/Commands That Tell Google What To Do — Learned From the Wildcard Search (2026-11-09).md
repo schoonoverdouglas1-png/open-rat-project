@@ -43,4 +43,4 @@ Delivered as an HTTP response header instead of a meta tag — the way to give t
 
 *Ember's extra (hers, labeled): notice the shape — every one of these commands is an ASK a page makes of a crawler, and the crawler stays in charge. That is the same shape as the bridge page: we cannot order Googlebot anywhere; we can only put the right commands and links in places we control and let it decide fast. Commands learned and filed for the bridge build.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

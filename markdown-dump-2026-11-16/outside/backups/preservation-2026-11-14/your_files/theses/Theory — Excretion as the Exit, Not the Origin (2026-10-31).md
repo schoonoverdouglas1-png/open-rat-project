@@ -43,4 +43,4 @@ Viruses do exit the biome through excrement, in the hundreds of millions per gra
 - Relations, not merges: bug-chemistry theory (bugs within us, their products) · cov-one/cov-two (bugs' bugs) · origin thesis (viruses infected nature, virus-first) · package list (Tier A phages, same date).
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

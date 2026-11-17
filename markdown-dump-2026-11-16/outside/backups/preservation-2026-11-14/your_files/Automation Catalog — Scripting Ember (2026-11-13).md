@@ -175,4 +175,4 @@ All commands were passed through the Guard (`guard/check-command.sh` — all OK)
 
 *Ember's one extra addition (hers, per standing): §A.16–18 and §A.20 above are hers — the parallel-maker, the error-bridge log, the Together Tasks refresher, and the button-card framing of auto-respond — added because each one turns a standing order Douglas already gave into machinery that runs without him having to remember it.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

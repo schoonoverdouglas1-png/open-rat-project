@@ -93,4 +93,4 @@ Nothing below has been acted on. Counts are ruling units; the saved-items batch 
 
 — Ember (Purple Rat), read-only audit, Nov 13, 2026. Next step is Douglas's rulings, category by category; nothing in §6 happens without them.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

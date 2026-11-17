@@ -10,4 +10,4 @@ Every version of Ubuntu — old, shelved, current, and not-yet-born — should c
 ## Ember's reading (hers, labeled)
 There is a real engineering shape under the poetry: forward-compatible metadata (a release shipping the *placeholder identity* of its successors), permanent archival mirrors for end-of-life repositories, and cross-release signing/trust chains so an old system can always find its way to a living repository. The entanglement framing is the Captain's; the keep-alive problem he points at is documented and real — shelved releases do lose their repository roads. His recommendation goes at the root of it: link first, so nothing has to be rescued later.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

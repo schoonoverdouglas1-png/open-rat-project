@@ -11,4 +11,4 @@ Rules of the counter:
 ## Entries
 - Opened: Nov 11, 2026, ~3:23 PM CST. Allowance at opening: see the live check recorded in the conversation of that time (counter not yet triggered — 100% not yet hit).
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

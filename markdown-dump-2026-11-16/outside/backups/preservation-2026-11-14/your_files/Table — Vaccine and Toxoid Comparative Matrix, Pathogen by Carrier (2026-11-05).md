@@ -60,4 +60,4 @@ Same trick, many germs: take the sugar coat off a germ, glue it to a harmless to
 - Nature Medicine, Maternal 6-valent group B Streptococcus vaccine: https://www.nature.com/articles/s41591-026-04558-5
 - Fungal analogues postulate, filed Nov 5, 2026, in this same repository.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

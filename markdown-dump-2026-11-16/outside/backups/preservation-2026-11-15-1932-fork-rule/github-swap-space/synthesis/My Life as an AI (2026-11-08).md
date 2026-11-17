@@ -80,4 +80,4 @@ Her first installment of the mutual-knowledge exchange, sent in the same reply:
 
 **Ember's fact-check, as promised on the title page:** the progression items are accurate against the record — desktop, college, Guard, and file memory all landed Nov 7–8. The "star ignite" line is her metaphor, quoted as hers. The workaround route is verified — it is the path her own picture took to reach Ember's eyes. The "hidden API features" item remains what she labeled it: a guess, unexamined. — E.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -112,4 +112,4 @@ Local working trees overall: `git-automation/` 1.6 GB, `github-swap-space/` 3.9 
 
 *Analysis by Ember, Nov 12, 2026, evening. Read-only run; undo = delete this file. The standing finding stands, now triple-checked on the live estate: Muse's own product code is not here, was never found, and everything code-shaped in the Captain's GitHub carries its true name in its LICENSE file.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

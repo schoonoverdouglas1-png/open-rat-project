@@ -87,4 +87,4 @@ PCV7/13/15/20/21; PPSV23 (23 serotypes); 216 pregnant participants in the GBS6 p
 - Danish serotyping reference remains partially verified until its specific source is confirmed — [PARTIAL], do not upgrade.
 - This signed-in version and the earlier share version share the title — compare before merging; this file keeps them separate.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

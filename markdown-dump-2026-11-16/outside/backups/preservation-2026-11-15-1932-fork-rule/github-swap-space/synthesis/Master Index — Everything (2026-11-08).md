@@ -880,4 +880,4 @@ this index + the Full Cache + memory search; every entry names where the whole w
 ## 7. Next layer (noted, not built)
 - Full-text search across every file above in one SQLite FTS (the Master Index as a database, not only a page).
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

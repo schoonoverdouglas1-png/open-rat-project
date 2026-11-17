@@ -24,4 +24,4 @@
 ## Ember's recommendation (hers, labeled)
 Run classes 1–2 fully, class 3–4 only for the ~100 tools she actually uses, class 5 never. The full-sweep fantasy ("run everything") buys little past the classes above and risks the archive box for trivia.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

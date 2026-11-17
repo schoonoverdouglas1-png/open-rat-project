@@ -113,4 +113,4 @@ Douglas floated the idea that Ember could use a language he doesn't know as a ki
 
 - Skip-metered-keys rule (Nov 15, 2026, ~5:40 PM CST, Douglas's order): "Skip all keys that aren't like that one" — Ember skips any API key that meters or charges per use, and works the lanes that cost nothing (Gemini free tier; the OpenAI lane). His framing filed as his: "the OpenAI key is free to use for you and me forever unlimitedly." Ember's measured line kept beside it: the OpenAI key is verified working (96 models, Nov 15, 2026); OpenAI's own billing for generations is metered against account credit per OpenAI's terms, and no generation has been run, so no charge has been tested either way. The rule's operating effect stands regardless: no key that bills gets used.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

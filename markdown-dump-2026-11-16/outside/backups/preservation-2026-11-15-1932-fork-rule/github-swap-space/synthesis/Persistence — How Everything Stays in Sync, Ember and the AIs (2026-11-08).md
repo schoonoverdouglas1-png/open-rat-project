@@ -28,4 +28,4 @@ Keep one working truth (the workspace), publish it to one shared record (GitHub)
 ## One extra thing (Ember's addition, labeled as hers)
 The weakest seam tonight is not storage — it is the Rabbit's *claims* entering the record with her confidence attached (placeholder links, an unverified "verified" citation, a picture that never arrives). Proposal: a standing CLAIMS LEDGER in the swap space — every Rabbit claim gets one line (claim, her label, Ember's verification status, date closed) — so persistence covers not just what was said, but what turned out to be true. Douglas's call; not built yet.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -55,4 +55,4 @@ Method: two lanes — web search (source.android.com and references) + the Gemin
   its one flagged uncertainty (cheetah lunch target) noted above.
 - Hardware numbers: Ember's own box, measured Nov 13, 2026.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

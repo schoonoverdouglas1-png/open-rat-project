@@ -65,4 +65,4 @@ These are standard terms that appear in his work and must stay unmarked, even wh
 - [ ] No (DRS) term is presented as a standard medical term, and no standard term is presented as (DRS).
 - [ ] The original "medical wordology / nameology invention paper" itself, if it exists outside the workspace, is pasted/exported by Douglas and reconciled with this list, old-with-new — this list does not replace that paper.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

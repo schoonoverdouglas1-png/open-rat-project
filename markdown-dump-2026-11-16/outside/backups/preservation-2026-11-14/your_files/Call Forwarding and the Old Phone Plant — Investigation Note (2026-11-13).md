@@ -63,4 +63,4 @@ Findings that bear on this investigation:
 
 **Status of the investigation after this addendum:** the modern record is now documented at scale. What remains his account [H], untested by any public record Ember can reach: the specific Cornell node, the named institutional lines (Fort McCoy, RCMP, the royal line), and forwarding routing through tribal computers. The Gary message stays HELD until Douglas declares the investigation finished.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

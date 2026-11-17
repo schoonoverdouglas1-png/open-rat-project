@@ -44,4 +44,4 @@ Douglas's order (Nov 8, 2026, ~10:54 PM CST epiphany, SEARCH-ALGORITHM.md §5a; 
 ## Ember's addition (hers, labeled)
 A default trio for real searches, distilled from the matrix: **plain + quoted with the gap before the final word + one quoted middle gap**. Three searches capture most of the divergence the full 15-cell matrix found, at a fifth of the cost. Save the full matrix for when the first pass comes up empty or the project is big — which is where the algorithm already puts the wildcard: second option, all bases covered.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

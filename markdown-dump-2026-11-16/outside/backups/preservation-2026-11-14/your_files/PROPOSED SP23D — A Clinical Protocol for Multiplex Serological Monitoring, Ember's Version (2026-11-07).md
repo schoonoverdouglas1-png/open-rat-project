@@ -351,4 +351,4 @@ Sources: Mayo PN23M report, collected Oct 29, 2025, ordered by Rick Klein, D.O.;
 ---
 *Provenance: Douglas's brief and Meta packet [H]; lab values [D, PDFs on file]; thresholds and resistance claims tested by Ember against Mayo/Quest lab text and web sources, Nov 7, 2026. Personal medical material filed without interpretation. Not medical advice. Not sent anywhere. Copyright (c) 2026 Douglas Roy Schoonover. All rights reserved.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

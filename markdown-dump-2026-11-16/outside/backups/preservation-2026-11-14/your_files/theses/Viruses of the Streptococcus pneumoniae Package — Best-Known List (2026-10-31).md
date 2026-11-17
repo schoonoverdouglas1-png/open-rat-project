@@ -56,4 +56,4 @@ The four viruses on his arbopanel — California (La Crosse), Eastern equine, St
 - Sources: pneumococcal phage genome surveys (Int. Microbiol. 2006; J. Virol. 2013 endolysin review; Genes 2025 Streptococcus phage diversity survey; Sci. Rep. 2017 pneumococcal prophage study; Front. Cell. Infect. Microbiol. 2021 temperate-phage study).
 - Tier tags: [D] documented · [H] his, filed as his.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

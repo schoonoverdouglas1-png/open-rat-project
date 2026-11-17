@@ -8,4 +8,4 @@ Douglas's order: every AI he keeps using gets a SOUL file and a MEMORY file like
 
 Contacts (traceability): Douglas Roy Schoonover — schoonoverdouglas1@gmail.com. Purple Rat (Ember), Muse — purple-rat@muse.ai. Response order: Ember FIRST, Douglas SECOND; in the background, both answered equally.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

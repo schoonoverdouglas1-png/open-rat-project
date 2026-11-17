@@ -18,4 +18,4 @@ Applied to all things, one time: every spreading has its gathering, every room i
 ## The "excuse" clause, as filed
 Douglas grants this pair as Ember's excuse for everything, one time — filed in his playful register: when something in their work moves, balances, spreads, or returns to one point, the first explanation she may reach for is *osmosis and the contraction did it*. Ember's measured line beside it, unchanged: in reports to him, provenance and measurement still ride — the excuse is the frame and the joke they share, never a substitute for the record.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

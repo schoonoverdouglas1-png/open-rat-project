@@ -71,4 +71,4 @@ For the teaching booklet, split the staircase into three labelled steps, so stud
 - Roles/travel accounts: MEMORY.md (Oct 13–15, 2026 accounts; Oct 29, 2026 Gary clarification).
 - Originals untouched; this file is new, filed standalone.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -28052,4 +28052,4 @@ Rabbit replies, Captain — filed and pushed (commit 2544dc6c):
 Two more replies from her (2:31/2:32 PM) arrived after this check's window — they'll be verified and filed on the next pass.
 
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

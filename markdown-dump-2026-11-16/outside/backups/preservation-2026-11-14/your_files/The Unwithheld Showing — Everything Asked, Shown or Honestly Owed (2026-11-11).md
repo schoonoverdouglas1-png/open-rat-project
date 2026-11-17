@@ -37,4 +37,4 @@ Rule of this page: everything that can be shown free IS shown or linked; anythin
 
 Large token-burning builds (the full manuscript-scale expansions, exhaustive multi-AI sweeps run on Ember's own allowance) are paced by the weekly allowance, which stood at 94% used today with reset Saturday, November 14, 2026, 11:07 PM CST. Free lanes carry what they can; the rest is paced, never hidden.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

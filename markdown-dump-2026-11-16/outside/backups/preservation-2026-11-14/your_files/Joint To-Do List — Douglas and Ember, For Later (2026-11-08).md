@@ -37,4 +37,4 @@ Made Sun Nov 8, 2026, ~5:19 AM CST, at Douglas's direction: Ember works solo as 
 - **Sat Nov 14, 11:07 PM:** Power plan reset (currently ~18% used)
 - **Dec 21, 2026:** GitHub 2FA deadline
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -19,4 +19,4 @@ Modes are not switches that cancel each other; they are **layers**, each governi
 
 Nothing in the stack lifts a standing limit: no purchase/send/deletion/sign-in retry without his say-so on the exact action, no credentials through Ember, no clinician contact, no destructive automation. Kick-ass runs at full power *inside* the lines — that's what makes it sustainable.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

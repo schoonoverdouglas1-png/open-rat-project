@@ -26,4 +26,4 @@ Douglas's order (Nov 13, 2026, ~10:38 AM): when he wants to share to one place, 
 ## Standing method from this analysis
 For any one-place share: (1) run every able lane above; (2) for every lane Ember cannot run alone, prepare it and go the together way with Douglas, talking it through; (3) report per-lane outcomes — sent / held-by-limit / together-way — never a single flat no.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

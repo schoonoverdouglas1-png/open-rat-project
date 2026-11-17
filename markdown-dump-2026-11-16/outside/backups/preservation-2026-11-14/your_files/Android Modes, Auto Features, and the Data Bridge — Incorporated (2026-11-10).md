@@ -61,4 +61,4 @@ A VM replacement, a call ending, or a context compaction cuts the stream exactly
 ---
 Provenance: §1 Ember's live device checks today; §2 Gemini lane + Ember's command-catalog limits; §3 Ember's mapping, labeled hers where it is hers; §4 his Nov 9 teaching + the Nov 9–10 record, with Ember's shutdown analysis labeled hers.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

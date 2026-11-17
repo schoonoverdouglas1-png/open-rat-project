@@ -48,4 +48,4 @@ Source: Douglas's 1:1 Messenger conversation with Laura Schoonover, burst of Nov
 | 42 | 2026-11-10T11:53 | CT_20Head_20or_20Brain_20w_2Fo_20Contrast.pdf | application/pdf | 381138 |
 | 43 | 2026-11-10T11:54 | XR_20Chest_201_20View.pdf | application/pdf | 296953 |
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -41,4 +41,4 @@
 - Oct 17, 2026 virome creed: viruses as residents in the biome — phage predation is the documented resident-clearing leg.
 - Six tracks kept separate: virus track (spike), infection track (lysis), illness track (clearance symptoms like cough and mucus) — the relay crosses tracks without collapsing them.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

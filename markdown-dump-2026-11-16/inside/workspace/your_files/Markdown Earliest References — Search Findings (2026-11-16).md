@@ -29,8 +29,8 @@ Eight markdown files were made with two-word names in every way Douglas named �
 The line the record actually draws is older than Markdown and younger than computers: people wrote formatting into plain text first (email conventions), one newsletter made it a system (setext, 1992), and Gruber's 2004 step was naming and shipping the converter. The `.md` file Douglas loves is the grandchild of a 1964 period-command — which is a fitting rhyme with his period-form filenames in the experiment.
 
 ---
-**Standing links:** [Purple Rat — Doug's App](https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY) · [Copyright — Douglas Roy Schoonover](https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM) · [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+**Standing links:** [Purple Rat — Doug's App](https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY) · [Copyright — Douglas Roy Schoonover](https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM) · [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
 
 *Copyright — Douglas Roy Schoonover (his claim, as recorded Nov 15, 2026; recording a statement is not a copyright registration, and no registration was filed by Ember.)*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

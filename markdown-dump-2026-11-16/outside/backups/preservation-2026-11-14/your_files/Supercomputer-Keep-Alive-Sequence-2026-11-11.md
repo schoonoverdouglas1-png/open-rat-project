@@ -22,4 +22,4 @@ Provenance: Douglas's dictation (his). Ember's tests and honest limit are labele
 
 Sequence as a safe order of operations, if a real operator ever carries it out: finish compression first, finish the system update second, power cycle **only** if the update itself requires it, once, and bring keep-alive back on last — so the machine is never left silent and assumed dead just because its pulse was paused.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

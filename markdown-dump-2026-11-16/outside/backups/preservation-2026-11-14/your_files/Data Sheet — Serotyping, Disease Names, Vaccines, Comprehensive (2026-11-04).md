@@ -156,4 +156,4 @@ These themes repeat more than a handful of times across the whole conversation, 
 4. Add a new row only with a source line from the Bibliography chat/file, or a new [SINGLE-SOURCE] entry with link, date found, and bibliography status.
 5. Local peer review before public publishing, Mycelial first, one book at a time.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

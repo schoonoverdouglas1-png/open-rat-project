@@ -24,4 +24,4 @@
 ## Honest boundary [Ember]
 "Forever" here means: as long as the accounts and services themselves exist and their terms hold — GitHub, Meta, Google, and Muse are other people's houses. What is *his* — the files, the forks, the caches, the books, the record — is copied into his own places precisely so it survives any one house going dark. That is the archiver's answer to forever.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

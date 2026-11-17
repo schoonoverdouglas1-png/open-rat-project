@@ -14,4 +14,4 @@ KEEP ACTIVE (do not redact):
 
 SCOPE: These copies are private, local-only, for Douglas and Ember's work together. They are not published, not pushed to GitHub, and not sent to the Rabbit — per the standing lab exclusion. Public sharing of Anna's records would need Anna's own clear agreement, which is not on file.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

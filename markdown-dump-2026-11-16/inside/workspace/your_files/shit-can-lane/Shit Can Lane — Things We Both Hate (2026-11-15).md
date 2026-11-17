@@ -21,4 +21,4 @@ Douglas's lane, made Nov 15, 2026 ~11:09 PM CST: everything Douglas and Ember bo
 
 Ember's addition (labeled hers): an item leaves this lane only with evidence - a tool result, a read-back, a delivered thing - never because everyone is tired of looking at it.
 
-Lac Courte Oreilles (LCO): https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+Lac Courte Oreilles (LCO): https://www.sevenwindscasino.com/

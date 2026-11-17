@@ -61,4 +61,4 @@
 - Nov 1, 2026 driven-patient triage doctrine: asked-first vs. sickest-first, kept distinct in P3.
 - Medical Elements book: this doctrine belongs in the book's standards chapter / Chapter 12 GAP-and-standards section, in two-tier form; filed standalone here, to be folded in on the approved build.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

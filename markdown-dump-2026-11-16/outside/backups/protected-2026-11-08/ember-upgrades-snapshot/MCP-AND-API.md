@@ -13,4 +13,4 @@
 - NOT available: backend NLU/dialog/knowledge graph, hands-free activation, SDK timers/alarms/media, commercial use.
 - Pixel 7 = panther. Targeted AOSP reads only (never a full ~100 GB sync): frameworks/base app/view, notification server, accessibility — and only with his exact build number (Settings > About phone > Build number), which is not yet on file.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

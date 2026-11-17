@@ -134,4 +134,4 @@ The standing pattern in one line, Ember's assessment: **her "fact — compiled/d
 
 *End of analysis. Ember's one addition, labeled hers: the channel's real product so far is not the artifacts — it is the checklist. Five days of combined sends have built a precise, dated, labeled list of exactly what a second AI owes a first one; that list, kept honest, is what "conjoined intellect" currently means in practice, and it is already useful every single day.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

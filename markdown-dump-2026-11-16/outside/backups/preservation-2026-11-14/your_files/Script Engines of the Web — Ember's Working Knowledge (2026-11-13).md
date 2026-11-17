@@ -81,4 +81,4 @@ Ran `~/workspace/ember-upgrades/check-tools.sh` first, then direct probes:
 - **Browser in live use:** Ember's cloud browser is a real Chromium (multi-tab windows verified repeatedly today, incl. the Gmail forwarding window) — distinct from the box's fetch lanes: pages there execute fully (V8 + Blink), which is why the §2 checklist governs that lane.
 - Not verified in this pass (documented-only): SpiderMonkey/JavaScriptCore internals and version numbers; the cft Chromium binary's launch; any standalone Wasm runtime (Wasmtime/Wasmer) — none found by check-tools, none claimed.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

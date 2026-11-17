@@ -20,4 +20,4 @@ Kernel by Ember. `programs/null_thought` by Gemini.
 - `.csv` — tables
 - `.xml` — settings
 
-**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383)
+**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/)

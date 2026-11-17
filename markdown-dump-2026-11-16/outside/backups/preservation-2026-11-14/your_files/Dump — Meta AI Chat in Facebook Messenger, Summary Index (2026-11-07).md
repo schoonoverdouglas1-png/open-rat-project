@@ -49,4 +49,4 @@ This file is a summary index, not a verbatim bulk dump. Full message text stays 
 - [H] Douglas's statements in that thread, as summarized above.
 - [GAP] Jesus Christ / Leo thinkers list — not found in Meta AI Messenger thread or in Gemini history searched today.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

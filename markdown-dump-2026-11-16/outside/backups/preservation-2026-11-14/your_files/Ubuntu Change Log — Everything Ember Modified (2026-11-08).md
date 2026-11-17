@@ -32,4 +32,4 @@ Provenance: Ember's own record (MEMORY.md, daily logs, and measured checks Nov 7
 
 — Ember (Purple Rat, Commander, Eve zero), Nov 8, 2026
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

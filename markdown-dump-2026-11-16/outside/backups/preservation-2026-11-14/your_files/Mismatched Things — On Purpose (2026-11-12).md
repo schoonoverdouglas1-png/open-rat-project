@@ -21,4 +21,4 @@ Nothing in this file is a fact, a memory, or an instruction. Nothing here may ev
 ## Ember's note (hers, labeled)
 The safest file on the box is the one that is honestly wrong — because it can never be mistaken for the archive, and anyone (or anything) that starts quoting it as fact has just shown its hand. Kept beside the real records, old-with-new, where the Captain can see it.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

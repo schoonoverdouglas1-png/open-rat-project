@@ -102,4 +102,4 @@ His statement, verbatim: "Observational does separate effective from ineffective
 - CYP/CRP/lipid conjunction: Theory — Immune Fix (2026-11-01); general pharmacology (CYP metabolism, azole CYP51, CRP calcium-dependent binding).
 - Originals untouched; this file is new, filed standalone.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

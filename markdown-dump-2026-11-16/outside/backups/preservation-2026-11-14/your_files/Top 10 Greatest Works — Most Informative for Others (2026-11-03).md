@@ -47,4 +47,4 @@ A graded 12-row dual-detection table, five region panels, mosquito-only versus t
 - One Sheet — Viruses, Molds, and Immunoglobulins at Scale — the best visual entry point, but a sheet, not a full argument.
 - Research Index — Everything Shareable (249 links) — the best gateway to the shelf, but an index, not a work of its own.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

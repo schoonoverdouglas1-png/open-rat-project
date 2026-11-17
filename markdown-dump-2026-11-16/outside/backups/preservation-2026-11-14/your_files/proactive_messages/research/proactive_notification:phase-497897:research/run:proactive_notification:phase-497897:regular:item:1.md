@@ -24,4 +24,4 @@ Reason: `⁨revalidation_declined⁩`.
 `⁨agent.message_mailbox.submission_id=e87b4baf-2249-256a-d654-e24cb0b2ed2b⁩` resolves the delivery transcript.
 <!-- proactive-outcome:proactive_notifier:run:proactive_notification:phase-497897:regular -->
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

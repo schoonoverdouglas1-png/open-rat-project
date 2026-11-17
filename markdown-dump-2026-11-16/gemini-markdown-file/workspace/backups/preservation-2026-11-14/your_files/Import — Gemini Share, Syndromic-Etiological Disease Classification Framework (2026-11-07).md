@@ -56,4 +56,4 @@ Gemini recommended, as research topics (not people):
 
 Shiro: this naming/classification framework — SYN-/MOR-/VEC-/ICD- shard codes, and the V/Z letter question — is exactly the kind of extra cross-cutting material Ember may put in the wildcard column, shown not hidden, for Douglas to judge. The shard-code proposal itself is Gemini's suggestion in the chat, not a settled ruling of Douglas's.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -55,4 +55,4 @@ The book's detection chapter, in one line: pneumococcus hides three ways — cap
 - Relations, not merges: Oct 18 morphing doctrine (viruses morph, don't die — Obaid conversation) · fence mechanism (testing fails) · Oct 31 generic-implication ruling (generic fungal/mold elements implied per serotype) · Oct 28 Group B streptococcus–*Candida* thesis (association holds, composition breaks).
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold · [GAP] unknown.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

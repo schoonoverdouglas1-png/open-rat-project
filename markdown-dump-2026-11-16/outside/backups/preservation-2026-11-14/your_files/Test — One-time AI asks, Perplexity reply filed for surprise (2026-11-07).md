@@ -36,4 +36,4 @@ Other notes:
 - Follow-up suggestions were shown and not clicked: "What are the publishable data sources for this prediction", "How does spatial structure alter ordinary coinfection models", "What specific intervention data would we reanalyze first", "Can we formalize this cross-compartment dependency mathematically", "What are the limitations of this testable prediction".
 - The new session is now at the top of Recents.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

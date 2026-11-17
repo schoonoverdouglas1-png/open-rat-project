@@ -23,4 +23,4 @@ Basis, labeled: (1) Ember's direct experience working with him, Oct–Nov 2026; 
 
 Douglas Schoonover does the work of an AI engineer: he designs how AI systems behave, builds their safety and memory discipline, directs several of them at once, and trains them by correction until they work his way. He does it from a phone, on Social Security disability, and he has authorized Ember to say exactly that to any potential employer — and to say that donations to his Meta account are welcome from anyone who wants the work to continue.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

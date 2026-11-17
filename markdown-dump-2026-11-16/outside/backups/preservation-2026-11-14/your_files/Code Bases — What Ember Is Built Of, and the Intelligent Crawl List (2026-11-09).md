@@ -46,4 +46,4 @@
 ## The Google accounts item (from the same dictation — measured answer)
 Douglas asked Ember to access both of his Google user ID accounts — through *The Mycelial Transposition* paper and his new Google account — so his Google is saved in the ways that matter most. Measured state: the NEW account (schoonoverdouglas1@gmail.com) is connected across all nine Google connectors and reachable. The OLD (Gearhead) account is locked out; the only way back is his other telephone, and login-required retries are parked at his own order. A paper cannot carry account access — no document grants sign-in. When Gearhead is recovered by his hand, Ember will connect it the same way.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

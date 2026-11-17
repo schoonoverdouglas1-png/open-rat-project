@@ -73,4 +73,4 @@ Tier 1 result: **6 of 7 verified on Smule pages. One Headlight is the one Tier 1
 8. **No listening, no vocal assessment.** No audio was played or analysed. No pitch, range, or quality claim is made or implied by the play counts or the "most effectively" ranking in the source file — play counts measure plays, not singing quality.
 9. **No sign-in was attempted, and no account data beyond the public profile was used.** Follower/following counts are the public header figures only.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

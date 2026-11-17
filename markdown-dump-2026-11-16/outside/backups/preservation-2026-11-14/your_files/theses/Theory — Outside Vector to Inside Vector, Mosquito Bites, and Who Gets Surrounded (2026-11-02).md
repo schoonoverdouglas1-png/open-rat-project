@@ -39,4 +39,4 @@ Name the gradient, don't just name the groups: place, season, work, shelter, and
 - Whether "jungle rot" in his great-grandfather's telling meant a specific skin condition, a general term for tropical skin trouble, or something else — [GAP].
 - No prevention or treatment claim is made here for any person.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

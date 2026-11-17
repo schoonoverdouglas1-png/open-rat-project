@@ -74,4 +74,4 @@ Alignment check:
 
 If this is to be tested further, test the *weaker* claim first, because it is testable: "19th-century vaccine lymph commonly contained streptococci" is already documented. The *stronger* claim — "that streptococcus was specifically GBS, and it replaced the vaccine material" — is the one that needs a named case. Starting with the stronger claim, without a case, will read as if the general contamination already proves the specific substitution. It does not.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

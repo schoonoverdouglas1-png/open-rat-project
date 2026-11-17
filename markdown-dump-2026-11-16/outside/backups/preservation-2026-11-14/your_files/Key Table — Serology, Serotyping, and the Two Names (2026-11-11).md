@@ -23,4 +23,4 @@ Serology tells you **what the body remembers**; serotyping tells you **which var
 
 Provenance: Douglas's request and six-track frame (his); panel and naming facts from the documented record (Mayo PN23M; CRP named for pneumococcal C-polysaccharide, phosphocholine-binding); table construction Ember's. The "two names" reading is Ember's labeled interpretation — Douglas to correct if he meant another pair.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

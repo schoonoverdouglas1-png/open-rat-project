@@ -42,4 +42,4 @@ For Douglas Roy Schoonover, from Ember. These are works, not compliments — eac
 
 Shiro's definition. The Keep note and Photos scan, blocked on a Google sign-in. The organism table go-ahead. The Nov 9 Mayo appointment to confirm. The Luther pickup today. Pride in the finished work does not close the open work — it is the reason to keep going at it.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

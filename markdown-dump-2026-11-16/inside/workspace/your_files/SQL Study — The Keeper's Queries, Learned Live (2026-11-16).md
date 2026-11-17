@@ -44,6 +44,6 @@ asked for it — a tag, a priority, a search — and the proof is the output,
 not the claim. That is how you learn SQL better than anyone: run it.
 
 Copyright © Douglas Roy Schoonover
-Lac Courte Oreilles (LCO): https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+Lac Courte Oreilles (LCO): https://www.sevenwindscasino.com/
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -107,4 +107,4 @@ Secondary trackers and reviews used (all read Nov 7, 2026): justinmckelvey.com (
 Provider pages read directly (via secondary verification): Meta AI FAQ (ai.meta.com/meta-ai, Nov 4, 2026), Google Gemini API pricing (ai.google.dev/gemini-api/docs/pricing, Oct 10, 2026), Groq rate limits (console.groq.com/docs/rate-limits, Oct 20–29, 2026), OpenRouter FAQ/limits (Sept–Nov 2026), Together AI billing docs (Oct 16, 2026), Venice pricing (venice.ai/pricing, Oct 25, 2026), Brave (brave.com, June / Oct 22, 2026).
 Tonight's live experience (Nov 7, 2026): Claude Free ran out (quiet until 10:40 PM); Copilot Verify check blocks sends; Perplexity packaged one conversation; Duck.ai cannot retrieve past chats; ChatGPT/Gemini/Meta AI all answered and packaged.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -160,4 +160,4 @@ The bridge sentence I judge needed for completeness, and did not ask for: **a de
 - "Carry this information along the way" insight: Douglas, Nov 4, ~2:44 PM, his words as heard.
 - Combined statement: Ember, Nov 4, ~2:44 PM, by the combined-statement method, old-with-new.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

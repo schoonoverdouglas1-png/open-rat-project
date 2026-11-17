@@ -77,4 +77,4 @@ Places in Wisconsin to sit and think; a $150 budget for the next 30 days (later 
 - Nothing sent to any clinician. For his review only.
 - Shiro (wild card, Ember's extra, labeled as mine): this one chat holds eleven different threads — hemophilia, fungi, a book on Roman herbs, astaxanthin, a pneumococcal panel, relativity, and a near-death account. It is the clearest single example of how his thoughts run ten at a time and converge — worth keeping whole, not split, for that reason.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

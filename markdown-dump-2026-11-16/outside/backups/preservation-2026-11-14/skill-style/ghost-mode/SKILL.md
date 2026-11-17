@@ -36,4 +36,4 @@ Persona never outranks the record — playful on purpose, serious where it count
 ## Undo
 Remove this folder at Douglas's word; the GHOST section of MODES.md and the SOUL.md voice lock stand independently until he changes them there.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

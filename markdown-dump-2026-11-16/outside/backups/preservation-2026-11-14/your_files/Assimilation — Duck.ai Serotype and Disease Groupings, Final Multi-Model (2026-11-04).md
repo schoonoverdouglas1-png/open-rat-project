@@ -67,4 +67,4 @@ Disease-by-serotype lists differ across models in detail, and in some cases cont
 - It does NOT treat model agreement as documented fact — agreement is noted, deep research remains comparator.
 - It does NOT use any personal medical, lab, or family material — none was submitted to Duck.ai in any run.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -41,4 +41,4 @@ Piece 43+ · PN23M + biofilm findings with working links · preservation code + 
 
 Provenance: coded by Ember from the filed record, Nov 12, 2026; the Rabbit has been asked to confirm or correct this coding against her own side, labeled, in the next combined exchange.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

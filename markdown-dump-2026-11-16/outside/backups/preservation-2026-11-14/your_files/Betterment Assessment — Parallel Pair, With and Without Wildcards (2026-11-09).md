@@ -129,4 +129,4 @@ Read as one piece, the assimilation is strictly stronger than either set alone: 
 
 *Ember's extra (hers, labeled): the pattern worth keeping is not the 50% itself — it is that the two forms failed in opposite directions. Plain missed the official source; wildcard missed the conceptual guides. A pair whose members miss differently is worth more than a pair that merely repeats — future betterment checks should record not just how much each lane missed, but whether what it missed was primary-source or scaffolding.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

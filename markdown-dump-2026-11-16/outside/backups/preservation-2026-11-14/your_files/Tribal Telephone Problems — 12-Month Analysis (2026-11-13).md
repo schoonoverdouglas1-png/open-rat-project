@@ -175,4 +175,4 @@ This is **everything the public, indexed record lets an outside reader reach —
 
 *Compiled from three parallel research lanes (seed verification; Midwest/Great Lakes/Northern Plains; Southwest/West/Alaska/Oklahoma/East), Nov 13, 2026. Quotes held to ≤50 words per source. Companion file: "LCO Telephone and Communication Items — Sweep (2026-11-13)."*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

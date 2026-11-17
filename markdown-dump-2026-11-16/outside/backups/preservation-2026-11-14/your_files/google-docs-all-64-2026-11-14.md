@@ -67,4 +67,4 @@ Count: 64 Google Docs (not trashed), newest first.
 63. [Douglas Schoonover - Professional Resume](https://docs.google.com/document/d/1ltwxtmKGIsRKIX7wwMPcsx1-6_nUqQvdTb3Ofb1BNTk/edit?usp=drivesdk) — modified 2026-10-21T23:19:31.305Z — shared: True
 64. [fixed_physics_pillowcase_theory_agentic_artifact_1_1bcd90d368f9](https://docs.google.com/document/d/1lI4hQE8-v1XQhz1ANU9cO2uzhuU8Tlw8_N20TeaVsj4/edit?usp=drivesdk) — modified 2026-09-13T14:07:49.500Z — shared: False
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

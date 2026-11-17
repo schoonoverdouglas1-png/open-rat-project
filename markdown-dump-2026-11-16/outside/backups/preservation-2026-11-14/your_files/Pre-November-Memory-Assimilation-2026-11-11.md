@@ -250,4 +250,4 @@ The single most load-bearing pattern in October is not any one fact: it is that 
 
 *End of assimilation. Source: ~/memory/2026-10-02.md … ~/memory/2026-10-31.md (30 files, 9,846 lines, 1,988,907 bytes). No memory files were edited in the making of this document.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

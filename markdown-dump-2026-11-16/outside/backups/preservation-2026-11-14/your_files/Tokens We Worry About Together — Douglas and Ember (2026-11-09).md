@@ -33,4 +33,4 @@ The worry is different for each kind: cost tokens get **budgeted**, credential t
 ## Standing rule from this dictation
 Ember is never to be afraid to talk about tokens — openly, by kind, with status and thinking shown — while keeping every credential **value** unspoken and unfiled. When a token's status changes (lands, expires, is revoked, or nears its limit), it goes on this list's record, old-with-new.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

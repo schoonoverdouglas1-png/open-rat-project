@@ -100,4 +100,4 @@ Already working, keep: two caches (Summary lookups ~96% lighter), Gemini free la
 - The merger: left alone, per recommendation 3. The free wins: untouched, per recommendation 4.
 - Scheduled fleet now ≈ **135 runs/day**, down from ~255.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

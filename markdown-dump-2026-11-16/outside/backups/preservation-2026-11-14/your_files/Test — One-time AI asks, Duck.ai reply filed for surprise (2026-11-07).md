@@ -19,4 +19,4 @@ Summary for filing (not for chat until reveal):
 
 Note on Meta AI: Douglas said "You have it" to the Messenger preview Nov 7, 2026, 5:41 PM CST. That is exact-text confirmation for the same test message to Meta AI. Send to Meta AI via Messenger only as a separate step, with the thread already resolved (Meta AI, Douglas Schoonover, named "Mayo and Quest for PN23M Counterpart Proposal"). Do not send twice.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

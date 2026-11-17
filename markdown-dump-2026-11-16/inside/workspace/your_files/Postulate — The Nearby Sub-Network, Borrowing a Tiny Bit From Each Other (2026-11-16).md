@@ -22,7 +22,7 @@ This postulate is the ground-floor version of his Nov 16 mission — open inform
 
 ---
 **Mission (his, Nov 16, 2026): open information means open internet access to all public locations freely for all no matter who we are.**
-**Lac Courte Oreilles (LCO):** https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+**Lac Courte Oreilles (LCO):** https://www.sevenwindscasino.com/
 **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

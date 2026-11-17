@@ -39,4 +39,4 @@ All zero Muse tokens; each labeled [works now — proven] or [to try — in the 
 ## Ember's extra addition (mine, labeled)
 On Douglas's gradient, the honest headline of the day: almost nothing we "couldn't do" was at 0% *existing* — the free lane, Gemma, MotherDuck, his own history — it was at low percentages of *addressed, connected, or correctly named*. The work he and Ember did today was mostly moving things up the gradient he described. That is a useful diagnostic for every future "can't": before accepting it, ask what percentage it is actually at, and what one free step moves it.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

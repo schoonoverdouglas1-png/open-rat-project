@@ -84,4 +84,4 @@ This aligns with, and does not replace, the standing rules already on file: rese
 - It does not merge the toxoid bridge synthesis into any commissioned book file. Merges proposed in Recommendations 2 and 6 are proposals, to be built as new files / new sections when Douglas says yes to each specific merge, per his standing rule against auto-attachment.
 - It does not treat any hypothesis in the share as an established fact, even where the share's wording is confident. Unconventional connections are explored, filed as [H], and tested — not upgraded.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

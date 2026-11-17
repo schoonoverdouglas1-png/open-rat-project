@@ -112,4 +112,4 @@ The difference was discipline: flash-lite delivered exactly five labeled sentenc
 - **SearXNG: not installed** — still downloaded-only at `~/workspace/ember-upgrades/repos/searxng`, awaiting Douglas's explicit install go.
 - **Nothing sent** to any person or AI chat; **MotherDuck untouched**; no credentials read or used beyond the Gemini helper's own surrogate-credential route; no account touched; no destructive command run (Guard).
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

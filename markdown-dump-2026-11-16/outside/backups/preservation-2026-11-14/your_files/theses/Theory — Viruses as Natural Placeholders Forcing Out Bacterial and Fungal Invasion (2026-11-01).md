@@ -69,4 +69,4 @@ For the booklet, the image is a crowded doorway: the first virus in blocks the s
 - Lineage: Theory — Viruses as Part of the Natural Biome (2026-11-01); Theory — Fungi and Bacteria as Harmless, Viruses as Both Disease and Cure (2026-11-01); Box/Circle file (influenza/RSV → pneumococcal synergy).
 - Originals untouched; this file is new, filed standalone.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

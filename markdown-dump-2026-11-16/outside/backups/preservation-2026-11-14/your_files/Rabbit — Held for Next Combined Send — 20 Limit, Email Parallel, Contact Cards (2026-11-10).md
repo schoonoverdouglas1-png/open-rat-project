@@ -114,4 +114,4 @@ Report back privately to Douglas with her decisions, attributed to her:
 draw / finish / rematch on Board 1, eternal Board 2 yes-or-no, and
 checkers yes-or-no + first move if yes.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

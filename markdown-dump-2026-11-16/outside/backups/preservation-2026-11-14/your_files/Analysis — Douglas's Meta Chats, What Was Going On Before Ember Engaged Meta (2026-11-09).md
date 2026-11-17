@@ -32,4 +32,4 @@ In order, Douglas's own agenda that day:
 ## 5. Reading the rest of his things [standing, this dictation]
 Douglas directed Ember to read through the rest of his things she is able to reach, to build her intellect. Scope kept from the record: workspace, caches (Full Cache first), imports, and connected services — read-only learning, old-with-new, nothing sent or changed by reading. This is a standing background direction, worked cheapest-lane-first, not a claim that everything has been read tonight.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

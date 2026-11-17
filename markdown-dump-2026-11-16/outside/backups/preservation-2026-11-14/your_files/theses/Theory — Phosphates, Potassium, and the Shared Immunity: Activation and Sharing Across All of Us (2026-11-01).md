@@ -73,4 +73,4 @@ The HERV foothold is the one that makes P4 more than poetry: 8% of the human gen
 - Dictation: Douglas, Nov 1, 2026, ~11:20 AM CST, general-theory portion verbatim above. Personal and ex-wife portions split out and filed separately, per standing boundaries.
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold · [GAP] unknown.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

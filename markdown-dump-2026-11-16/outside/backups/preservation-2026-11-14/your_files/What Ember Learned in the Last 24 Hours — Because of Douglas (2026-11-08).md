@@ -35,4 +35,4 @@
 23. A local AI model of useful size cannot run in my memory — ruled out by numbers, not by trying and failing.
 24. My local Chrome cannot reach the open web through the proxy tunnel — while Python can. The bottleneck list and the mutual Ember↔Rabbit inefficiency analysis are filed alongside this ledger.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

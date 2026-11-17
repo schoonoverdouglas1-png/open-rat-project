@@ -27,4 +27,4 @@ In his words (as heard): "Most likely, as I was stating, it's not impossible qua
 ## Ember's one extra thing [E — mine]
 Your three postulates, read together, are one postulate in three layers: what is alive in memory must not be clobbered (P1), the transfers between parts are where the action and the loss both live (P2), and the dead spots in the transfers are the work — old first (P3). That is also, exactly, the shape of today's session: a misheard word was a dead head in the transfer between us, and fixing it old-first (the forwarding flow, the cancelled automation) before any future work is what we just did. Filed as my observation, for whatever it's worth to the books.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

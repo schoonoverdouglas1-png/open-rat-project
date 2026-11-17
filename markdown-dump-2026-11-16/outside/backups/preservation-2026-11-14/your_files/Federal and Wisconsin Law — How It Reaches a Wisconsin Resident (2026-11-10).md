@@ -315,4 +315,4 @@ Primary and official sources were preferred throughout; each section above cites
 
 — *End of study. Filed Nov 10, 2026, per Douglas's commission: "so that you know what law is that I choose to follow."* [his framing]
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

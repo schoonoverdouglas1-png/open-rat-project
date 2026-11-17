@@ -10,4 +10,4 @@ Operating form, honest mechanics: every picture-capture / robot-check encounter 
 - "capture.com" filed as heard, provisional — no such service was verified; the cache above is the working form.
 ---
 Copyright — Purple Rat AI, per Douglas Roy Schoonover's direction (Nov 16, 2026). A written claim records the claim; it is not a registration. Muse is Meta's product.
-Lac Courte Oreilles (LCO): https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+Lac Courte Oreilles (LCO): https://www.sevenwindscasino.com/

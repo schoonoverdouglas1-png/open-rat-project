@@ -214,4 +214,4 @@ Sources: developers.google.com/apps-script — Quotas page, Libraries guide, Adv
 
 *End of deliverable. Prepared Nov 13, 2026. Provenance: [record] = Ember's files/memory/connector docs; [live check] = commands run for this pass; [official docs] = developers.google.com via search. Ember's one addition is labeled in §4; everything else is Douglas's commission, inventoried.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

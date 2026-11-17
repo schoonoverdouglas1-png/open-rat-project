@@ -17,4 +17,4 @@ Keyboards lie by location. A * on an American phone keypad, a # called pound in 
 
 When the keyboard in front of you is the wrong one, the inverted keyboard is its mirror image — type wrong, come out right, and the wildcard symbols always have a home.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

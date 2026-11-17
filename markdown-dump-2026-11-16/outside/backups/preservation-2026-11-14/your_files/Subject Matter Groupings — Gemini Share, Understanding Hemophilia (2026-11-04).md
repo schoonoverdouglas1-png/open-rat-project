@@ -92,4 +92,4 @@ Note, filed without interpretation: topics 6, 25, and 26 are headings from the s
 ## Ember's extra addition (labeled as mine)
 Cross-group reading: this one share alone already spans Douglas's six separate tracks — the blood/clinical track (Group A), the microbial/immunology track (Group B), the classical-medicine track (Group C), and the physics/philosophy track (Group D) — without collapsing them into one another. Group B's pneumococcal cluster (15–22) is the most self-contained thread in the share and would be the cleanest candidate to lift out as its own standalone grouping next, if he wants one group expanded first.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

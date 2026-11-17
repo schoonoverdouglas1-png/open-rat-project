@@ -52,4 +52,4 @@ In his compressed form: early ARBO serotyping → encephalitis as a serotyped na
 - Question for Ember to ask him: in the triad, is tetanus there because of TT as a carrier, because of tetanus disease, or because of both?
 - Ember's random addition, labelled as hers, not fact: the word "multiplex" itself — multi- (many) + -plex (fold) — fits his nesting-doll / folding picture, but that etymology does not prove a multiplex panel exists for this triad.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -27,4 +27,4 @@ Two documents, two tracks of the same method: **put it on the record, in a forma
 ## Ember's addition (hers, labeled)
 Document 1 belongs in the medical-research goal beside his other nomenclature work (it predates and parallels the Historical & Modern Therapeutics of Disease Nomenclature line); Document 2 belongs with his private records — filed, not shared — and its Gearhead contact address is one more reason the Gearhead recovery matters: any IC3 follow-up would go to that locked inbox.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

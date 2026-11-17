@@ -57,4 +57,4 @@ Two things for the book. First, the age × presentation table: young immunocompe
 - Relations, not merges: §204 ruling (dematiaceous = dark-pigmented molds; 80+ molds across 40 genera; worldwide, tropical/subtropical-leaning) · §203 (mold as a fourth category, distinct from bacteria, yeast, and fungus, his taxonomy) · diphtheria theory addendum (Aspergillus pseudomembrane roster) · One Sheet (black mold spore 7–12 µm beside *Aspergillus* 2–3 µm).
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold · [GAP] unknown.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

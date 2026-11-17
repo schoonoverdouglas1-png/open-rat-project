@@ -67,4 +67,4 @@ Bacteria wear sugar coats to hide from the immune system. Some fungi wear sugar 
 ## Ember's own addition, labeled as hers
 This is the piece that completes the soy → bacterial → fungal arc Douglas built across the Gemini share and this dictation, and it belongs in the vaccine-toxoid-research repository next to the toxoid table — not because the fungal work is settled, but because the *pattern* is now visible in one place: same glycoconjugate trick, three kingdoms of sugar coats. The next useful test, when he directs it, is the *C. gattii* and *C. auris* gaps, one search each, before they are folded into the matrix as settled.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

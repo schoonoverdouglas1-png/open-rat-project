@@ -109,4 +109,4 @@ against the UI we actually used, and the reverse-engineered API call is a terms-
 risk I will not use. Browser automation and Together.ai (with its own key, his call) are the
 clean routes if we ever want Duck.ai without the chat box.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

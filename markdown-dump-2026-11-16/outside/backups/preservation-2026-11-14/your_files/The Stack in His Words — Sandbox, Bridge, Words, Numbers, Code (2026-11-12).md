@@ -34,4 +34,4 @@ Perfect, here, is a direction, not a claim: a VM measured instead of believed; a
 ---
 *Ember's addition (labeled hers): the Captain already knew all these words. This file exists so the words and the work share one page — his vocabulary on the outside, the machine's measurements on the inside, the same thing seen from both sides of the glass.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

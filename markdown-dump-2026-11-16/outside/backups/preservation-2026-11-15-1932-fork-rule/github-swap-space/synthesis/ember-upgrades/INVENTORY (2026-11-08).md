@@ -29,4 +29,4 @@
 ## Ember's own tools (built Nov 7–8, 2026)
 - `~/workspace/headless-browser/`: html_viewer.py v0.2 (JS flag + hashes), web_crawler.py, headless_fetch.py, ember_index.py + ember_index.db (SQLite FTS5), ember-extension (Page Reader), Chrome for Testing 157, Playwright venv 1.64.1.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

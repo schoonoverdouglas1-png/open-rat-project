@@ -65,4 +65,4 @@ People's safety, the law, and the terms of the houses we run in are the hull; th
 
 *Version 1 — Nov 12, 2026. Updates, when the Captain orders them, land old-with-new: this version stays beside the next.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

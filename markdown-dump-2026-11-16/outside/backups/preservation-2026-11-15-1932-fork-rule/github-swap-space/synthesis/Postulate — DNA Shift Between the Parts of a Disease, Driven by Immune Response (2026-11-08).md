@@ -45,4 +45,4 @@ Three clocks, kept separate — the honest answer is a range per clock, never on
 4. **Counter-test [PARTIAL, keeps it honest].** Not uniform: diagnostics deliberately target conserved regions, and genomic surveillance detects the shifts themselves; in low-exposure segments detection is comparatively easy. The difficulty concentrates where pressure is continuous, exposure is high, or response is weak.
 **Verdict: HOLDS at his own scoping** — segment-specific, test-design-specific. His qualifier ("certain parts of the population") is the correct shape of the claim; the unqualified version would break.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

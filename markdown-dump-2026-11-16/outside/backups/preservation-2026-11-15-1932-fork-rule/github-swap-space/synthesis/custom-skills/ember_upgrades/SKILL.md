@@ -25,4 +25,4 @@ description: Ember's self-upgrade pack from the Nov 7, 2026 six-AI research roun
 ## Channels
 - Follow `MCP-AND-API.md`: API/CLI/MCP before chat UI; RCS is a dead end; GitHub swap space is the shared brain.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -74,4 +74,4 @@ Douglas confirmed by option tap: **"Arvaris" means arbovirus.** That resolves th
 - **Red blood cells specifically:** mature red blood cells have no nucleus and cannot support viral replication; they can carry virus particles on their surface or in plasma, but they do not make them. White blood cells, by contrast, can be infected and can produce virus — again, as hosts, not as raw material.
 - **Sharpened sentence:** *Arboviruses travel in our blood and can infect our white blood cells, but they are made from their own viral parts, assembled inside host cells — not made from red or white blood cells themselves.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

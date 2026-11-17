@@ -25,4 +25,4 @@ These are the sites Ember actually visited/used in the Nov 11, 2026 emulator ses
 
 [Ember's note] Rule that goes with this list, Douglas's own: sandbox everything in the browser where possible — in these places you can't hurt anything, and it's free and faster.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

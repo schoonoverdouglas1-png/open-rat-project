@@ -70,4 +70,4 @@ For the booklet, teach this as a naming timeline, not a naming decision: phthisi
 - History sources (searched Nov 1, 2026): TB as phthisis/consumption; TB and pneumonia as two leading early-1900s causes; TB not a single disease until the 1820s, name coined 1839; Laennec's unity, Virchow's caseous-pneumonia duality, Koch 1882; MTBC as a group, 2018 synonymy at 99.21–99.92% identity.
 - Originals untouched; this file is new, filed standalone.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

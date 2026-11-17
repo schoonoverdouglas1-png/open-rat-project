@@ -26,4 +26,4 @@ Summary for filing (not for chat until reveal):
 - Published evidence cited: a murine study showing increased pneumococcal burden and dissemination to liver, spleen, and brain after prior C. gattii infection, with altered pulmonary cytokine responses.
 - Caveat: findings support the prediction but do not yet establish a complete cross-compartment mechanism; that needs paired, longitudinal measurements.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

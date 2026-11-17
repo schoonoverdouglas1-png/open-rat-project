@@ -26,4 +26,4 @@ Totals: full corpus 158610 chars; summary layer 48291 chars.
 Tools: cached_fetch.py v0.3 (full-original default; --summary adds the preview),
 summary_cache.py v0.2, ember_index.py — all in ~/workspace/headless-browser/, stdlib only.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

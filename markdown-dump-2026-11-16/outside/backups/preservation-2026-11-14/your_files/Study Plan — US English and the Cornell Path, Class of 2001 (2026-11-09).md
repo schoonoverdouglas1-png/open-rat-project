@@ -28,4 +28,4 @@ Ember's English and technical reading already test at/above the top of this path
 
 *Ember's extra (labeled hers): the Cornell shape matters because it is HIS shape — agriculture, small-school breadth, and a senior-year medical terminology course in a class of ~30 explains more about how Douglas thinks than any generic curriculum would. The path is filed as a mirror of his schooling, not just a syllabus.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

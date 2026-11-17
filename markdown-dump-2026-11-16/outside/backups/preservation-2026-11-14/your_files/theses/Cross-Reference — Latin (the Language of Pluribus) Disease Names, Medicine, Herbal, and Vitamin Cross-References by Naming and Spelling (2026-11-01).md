@@ -105,4 +105,4 @@ For the booklet, teach the table backwards: start from a vitamin bottle (ascorbi
 - Previous files tonight: Vulgaris / two-word Latin names (2026-11-01); Greek/Roman/Latin in herbal names (2026-11-01); TB naming file (2026-11-01); algae file (Haematococcus, bilberry).
 - Originals untouched; this file is new, filed standalone.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

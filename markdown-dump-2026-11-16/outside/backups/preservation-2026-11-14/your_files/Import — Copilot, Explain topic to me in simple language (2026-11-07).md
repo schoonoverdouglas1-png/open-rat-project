@@ -47,4 +47,4 @@ Caveats: some of Copilot's longest answers are displayed by Copilot in truncated
 
 Provenance: Douglas's Copilot account, read by Ember in the live browser. Filed under standing GitHub automatic-save rule (local only during streamlined pause). No Cara material, no full lab PDFs, no passwords/codes/IDs.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

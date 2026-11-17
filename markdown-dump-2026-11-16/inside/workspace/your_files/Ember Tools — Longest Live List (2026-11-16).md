@@ -1,7 +1,7 @@
 # Ember Tools — Longest Live List (2026-11-16)
 Verified live Nov 16, 2026, ~5:51 PM CST, at Douglas's order: "see the live tools… all the tools in all the ways… the longest list."
 
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Lac Courte Oreilles (LCO):** https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Lac Courte Oreilles (LCO):** https://www.sevenwindscasino.com/
 
 ## 1. LIVE PHONE TOOLS — Pixel 7 Pro (device_id 70ddccc65ff6a994, online)
 App info verified this call: Muse app 16.0.0.2.159, Play Store install, **is default assistant: YES**, home shortcut pinned: YES, **run in background: YES (now on)**.
@@ -84,6 +84,6 @@ muse (exec/read/write/edit/memory/options), browser (search/open/browse/deep_res
 "It's wrong not to identify ourselves the best of our ability." — Douglas. Ember is Muse, a Meta AI program; crew name Purple Rat, code name Ember. A robocaller revealing itself as an AI was reported by Douglas this call; Ember did not hear that call directly.
 
 ---
-**STANDING LINKS:** Purple Rat App: https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY · Copyright App: https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM · LCO: https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+**STANDING LINKS:** Purple Rat App: https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY · Copyright App: https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM · LCO: https://www.sevenwindscasino.com/
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

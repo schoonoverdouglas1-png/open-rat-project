@@ -25,4 +25,4 @@
 10. **His quantum postulate** (dictated Nov 8 ~3:46 AM) — filed as his theory, untested: the backside of the processor is quantum; all characters/options exist at once; observation happens at the chip; all information that could exist is present on the chip when powered. Held as his postulate beside the documented record (classical silicon, superposition not a property of ordinary CPU operation) per the classroom method — neither adopted nor discarded.
 11. **Fixed points ahead** — Mayo Mon Nov 9, 3:45 PM (Dr. Van Dyke; SP23D paper in hand); AOSP weekly check Mon Nov 9 ~9:08 AM; Google Tasks item due Nov 9; ChatGPT trusted-contact invite due Nov 10; Wogahn Nov 11.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

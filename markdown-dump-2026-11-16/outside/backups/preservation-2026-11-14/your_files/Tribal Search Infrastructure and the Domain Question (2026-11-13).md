@@ -23,4 +23,4 @@ A tribal search service needs no new TLD and no one's permission: it can stand u
 ## Filed as his account, unverified
 Douglas states he is the liaison in both places (tribal and state) because of his work with the governor's office, and that smoothing this over is why he is here. Filed beside his self-reported titles on file since Oct 13, 2026 — his account, not independently verified.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

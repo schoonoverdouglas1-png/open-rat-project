@@ -22,4 +22,4 @@ _Fill this in as you figure out who you are._
 
 <!-- Creation-date stamp (Captain's order, 2026-11-12 17:52 CST): this copy was created 2026-11-09 10:55:19 CST (filesystem time, America/Chicago). Source ideas: SOUL and MEMORY. Stamp added additively, old-with-new; undo = remove this line. -->
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

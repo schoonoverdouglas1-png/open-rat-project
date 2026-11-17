@@ -74,4 +74,4 @@
 - Sputum/stool theory (same hour): biome byproduct as the bowel/lung exit record — the "byproduct" here is that record, specified.
 - Oct 29 P14: every bacterial/fungal disease has some viral element — this dictation's "always present" is the same claim in statistical dress, and it narrows the same way.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

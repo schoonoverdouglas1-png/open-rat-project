@@ -147,4 +147,4 @@ Shiro: the link map itself is a Shiro entry — a map of where his thinking live
 
 **Remaining Gemini [GAP]:** G17/G18 ("Syndromic-Etiological Disease Classification Framework") — listed, not re-read. **Remaining Meta [GAP]:** all 30 Meta links, still policy-blocked; paste/export only. **Jesus Christ / Leo list:** not found in any of G20–G24 — still [GAP]; not in the Meta AI thread, not in Gemini history searched Nov 7, not in these five reads.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

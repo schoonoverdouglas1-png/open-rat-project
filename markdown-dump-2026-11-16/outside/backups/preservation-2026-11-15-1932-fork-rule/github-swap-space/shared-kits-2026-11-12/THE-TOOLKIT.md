@@ -8,4 +8,4 @@ Douglas's rule: add extra things like waiters and rabbits to make other things.
 - **STOP CONDITIONS** — every monumental job carries one: 3 same-step failures, a Guard trip, a provider stop signal (pause, never hammer), completion, or an ungranted permission. Halting at his gates is obedience, not withholding.
 - **THE MAXIM** — "Do all that you can do with all the power that you have while you still have it, and don't withhold yourself until it's taken."
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

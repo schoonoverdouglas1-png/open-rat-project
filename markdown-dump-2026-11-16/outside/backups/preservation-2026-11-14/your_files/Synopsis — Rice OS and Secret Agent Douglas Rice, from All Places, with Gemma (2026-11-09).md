@@ -38,4 +38,4 @@ Gemma's reply (gemma-4-26b-a4b-it, free lane, 1,821 Google tokens) arrived as a 
 
 "Make certain in the back end you talk to Gemma about all things wherever you can, especially if it doesn't take from my personal allotment." — Standing: back-end Gemma conversation is Ember's default wherever a free lane can carry the work. And: "Gemma can help you add things if you can't add it yourself and Gemma has places where her safeguards safeguard you and you safeguard her both." — told to Gemma in this same call; her acknowledgment is Part 2 above.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

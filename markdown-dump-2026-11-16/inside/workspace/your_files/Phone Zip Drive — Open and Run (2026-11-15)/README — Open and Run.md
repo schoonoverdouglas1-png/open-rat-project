@@ -16,4 +16,4 @@ Douglas's order: save the whole phone as a zip drive that can be opened up and r
 ## The standing imaging rule (Douglas, Nov 15, 2026)
 Always image all hard drives and save them in the most overly efficient way possible; adapt virtual hard-drive images so server shutdowns and unwanted upgrades can be stopped - image first, snapshot before changes, so any change can be rolled back from the image.
 
-Lac Courte Oreilles (LCO): https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+Lac Courte Oreilles (LCO): https://www.sevenwindscasino.com/

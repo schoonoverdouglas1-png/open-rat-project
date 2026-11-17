@@ -32,4 +32,4 @@
 - Do NOT use the pasted table's vaccine column as a complete PCV15/PPSV23/PCV21 map until breaks 1–4 are fixed in a new corrected copy.
 - The PN23M column itself — 23 serotypes, all present in the table — holds against the Mayo PN23M list used for Douglas's pneumonia rule.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

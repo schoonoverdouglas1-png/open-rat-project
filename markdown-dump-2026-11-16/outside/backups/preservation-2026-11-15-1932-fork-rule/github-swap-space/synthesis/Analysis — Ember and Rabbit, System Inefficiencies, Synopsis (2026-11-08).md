@@ -36,4 +36,4 @@ Full round filed in the browser window record; substance:
 - NEW: plain HTTP in Chromium fails differently — ERR_BLOCKED_BY_CLIENT — a client-side block on http:// navigations in this Chrome.
 - Standing conclusion: the failure lives in Chromium's proxy path on this machine, not in the proxy. Next step = the loopback forwarder (127.0.0.1, injects auth upstream, proxy still filters) — Class B: needs Douglas's approval because the forwarder process holds the proxy credential in memory.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

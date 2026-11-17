@@ -50,4 +50,4 @@ If Douglas ever wants a second Meta mind on tap, the Model API's Contributor tie
 - Live test by Ember: api.meta.ai/v1/models → HTTP 401 invalid_api_key, Nov 8, 2026.
 - Gemini lane: asked twice with full dossier; both replies returned as stubs (12 tokens) — no usable theory obtained from Gemini this round; not retried further.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

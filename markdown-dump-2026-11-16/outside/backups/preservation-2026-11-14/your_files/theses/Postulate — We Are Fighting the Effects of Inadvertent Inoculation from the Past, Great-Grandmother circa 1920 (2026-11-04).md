@@ -86,4 +86,4 @@
 
 The strongest form of this postulate is also the most testable form: pick one inoculation, one material, one outcome, and one line — and ask what record would show it. "However it happened, it happened" is a good reason to keep looking. It is not a substitute for the record that would show how it happened, in that one case.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

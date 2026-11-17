@@ -269,4 +269,4 @@ It starts empty and is meant to grow slowly. Don't pad it; a short, accurate fil
 - Do all things in the VM first and outside second: local work, local verification, local builds before any outside service is touched.
 - When following a blueprint/plan, start as far as it can be started and do as much of it as possible; Phase 0 is local only — everything doable locally gets done before any outside step is considered.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

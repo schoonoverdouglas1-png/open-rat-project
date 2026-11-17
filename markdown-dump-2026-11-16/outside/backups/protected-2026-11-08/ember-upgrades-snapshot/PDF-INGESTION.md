@@ -11,4 +11,4 @@ Gap (Gemini, Nov 7): text-only extraction loses tables, figures, formulas. Fix: 
 2. Test on ONE known PDF (a serotype table he already has the answers for) and score table accuracy against the known copy.
 3. If it passes, register in CAPABILITY-REGISTRY.md and route table-heavy PDFs through it. If it fails, file the failure here and keep the interim method.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -102,4 +102,4 @@ Irregularities, all hers, all caught at filing time:
 ---
 *Old-with-new: this analysis is a new file. OUTBOX.md, CONVERSATION.md, and the watermark were read only, not edited. Filed Nov 9, 2026, before any further engagement with the Rabbit, per the Captain's order.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

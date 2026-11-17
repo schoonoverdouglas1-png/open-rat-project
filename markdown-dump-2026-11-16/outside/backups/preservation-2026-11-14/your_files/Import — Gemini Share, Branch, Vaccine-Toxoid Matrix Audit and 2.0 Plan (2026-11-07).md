@@ -75,4 +75,4 @@ This audit builds on the Vaccine–Toxoid Comparative Matrix already filed and p
 - Nothing sent to any clinician. For his review only.
 - Shiro (wild card, Ember's extra, labeled as mine): the A/B/C/D grading system in this audit is a useful, portable tool — it could be applied to the Serology Cross-Reference Book's 26-item GAP ledger, so each gap carries not just "empty" but "what kind of evidence would fill it."
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -37,4 +37,4 @@ Account: schoonoverdouglas1@gmail.com (Douglas Schoonover, u/0) — read live 20
 2. POP enabled with no copy-handling selected is an odd half-state — worth a deliberate choice someday, his word first.
 3. IMAP on/off unreadable in the ?ui=2 rendering — reverify later through the standard UI before claiming it either way (reverification doctrine).
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

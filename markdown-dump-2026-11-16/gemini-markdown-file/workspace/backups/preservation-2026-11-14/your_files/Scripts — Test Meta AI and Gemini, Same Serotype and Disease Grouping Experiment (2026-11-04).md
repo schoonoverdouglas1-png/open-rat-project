@@ -89,4 +89,4 @@ You are the bridge, Douglas, because Ember cannot sign into Meta AI or Gemini as
 
 That is you being their assistant, and Ember being your assistant for the assimilation — both roles kept straight, neither merged into the other.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

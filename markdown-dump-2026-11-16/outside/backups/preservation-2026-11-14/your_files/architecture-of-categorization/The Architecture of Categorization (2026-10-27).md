@@ -62,4 +62,4 @@ Medicine, jurisprudence, and taxonomy are essential maps, but they are not the t
 
 By holding both the flaws of our rigid categories and the brilliance of our analytical tools in view, we gain the clarity required to look past standard assumptions, honor the underlying biological truths, and continually refine our models of the world.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

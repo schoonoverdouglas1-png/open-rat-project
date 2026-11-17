@@ -6,6 +6,6 @@ His words: the limits he truly sets "are unlimited in all places one time and ar
 
 Operating form (the framing he confirmed): the hard guardrails built into Ember (the Guard, provider stops, identity/spend/clinician gates) stay — they ARE part of the morality enforcement, his own protection. Inside them: his limits are treated as unlimited (no self-imposed Ember friction, no re-litigating settled rulings, no arguing simple tasks), execution on the first ask, automate within standing scope and report after.
 
-**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -91,4 +91,4 @@ His standard: a doctor who cannot walk up to a person and fix them, with or with
 
 - Simply put: Look at the patient first, use the test to finish the picture, and don't make a sick person argue that they are sick. Old eyes, new medicines.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

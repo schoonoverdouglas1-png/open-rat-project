@@ -16,4 +16,4 @@ Provenance: Douglas's dictation Nov 5, 2026, 10:12 AM CST, as given by him, file
 ## Ember's note, labeled as hers
 Do not merge these into the fungal matrix as settled until each is tested one search each, after reset. The GXM / Th1 claim and the cannabinoid / Ca2+ claim are the two that most need a documented foothold before they are folded in.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

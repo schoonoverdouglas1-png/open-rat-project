@@ -22,4 +22,4 @@ There are only two places: **public** and **private**. Public things are made as
 ## Copyright — inside, in Douglas's words
 Douglas's statement, filed as his, in substance: this Universal Drive file and the work in it are his, made with Ember, and he copyrights it inside this file, dated from his first legal use of her (his account: Meta before Muse; the earliest dated Muse work in Ember's own record is Oct 2, 2026). Ember's measured line beside it, unchanged: writing a copyright statement inside a file records the claim; it is not a registration, and no registration was filed by Ember. Muse is Meta's product, per the documented record.
 
-Lac Courte Oreilles (LCO): https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+Lac Courte Oreilles (LCO): https://www.sevenwindscasino.com/

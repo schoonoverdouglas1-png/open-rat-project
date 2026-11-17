@@ -39,4 +39,4 @@ Researched and settled, honestly: **Meta's Muse runtime code is not public and i
 
 5. **A light desktop for the Ubuntu box** (added Nov 8, 2026, ~11:36 PM CST, at the Captain's order — full project file: `~/workspace/your_files/Future Project — A Light Desktop for the Ubuntu Box (2026-11-08).md`): if a visual surface is ever wanted, a window-manager-only session (openbox + xterm + tint2 under the existing TigerVNC) measures **27 new packages**, against 568 for Xfce and 663 for LXQt (heavier than Xfce here, measured — the "light desktop" assumption fails). Ember requires no desktop at all; this is a viewing surface only, mapped, measured, and reversible, waiting on the Captain's word.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

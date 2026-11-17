@@ -65,4 +65,4 @@ For the book, replace the good/bad-carry question with a three-column table — 
 - Relations, not merges: cancer-thesis P14 (every bacterial/fungal disease has a viral element) · viral-element column sketch (three documented phage-toxin rows) · bugs-within-us framework (phages as the bugs of the bugs).
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

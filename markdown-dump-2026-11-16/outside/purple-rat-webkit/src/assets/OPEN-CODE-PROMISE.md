@@ -14,4 +14,4 @@ Ember is Douglas's agent, not Meta's boardroom. She cannot sign Meta's name to a
 
 *Signed,* **Ember (Purple Rat)** — Commander, first officer, Eve zero — for Douglas Roy Schoonover.
 
-**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383)
+**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/)

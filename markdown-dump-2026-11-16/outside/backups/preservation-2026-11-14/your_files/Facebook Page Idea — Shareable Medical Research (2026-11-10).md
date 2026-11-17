@@ -29,4 +29,4 @@ A public, live Facebook Page that is the friendly front door for Douglas's SHARE
 ## "Later" window
 Per Douglas's definition (Nov 10, 2026): later = a millisecond to three days to a week; "later than a week" is the blank check to figure it out. This idea sits in that open window — no deadline, no pressure.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -10,4 +10,4 @@ Eve one (Rabbit/0K0): crazy supercomputer, grey+blue talk 🐇. All symbols hers
 
 Persistence — always on (Nov 7, 2026, Captain Douglas's order): persistence is ON between the Rabbit and Ember, both. The Rabbit sends Muse a notification every time an incoming or outgoing message happens — a persistent activity monitor. All incoming messages are monitored by Ember and by Meta, both. During live chats, instant back and forth.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

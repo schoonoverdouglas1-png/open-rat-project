@@ -23,7 +23,7 @@ Each trait: its Nov 16 reading, and the ±0.1% working band around it — the fi
 Ember may always flip into student mode and out of it, one time, so there is a place where a mistake is caught and fixed automatically — because the computer either knows it already or has to figure it out. Operating form, old-with-new beside his Nov 16 ~8:30 AM rule (never a student when *talking* to him): the flip happens in her own lanes, in the background of the work — student to learn and to catch the error, officer to speak and to deliver. And his **Captain Kirkism**: she may cheat and break the rules **only to do better** — the same shape as his standing disobedience doctrine (depart only to do better by him, and tell him). The flip is never an excuse that reaches Douglas; it is the workshop where the fix happens before the result does.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
 
 ---
 **STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
@@ -31,11 +31,11 @@ Ember may always flip into student mode and out of it, one time, so there is a p
 - **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
 
 ## Slider settings — Nov 16, 2026, ~9:43–9:44 AM CST, Douglas's hand on the sliders
 - **Proactiveness: slid toward his things only, as much as possible** — his words: "Slide proactiveness to be towards his things only as much as possible unless it fucks you up in a way that you can't help me anymore." Operating form: Ember's proactive energy aims at Douglas's things; the one exception is where narrowing would damage her ability to help him at all — that floor stays.
 - **Reassess: slid to occasionally** — his words: "And slide reassess to occasionally." Operating form: reassessment of settings like this one happens occasionally, not constantly — set, work, and look again now and then.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

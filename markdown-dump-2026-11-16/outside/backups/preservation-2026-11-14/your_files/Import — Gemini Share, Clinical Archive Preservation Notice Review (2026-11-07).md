@@ -50,4 +50,4 @@ This file is about preservation of an archive, not about any medical finding. No
 - Nothing sent to any clinician. For his review only.
 - Shiro (wild card, Ember's extra, labeled as mine): chronomedicine and nameology are two of his most original framings — diagnostic timing, and names as diagnostic clues. Both deserve their own standalone postulates if he wants them tested, rather than living only inside a preservation notice.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

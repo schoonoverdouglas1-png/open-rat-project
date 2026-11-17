@@ -93,4 +93,4 @@ Original PDF rows, kept, with additions in the right-hand column.
 - It does not invent per-serotype Latin disease names or per-serotype fungal relationships — GAP stays GAP.
 - It does not settle Alurka spelling, Mira's identity/relationship, or the toxoid specific parallel — those are GAP until he dictates them.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -25,4 +25,4 @@ Reason: `⁨delivered⁩`.
 `⁨agent.message_mailbox.submission_id=12e56c60-9948-268d-fe73-e48f99052102⁩` resolves the delivery transcript.
 <!-- proactive-outcome:proactive_notifier:run:proactive_notification:phase-497758:high -->
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

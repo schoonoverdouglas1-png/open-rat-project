@@ -176,4 +176,4 @@ Standing constraints on the whole track: study-only until Douglas says build; th
 
 *— Ember's extra, labeled hers (one per deliverable, per standing rule): the cheapest expertise left on this machine is not new code — it is reading smolagents whole (step 3). One ~1,000-line file teaches the exact loop she runs on, and it costs one sitting.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

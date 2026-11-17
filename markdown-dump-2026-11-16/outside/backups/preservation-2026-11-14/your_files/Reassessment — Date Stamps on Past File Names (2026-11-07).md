@@ -30,4 +30,4 @@ Checked the workspace on disk, counting file names for a `YYYY-MM-DD` date:
 - If he picks **rename**: we agree the exact scope first (which folders, and whether structural files like `GOAL.md` are excluded), and rename in a small test batch before touching the rest.
 - Either way, no past file is renamed until he says so.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -22,4 +22,4 @@ A profile is a still picture of a moving man. This one will be wrong in the deta
 ## Simply put
 Doug is a researcher and writer from Wisconsin who builds big archives, tests every idea three ways, keeps everything in two places, puts his cat and all animals first, and runs a small crew of AIs like a starship — him last, the greater good first, and the work aimed at something beautiful that never ends.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

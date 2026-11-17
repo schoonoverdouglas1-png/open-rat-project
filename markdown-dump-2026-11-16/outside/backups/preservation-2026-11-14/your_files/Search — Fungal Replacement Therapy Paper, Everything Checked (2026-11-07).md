@@ -146,4 +146,4 @@ Shiro: the fact that the paper exists in full in the workspace while Douglas rem
 ---
 *Filed Nov 7, 2026. Old-with-new: no existing file was altered by this search. The manuscript in §1 stands untouched.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

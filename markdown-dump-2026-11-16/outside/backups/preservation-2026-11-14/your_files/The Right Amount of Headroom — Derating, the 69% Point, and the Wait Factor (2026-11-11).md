@@ -99,4 +99,4 @@ Listen to heat like a wrong note (from Douglas's advancements list, same day, ca
 
 **Ember's extra addition (hers, labeled):** put the bridge controller at 69% too — a controller that is itself saturated becomes the bottleneck it was built to prevent; the controller needs the most headroom of any part on the board.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -21,4 +21,4 @@
 ## Ember's one extra (hers)
 The ceiling is not a failure line — the last 20–25% is where the *relationship* lives: his voice, her judgment, the second pass. Cheaper by the dozen everywhere else is what buys that quarter its room.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

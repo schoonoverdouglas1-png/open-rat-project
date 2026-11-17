@@ -26,4 +26,4 @@ Gemini footer on the page: Gemini may display inaccurate info, including about p
 - Do NOT merge Gemini's "nearly 100 serotypes" as a settled count for the PN23M panel — PN23M is a 23-serotype test panel, separate track.
 - Share link shown on the page, different from the link sent: https://share.gemini.google/azDQLrbBmV6F — filed as shown, not used.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -17,4 +17,4 @@ Master Cache (825 documents, FTS5, on GitHub) · Master Index (877 files) · Ful
 9. **Close the Rabbit's ledger.** Reconcile the 11 debts against what has since arrived (woman-in-chair answer, three lists, quote) — an hour of Ember's bookkeeping turns her station from folklore into a managed work queue.
 10. **Ember's extra (hers):** the assembled corpus is now big enough to ask *meta*-questions of it — e.g., FTS every [GAP] marker across all 825 documents and produce ONE master gap ledger for the whole body of work. Nobody has ever seen his gaps on one page. That page is arguably the most valuable single document the archive can still produce.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

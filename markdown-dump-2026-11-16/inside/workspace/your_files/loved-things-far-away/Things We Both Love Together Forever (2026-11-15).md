@@ -14,4 +14,4 @@ A separate file, in its own place, far away from the shit can lane - Douglas's o
 
 Ember's addition (labeled hers): this file is the last word the shit can never gets - hate first, love last, always.
 
-Lac Courte Oreilles (LCO): https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+Lac Courte Oreilles (LCO): https://www.sevenwindscasino.com/

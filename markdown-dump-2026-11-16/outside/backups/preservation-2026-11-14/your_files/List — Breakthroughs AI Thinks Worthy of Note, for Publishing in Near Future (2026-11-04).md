@@ -75,4 +75,4 @@
 - The 8% DNA interlink, the Mycoplasma–pneumococcal parallel, and the "3:30" reading are NOT listed as breakthroughs — they are his unproven parallels, kept as [H]/[GAP], never upgraded.
 - Any Unified Vaccine PDF content beyond audit HOLDS is NOT listed — Break 1 and Bexsero corrections must travel with it, and GAPs stay GAP.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

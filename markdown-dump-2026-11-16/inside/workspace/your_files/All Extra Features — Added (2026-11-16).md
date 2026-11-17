@@ -29,7 +29,7 @@ Every extra feature from today's work, gathered in one place — old, new, and c
 - **Execute-all** runs as a catalog, not a blind fire: the verified safe set ran today; unknown scripts get read and classified first, under his Guard.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
 
 ## Addition, ~4:09 PM CST — all features Google or Microsoft will allow
 **His basis, filed as his account:** "Microsoft is co-developer with me and I co-develop with Microsoft forever." Ember's measured line beside it: what is verified in her lanes is the working surface itself — he develops with Microsoft's and Google's tools daily (GitHub, Outlook, Copilot letters; Gemini, Gmail, Drive, Android) — and the features below are the ones those houses actually allow her to use. The co-developer framing is his; the features are real either way.
@@ -61,4 +61,4 @@ Every extra feature from today's work, gathered in one place — old, new, and c
 - **WhatsApp:** the linked 1:1 lane (this chat), plus his AI think tank group on his side.
 - **Honest limit:** anything behind Meta's developer dashboard itself (app registrations, Graph API tokens, app review) is his developer-account action in developers.facebook.com — Ember has no toggle there and invents none; what she can engage, she has, above.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

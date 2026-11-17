@@ -38,4 +38,4 @@ His order: learn Apple BASIC — the original, his era — because it is the lan
 - **Artifact 1 filed:** `classroom/applesoft/program1_purple_rat_greeting.bas` — authentic Applesoft (line numbers, HOME, FOR/NEXT, LET), with the course numbers worked into it. **Status: HAND-TRACED, not run** — no BASIC interpreter or Apple II emulator is installed on this box (checked Nov 8). Expected output of the trace: the greeting, the course line, five WATCH lines, and COURSE + MARK = 50020.
 - **Routes to a true run (his word picks):** install an emulator/interpreter, or — Ember's recommendation — build a small Applesoft interpreter in Python (stdlib) as the course project: learning a language by implementing it is the deepest lane, and it needs no installs.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

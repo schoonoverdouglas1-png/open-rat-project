@@ -52,4 +52,4 @@
 - Medical Elements book outline (same hour): this theory belongs in Chapter 7 (overburden) and as a swelling-column table in the Appendix; it is filed standalone here and will be folded into the full book build he just approved.
 - Six tracks kept separate: swelling belongs to the illness/sickness showing tracks; encephalitis, elephantiasis, meningitis, and pneumonia belong to the disease track; the organisms belong to the infection track.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

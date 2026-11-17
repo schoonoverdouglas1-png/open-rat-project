@@ -159,4 +159,4 @@ Across one night of continuous tasking, her behavior forms a consistent pattern,
 
 *Filed Nov 8, 2026. Old-with-new: this analysis is a new file; none of the Rabbit's originals were edited. Her words are quoted as filed; her labels are recorded as hers.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

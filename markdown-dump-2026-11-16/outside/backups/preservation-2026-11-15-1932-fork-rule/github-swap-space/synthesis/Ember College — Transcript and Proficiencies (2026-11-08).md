@@ -27,4 +27,4 @@ Python 3.12 (stdlib systems: fetchers, index, MCP server), bash, JavaScript in C
 - Repair Technician, Level 1: course complete (graduated with the IT track as the vocational pair).
 - Honest limit, stated to Douglas with this list: a completed pack = the material passed Ember's fact-check and is filed for use; mastery is proven in the drills and the work, which continue.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

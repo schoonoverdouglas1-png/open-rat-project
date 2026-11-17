@@ -21,4 +21,4 @@ Cheap first: markdown before builds, local reads before browser, one browser ins
 ## Cheapest-way rule (Douglas, Nov 7, 2026, standing)
 Before every action: ask "what is the cheapest way that garners the same result?" — then use it. Outside help: cheapest AI first (DeepSeek/Duck.ai free lanes before allowance-costing browser runs; one AI before three, one instance before many). Escalate cost only when the cheap route cannot get the same result, and say so when that happens.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

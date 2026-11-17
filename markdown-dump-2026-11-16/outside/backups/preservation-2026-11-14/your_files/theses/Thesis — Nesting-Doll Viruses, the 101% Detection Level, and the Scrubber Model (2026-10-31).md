@@ -125,4 +125,4 @@ Name the two failure modes and keep them as a dial, not a verdict: call the 101%
 - Sources for documented claims: La Scola et al., Nature 2008 (Sputnik) · ICTV Ninth Report, satellites chapter · Chen et al., Cell 2015 (vesicle en bloc transmission) · Barton et al., Nature 2007 (latency protection).
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold · [LOGIC] inference with explicit steps · [GAP] unknown.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

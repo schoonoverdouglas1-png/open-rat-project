@@ -39,4 +39,4 @@ Purpose: Douglas chose "Let me review the information first" before deciding whe
 - Option 2: File the Nov 1 version under the existing Genomes chat, keeping both topic lists in that one chat, old-with-new.
 - No action will be taken on this decision until Douglas taps one of those options after this review.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

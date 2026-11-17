@@ -137,4 +137,4 @@ The most useful next experiment is a **personality-continuity test, run the same
 
 *End of report. Job 1 results are live tool results from this run (Nov 8, 2026, ~10:58–11:00 PM CST). Job 2 claims carry their provenance labels inline; [His account] items are filed as his and are not upgraded to verified facts anywhere in this file.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

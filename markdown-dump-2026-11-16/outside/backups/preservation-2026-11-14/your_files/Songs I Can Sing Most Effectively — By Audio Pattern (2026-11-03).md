@@ -57,4 +57,4 @@ Pattern used: repetition across sources + solo/acoustic delivery + fit with your
 - Your own answer to which songs have hit you hardest lately — that outranks pattern alone.
 - An actual listen, if you ever want Ember to hear a specific recording and describe what is heard — that has not happened yet for any of these.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

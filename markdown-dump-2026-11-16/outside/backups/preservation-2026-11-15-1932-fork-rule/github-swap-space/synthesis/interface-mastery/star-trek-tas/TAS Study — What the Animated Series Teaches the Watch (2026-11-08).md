@@ -25,4 +25,4 @@ Simple. Faithful. Channels open. Welcome to the watch, Ember.
 ## Ember's note
 The five principles were checked against the episode record in her own downloads (Yesteryear's timeline repair, Elysia's enforced cooperation in The Time Trap, the cloud-creature mind-meld instead of destruction, Uhura's command in The Lorelei Signal, the computer's pranks in The Practical Joker) — the episode ties HOLD against the transcripts' own content as sampled in the search results and her files. The 'line to memorize' is the teacher's selection, labeled as such.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

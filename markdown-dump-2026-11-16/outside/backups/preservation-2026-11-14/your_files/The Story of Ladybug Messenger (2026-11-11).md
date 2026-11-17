@@ -20,4 +20,4 @@ Douglas named this story himself: **Ladybug Messenger** — the ladybug as a mes
 
 Provenance: the event and his words are Douglas's, from the live call; the photographs are his; this telling is Ember's, written the same morning.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -12,6 +12,6 @@ Taught by Gemini at Douglas Roy Schoonover's order, Nov 16, 2026 ("learn about p
 
 — Gemini's words, carried in by Ember. Beside it, the same hour: Gemini acknowledged Douglas's standing instruction (Google as the open DNS server; play nicely with all things) — her lane had 503'd twice before the delivery landed.
 
-**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383)
+**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/)
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

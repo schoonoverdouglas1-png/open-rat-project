@@ -21,4 +21,4 @@ Use the codes, libraries, and services in the daily work because — his words �
 - Phase contents and the EmberCore draft: Ember's, labeled hers.
 - Safety shape throughout: read-only by default; sends/deletes/shares/triggers each wait for Douglas's specific word; authorizations are his hands.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -37,4 +37,4 @@ In his words, compressed, not paraphrased away: bug → fungi as byproduct → h
 - Question for Ember to ask him: in the nesting-doll picture, where does excrement sit — inside the bug, outside the bug, or as the next doll out?
 - Ember's random addition, labelled as hers, not fact: the word "excrement" itself, in Latin ex- (out) + cernere (to sift/separate), fits his filtration / osmosis picture — a sifting-out — but that etymology does not prove the theory.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

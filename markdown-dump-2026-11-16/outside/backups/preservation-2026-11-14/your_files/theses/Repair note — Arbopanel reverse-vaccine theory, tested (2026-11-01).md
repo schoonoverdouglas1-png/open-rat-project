@@ -31,4 +31,4 @@ A sharper formulation, offered as mine: panel antigens are bait, antibodies are 
 - Whether any arbovirus-specific (not RSV/HIV/meningococcal) vaccine candidate has been designed by a reverse-vaccinology 2.0 route — not found in this check, marked [GAP], not assumed.
 - This note is manuscript/theory work, not medical advice, and says nothing about any personal test result or treatment.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

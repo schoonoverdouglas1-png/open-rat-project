@@ -34,4 +34,4 @@
 
 The single highest-value adoption is not a tool but a pairing: **systemd-run MemoryMax scopes (Pack 12) around everything heavy from the other seventeen** — the seatbelt sized to this box's one proven failure mode, memory. Second: **jq + rg as the default first lane** ahead of Python for JSON and text — measurably cheaper in RAM and tokens on every future job.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

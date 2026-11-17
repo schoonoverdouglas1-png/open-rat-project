@@ -65,4 +65,4 @@ Rough category split of those 200:
 - **Failures:** none. No call was rate-limited; nothing had to be retried.
 - **Not done (on purpose):** no Outlook mailbox contents were sampled — Part 2's email analysis is Gmail-only, as ordered; Outlook's turn comes if Douglas asks.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

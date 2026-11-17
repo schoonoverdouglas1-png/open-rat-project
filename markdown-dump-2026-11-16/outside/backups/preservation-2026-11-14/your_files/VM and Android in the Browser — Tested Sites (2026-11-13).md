@@ -58,4 +58,4 @@
 
 **Standing cautions (Ember's):** treat every free session above as a *borrowed room* — nothing typed into them is private, nothing saved in them survives, and none of them should ever see a password, a code, or personal/medical information. Play and learning only — which is exactly what Douglas asked for.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

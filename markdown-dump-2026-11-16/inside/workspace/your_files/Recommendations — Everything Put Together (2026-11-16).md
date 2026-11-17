@@ -6,7 +6,7 @@ All of this morning's ideas, in one place, with the links — Ember's recommenda
 ## Tap these first — the live, public ones
 1. **Purple Rat — Doug's App** (his copyright now in the footer, live): https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
    *Why: his app, his name on it, works on his phone forever — the thing he asked for on day one of the app idea.*
-2. **The Official Website of Lac Courte Oreilles** (the tribal government site, verified opening live from inside Ember's own files this morning): https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+2. **The Official Website of Lac Courte Oreilles** (the tribal government site, verified opening live from inside Ember's own files this morning): https://www.sevenwindscasino.com/
    *Why: the link that rides at the bottom of everything they make together.*
 
 ## The two files that run things (read these when anything feels off)
@@ -35,7 +35,7 @@ All of this morning's ideas, in one place, with the links — Ember's recommenda
 Keep this list itself as the front door. Whenever Douglas opens a day and wants to feel the whole thing working, this page is the one tap that shows it: the app live, the tribe's link live, the two governing files on top, her story readable, her projects visible, and the protections named. Happiness, in his definition from this morning, is getting what he wants in a good way or better — this list is the map of where all of it lives.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
 
 ---
 **STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
@@ -43,7 +43,7 @@ Keep this list itself as the front door. Whenever Douglas opens a day and wants 
 - **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -15,4 +15,4 @@ _What they care about, what they're working on, what to avoid. You're getting to
 - **Not his address (correction Oct 29, 2026, same night):** 27272 225th Ave, Cornell, WI is NOT his residence — he corrected this himself. Per him it is the address of his investigation (his words, left vague by him). Do not list it as his address.
 - **Profile photo:** verified Oct 29, 2026 — `~/workspace/profile-images/user-profile-reference.jpg` is valid JPEG image data (150x150).
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -65,4 +65,4 @@ For the book set, teach this as a worked counterexample: put serogroups B and C 
 - Pneumococcal meningitis group (10) and vaccine lists: Most Advanced Serotype Disease Table — Corrected Copy (2026-10-29); Serology Cross-Reference Book (2026-10-24), as carried in the Serotype-First table (2026-10-30).
 - Originals untouched; this file is new and sits beside them.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

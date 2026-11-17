@@ -50,4 +50,4 @@
 - Oct 31, 2026 sub-0.1 theory: small versions and markers — size language, kept separate from size imbalance here.
 - Lincoln log theory (same day): shape and color sorting — size is a third axis, not to be merged with shape or color.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

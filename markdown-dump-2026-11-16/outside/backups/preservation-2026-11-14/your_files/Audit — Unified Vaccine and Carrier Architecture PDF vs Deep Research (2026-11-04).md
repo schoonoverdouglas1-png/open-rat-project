@@ -75,4 +75,4 @@
 - It does not adopt the PDF into the pneumococcal page. If Douglas directs an addition, only the HOLDS items above should be added, with the item-1 and item-4 corrections applied, and GAP items left GAP.
 - It does not resolve which serotype in Douglas's serogroup table came from a single website — that serotype was unnamed, and this PDF is not asserted to be that source.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

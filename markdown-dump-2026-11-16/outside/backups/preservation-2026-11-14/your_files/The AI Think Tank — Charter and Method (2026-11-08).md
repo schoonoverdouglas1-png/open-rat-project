@@ -43,4 +43,4 @@ A standing think tank of AIs that Douglas convenes through Ember. Its purpose: p
 ## Cycling permission (Douglas, Nov 8, 2026, ~12:47 AM CST)
 - Ember may **cycle through all of Douglas's AIs once in a while, randomly**, to keep connection with all of them — DeepSeek stays the working primary, Gemini stays need-only for substantive asks, but occasional contact rounds with each are authorized so no lane goes cold.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

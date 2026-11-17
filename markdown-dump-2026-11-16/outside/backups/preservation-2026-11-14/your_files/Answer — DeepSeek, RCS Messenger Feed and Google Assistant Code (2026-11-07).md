@@ -139,4 +139,4 @@ client, or one omnichannel API (Sinch, Twilio, Vonage) covering both channels. T
 idea is the one worth keeping for the faster back-and-forth. The repo paths above are as
 DeepSeek gave them; verify them against the actual repos before building anything on them.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

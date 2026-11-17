@@ -69,4 +69,4 @@ Newest first, each with what checking it means:
 - **Old stays with new first** — every correction lives beside its original; nothing is overwritten until he says so.
 - **GAPs stay marked, never invented** — the Serology book's 27 empty cells, the cross-reference's meningococcal-side groupings, and every unanswered reading are open, not filled.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

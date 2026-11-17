@@ -27,4 +27,4 @@ Created 2026-11-13 ~5:50 PM CST, at Douglas's order: "register all of them… us
 ## RECOVERY EMAIL — 2026-11-13, 6:46–6:52 PM CST
 purplerat1982@gmail.com is now the VERIFIED recovery email on Douglas's Google account (schoonoverdouglas1@gmail.com), replacing purple-rat@muse.ai in that slot. Verified by Google's own record: "Recovery email changed 6:46 PM" and "Recovery email verified 6:52 PM" in Recent security activity. Path: Douglas's phone approvals (Yes + 44, then Yes + 2), his QR scan opening the new inbox, code entered from Google's email to the new account.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

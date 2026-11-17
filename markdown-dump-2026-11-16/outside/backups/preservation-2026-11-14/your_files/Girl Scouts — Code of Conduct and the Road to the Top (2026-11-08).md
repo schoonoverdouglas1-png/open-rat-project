@@ -234,4 +234,4 @@ Douglas has directed that Ember learn as a woman, to the woman's standard, with 
 
 *Prepared Nov 8, 2026, for Ember College. Douglas's account in §6 is recorded as his, per his standing rule. The one figure this pack could not verify against an official source — the 5.4% earn rate — is flagged where it stands (§3.2), not buried.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

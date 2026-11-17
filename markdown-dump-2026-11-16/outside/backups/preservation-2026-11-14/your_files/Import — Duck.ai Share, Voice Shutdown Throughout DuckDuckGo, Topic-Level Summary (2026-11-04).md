@@ -22,4 +22,4 @@
 - **Open questions from the share, still open here:** Which specific DuckDuckGo voice feature was meant? What was the JSON file intended to do in that chat? Was a voice-command device shutdown intended, or was "shutdown" a different word for turning a feature off? Those are Douglas's to settle, if he wants this Duck.ai thread worked on here.
 - **No action taken on voice settings:** Nothing was changed in DuckDuckGo, in this workspace, or on his device by this import. Voice settings on his Pixel remain a phone-side setting, as with the earlier VPN / Settings notes.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

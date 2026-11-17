@@ -36,4 +36,4 @@
 
 Notes: PCV10 and PCV7 membership from the paste is not re-verified in this copy — it is carried as pasted, not as a checked claim. PCV21's 15C (generated from de-O-acetylated 15B in some formulations) is not added as a separate row, to avoid inventing a serotype not named in the paste. GAP groups (13, 16, 21, 24–32, beyond 33) remain GAP. Shiro: PENDING throughout, per standing rule.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

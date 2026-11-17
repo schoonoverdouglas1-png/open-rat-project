@@ -89,4 +89,4 @@ The split in verdict 1 is the load-bearing piece: if this postulate is ever fold
 ## GitHub
 Target: public repository `vaccine-toxoid-research`, peer-review gate bypassed for save pushes per Douglas's Nov 5, 2026 ruling. File pushed as `Postulate — Calcium Pathways, Cannabinoids, GXM, and Galactosaminogalactan (2026-11-07).md`.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

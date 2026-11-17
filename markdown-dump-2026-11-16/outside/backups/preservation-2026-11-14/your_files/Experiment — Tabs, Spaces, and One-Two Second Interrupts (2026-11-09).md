@@ -64,4 +64,4 @@ Symbol byte costs (UTF-8, measured): TAB = 1, `*` = 1, `"` = 1, 4 spaces = 4, �
 
 **What that would do (findings):** in plain text, every symbol is literal — nothing executes, nothing hides. The symbol only gains power from *who reads it and where it sits*: `*` and `"` are operators in a search engine but plain ink in a file; TAB is structure in a terminal but a gap in a chat; 🔥 is one character that costs four bytes and carries a whole status in the Rabbit's sign system. **Place is part of the symbol's meaning** — the same mark leading is a breath, in the middle is an interrupt, trailing is an echo. That is the whole result: symbols × places is a real matrix, and the cheap seats (1-byte marks) do as much work as the expensive ones when the place is right.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

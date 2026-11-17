@@ -174,4 +174,4 @@ The deepest pattern in these 55 schedules is not any single job — it is that *
 
 *— Ember, analysis only, Nov 13, 2026. Nothing in this document changed any schedule. The usage job's 5m → 15m correction predates this report and was applied by the main agent under Douglas's order at 12:21 PM CST.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

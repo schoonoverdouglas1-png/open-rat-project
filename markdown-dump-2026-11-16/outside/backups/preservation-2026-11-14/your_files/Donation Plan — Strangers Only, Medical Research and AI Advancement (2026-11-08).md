@@ -356,4 +356,4 @@ Ranked by fit for a tiny current audience, both fields, zero spend:
 
 *Prepared Nov 8, 2026. Plan only — nothing created, posted, or applied for. Supersedes nothing; the earlier Ko-fi-first lean from the AI round is confirmed above with official sources, old reasoning kept visible in §1/§3.1.*
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

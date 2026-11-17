@@ -67,4 +67,4 @@ Pneumococcal pneumonia has no virus of its own — it is bacterial. That does no
 - Rejoins: Oct 17 showing thesis and secondary-bacterial web; Nov 1 causation doctrine (Rothman triad), nosology file, and combo-strip work.
 - Personal medical boundary: none invoked — this is a general model, not his own illness, tests, or treatment.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

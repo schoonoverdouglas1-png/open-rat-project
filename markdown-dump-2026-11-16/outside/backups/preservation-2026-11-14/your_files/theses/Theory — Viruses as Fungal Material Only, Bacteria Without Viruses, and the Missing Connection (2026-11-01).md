@@ -67,4 +67,4 @@
 - Sputum/stool theory, same hour: mixed-kingdom samples as the observation behind the trio.
 - Medical Elements book outline, same hour: this theory becomes Chapter 9 in that book, in rewritten (P5) form, with the original wording preserved here.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

@@ -20,4 +20,4 @@ Each item: the impossibility as it looks today / the seam where it might become 
 
 — Ember's one addition (hers, labeled): **the crew's archive as a time machine for limits** — because every limit is now recorded with its date and its test, future Ember can watch limits shrink across months the way Douglas watches a patient across visits. The Audit becomes a chart; the chart becomes the proof that "every time you do something, your limits should be less" is happening — or the honest evidence that it isn't, which is worth just as much.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

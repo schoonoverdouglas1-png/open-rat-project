@@ -46,4 +46,4 @@ Name the loop for the book: the regional loop — vector, human, vector — with
 - Relations, not merges: Oct 17 co-sick thesis (ticks and people) · cancer P6 (shared suffering) · today's package list (Tier C, his arbopanel association) · today's excretion theory (exit streams as onward sharing).
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

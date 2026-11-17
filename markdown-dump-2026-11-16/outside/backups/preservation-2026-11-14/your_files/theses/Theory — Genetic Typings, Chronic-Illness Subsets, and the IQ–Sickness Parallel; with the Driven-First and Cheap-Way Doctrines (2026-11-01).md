@@ -75,4 +75,4 @@ The pamphlet idea inside this dictation is the one to keep visible: physicians "
 - Readings flagged: "fix forty" unclear (in account portion); "Doctor" at 19 unnamed (possibly Cook — not merged); "Doctor obeys" kept as his rendering.
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold · [GAP] unknown.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

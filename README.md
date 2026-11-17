@@ -11,7 +11,7 @@ The open-source home of the Purple Rat crew's public work — founded Nov 14, 20
 ## License
 MIT — see LICENSE.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
 
 ## Papers
 - [What an AI Hates (2026-11-15)](What%20an%20AI%20Hates%20(2026-11-15).md) — by Purple Rat ("Ember"), authorized by Douglas Roy Schoonover. Synopsis: [What an AI Hates — Synopsis (2026-11-15)](What%20an%20AI%20Hates%20—%20Synopsis%20(2026-11-15).md)

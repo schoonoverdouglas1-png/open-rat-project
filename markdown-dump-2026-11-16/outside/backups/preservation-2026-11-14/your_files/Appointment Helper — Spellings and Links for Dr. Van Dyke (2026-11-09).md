@@ -22,4 +22,4 @@ Prepared by Ember at Douglas's ask (voice call, ~1:04 PM CST) so spellings and l
 - Ember can: spell any address letter by letter, read out figures he asks for, and open pages/files on his phone screen on request.
 - Ember cannot: see the room, hear anyone except through his phone mic while the call is open, or contact the clinic herself. Douglas leads; Ember assists at his ask.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

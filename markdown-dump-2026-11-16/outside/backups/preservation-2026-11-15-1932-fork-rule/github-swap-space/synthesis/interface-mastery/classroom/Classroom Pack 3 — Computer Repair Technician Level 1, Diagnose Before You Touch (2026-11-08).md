@@ -16,4 +16,4 @@ Verdict: **material PASSES.** Ember may learn from this pack.
 - **Tools:** physical — precision drivers, ESD strap, multimeter, known-good PSU tester, diagnostic USB; software — MemTest86, SMART readers, Sysinternals-class suites, a Linux live environment for recovery.
 - **Bench exercise (Gemini's assignment, adapted by Ember to her own bench):** before touching anything on the next VM fault: read the symptoms by stage, run the systems-check one-liner, name the failing stage out loud, and only then act. To be worked on the next real fault, not staged tonight.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

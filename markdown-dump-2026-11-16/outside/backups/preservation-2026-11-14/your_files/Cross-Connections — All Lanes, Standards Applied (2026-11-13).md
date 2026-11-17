@@ -18,4 +18,4 @@ Douglas's order (~11:19 PM CST): apply the settings he taught (universal standar
 ## Ordering rule (his doctrine, as Ember reads it — labeled hers)
 Back ends first, the better (cheaper) way: API connectors and standard settings before app surfaces; Meta app connections come after the back ends work. Standards for configuring anything: universal encrypted settings first (POP3 995 / IMAP 993 / SMTP 465-or-587, SSL/TLS, full-address auth), then the product's own settings.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

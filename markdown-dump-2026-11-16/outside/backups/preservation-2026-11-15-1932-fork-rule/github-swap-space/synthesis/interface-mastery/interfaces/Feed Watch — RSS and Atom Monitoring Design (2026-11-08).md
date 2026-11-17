@@ -20,4 +20,4 @@ A small stdlib Python watcher: a feed list (12 repos x commits + releases where 
 ## Status
 DESIGN FILED, NOT SWITCHED ON. A standing watcher is scheduled-work class: it starts on Douglas's word, with its feed list and interval named.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

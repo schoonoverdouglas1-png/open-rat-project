@@ -82,4 +82,4 @@
 - Oct 17, 2026 virome creed and Oct 18–19 Obaid trial account: bowel and appendix as a long-standing thread in his work with Obaid.
 - Six tracks kept separate: sputum and stool belong to the illness/sickness showing tracks; the viruses inside them belong to the virus track; the bacteria and fungi inside them belong to the infection track. The exits mix tracks in one sample without merging them in thought.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

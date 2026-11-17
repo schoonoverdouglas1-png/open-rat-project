@@ -88,4 +88,4 @@ The bridge runs on nonspecific symptoms, and nonspecific symptoms are the weakes
 - Dictation: Douglas, Nov 1, 2026, ~10:48 AM CST, verbatim above.
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold · [GAP] unknown.
 
-- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
+- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
