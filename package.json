@@ -2,9 +2,12 @@
   "name": "pn-pm-test",
   "version": "1.0.0",
   "private": true,
-  "description": "PN PM test — dev harness for the markdown estate, per Douglas's order Nov 16, 2026",
+  "description": "PN PM test \u2014 dev harness for the markdown estate, per Douglas's order Nov 16, 2026",
   "type": "module",
   "scripts": {
-    "dev": "node scripts/dev-check.mjs"
+    "dev": "node scripts/dev-check.mjs",
+    "lint": "node scripts/lint.mjs",
+    "filter": "node scripts/filter.mjs",
+    "test": "node scripts/bullshit-test.mjs"
   }
 }
