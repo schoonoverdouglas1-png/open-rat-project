@@ -69,4 +69,4 @@ The testable form for the book: a table of compartment × organism × chemical s
 - Relations, not merges: §217 (arbo side = biome bugs + outside bugs) · Oct 15 osmotic theory ("bugs within us," doxycycline eaten/excreted by bugs) · chain model (viruses as small pieces, fungi/bacteria/yeasts stuck to the chain) · diphtheria theory (polymicrobial membranes) · Cryptococcus serotype answer (serotypes A, B, C, D, AD).
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold · [GAP] unknown.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

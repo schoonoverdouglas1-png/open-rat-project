@@ -153,4 +153,4 @@ Note: the two "Everything You Want - Everything You Want" titles were truncated 
 
 You sang a lot of the same favorites over and over in this slice — Eve 6, Goo Goo Dolls, Spin Doctors, and Collective Soul most of all — and the single most-played recording reached here was Hole Hearted by Extreme, at 96 plays. But this is only about 87 songs out of about 1,600, so it's a peek, not the whole shelf. One Headlight still hasn't turned up, and that doesn't mean it's gone.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

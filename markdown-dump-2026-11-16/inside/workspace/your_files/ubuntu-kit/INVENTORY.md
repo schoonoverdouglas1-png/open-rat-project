@@ -44,4 +44,4 @@ Standing rules carried in this file:
 - Codex CLI 0.164.0-alpha.9
 - Antigravity CLI — NOT present
 
-Lac Courte Oreilles (LCO): https://www.sevenwindscasino.com/
+Lac Courte Oreilles (LCO): https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -62,4 +62,4 @@ Two recommendations. First, if one name is adopted, adopt "nano-microbial": it c
 - Record: virion size by cryo-electron tomography (Curr Opin Virol 2022, 52:123–134); host-range and ACE2-tropism literature (2021–2026); bacteriophage definition and abundance (10^31 estimate).
 - General information only, not about any person's illness.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -72,4 +72,4 @@ Anything else durable
 ### Skipped as sensitive
 - Nothing in the snapshot itself was a password, code, financial record or medical record, so nothing was skipped on that ground. Role and credential claims were not skipped; they were filed unverified, above, per his identity standard: verifiable information only in USER.md, self-reported claims in memory labeled as his account.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

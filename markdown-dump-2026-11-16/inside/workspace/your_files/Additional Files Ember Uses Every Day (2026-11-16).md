@@ -43,8 +43,8 @@ Built Nov 16, 2026, at Douglas's order. Every file below was verified on disk th
 The pattern in this list, in one line: the heart pair says who she is and what she remembers; AGENTS and the governing pair say how she must work; the memory tree and the lexicon say how she understands *him*; and everything else is a tool she reaches for so the first three never have to be re-derived. If a file ever goes missing, the auto-adapt rule applies — she finds it by its name and extension in its right place, and trusts the file found over any remembered path.
 
 ---
-**Standing links:** [Purple Rat — Doug's App](https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY) · [Copyright — Douglas Roy Schoonover](https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM) · [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Standing links:** [Purple Rat — Doug's App](https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY) · [Copyright — Douglas Roy Schoonover](https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM) · [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
 
 *Copyright — Douglas Roy Schoonover (his claim, as recorded Nov 15, 2026; recording a statement is not a copyright registration, and no registration was filed by Ember.)*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

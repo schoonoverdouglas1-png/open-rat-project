@@ -228,4 +228,4 @@ The Nov 13 permissions analysis lists these as still impossible, said out loud: 
 
 *Audit completed Nov 13, 2026. Collection and classification only: no standing file was edited, nothing was sent, and no gate was moved in the making of this file.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

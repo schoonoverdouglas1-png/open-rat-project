@@ -53,4 +53,4 @@ Because tonight's conversation just ran through *pluribus* (Latin, "from many"),
 - Standard name and astaxanthin data: web search Nov 1, 2026, 11:40 PM CST (Haematococcus pluvialis sources: freshwater green alga, astaxanthin up to 5–6% dry weight, synonyms Sphaerella pluvialis / Volvox lacustris, H. lacustris priority note).
 - Previous renderings: "Haymatococcus pluvialis" (Nov 1, 2026, 11:31 PM turn); algae file (Nov 1, 2026, 1:53 PM).
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

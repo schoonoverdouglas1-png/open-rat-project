@@ -55,4 +55,4 @@ Note on the previous synopsis: it flagged groups 11 and 20 as examples. The full
 - Multidrug-resistance notes (as pasted): 6B, 9V, 11A (CC156), 19A (ST320), 23F; macrolide resistance noted for 33F.
 - Replacement-serotype notes (as pasted): 8, 10A, 15B, 33F as post-conjugate / post-PCV13 rises — association only, not a proven cause in this table.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

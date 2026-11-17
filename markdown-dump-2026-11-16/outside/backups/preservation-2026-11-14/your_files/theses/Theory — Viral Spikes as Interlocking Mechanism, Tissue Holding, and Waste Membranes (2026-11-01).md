@@ -43,4 +43,4 @@
 - Oct 16, 2026 syncytin filing: domesticated endogenous-retroviral envelope protein, placental fusion.
 - Clearing-mechanism theory (2026-11-01, same hour): mucus/membrane holding as part of clearance, not only of structure.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

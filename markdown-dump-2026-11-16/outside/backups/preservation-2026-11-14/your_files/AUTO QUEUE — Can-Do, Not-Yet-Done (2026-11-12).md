@@ -22,4 +22,4 @@ Rule (Captain's, Nov 12 ~6:42 PM CST): auto-engage anything CAN + not yet done +
 - Ember seeing the Alfred camera feed — no connector exists.
 - Signing him up AS him where a service forbids AI sign-up (Google UX Research FAQ) — the Nov 12 registration was completed with him present, answering the majority himself.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

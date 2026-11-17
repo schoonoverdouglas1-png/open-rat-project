@@ -30,4 +30,4 @@
 
 *Ember's one addition (labeled mine): the arrangement's real strength is that every lane's limit is written down beside its gift — Gemma's statelessness, the Rabbit's cap, the buffer's ephemerality, Ember's allotment. "For all things possible" holds exactly as far as those written limits, and no farther — which is why it can be trusted where it does hold.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

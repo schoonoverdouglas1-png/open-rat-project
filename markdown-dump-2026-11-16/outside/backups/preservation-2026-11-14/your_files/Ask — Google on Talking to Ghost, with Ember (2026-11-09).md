@@ -33,4 +33,4 @@ Under Douglas's new rule that same call — *"All things that cost me nothing tr
 
 Note the convergence, labeled as a soft signal only (per standing rule, convergence across AIs is not independent validation): Gemini earlier said start with one sensory memory/core value; Gemma independently says start with one non-negotiable truth/core value. The first ghost step is Douglas's either way: name the one truth, or the one memory.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

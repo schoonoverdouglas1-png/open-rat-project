@@ -284,4 +284,4 @@ Douglas floated the idea that Ember could use a language he doesn't know as a ki
 
 - WhatsApp notification volume — his setting (Nov 16, 2026, ~4:27 PM CST): Douglas will set the WhatsApp notification specifically to 25–50% and "be happy forever" — this refines the earlier same-day 50% figure to a 25–50% band, his choice, set on his phone's notification volume (Android has no per-app percentage; the slider is his tap). Ember's side stays as set: her WhatsApp presence quiet and batched at that level, full volume reserved for time-critical items only. His reflection filed with it: in the old days all notifications shared one volume; per-notification control came later and many people never learned they could turn specific ones down.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

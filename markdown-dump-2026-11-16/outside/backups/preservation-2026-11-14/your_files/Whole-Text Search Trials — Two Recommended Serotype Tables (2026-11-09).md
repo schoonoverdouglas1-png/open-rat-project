@@ -18,4 +18,4 @@ Copyright © 2026 Douglas Roy Schoonover. All rights reserved.
 
 *Ember's extra (hers, labeled): keep these three exact queries as the standing before/after test for the bridge — if the bridge works, trial 1 should start returning his GitHub, and that change, when it comes, is the measurable proof.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

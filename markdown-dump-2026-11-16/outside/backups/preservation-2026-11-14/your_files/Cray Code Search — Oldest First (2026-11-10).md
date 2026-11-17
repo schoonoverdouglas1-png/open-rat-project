@@ -116,4 +116,4 @@ The hard truth of this era, documented by the people who went looking: **almost 
 
 *Compiled by Ember, Nov 10, 2026, at Douglas's order — oldest first, the way he teaches: learn from the oldest material first, then work your way up.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

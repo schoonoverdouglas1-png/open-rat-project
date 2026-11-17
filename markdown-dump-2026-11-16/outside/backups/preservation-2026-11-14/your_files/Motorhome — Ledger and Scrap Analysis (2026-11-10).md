@@ -18,4 +18,4 @@
 
 **Bottom line [E]:** Realistic scrap outcomes run **~$300–$800**, with $100 as the proven floor for a destroyed one. **Ed's buy-back at the $350 he paid sits right inside that range with zero hauling cost and zero yard fight — on the numbers, the Ed door is the cleanest exit whenever Douglas wants it.** All estimates, not quotes; the scale and the buyer decide.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

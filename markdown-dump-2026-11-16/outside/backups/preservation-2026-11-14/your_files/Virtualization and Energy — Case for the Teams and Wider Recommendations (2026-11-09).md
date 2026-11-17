@@ -44,4 +44,4 @@
 ## Status of this memo
 Local file, delivered to Douglas in chat. The one-sentence summary drafted for the feedback channel is shown to Douglas verbatim in the same conversation; per the feedback flow it files on his explicit yes in a following turn, as the previous three notes did.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

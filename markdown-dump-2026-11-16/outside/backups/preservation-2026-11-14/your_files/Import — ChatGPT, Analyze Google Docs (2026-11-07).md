@@ -90,4 +90,4 @@ At the end of the conversation a "Context window full" banner appears: "Start a 
 - Yeast correction stands: yeast is a form of fungus, not a byproduct of fungi; yeast metabolism produces byproducts. That distinction belongs in the manuscript's classification, not as a rewrite of his deep-time premise.
 - Context window is full in this ChatGPT conversation — further work there needs a new chat with a summary, not a continuation in the same thread.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

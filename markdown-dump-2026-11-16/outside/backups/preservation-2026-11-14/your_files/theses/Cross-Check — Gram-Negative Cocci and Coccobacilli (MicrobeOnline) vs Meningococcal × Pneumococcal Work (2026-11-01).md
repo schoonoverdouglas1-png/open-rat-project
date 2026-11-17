@@ -72,4 +72,4 @@ A one-line decoder for the whole page, for the Medical Elements / herbology work
 - This file is the addition. Originals untouched: Meningococcal × Pneumococcal Cross-Reference (Oct 30), Most Advanced Serotype Disease Table (Oct 29, corrected copy), Moraxella theory (Nov 1), Gemini shard-code relay (Nov 1).
 - Next step if Douglas directs it: a corrected copy of the meningococcal cross-reference adding serogroup X as a flagged sixth group, with this file as its source note.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

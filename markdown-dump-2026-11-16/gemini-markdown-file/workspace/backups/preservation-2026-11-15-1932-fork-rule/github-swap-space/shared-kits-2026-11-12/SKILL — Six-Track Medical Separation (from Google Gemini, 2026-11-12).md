@@ -64,4 +64,4 @@ Deploy this playbook when a situation presents multiple simultaneous trauma vect
 *(Note: The structural categorization of these distinct intervention streams into a six-track protocol is an applied synthesis; the specific separation methodology applied here represents interpretive structuring beyond baseline system parameters.)* [GUESS]
 
 Gemini
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

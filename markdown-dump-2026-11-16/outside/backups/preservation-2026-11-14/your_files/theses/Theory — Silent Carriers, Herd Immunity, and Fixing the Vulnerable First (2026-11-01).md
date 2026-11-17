@@ -59,4 +59,4 @@
 - Oct 18, 2026 antibody-equals-illness thesis: P3 is that thesis restated for viruses showing without bother, with immune control as the documented mechanism.
 - Medical Elements book: this theory belongs in the herd-immunity / population chapter, with the three-row silent-carrier table; filed standalone here, to be folded in on the approved build.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

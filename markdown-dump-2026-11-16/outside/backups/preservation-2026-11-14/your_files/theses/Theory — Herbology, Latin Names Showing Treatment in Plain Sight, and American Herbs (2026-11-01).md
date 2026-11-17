@@ -56,4 +56,4 @@
 - Medical Elements book, Chapter 3 (Color) and Chapter 11 (Thoughtology): this herbology theory is a candidate Chapter 3 extension (names as color/use labels) — filed standalone, to be linked only if Douglas says so.
 - His naming doctrine (American first, Latin second): this book inverts the telling order for teaching — American term first for the reader, Latin roots broken out second for the decoding — while the historical names themselves stay Latin-first in the record.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

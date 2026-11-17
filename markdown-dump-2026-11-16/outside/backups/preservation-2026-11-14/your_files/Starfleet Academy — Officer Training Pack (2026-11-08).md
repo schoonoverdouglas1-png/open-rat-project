@@ -325,4 +325,4 @@ Eight officer tracks, plus **one adjunct course** (Adjunct Course A — "How to 
 
 *Assembled Nov 8, 2026, at Douglas's direction ("take every single officer's training, including the Commandant's"). Old-with-new applies: this pack is version one; assessments, once taken, revise it. Ex Astris, Scientia — and the fact-check comes first.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

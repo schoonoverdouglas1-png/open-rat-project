@@ -15,4 +15,4 @@ Douglas's own description of the project (Oct 13, 2026): a fictional story based
 - Character name still undecided.
 - Douglas asked to see a "deathburn file" from previous book works (Oct 13, 2026). Searched the full workspace Oct 13 — no file by that name exists here. May exist only in his phone notes.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

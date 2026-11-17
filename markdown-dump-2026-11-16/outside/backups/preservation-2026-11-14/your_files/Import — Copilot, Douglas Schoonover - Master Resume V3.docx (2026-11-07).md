@@ -68,4 +68,4 @@ No answer — daily-limit notice only.
 - Prompts 5, 6, and 7 are unanswered in Copilot, not absent — they are limit-blocked. Prompt 6/7 (Latin medicine / American pharmacology through time) is still an open ask for after the Copilot reset, if Douglas wants it run then.
 - Copilot reset is now shown as 7:00 PM CST Nov 7, 2026, not 6:00 PM. That changes the earlier plan for test asks and remaining Copilot reads — after 7:00 PM, not 6:00 PM.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

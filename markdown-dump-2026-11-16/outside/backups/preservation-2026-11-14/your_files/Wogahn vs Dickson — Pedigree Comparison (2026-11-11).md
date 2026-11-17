@@ -33,4 +33,4 @@ Douglas: "Doctor Dixon came Iowa." — **The record says no.** Iowa belongs to W
 - Wogahn affiliation lists conflict by source (CMS: 1 facility; directories: several). Dickson's OakLeaf-page affiliation is the single OakLeaf Surgical Hospital line; NPI lists more.
 - Neither profile lists undergraduate schooling. Nothing in either record shows the two men trained together or at the same institution at the same time — their overlap is OakLeaf Surgical Hospital and the Chippewa Valley, not a shared school.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

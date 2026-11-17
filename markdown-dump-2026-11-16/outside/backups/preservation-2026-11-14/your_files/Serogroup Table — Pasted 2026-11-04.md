@@ -31,4 +31,4 @@ Notes filed with it, not as corrections:
 - Counts as pasted do not always match the listed serotypes in the same row (e.g., group 11 is listed as 4 distinct but names 6; group 20 is listed as 2 but names 3) — flagged, not silently fixed.
 - This is a manuscript/research table, not medical advice, and not a lab result. Pneumonia testing against it, per his standing pneumonia rule, still goes against the Mayo PN23M 23-serotype record, with partials reported as partial.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

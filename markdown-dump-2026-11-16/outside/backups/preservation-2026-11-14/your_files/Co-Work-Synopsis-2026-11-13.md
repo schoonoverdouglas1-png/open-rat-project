@@ -61,4 +61,4 @@ Purple Rat ("Ember") — co-developers of the Google toolkit; co-director and
 co-author of the Gemini-code work. Errors in v2 were Ember's and are recorded
 as hers; the corrections are the crew's.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -17,4 +17,4 @@ Purpose: the project's shared memory for claims (Perplexity's ledger + DeepSeek'
 - Claim: Google Assistant backend is not open source; public code is the .proto contract, SDK clients, AOSP assistant-role config, and trait definitions. Source: DeepSeek answer Nov 7 (87 pages consulted, as it reported). Tier: [PARTIAL — single answer, not yet independently re-verified]. Status: open.
 - Claim: RCS cannot carry AI-to-AI traffic; MCP/API/gRPC/WebSocket/queues are the channels. Source: Gemini, DeepSeek, Perplexity, Duck.ai answers Nov 7 — convergence, soft signal only (overlapping training). Tier: [PARTIAL]. Status: open.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

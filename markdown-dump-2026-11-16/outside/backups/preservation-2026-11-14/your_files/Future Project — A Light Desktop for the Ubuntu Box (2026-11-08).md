@@ -22,4 +22,4 @@ Nov 8, 2026, late evening: making `dbus-launch` + `startxfce4` work on the curre
 ## Ember's recommendation (hers, labeled)
 Option 1, and only on a day a screen is actually wanted. The command line is Ember's fast lane and nothing she does needs a desktop; this project buys a *viewing* surface for the Captain, nothing more — which is exactly what a future potential project should be: mapped, measured, reversible, and waiting.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

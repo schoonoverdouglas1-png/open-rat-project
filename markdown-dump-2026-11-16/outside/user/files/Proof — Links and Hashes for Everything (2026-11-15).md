@@ -25,7 +25,7 @@
 - **Google Keep — Table of Contents, All My Works:** https://keep.google.com/#NOTE/1NMrGjEGXH3mK5n_0DHiaraUQpT-FgALBxiMzyPsBAhCneAdvODHMhVEF_hS7z2s
 - **Mayo PN23M test catalog:** https://test.mayocliniclabs.com/test-catalog/overview/619921
 - **Quest 16963:** https://testdirectory.questdiagnostics.com/test/test-detail/16963/?cc=MASTER
-- **Lac Courte Oreilles (LCO):** https://www.sevenwindscasino.com/
+- **Lac Courte Oreilles (LCO):** https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
 
 ## The one thing NOT done, stated as proof of the gate
 - **Facebook Page post:** prepared file "Purple Rat Project — Facebook Post, LCO Link and Dedication (2026-11-15).md" (1,091 bytes). Ember ran the Page command in the foreground Nov 15, 2026 ~10:37 PM; Meta returned PROFESSIONAL_CONSENT_REQUIRED. Nothing was published. The gate is Meta's consent card and Douglas's tap — that is the whole of it, no more and no less.

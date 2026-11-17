@@ -22,4 +22,4 @@ python3 ~/workspace/custom-connectors/custom.google-gemini/bin/gemini_call.py ge
 
 - Label any model other than gemini-3.5-flash-lite and gemini-3.1-flash-lite as untested in this connector. Both of those replied correctly in the verification run.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

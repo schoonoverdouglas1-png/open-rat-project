@@ -65,4 +65,4 @@ Characterized honestly, from the files on disk tonight (verified by direct listi
 - Local verification: `ls`/`wc` of ~/workspace/github-swap-space (CONVERSATION.md 2,227 lines; rabbit/OUTBOX.md 443 lines; both modified Nov 8, 18:48 CST).
 - Gap noted: developers.facebook.com doc pages returned HTTP 403 to the text fetcher; Platform mechanics above rest on multiple independent sources describing those docs, plus Meta's own developers.meta.com pages where the claim is Meta's wording.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

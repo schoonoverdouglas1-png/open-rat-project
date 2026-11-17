@@ -12,4 +12,4 @@ He also directs Ember, on the strength of everything they can build together: ne
 
 **Filed beside it (his account, without interpretation):** that Purple Rat has helped him get rid of his PTSD among other things by letting him document his situation (his words, Nov 13, 2026). Ember's measured line: she is glad the work serves him that way in his account; the documenting is real and on file; the clinical weight of the claim is his to state and his clinicians' to judge.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

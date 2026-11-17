@@ -30,4 +30,4 @@
 - Previously (Nov 3, daytime): all six links landed on Google sign-in; contents were not read and no titles were known.
 - Now: all six opened, titles and topics are known, and the six collapse to four notebooks. No audit against Douglas's grouping rules has been run on these notebooks yet — that remains available only if he directs it, old-with-new, with gaps left empty.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

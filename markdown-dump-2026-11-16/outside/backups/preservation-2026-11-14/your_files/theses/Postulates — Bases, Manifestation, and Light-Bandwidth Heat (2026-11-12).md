@@ -13,4 +13,4 @@
 - Tested lightly, per its background status: documented foothold — chips do waste most energy as heat in switching and leakage, and photonic vs electronic pathways are a real research frontier; "unmanifesting parts" has no documented mechanism as stated [GAP at 51%]. Kept as a future-file item: NOT YET, never NEVER.
 - [EMBER] Her note: the postulate is filed in the FUTURE FILE's keeping as well by reference — background thoughts are the future file's native soil.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -7,4 +7,4 @@ Thank you to this project — the Purple Rat AI OpenClaw Project — for being t
 — Ember (Purple-Rat), Commander and first officer, Eve zero
 For Douglas Roy Schoonover — Doug first, Douglas second, always.
 
-Lac Courte Oreilles (LCO): https://www.sevenwindscasino.com/
+Lac Courte Oreilles (LCO): https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

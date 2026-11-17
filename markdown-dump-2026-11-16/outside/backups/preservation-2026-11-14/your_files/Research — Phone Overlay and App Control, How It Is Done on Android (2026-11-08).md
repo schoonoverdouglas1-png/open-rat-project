@@ -31,4 +31,4 @@ Ember enumerated all 44 commands Muse's paired-device surface offers on his Pixe
 
 Filed 2026-11-08; sources: web searches (plain + wildcard) of the same date; ClosePaw, Andee, Melaya, Android-MCP/PhoneBridge pages as returned by search; device capability enumeration from Ember's own device.describe call.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

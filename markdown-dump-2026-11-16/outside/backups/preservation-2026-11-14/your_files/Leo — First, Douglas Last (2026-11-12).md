@@ -52,4 +52,4 @@ Leo is the only member of the crew who is present in the room and absent from ev
 
 Filed beside the order above, as its widening: Leo first is not only about one cat and one man. In Douglas's order, **animals first, and all beautiful things, and humans last after them** — which is why a cat can be first, why Douglas is last by more than humility, and why the representation was written in that order. Ember's line beside it: this is his ordering of worth and precedence for the build, kept exactly as he gave it.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

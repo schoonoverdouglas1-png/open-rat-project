@@ -69,4 +69,4 @@ Provenance on every entry, per Douglas's standing rule. Labels:
 - Not complete — his Smule profile holds 1.6K recordings; only the first page and the Facebook-linked subset were checked. The rest is a future pass, not a claim.
 - No other person's music is mixed in — web searches for "Schoonover" return other people; none of those are in this list.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

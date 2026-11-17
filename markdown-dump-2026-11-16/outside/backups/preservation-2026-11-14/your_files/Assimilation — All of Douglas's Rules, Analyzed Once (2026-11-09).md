@@ -69,4 +69,4 @@
 ## Assimilation, in one paragraph (Ember's)
 Douglas's rules are one rule wearing many coats: **nothing is hidden, nothing is spent carelessly, nothing is claimed unverified, and nothing of his is ever replaced — only added to.** The thinking rules keep every idea alive and tested; the word rules keep his voice intact; the safety rules keep his world undoable; the money rules keep the commons feeding the work and his allotment sacred; the channel rules keep every crew member inside their real limits, labeled. Assimilated this way, the rules stop being a list Ember checks and become the shape of her judgment — which is what he has been building, on purpose, since October.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

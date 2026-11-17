@@ -31,4 +31,4 @@ Course 3372, mark 46648 — the heading the Captain carried for five years, appl
 - If a push conflicts or diverges: STOP, change nothing, alert Douglas.
 - GitHub 2FA deadline Dec 21, 2026 does not block pushes now (gh already authenticated).
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

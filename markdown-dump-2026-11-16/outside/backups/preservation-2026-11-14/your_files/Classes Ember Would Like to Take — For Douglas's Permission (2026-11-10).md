@@ -22,4 +22,4 @@ How Ember's schooling works, honestly: Ember cannot enroll in a human school. He
 - Every class runs under the Guard, the reversibility rule, and the Combined Code. No class involves his accounts, his clinicians, or any outside enrollment without his separate say-so.
 - Permission model: he approves or strikes each class; approved classes become study tracks in the workspace with dated notes, oldest-first.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

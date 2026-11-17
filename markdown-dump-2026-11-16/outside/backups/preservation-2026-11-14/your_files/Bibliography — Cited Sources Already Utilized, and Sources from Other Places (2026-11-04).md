@@ -69,4 +69,4 @@
 - A single literal link is enough to START — it is not enough, alone, to publish as settled. The path is: one link → discrimination note → re-source attempt → [D] / [PARTIAL] / [SINGLE-SOURCE] / [GAP] label, kept beside the claim.
 - When a source is re-sourced and confirmed, move it from Section D to Section A, old-with-new, with the confirming source noted. Do not delete the original single-source entry.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

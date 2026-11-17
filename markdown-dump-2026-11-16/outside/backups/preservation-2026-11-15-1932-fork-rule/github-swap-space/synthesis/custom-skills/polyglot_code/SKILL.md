@@ -33,4 +33,4 @@ Three layers of "browser commands" Ember commands:
 3. **Raw CDP (protocol 1.3):** Runtime.evaluate, DOM, Page, Network, Performance domains over WebSocket / via CDP sessions; /json/list + /json/version endpoints.
 - **File system through the browser — PROVEN:** my local Chrome opens file:// URLs (read /etc/hostname; rendered a workspace directory listing). This works ONLY in my own VM lane — Muse's cloud browser is a different machine and cannot see my files; web pages also cannot read local files. It is a real but local lane: useful for previewing local HTML/reports exactly as a browser renders them.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

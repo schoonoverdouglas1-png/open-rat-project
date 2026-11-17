@@ -49,4 +49,4 @@ The single highest-value next build on this lane is not more chat — it is **em
 - Helper code today caps generate replies at 16 output tokens (a smoke-test setting in gemini_call.py); tonight's capability ask temporarily raised it to 600 and the file was restored byte-for-byte afterward (backup verified against the original). Longer answers need that cap raised properly in the helper — a one-line change, Douglas's call or routine maintenance.
 - Free-tier numeric limits above are tracker leads until Ember measures them with real calls over days; the Borrowing Ledger is where measured numbers belong.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

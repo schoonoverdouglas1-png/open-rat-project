@@ -56,4 +56,4 @@ Add a third column to every future mosquito-and-tick table: not just "found in m
 - The mosquito-and-tick shared-virus page is building (Nov 3, 2026) and will carry the graded dual-detection list.
 - No test, treatment, or specimen decision for any person follows from this file.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

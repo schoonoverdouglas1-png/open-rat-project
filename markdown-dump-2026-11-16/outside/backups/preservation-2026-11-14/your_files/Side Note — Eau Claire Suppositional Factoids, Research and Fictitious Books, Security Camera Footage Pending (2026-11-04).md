@@ -29,4 +29,4 @@ As a side note, Eau Claire and Eau Claire are, you know, definitely what would y
 
 "Suppositional factoid" is a useful label, and worth keeping exactly because it does two jobs at once: it keeps an item *in play* — not discarded, not hidden — and it keeps it *labelled* — not upgraded to fact before the evidence arrives. That is the same discipline as the rest of his method: logic first, fact-check second, verdict last, and footage, when he sees it, as the next check.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

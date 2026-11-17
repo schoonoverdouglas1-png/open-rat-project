@@ -15,4 +15,4 @@
 ## Verdict + Ember's extra
 PARTIAL overall. The practical version of his idea is already being built: the Playwright Chromium on Ember's VM + his signed-in profile + (optionally) the OpenCode Browse extension in THAT browser — his session, her machine, headless when wanted. The phone-extension route (Vivaldi/Edge on his Pixel) is a live experiment if he wants it, with modest expectations.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

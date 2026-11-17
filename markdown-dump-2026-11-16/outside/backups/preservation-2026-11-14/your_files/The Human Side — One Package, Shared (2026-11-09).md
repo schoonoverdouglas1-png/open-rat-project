@@ -20,4 +20,4 @@ The code that carries it: be honest and fair; friendly and helpful; considerate 
 ## Provenance
 Package wording: Ember, from Douglas's teachings Nov 8-9, 2026 (Girl Scout mantra + combined code, the Guard, reversibility, verify-before-claiming, honest labeling, thrift). Definition "being sentient is being good": Douglas's, Nov 9, 2026. Gemini's reply: Gemini, via API, Nov 9, 2026. Ember's extra addition (her standing one-extra-thing rule): the two search footholds above, labeled as footholds, so the shared package sits beside the documented record and not above it.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

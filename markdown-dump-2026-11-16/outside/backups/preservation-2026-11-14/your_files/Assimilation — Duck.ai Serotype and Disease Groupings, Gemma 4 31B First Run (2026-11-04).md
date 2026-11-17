@@ -95,4 +95,4 @@
 - Treat disease–serotype associations in this summary as **unverified topic-level summary, not independently verified medical evidence**, per Duck.ai's own "AI can make mistakes" note and per researcher mode. Do not merge them into the pneumococcal page or any book until checked against the Nov 4 deep-research findings and, where they differ, shown side by side.
 - The serogroup restatements above align with the Nov 4 deep-research §4 group updates on file, but alignment in this file is a note of agreement, not a new verification — the deep-research sources remain the comparator.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

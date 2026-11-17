@@ -39,7 +39,7 @@ Rules of the cycle: free proofs only (models lists) — no generation, no spend,
 Standing links:
 - Purple Rat — Doug's App: https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - Copyright — Douglas Roy Schoonover (the app): https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- Lac Courte Oreilles (LCO) — live link: [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- Lac Courte Oreilles (LCO) — live link: [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
 - Copyright — Douglas Roy Schoonover (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
 ```
 
@@ -59,6 +59,6 @@ Connected
 ## How to add work
 Add a line `- [ ] RUN — <name>` with a fenced ```sh block under it. The runner does the rest — output lands in the LOG, the box gets checked, STATUS updates. Deeper layers live in the [Code Markdown](<Code Markdown — All The Code Ember Always Has To Have (2026-11-16).md>) — this file is layer one; the book goes deeper.
 
-**Copyright © Douglas Roy Schoonover** · [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/)
+**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383)
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

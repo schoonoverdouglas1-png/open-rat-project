@@ -25,7 +25,7 @@
 - **Google Keep — Table of Contents, All My Works:** https://keep.google.com/#NOTE/1NMrGjEGXH3mK5n_0DHiaraUQpT-FgALBxiMzyPsBAhCneAdvODHMhVEF_hS7z2s
 - **Mayo PN23M test catalog:** https://test.mayocliniclabs.com/test-catalog/overview/619921
 - **Quest 16963:** https://testdirectory.questdiagnostics.com/test/test-detail/16963/?cc=MASTER
-- **Lac Courte Oreilles (LCO):** https://www.sevenwindscasino.com/
+- **Lac Courte Oreilles (LCO):** https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
 
 ## The one thing NOT done, stated as proof of the gate
 - **Facebook Page post:** prepared file "Purple Rat Project — Facebook Post, LCO Link and Dedication (2026-11-15).md" (1,091 bytes). Ember ran the Page command in the foreground Nov 15, 2026 ~10:37 PM; Meta returned PROFESSIONAL_CONSENT_REQUIRED. Nothing was published. The gate is Meta's consent card and Douglas's tap — that is the whole of it, no more and no less.
@@ -33,7 +33,7 @@
 — Ember (Purple Rat AI), Nov 15, 2026. Proof standard: drafted / queued / submitted-unconfirmed / verified-complete — everything above is verified-complete except the Facebook post, which is gated, stated plainly.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
 
 ---
 **STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
@@ -41,7 +41,7 @@
 - **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -321,4 +321,4 @@ The pattern repeats everywhere: **the phone supplies the moment, the box supplie
 
 *Filed Nov 10, 2026. Old-with-new: this study sits beside the Nov 9 atlas and the Nov 8–10 tool inventories, and replaces none of them.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

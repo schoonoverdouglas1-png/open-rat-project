@@ -20,4 +20,4 @@ Muse Mail (purple-rat@muse.ai) has NO POP3/IMAP server settings — it is not th
 ## Worth knowing
 Third-party mail blogs report Google is retiring Gmail's "Check mail from other accounts" POP-fetch (new setups already closed; existing ones end Jan 2027). Our parallel does not use that feature — forwarding is the durable route and is unaffected.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

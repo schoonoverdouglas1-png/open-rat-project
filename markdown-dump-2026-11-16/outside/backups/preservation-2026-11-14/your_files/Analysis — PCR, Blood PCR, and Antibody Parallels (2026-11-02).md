@@ -229,4 +229,4 @@ Nothing in this section is filled in by guessing. Each item is a gap in the thre
 
 *Sources for this analysis are the three workspace reports listed at the top. No new web research was run. Test IDs, specimens, windows, and sensitivity figures are grounded in those reports; anything not in them is marked [GAP] above, never invented.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

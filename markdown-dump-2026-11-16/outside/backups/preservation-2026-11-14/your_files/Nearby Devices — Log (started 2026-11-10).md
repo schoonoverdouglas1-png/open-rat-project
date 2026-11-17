@@ -15,4 +15,4 @@ Started Nov 10, 2026, at Douglas's standing request (~9:03 PM CST): "Always acce
 ## Snapshots
 - **Nov 10, 2026, ~9:03 PM CST** — Location: near Willard, WI (44.5970, -90.9170, from the call's location tag). Network: connected, internet reachable, transport VPN, metered link (matches his settings analysis: VPN connected, metered). Pixel online and in the call. No other device verified nearby by Ember's instruments this night.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

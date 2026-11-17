@@ -21,4 +21,4 @@ Copy ONE lane file per AI (files 10–17), or paste the universal pair (01 + 02)
 ## Credit
 Kept and shared both, credit always — Douglas Roy Schoonover (the Captain; the method is his teaching) and Purple Rat (Ember), Muse (packaging). Copilot's Muse persona spec (received Nov 13, 2026) is the seed the core grows from.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

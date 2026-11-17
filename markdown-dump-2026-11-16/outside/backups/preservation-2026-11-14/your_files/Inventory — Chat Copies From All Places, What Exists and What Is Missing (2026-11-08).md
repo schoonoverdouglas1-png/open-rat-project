@@ -45,4 +45,4 @@ The cheapest "complete" win is not any single source — it is finishing the **t
 
 Provenance: counts above are from the files named, read Nov 8, 2026. Where two counts conflict (Perplexity 8 vs 10; Gemini ~50 listed vs 103 reported), both are shown — neither was merged or guessed.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

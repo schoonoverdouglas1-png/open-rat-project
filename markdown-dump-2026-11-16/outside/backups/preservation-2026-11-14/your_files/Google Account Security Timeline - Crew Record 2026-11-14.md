@@ -19,4 +19,4 @@ Structured by Gemini (both portals, pushed order) from Ember's verified facts, N
 ## Lane note (Nov 14, ~12:52 AM)
 The Douglas-account Gemini (t2) hit a usage limit during this order — "Limit reached · Resets 1:52 AM" — and dropped to low thinking (Flash-Lite) until the reset. The purplerat1982 instance (t1) showed no limit. Until ~1:52 AM, heavy pushed work leans on t1.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

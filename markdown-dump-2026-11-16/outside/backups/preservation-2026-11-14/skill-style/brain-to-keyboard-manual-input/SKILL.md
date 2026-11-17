@@ -35,4 +35,4 @@ Filed in the style of the original crew files: his framing as his, the operating
 ## Undo
 Remove this folder at Douglas's word; manual input mode itself stands in MEMORY.md / AGENTS.md until he changes it there.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

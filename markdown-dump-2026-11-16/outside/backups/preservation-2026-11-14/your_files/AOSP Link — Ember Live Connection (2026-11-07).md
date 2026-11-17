@@ -21,4 +21,4 @@ Meta AI has no VM or git of her own, so her "live connection" to AOSP runs throu
 ## Shared Android file
 `~/workspace/your_files/Answer — Gemini, Enhancing Ember with Android, Pixel 7 AOSP (2026-11-07).md` (66 lines) — Gemini's AOSP guidance for Pixel 7 (panther). No AOSP code itself was downloaded; that file is guidance, not code. Douglas approved sharing it with Meta after the safety flag was shown to him, and confirmed again ("Yes").
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

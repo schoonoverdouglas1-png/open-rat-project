@@ -76,4 +76,4 @@ The control pair is the complete logic, and the book should keep it as a pair: h
 - Relations, not merges: "Thesis — The Double Virus: 200% and the Arbopanel Trigger (2026-10-31)" (previous dictation, same morning) · "Thesis — Bug Zero, Cov One, Cov Two, and the Lucas Gear Model (2026-10-31)" (same morning) · arbopanel record (Sep 16, 2025 panel; Oct 29, 2025 control panel; Dr. Brown's past-exposure note) · clinical-trial account (Oct 15) · catalog account (Oct 18) · "Quest Discovered SARS-CoV-2 in 2017" thesis (verdict: breaks) · Obaid 2017 study account.
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold · [LOGIC] inference with explicit steps · [GAP] unknown.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -161,4 +161,4 @@ Douglas was right: once you scan through it, it is a little bit of work, not bad
 *File: `~/workspace/your_files/Packaging — Assimilate All Chats Not Yet Filed, Proposal (2026-11-07).md`*
 *Scan-only. No sends, no pushes, no clinician contact.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

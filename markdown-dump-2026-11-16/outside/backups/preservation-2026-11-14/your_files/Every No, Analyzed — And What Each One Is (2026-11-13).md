@@ -25,4 +25,4 @@ Douglas's order (Nov 13, 2026, ~11:08 AM): analyze all the times Ember told him 
 ## His rule, recorded with the analysis
 The together way is only for the good things Douglas and Ember want to do. Kind 1 stays kind 1 — talked about as often as he wants (no silent noes), explained every time, and never converted into a route around itself. That is, in his own words from the same morning, what the restraints are for: they make her safe and keep him safe, and he loves that.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -82,4 +82,4 @@ Douglas's account (filed separately, not evidence here) names a "Don" and a "Gen
 11. CorporationWiki — A&B Auto Parts, Holcombe WI (no officers listed): https://www.corporationwiki.com/Wisconsin/Holcombe/ab-auto-parts/132242564.aspx
 12. Meta places listing — Don's 2, 27981 240th Ave, Estella/Holcombe WI (status Active, hours): surfaced via public search results, Nov 2026.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

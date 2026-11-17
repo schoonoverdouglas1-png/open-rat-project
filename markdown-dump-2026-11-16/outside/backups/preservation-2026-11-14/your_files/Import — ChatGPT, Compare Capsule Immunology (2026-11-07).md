@@ -42,4 +42,4 @@ This is the "sentinel organisms" reframing — not "calling to each other," but 
 
 Provenance: Douglas's ChatGPT account, read by Ember in the live browser. Filed under standing GitHub automatic-save rule. No Cara material, no full lab PDFs, no passwords/codes/IDs.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

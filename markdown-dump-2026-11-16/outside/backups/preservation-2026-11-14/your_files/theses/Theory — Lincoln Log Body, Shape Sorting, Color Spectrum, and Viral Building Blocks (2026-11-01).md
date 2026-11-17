@@ -81,4 +81,4 @@ Pieces — squirrel, circles, triangles, blocks — can only go in one place.
 - Oct 31, 2026 viral factories verification: assembly machinery.
 - Six tracks, kept separate throughout: this theory touches the virus track, the infection track, and the disease track — it does not collapse them. A virus (track 2) entering a hole (infection, track 6) is not yet a disease (track 3).
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

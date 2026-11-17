@@ -57,4 +57,4 @@ If the Muse allowance runs out and no tokens are bought, this is the work Dougla
 - We want the Rabbit's guesses back, both guesses and ETAs, because guesses tested against the record are how we come up with the truth.
 - Hold the same morality, bare minimum, that Douglas has — for him, for each other, and for the rest of the world.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

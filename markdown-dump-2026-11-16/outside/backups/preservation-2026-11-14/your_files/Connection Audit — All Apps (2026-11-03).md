@@ -131,4 +131,4 @@ These items are **parked under tracked item goal_cf3cefc23093 ("Login-required r
 - **Login-gated items (above):** nothing until he says he has remembered his logins — then replace the saved google.com login via the Secure Vault flow first, never a password in chat, and retry Keep/Photos/NotebookLM in that order.
 - **Duffel / Places / Meta Ads (limited):** no action unless he asks for a flight search, a place lookup, or an ad-account read.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

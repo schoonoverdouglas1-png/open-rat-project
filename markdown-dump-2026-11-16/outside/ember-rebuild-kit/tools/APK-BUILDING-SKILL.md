@@ -16,4 +16,4 @@ Build minimal, installable, signed APKs with no Gradle and no bloat: manifest + 
 ## Project shape
 `src/AndroidManifest.xml`, `src/<package path>/MainActivity.java`, keystore beside them. First proof: PurpleRatWebKit-debug.apk, 8,559 bytes, com.purplerat.webkit v1.0, signature verified Nov 16, 2026.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

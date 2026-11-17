@@ -63,4 +63,4 @@ Print it beside the theory, so the next reader trips on the syllable and lands o
 - Relations, not merges: Oct 28 Group B streptococcus–*Candida* thesis (association holds, composition breaks) · Architecture essay (names as maps; letter collisions) · Cryptococcus serotype answer (A, B, C, D, AD) · Most Advanced Table (cryptococcosis and coccidioidomycosis rows).
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

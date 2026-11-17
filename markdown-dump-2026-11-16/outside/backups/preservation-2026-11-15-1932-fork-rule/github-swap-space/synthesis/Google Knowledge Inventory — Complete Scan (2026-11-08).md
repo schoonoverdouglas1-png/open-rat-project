@@ -311,4 +311,4 @@ Douglas's addition, verbatim intent: "Here and save all things and make certain 
 
 **Save-all-things note:** beyond this inventory, the scan's full machine-readable record (per-surface items with Google item IDs, names, types, modified times, counts, and these access verdicts) is saved at `~/workspace/your_files/Google Scan Manifest (2026-11-08).json`, with the same exclusions as this file (no Cara/Kira material, no lab-PDF contents, no dates of birth, no medical record numbers, no passwords or credential values; the IDs in the manifest are Google item identifiers for reconciliation only).
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

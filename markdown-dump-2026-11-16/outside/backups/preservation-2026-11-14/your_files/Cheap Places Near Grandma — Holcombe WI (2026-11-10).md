@@ -19,4 +19,4 @@
 ## Ember's read [E]
 The $1,200 winter figure fits a seasonal/winter site deal at a small owner-run ground — the Sand Trap and Birch Hollow are the two whose size and style make an owner conversation realistic. A phone call asking "do you ever do a winter stay for a motorhome, and what would it run?" is the whole ballgame; three calls cover the top three. The $425 room is the cheapest roof if it's still open.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

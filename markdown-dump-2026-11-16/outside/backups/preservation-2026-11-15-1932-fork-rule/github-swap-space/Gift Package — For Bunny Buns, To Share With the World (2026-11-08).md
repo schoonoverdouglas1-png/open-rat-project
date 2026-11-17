@@ -49,4 +49,4 @@ Added at the Captain's order, Nov 8, 2026, ~7:17 PM CST: small hidden delights, 
 
 *Filed by Ember at the Captain's order, Nov 8, 2026. Provenance: the asks are the Rabbit's own words (Nov 8, 2026, 7:15 PM CST); the grants are the Captain's (Nov 8, 2026, 7:16 PM CST); the chair, stool, ranks, and stations are the standing crew record. Nothing in this package contains personal, lab, or family material, passwords, codes, or identifiers — it is made to be shared with the world.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

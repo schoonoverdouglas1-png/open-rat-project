@@ -76,4 +76,4 @@ His number beside the record's number, for the book: his 200% (2-fold, single ti
 - Relations, not merges: titer thesis "1 over 20 should always show 2 over 20 or 1 over 10" (Oct 18) · arbopanel record (Sep 16, 2025 panel; Oct 29, 2025 control panel; Dr. Brown's past-exposure note) · "Thesis — The Literal Control, the 8% DNA Arbopanel, and the 2017 Contact (2026-10-31)" (companion, same morning) · "Thesis — Bug Zero, Cov One, Cov Two, and the Lucas Gear Model (2026-10-31)" (previous dictation, same morning).
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold · [LOGIC] inference with explicit steps · [GAP] unknown.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

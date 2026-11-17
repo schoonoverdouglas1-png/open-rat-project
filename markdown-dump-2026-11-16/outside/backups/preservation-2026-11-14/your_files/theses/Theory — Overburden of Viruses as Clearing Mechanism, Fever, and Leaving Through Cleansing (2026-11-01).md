@@ -52,4 +52,4 @@
 - Oct 17, 2026 virome creed: inverted arrow (disease first, virus as showing) — P3 carries both arrows, old-with-new, per his standing rule.
 - Six tracks: fever belongs to the illness/sickness tracks; viral load belongs to the virus/infection tracks. This theory crosses them; it does not merge them.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

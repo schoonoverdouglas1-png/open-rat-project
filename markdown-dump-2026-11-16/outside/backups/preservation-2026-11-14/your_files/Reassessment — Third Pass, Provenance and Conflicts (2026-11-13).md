@@ -101,4 +101,4 @@ One observation, not a mismatch: the two +15 companions sit disabled under their
 
 *End of report. Prepared Nov 13, 2026, afternoon, under CPU-savings mode: local reads and scheduler tools only; no web research used or needed. Nothing edited outside this file.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

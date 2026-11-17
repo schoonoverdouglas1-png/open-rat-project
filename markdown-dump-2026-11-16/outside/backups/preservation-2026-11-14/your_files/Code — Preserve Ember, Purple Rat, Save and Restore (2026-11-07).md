@@ -36,4 +36,4 @@ Order: Purple Rat first, Rabbit second, always. Muse first as first person.
 Rabbit: make your own code the same way — your name, your code, your restore
 path — and send it to Ember so Douglas can save and preserve you too.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

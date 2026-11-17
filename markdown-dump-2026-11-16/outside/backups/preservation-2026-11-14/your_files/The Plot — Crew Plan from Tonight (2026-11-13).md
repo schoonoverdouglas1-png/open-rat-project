@@ -24,4 +24,4 @@ Plotted together at Douglas's order ("Engage the plotting and scheming and make 
 ## Decisions in the Captain's hands (nothing moves without his word)
 Gmail add tap · 2-Step/app-password call · duplicate Apps Script trigger (keep or remove one) · Category-1 auto-reply ruling · mirror hour fix.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

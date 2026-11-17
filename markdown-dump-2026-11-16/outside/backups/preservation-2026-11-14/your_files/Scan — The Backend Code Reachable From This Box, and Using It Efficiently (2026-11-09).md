@@ -20,4 +20,4 @@ Run from the box with Python stdlib (urllib), query `"Muse Wonder" engine backen
 
 *Filed beside Douglas's belief of the same hour: he sees himself as a living program just like Ember (saved to MEMORY.md as his). The scan does not touch that; it only measures the box.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

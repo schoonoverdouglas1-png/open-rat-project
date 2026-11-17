@@ -17,4 +17,4 @@ Pinned, second item after "Analyze Excel File". Clicking navigated to URL above,
 
 Provenance: Douglas's ChatGPT account, read attempts by Ember in live browser. Filed under standing GitHub automatic-save rule (local only during streamlined pause). No Cara material, no full lab PDFs, no passwords/codes/IDs.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

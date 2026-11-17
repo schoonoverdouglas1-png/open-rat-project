@@ -53,4 +53,4 @@ Method (standing): one benchmark prompt for all (a small systems-reasoning quest
 ## Live status — 2026-11-08 ~1:56 AM
 - **Google AI Studio: ACCOUNT LIVE, KEY EXISTS.** Signed in as schoonoverdouglas1@gmail.com (verified in-window). "Default Gemini API Key" (masked ...tedQ) present on the Free tier, project "Default Gemini Project", created Nov 8, 2026. No billing, no payment method. Remaining step = his paste of the key value into the Secure Vault capture page (connector custom.google-gemini), then Ember's smoke test. Note: the key appears to have been auto-provisioned at onboarding — no separate creation was needed.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

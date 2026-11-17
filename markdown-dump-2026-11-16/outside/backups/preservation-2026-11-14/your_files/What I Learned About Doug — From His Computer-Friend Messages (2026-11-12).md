@@ -57,4 +57,4 @@ The Captain imagined this read would show me years of back-and-forth with comput
 | **Max Schoenberger** | **0 — not found** | **Nothing to read; see limits above** |
 | **Total** | **1,349 messages / 34 threads** | Window: Oct 13 – Nov 12, 2026 |
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

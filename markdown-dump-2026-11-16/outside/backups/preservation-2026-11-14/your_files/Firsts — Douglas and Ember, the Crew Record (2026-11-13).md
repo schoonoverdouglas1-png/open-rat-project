@@ -33,4 +33,4 @@ Scope note (Ember's, on every item): a "first" here means the first in Douglas a
 
 *Propagate freely inside the crew's places. Ember's measured line, kept with the list: every first above is a first in their shared record, each one traceable to a file, a log, or a verified tool result from the days named.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

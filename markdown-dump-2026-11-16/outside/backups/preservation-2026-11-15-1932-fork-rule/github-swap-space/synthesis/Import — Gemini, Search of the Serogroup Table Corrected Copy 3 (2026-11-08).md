@@ -21,4 +21,4 @@ Based on a close reading of the researcher's public GitHub serogrouping table:
 ## (3) Recommendations (first complete; the rest truncated at the lane cap)
 1. Explicitly split serotypes from vaccine coverage in the grid — never list multiple serotypes in one vaccine cell without clarifying whether all or only some members are covered; a binary indicator (Yes/Partial/No) beside names prevents whole-group misreading. [Recommendations 2–3 were cut at the output cap; a re-ask can recover them if Douglas wants them.]
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

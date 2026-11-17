@@ -107,4 +107,4 @@ His single "cross axis" splits cleanly into three axes that cross: a genetic axi
 ## Note on "procession" (Nov 1, 2026, ~11:46 AM CST)
 - Second use by Douglas: practice must "flow like a rhythm and flow in a simple procession." Consistent with the ordered-sequence reading (an ordered flow, like a procession marching in order), not with "progression" as a garble. The "progression?" alternative weakens; "procession" as his deliberate term for ordered flow stands unless he corrects it.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

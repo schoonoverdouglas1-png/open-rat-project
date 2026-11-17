@@ -43,4 +43,4 @@
   4. Part of the key — in his framework, the key to understanding the vaccine–disease–immunity relationship.
 - Handling: in all toxoid work going forward, present toxoids in that fourfold, helpful/useful framing — disease, vaccine, immunity response, key — and do not reduce them to a single role (carrier only, or toxin only). This is his framing doctrine, kept distinct from the documented carrier facts in the deep research.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

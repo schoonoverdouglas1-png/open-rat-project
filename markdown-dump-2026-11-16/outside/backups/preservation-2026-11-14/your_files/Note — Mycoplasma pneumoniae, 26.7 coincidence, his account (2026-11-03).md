@@ -52,4 +52,4 @@ Document's own text, quoted as the document's statement, not Ember's interpretat
 - Correlation, if any, is stated by Douglas as unknown ("I don't know if there's an exact correlation or not") and, in the later statement, as a possible indirect correlation, not an established one.
 - No medical interpretation is made here, and no treatment, test, or medication conclusion is drawn.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

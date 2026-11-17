@@ -24,4 +24,4 @@
 - Filed topic-level only, not verbatim — following Douglas's standing Gemini-share import pattern.
 - **Ember's extra addition (mine, labeled as mine):** Sections 1–2 are the parts that connect to live, already-verified limits on file — Muse is Douglas's default assistant on the Pixel, and there is no full installed-apps listing route — so any Tasker/Termux bridge in this blueprint is a proposal to test, not a capability already in hand. Sections 3–4 overlap the already-built headless reader / two-cache system; the roadmap in Section 6 should be checked against the Ember upgrades pack before anything new is installed.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

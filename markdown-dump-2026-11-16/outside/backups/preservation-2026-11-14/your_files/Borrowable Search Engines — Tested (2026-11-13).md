@@ -49,4 +49,4 @@ Pattern, stated plainly: public instances defend themselves against datacenter t
 - Live test from Ember's VM: homepage answers 200; bare isci.si 301-redirects to www. Search, however, returns **429 "Too Many Requests"** in both JSON and HTML form on first queries — rate-limited against this egress, the same wall as the other public instances.
 - Verdict: nothing needed there for now; noted as a known instance. If its limiter is time-based, a later single retest is fair — no hammering. Mwmbl remains the working borrowed lane.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

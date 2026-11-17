@@ -112,4 +112,4 @@ SELECT success FROM MD_DELETE_GUIDE(id = 'a1b2c3d4-e5f6-7890-abcd-ef1234567890')
 - The write-side codes (create/update/delete/set-access, with placeholder example IDs and example revenue data) will NOT be run: they sit outside Douglas's own "non-harmful, read-only one time" bound, and a read scaling token rejects them at the server anyway. They are saved here as reference, which is what the page offers them as.
 - The page's own further reading: "Bootstrap Guides from the context you already have", the MCP tool reference for Guides, the SQL function reference for Guides, and MCP workflows.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

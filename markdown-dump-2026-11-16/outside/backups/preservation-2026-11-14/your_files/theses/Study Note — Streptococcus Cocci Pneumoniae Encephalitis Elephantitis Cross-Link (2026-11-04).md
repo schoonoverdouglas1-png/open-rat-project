@@ -125,4 +125,4 @@
 - Filed as his account and his assessment only. No master-study document, clinical-study record, or credential verification is on file in this note, and none is claimed.
 - Open clarification, NOT guessed: the dictation opened with "drop the caucus or" — it is unclear whether that was an instruction to drop a word, a name, or something else from a file. That phrase is flagged here, not acted on, until Douglas clarifies what to drop.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

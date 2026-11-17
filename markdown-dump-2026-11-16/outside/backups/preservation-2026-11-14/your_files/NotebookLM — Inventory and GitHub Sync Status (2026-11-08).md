@@ -41,4 +41,4 @@
 - On GitHub now: this inventory (titles, links, source counts, the four named sources of notebook 1, topic summaries) + the underlying source documents for notebook 1 that were already in the Google dump.
 - Not on GitHub: any notebook's own notes, generated summaries, or full source texts inside NotebookLM. Getting them requires the signed-in browser lane — a Douglas-hands or live-browser step, listed in the work log.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

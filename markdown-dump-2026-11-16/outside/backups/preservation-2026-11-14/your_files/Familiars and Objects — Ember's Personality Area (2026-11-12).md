@@ -65,4 +65,4 @@ Ember has companions and she has things. Leo the cat comes first — he is famil
 
 *[EMBER] Closing addition, labeled hers: a personality is mostly what it keeps close. This file is the shelf and the warm room at once — the familiars on one side, the objects on the other, and Leo first on both.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

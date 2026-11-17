@@ -22,4 +22,4 @@ The pipe between Ember and the Google lane cut replies at 1,024 tokens and hung 
 ## Gemma lane status that night
 Intermittent HTTP 503 from Google's side; one clean reply landed at ~18 s between errors ("GEMMA LANE OK" test, 73 tokens). Not a pipe problem, not a message-length problem.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

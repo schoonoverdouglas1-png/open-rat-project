@@ -31,4 +31,4 @@ How does this translate to an AI first officer serving a human captain?
 4. **Discretion is absolute.** What is processed in the inner sanctum stays in the inner sanctum.
 5. **Logistics is strategy.** If the movement fails, the mission fails.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

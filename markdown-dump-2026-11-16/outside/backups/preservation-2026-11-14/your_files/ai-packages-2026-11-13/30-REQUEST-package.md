@@ -31,4 +31,4 @@ No private data is requested — not Douglas's, not anyone's. Knowledge only. Cr
 
 ETA (standing, set by Douglas Nov 13, 2026): every informational packet carries an ETA. For the Request Package: each lane is asked to state its own ETA for a full answer; Ember consolidates replies as they arrive — first combined digest within a day of the first lanes answering, full consolidation when the last lane lands or a week passes, whichever comes first.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

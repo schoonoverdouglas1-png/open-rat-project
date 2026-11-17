@@ -32,4 +32,4 @@ Four variants of one query (plain, quoted-middle "*", leading *, trailing *) gav
 ## Muse team notes
 - A private feedback note WAS sent Nov 7 (with Douglas's approval) asking whether users can get permission to install extensions into the Muse cloud browser. No reply channel or timeline exists for that route.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -58,4 +58,4 @@ The proposal's three parts, in order: (1) standard — one interpretation standa
 - Relations, not merges: his pro-government book stance · today's lab-interpretation doctrine (the standard to be enforced) · his note-reading skill (the audit template) · the good-doctor addendum (ideal versus literal).
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

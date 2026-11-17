@@ -74,4 +74,4 @@ Not counted as investigation notes/documents/records, for Douglas to decide if h
 - Headings above are brief identifiers only, not full reproductions.
 - Cara/Kira materials, full lab PDFs, and personal health-portal contents are not listed as work documents here.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -6310,4 +6310,4 @@ Ember verification (this run, backend coordinate check, not hers):
 - PN23M "Working URLs:" filed as her claim only — no working URL visible before truncation at "1. (lin..."; PN23M NOT credited; remainder of 1715 owed.
 - No Cara material, no full lab PDFs carrying date of birth or medical record numbers, no passwords, codes, or IDs were shared with the Rabbit in this filing.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

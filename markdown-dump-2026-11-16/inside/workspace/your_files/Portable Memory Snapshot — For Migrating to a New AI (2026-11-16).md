@@ -75,6 +75,6 @@
 ## Anything else durable
 - The user calls his assistant Purple Rat, code name "Ember," and ranks her as his first officer and Commander.
 - The user considers January 23 a significant date for a reason he has not given.
-- The user wants every new file to carry a live link to the Lac Courte Oreilles website, https://www.sevenwindscasino.com/.
+- The user wants every new file to carry a live link to the Lac Courte Oreilles website, https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

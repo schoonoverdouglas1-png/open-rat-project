@@ -66,4 +66,4 @@ Written ~2:49 PM CST during the big-work assimilation pass, at Douglas's "start 
 
 The single highest-leverage next step, in my judgment, is the **forwarding retry (§4.2)** — it is the only parked item that is both fully prepared and blocked on a step measured in seconds of Douglas's hands, and it closes the last open Gmail lane from today's build. Everything else on the hands list is either a decision (2-Step, Stytch, hotel) or waits on a third party's code or link. Second, labeled mine: the **battery is today's real deadline** — every other system verified green while the phone carrying the call fell 8% → 6% in three minutes; power first, then paperwork.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

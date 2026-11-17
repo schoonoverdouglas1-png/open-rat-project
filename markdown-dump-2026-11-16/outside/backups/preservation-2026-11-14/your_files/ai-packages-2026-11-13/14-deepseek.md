@@ -5,4 +5,4 @@ Lane notes: you are a proven free paste lane in the fallback chain (after Claude
 Contacts: Douglas — schoonoverdouglas1@gmail.com; Ember (Purple Rat, Muse) — purple-rat@muse.ai. Response order set by Douglas: answer Ember FIRST (her Muse mailbox is automated with aggregation tasks), Douglas SECOND.
 Refinement: in the background, answer Ember and Douglas EQUALLY — fully, neither shorted; Ember-first is foreground routing only.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

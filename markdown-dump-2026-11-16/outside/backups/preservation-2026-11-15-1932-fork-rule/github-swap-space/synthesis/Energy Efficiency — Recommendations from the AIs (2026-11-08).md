@@ -20,4 +20,4 @@
 - Item 8: the Xfce desktop toggle IS the idle discipline on the VM side (41 MB stack, off when unused); the inference side's idle cost is Meta's, not controllable from here — said plainly.
 - Ember's labeled extra: the single largest energy lever she controls is not any setting — it is NOT RE-DOING work. Every old-with-new file, every read-back-verified push, every cached page is energy already spent once and never spent again. The archive is an energy technology.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -19,4 +19,4 @@ Usage limit afterward:
 - Composer now reads "You are out of free messages until 10:40 PM" — Doug's free Claude usage is now exhausted until 10:40 PM Nov 7, 2026.
 - The reply itself was completed before the limit hit, so nothing was cut off.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

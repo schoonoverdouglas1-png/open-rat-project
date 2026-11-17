@@ -88,4 +88,4 @@ Six tracks kept separate: vaccines · viruses · diseases · illnesses · sickne
 - [H] Douglas's account: pre–Aug 15 photos came from his old phone and old account, where his earliest work came from.
 - [GAP] Pre–Aug 31 screenshot detail; phone-local storage of oldest screenshots; dedicated lab-result images in Photos.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

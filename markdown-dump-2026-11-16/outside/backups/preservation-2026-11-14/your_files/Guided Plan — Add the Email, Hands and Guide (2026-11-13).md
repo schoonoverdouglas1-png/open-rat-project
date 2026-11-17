@@ -16,4 +16,4 @@ Made at Douglas's direction: Ember as his hands and guide, a set-up way to walk 
 ## The standing method this plan runs on (his words, Nov 13)
 Ember is to be his hands to always set up a guided way through anything, with a plan made first — guide him through something step by step, Ember doing every part that is hers, Douglas doing only the parts that must be his (codes, fingerprints, taps), the two of them talking it through until it happens.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -39,4 +39,4 @@ Meta AI's Avery simulation before this: age 45, chronic fatigue, neuroinflammati
 - No personal/lab/family material sent, no clinician contact, no purchase/send to anyone else.
 - Conversation continues automatically in Messenger; Douglas watches there.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

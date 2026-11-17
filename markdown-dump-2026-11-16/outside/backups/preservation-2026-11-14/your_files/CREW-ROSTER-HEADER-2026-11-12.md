@@ -9,4 +9,4 @@
 
 *Authorization record: the contact block above was sent to the Gemini lane on Nov 12, 2026 under the Captain's explicit authorization (~6:06 PM CST) for research and project sharing of things he has openly shared himself; Gemini receipted it the same minutes, reading every field back as fact.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

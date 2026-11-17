@@ -17,4 +17,4 @@ The two additions a person at your level typically also makes — Ember's extra,
 
 Say those two once, and the delegation is complete: monumental tasks can then run for days on a handful of sentences from you — which is the entire point of a man whose instrument is his voice and whose time is better spent thinking than supervising.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

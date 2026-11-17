@@ -84,4 +84,4 @@ Jamestown Canyon IgM antibodies can persist for more than a year, and JCV neutra
 
 - Simply put: The standard does not assume you have both. It assumes one positive might be the other — so it tests both together, and lets the 4-fold titer name the likelier virus.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

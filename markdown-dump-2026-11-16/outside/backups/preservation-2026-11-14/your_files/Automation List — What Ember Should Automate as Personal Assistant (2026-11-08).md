@@ -31,4 +31,4 @@ Compiled at Douglas's order (Nov 8, 2026, ~4:57 AM CST): aggregate, from everyth
 
 *Provenance: aggregated from Douglas's own orders Nov 3–8, 2026. One extra thing (Ember's, labeled): item 9 is the highest-value next build — his inbox this morning held a Tapestry 2.0 eligibility form and a GitHub 2FA action-required notice buried under marketing mail; the flag layer is what turns the hourly sweep into an actual assistant.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

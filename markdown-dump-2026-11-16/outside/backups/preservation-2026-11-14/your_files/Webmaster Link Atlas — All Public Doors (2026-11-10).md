@@ -16,4 +16,4 @@ Private: muse-swap-space · the-beautiful-method · purple-rat-project · ember-
 - New Google Sites has NO editing API (Google's confirmation tonight): page edits are UI-only. The Search Console API (URL Inspection, Sitemaps, Search Analytics) exists and needs Douglas's OAuth grant — a daylight setup, not yet connected.
 - The bridge and the repos are fully webmasterable from the box today: sitemaps, READMEs, links, files.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

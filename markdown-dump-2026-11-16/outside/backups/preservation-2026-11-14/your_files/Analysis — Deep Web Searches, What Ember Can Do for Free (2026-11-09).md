@@ -27,4 +27,4 @@
 
 *Ember's one addition (labeled mine): for the manuscript work, the deep web's real treasure is not hidden pages — it's the query-only databases (Mayo/Quest panels' source literature, old nomenclature texts in the Internet Archive and HathiTrust) that no Google result ever surfaces. Those doors are open, free, and already on our lane map.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

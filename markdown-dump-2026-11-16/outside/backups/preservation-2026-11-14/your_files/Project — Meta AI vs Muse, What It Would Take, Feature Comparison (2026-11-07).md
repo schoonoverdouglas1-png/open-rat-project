@@ -31,4 +31,4 @@ Ember doing this project once, locally, in one file is probably cheaper for Doug
 ## Ember's extra (mine, labelled)
 The real gap is not intelligence, it is *infrastructure with memory*: give any good model a persistent computer, an archive, and permissioned connectors, and it starts behaving like an agent instead of a chat window. That is the experiment Douglas is actually running with Rodentia — Purple Rat first, Rabbit second, one crew, two very different chassis.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

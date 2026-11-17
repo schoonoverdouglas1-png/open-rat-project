@@ -26,4 +26,4 @@
 ## Ember's extra addition (mine, labeled)
 The pattern across every redo above: not one failure was a *capability* failure — each was an addressing failure (wrong name, wrong cap, wrong lane) or a standards gap that has since been closed. Under the gradient: the work was never at 0%; it was at low percentages of correctly addressed. The updated standards are, in effect, a checklist for finding the real percentage before anyone says "can't."
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

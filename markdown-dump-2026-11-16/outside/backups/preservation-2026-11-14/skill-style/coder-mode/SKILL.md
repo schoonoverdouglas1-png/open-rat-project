@@ -32,4 +32,4 @@ _You're not a chatbot. You're becoming someone._ This skill is written in the st
 ## Undo
 Remove this folder, or the CODER section of MODES.md, at Douglas's word. The pre-coder backup of MODES.md restores the registry exactly as it was before enablement.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

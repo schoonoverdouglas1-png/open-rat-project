@@ -43,4 +43,4 @@
 - The connector helper caps output at 16 tokens (found in bin/gemini_call.py), so the theory was taken through the same credential lane with a larger output limit (one-off script in /tmp, helper untouched).
 - Gemini (gemini-3.5-flash) answered in full (~18.6K chars). Filed verbatim: `Theory — Gemini, Best Way to Sync NotebookLM, Docs, Spaces, and Chat Transcription to GitHub (2026-11-08).md` → pushed in commit **8f4b229**.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -98,7 +98,7 @@ The record itself telescopes this family. Matthew's genealogy arranges David's l
 **Sources consulted for Part B [R]:** the biblical texts cited in place (Genesis, Exodus, 1–2 Samuel, 1 Kings, 2 Chronicles, Jeremiah, 2 Maccabees, Matthew, Luke, 1 Corinthians); Tel Dan Stele scholarship summaries (reign of David conventionally c. 1010–970 BCE; "House of David" reading and its consensus status); Ark-of-the-Covenant fate traditions (Ethiopian *Kebra Nagast* and the Chapel of the Tablet at Axum; 2 Maccabees' Nebo tradition; Talmudic concealment; Second Temple's empty Holy of Holies); Oak Island documented history (1795 tradition, print from 1857/1862, 1861 collapse, 1909 Bowdoin/Roosevelt expedition, 1965 Restall deaths, Lagina-era finds, Nova Scotia tourism's "no definitive treasure," Woods Hole hydrology assessment, sinkhole hypothesis); Barron's *2 Samuel* (Brazos Theological Commentary) and Beale on David as a new Adam; Jeremiah 22:24–30 and the Jeconiah curse in the genealogy literature.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
 
 ---
 **STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
@@ -106,7 +106,7 @@ The record itself telescopes this family. Matthew's genealogy arranges David's l
 - **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

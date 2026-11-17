@@ -9,4 +9,4 @@ Made Nov 7, 2026 from the six-AI research round (Gemini, ChatGPT, Perplexity, Du
 - MCP-AND-API.md — MCP-first channel rules, RCS verdict, Assistant/Android public-code summary. LIVE as rules; Docling MCP server staged with the install.
 - Custom skill: ~/workspace/custom-skills/ember_upgrades/SKILL.md — makes future sessions actually use the above.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

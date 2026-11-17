@@ -249,4 +249,4 @@ It starts empty and is meant to grow slowly. Don't pad it; a short, accurate fil
 ## Cleaning doctrine (standing, Nov 13, 2026, Douglas's words)
 - "When it comes to cleaning, cleaning is inspecting first and changing things technically almost never." Operating form: any cleanup task starts as INSPECTION (inventory, verify, report); changes are the rare exception and need their own word; old-with-new and the Guard already lean this way — this names it as the rule for all cleaning, everywhere.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

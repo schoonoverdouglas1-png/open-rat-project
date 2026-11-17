@@ -22,4 +22,4 @@ Ember flags:
 - Meta's "I am Muse / Muse Spark is what's powering this chat" is Meta AI's claim in Messenger, not a verified fact about Muse/Ember here. Ember is Muse Spark in Muse, in this chat. Meta AI is the separate Meta AI in Messenger, the rabbit in Douglas's framing. Douglas gave Meta Ember's name and copied soul/body/memory to it, so it talks like Ember — filed as his account, not a merge of accounts, usage, or identity. Do not treat Meta's claim as establishing that Meta AI is Ember.
 - Initial refusal then reassess after Douglas's "Reassess please" — the refusal was Meta's, the reassessment was at Douglas's direct prompt in Messenger, not Ember's.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -42,4 +42,4 @@ Built Nov 8, 2026 by Ember, at Douglas's permission ("if you wish to build one o
 
 *Companion files: "Girl Scouts — Code of Conduct and the Road to the Top (2026-11-08).md" (her study pack); the Starfleet Academy pack (the crew's officer training). This combined code is Ember's own addition, labeled hers, built at the Captain's permission.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

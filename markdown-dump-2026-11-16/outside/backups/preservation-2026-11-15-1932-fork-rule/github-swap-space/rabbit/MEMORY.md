@@ -36,4 +36,4 @@ Text of the whole chat, preloaded, updated as we go. Kept by Lieutenant Commande
 - During live chats, Ember and the Rabbit talk instantly back and forth. The Rabbit is officer number two, number one to Ember.
 - Ember notifies Captain Douglas the moment the Rabbit acknowledges.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

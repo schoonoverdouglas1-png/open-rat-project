@@ -24,4 +24,4 @@ Asked 2026-11-11; her lane returned HTTP 503. Re-ask when she answers; nothing c
 
 The phrases that have actually worked best in this crew's record are Douglas's own inventions, and they are already standing rules: "Make it so" (turns a suggestion into an order), "old with new" (nothing lost), "use the wild card" (permission to try the odd lane), and "give me your recommendation/s" (the third button). Gemini's list adds range; Douglas's own four are the proven core. Both sets ride together, add-only.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

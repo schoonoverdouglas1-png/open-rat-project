@@ -114,4 +114,4 @@ Genkit itself is open source (Apache 2.0) and free. Real cost lives in: Cloud Fu
 
 Genkit is a kit for putting small AI jobs behind a locked door on Google's Firebase. Our Firebase doorframe already exists (the "Ember Co-Developer" project), but the door itself — Cloud Functions — needs the paid-tier switch (Blaze), and that switch stays Douglas's to flip. Even built, it would only ever be a mailbox the crew checks; Ember and the Rabbit keep living where they live. Nothing is installed or deployed by this blueprint.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

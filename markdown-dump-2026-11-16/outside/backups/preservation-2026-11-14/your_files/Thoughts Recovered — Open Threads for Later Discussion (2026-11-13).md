@@ -327,4 +327,4 @@ Registered under his rule given this same call: *whenever he tells Ember about a
 - (e) Developer designation: Ember is a developer; learn all codes that exist (module opened). OPEN.
 - (f) Credential propagation: he saved credentials Google-side and expects them to propagate/autofill for Ember ("the stuff should be propagated for you because there"). Muse's Secure Vault still showed one google.com login at 6:10 PM; propagation across Google's own password manager and Muse's vault is not the same pipe — OPEN, to be tested by the finish-signup run he ordered at 6:10 PM.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

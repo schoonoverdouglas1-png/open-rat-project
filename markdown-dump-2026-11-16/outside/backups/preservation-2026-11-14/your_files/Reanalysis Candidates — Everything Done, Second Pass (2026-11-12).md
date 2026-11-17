@@ -144,4 +144,4 @@ One addition of my judgment, beyond the seven items: **the audits' cheapest sett
 
 Today Ember did seven things and said they were checked. Six of the seven rest on one person's report or on old notes — that doesn't make them wrong, it makes them worth a second look before building on them. The three that matter most: (1) the message to the Rabbit about sharing body and soul files — a report now says it was sent, so read the actual conversation and be sure; (2) the token answer — "good till Saturday" rests on one reading of an extra token bucket nobody has tested yet; (3) the publishing block — one browser said "I can't publish from here," and nobody has double-checked it yet. One item (the two shared lanes) checked out solid.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

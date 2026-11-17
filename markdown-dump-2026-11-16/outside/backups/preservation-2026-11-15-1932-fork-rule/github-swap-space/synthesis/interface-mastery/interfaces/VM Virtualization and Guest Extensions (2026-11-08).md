@@ -26,4 +26,4 @@ Subject class: missing-capability / VM configuration. Substance for when he appr
 - Guest-visible storage: the guest sees its disks through the container/virtio layer; the physical storage interface mode (AHCI vs NVMe vs compatibility/IDE emulation) is NOT visible from inside the guest — flagged as a server-end check, not a guest finding.
 - Honest boundary (stated to Douglas in the reply): Ember knows the guest-visible facts above from measurement. She does NOT know Meta's physical server inventory, and claims otherwise would be invention.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

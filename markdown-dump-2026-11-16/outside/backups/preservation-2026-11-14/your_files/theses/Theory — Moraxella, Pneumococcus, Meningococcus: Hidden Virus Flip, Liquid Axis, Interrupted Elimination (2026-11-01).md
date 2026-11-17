@@ -116,4 +116,4 @@ Moraxella and pneumococcus live with us, usually quietly, and a virus — shown 
 - Rejoins: Oct 17 §152 lung–bowel axis; Oct 31 carrier thesis and latency work; Nov 1 strip/cross-reference work (virus shows, bacteria follow).
 - Frame: manuscript theory, not medical advice. Any question about his own illness, tests, or treatment belongs to Kelsey, not to this file.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

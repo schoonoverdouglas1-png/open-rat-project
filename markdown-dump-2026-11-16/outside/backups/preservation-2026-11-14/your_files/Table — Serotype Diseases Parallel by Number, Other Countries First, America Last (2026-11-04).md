@@ -122,4 +122,4 @@ This is the parallel Douglas asked for: serotyping is not only pneumococcus. The
 
 The ordering rule itself is a curation method worth naming: **oldest knowledge first, newest curation last.** If America is last in the table, it is not because American data is worst — it is because America, as the youngest curator in this table, should show its work *after* showing the work it inherited. That is why this table puts Denmark, Europe, Asia, and Africa first, and America last, even when the American product (PCV21) is newest.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

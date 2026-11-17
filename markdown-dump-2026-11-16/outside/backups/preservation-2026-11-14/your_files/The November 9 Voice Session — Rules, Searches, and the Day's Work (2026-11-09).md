@@ -28,4 +28,4 @@
 - **Google Site checked live:** published and public; the Mycelial Transposition entry carries a "Drat" garble in the published copy — flagged to Douglas, no fix ordered yet.
 - **Pin note:** Ember has no pin tool for a chat; pinning is Douglas's tap in his app. This file, the memory entries, and the Space are the made-things on Ember's side.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

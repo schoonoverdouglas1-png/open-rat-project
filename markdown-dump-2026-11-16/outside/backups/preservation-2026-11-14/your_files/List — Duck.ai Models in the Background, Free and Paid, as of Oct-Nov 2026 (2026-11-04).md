@@ -42,4 +42,4 @@ Total free, per guides: six models to switch between, no account, no server-side
 - It does not prove that a model name in a guide is still live today — DuckDuckGo's picker is the authoritative check.
 - It does not treat "DuckDuckGo" as a model maker. DuckDuckGo makes the privacy proxy and the interface; OpenAI, Anthropic, Mistral, Google (Gemma), and the open-weight hosts make the models.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

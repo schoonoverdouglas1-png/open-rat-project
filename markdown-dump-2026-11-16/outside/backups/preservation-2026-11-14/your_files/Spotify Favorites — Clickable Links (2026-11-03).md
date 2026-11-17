@@ -169,4 +169,4 @@ For Douglas Schoonover. Source: Spotify, via the Spotify connector search (exact
 - `Smule Live-Browser Pass — 87 Recordings Ranked, Gaps and One Headlight Check (2026-11-03).md` (87 recordings reached, ~5% of ~1,600; ranking within that slice only)
 - Spotify connector searches, Nov 3, 2026. No playback was started, no playlist was created, and nothing was sent or posted for this list.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

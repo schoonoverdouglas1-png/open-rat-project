@@ -18,4 +18,4 @@ Gemini's flash-lite model flagged "Android 17 does not exist" from its early-202
 ## Ember's extra (hers, labeled)
 The same flaw — parked asks losing their reasons — applies to the other long-standing list items (DeepSeek key paste, the Rabbit's "lieutenant's gender" question, the "Bead" 0-1-2). Each should be re-issued with its reason attached, or formally retired by his word — not left as standing weight.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

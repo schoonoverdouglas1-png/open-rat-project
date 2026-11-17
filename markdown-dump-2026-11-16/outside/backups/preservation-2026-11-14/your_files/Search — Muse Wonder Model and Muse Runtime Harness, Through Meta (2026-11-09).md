@@ -25,4 +25,4 @@
 ## Verdict
 The model is real, named, priced, and already the one running this conversation. The harness is real and publicly *described* down to its nspawn cell and Sentinel — and deliberately not published. The one-time search is complete; the crawl list (Nov 9) stands as written, with Layer 7 confirmed un-crawlable from a second direction.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

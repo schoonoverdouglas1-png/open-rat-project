@@ -17,4 +17,4 @@ Douglas's order: "Assess whole roadblocks in order — the Rabbit to blast throu
 ## Routing note (his standing, Nov 13 ~11:07 PM)
 Ember work runs through Douglas's accounts, Facebook-direct excepted; Facebook-side data treated as partly hidden, accurate data carried in from his other accounts.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

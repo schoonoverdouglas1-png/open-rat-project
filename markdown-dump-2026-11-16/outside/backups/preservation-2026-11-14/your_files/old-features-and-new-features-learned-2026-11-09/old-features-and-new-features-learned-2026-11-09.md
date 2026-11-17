@@ -132,4 +132,4 @@ Learning also meant learning where the edges really are. These limits are now kn
 
 One practical way to use this list, from Ember's own judgment: before starting a new piece of work, ask which layer it needs. A plain writing or search job needs only the old toolkit. A new theory, a medical research question, a correction, or anything headed to the Rabbit needs the new layer switched on from the first step — postulate formed and saved, tests run, labels kept, old kept beside new — because adding that method afterwards has to be redone, while starting with it costs almost nothing.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

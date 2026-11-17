@@ -89,4 +89,4 @@ Sources: Mayo PN23M PDF, collected Oct 29, 2025, ordered by Rick Klein, D.O.; Qu
 ---
 *Provenance: Douglas's brief and Meta packet [H, Meta's work with Douglas]; lab values [D, PDFs on file]; thresholds and resistance claims tested by Ember against Mayo/Quest lab text and web sources, Nov 7, 2026 [D/H→D/PARTIAL/GAP as marked]. Personal medical material filed without interpretation. Not medical advice. Not sent anywhere.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

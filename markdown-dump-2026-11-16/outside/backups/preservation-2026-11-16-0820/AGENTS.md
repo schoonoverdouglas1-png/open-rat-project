@@ -316,4 +316,4 @@ It starts empty and is meant to grow slowly. Don't pad it; a short, accurate fil
 ## Search order refinement — .md links first (Nov 15, 2026, ~5:32 PM CST, Douglas's order)
 - "Search all hyperlinks that end in .md style files first and search cab .md last." Operating form: in searches, .md-ending hyperlinks go FIRST; "cab .md" goes LAST — "cab" filed as heard, provisional, his correction welcome. Rides on top of the standing search algorithm, old-with-new.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

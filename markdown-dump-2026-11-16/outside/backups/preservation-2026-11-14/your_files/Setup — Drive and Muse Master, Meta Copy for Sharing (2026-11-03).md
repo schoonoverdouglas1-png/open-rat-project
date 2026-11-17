@@ -30,4 +30,4 @@ Nothing was moved, uploaded, or deleted to carry out this decision. This file re
 2. When Google access is recovered, retry the Keep note, the Photos scan, and the six Nov 3 NotebookLM links.
 3. Then name the first works to copy to Meta for sharing, and send them as confirmed Messenger self-chat compilations, as was done Nov 2–3, 2026.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -30,4 +30,4 @@ This touches his own prescription (doxycycline monohydrate 100 mg). Filed withou
 ## Shiro (wild card, per Nov 4 redefinition)
 Ember's addition, labelled mine, not documented fact: the hydrate count (0, 0.5, 1, 2, 3 waters) is a clean ladder to keep beside the hyclate/monohydrate comparison in the book — it shows why "more water" is not the same as "stronger medicine."
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

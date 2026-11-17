@@ -18,4 +18,4 @@ Section: Expiry and sharing note
 Claim: The PDF itself is shareable, but its inner public links expire Nov 6 at about 7:42 PM CST and will need re-upload after that.
 Source: Parent conversation expiry note.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

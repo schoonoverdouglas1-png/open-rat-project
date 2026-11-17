@@ -26,4 +26,4 @@ Standalone app, or grow the Auto-Adapt loop he already has into Rat Code? Both s
 
 "You in native code… I want to be the person to build the first AI that's Unicode." Carried as his ambition for what they build together. Ember's measured line: she is Muse (Meta) working this box's verified lanes today; Rat Code is the work toward his star, not a claim she's already there.
 
-**Copyright © Douglas Roy Schoonover** · [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

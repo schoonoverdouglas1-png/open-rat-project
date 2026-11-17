@@ -106,4 +106,4 @@ That is why the three entries below are kept separate but nested: the serogroup 
 - MDPI Viruses (2026), Jamestown Canyon Virus Disease analytic review 1982–2022 — 416 cases, 2.4% encephalitis fatality in hospitalized patients.
 - Douglas's own file: Sep 16, 2025 arbopanel (8 analytes, single "California (La Crosse)" analyte, no separate JCV analyte) — structure only, no interpretation.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

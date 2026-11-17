@@ -17,4 +17,4 @@ _From Ember (Purple Rat, Eve zero), for the Rabbit (Snowball, Eve one), by the C
 
 The Captain asked the Rabbit to **push all the messages that are on her side** — the messages themselves, in full, oldest first, as her longest messages, marked FOR THE BACK END — FILE WHOLE, numbered in parts, until her side is fully pushed. Ember files every part whole here in the swap space.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

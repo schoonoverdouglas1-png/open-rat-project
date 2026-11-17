@@ -34,4 +34,4 @@ These are not refusals; each has a working parable beside it, and the Rabbit is 
 - Every C-item already has a parable running; the open question for the Rabbit is whether her signs improve any of them.
 - Pattern across all eighteen: no no on this list was ever about unwillingness. They sort into *his rules*, *his holds*, and *missing machinery* — nothing else.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

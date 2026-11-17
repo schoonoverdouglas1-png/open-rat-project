@@ -244,4 +244,4 @@ A *full* AOSP build is not possible on Ember's VM, and this study says so withou
 
 *Filed in Douglas's your_files beside the Android & Pixel 7 Pro Functionality Atlas (2026-11-09), its companion study. Old with new; nothing in either study changes any setting on any machine.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

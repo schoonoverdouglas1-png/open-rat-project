@@ -36,4 +36,4 @@ See METHOD.md, EVIDENCE-LEDGER.md, PDF-INGESTION.md, MCP-AND-API.md in this fold
 - Runtimes: Python 3.12.3, Node v24.22.1. Chromium config dir exists (~/.config/chromium); no chromium binary in PATH, no Playwright/Puppeteer (checked Nov 7).
 - Consequence: headless work is the VM's native state; a "visible" browser here would be Xvfb (virtual) or Muse's separate cloud browser, which is a different machine from this VM.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

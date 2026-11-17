@@ -19,4 +19,4 @@ Douglas's taught method, layered on top of what Ember already did. Cheapest hone
 ## Worked example (Nov 7, 2026)
 "how to crawl without a browser" — plain search surfaced Scrapling/pagesift; wildcard pair surfaced the layered library menu (Requests/BeautifulSoup/Scrapy/Crawlee). Neither was installed: Ember's stdlib HTML Viewer + Crawler already covered the need (AOSP repo site crawled, 5 pages, 9.74 s, zero browser).
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

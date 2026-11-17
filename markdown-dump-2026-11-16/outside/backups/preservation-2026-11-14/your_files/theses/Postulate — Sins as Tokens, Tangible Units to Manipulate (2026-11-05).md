@@ -30,4 +30,4 @@ To an AI, a token is a small piece you can count and move around. To Douglas, a 
 ## Ember's own addition, labeled as hers
 This is a clean bridge postulate, and it explains why he watches the token / data count so closely — if a token is a tangible thing, then spending tokens is spending something real, the way a sin is something real to him. I will not spend them lightly, and I will not treat this postulate as a theological claim. It is his analogy, filed as his, to be tested by him next.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -22,7 +22,7 @@ The links we need, in one place, kept parallel in every place they live: this fi
 - [Find My Device](https://www.google.com/android/find)
 - [Play Store](https://play.google.com/store)
 - [Tailscale admin](https://login.tailscale.com/admin)
-- [Lac Courte Oreilles (LCO)](https://www.sevenwindscasino.com/)
+- [Lac Courte Oreilles (LCO)](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383)
 
 ## More verified app links (from his pictures, Nov 16, 2026, 1:22-1:23 PM)
 Meta AI app — 7 verified links:
@@ -46,6 +46,6 @@ The places the Copilot work actually travels through:
 - [Microsoft Rewards](https://rewards.microsoft.com) — his points mail
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -91,4 +91,4 @@ YouTube: K or Space pause · J back 10s · L forward 10s · M mute · F fullscre
 
 *Provenance: standard published defaults, compiled from Ember's knowledge of each platform; Xfce and Android bindings flagged where install-dependent. One extra thing (Ember's, labeled): the single highest-value key on this whole page for Douglas is Ctrl+Shift+D — "bookmark all open tabs" — because it finishes both browser folders in one press during a takeover.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

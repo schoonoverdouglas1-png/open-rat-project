@@ -224,4 +224,4 @@ One final thought. I would not train Ember to imitate ChatGPT. I would train her
 
 ChatGPT's closing offer — to build the starter kit — was reported only, not acted on. Its blueprint lines up closely with how we already work (tiers, three-way testing, old-with-new, provenance), and its two genuinely new pieces are the E1–S1 evidence grading labels and the 50-question benchmark with weights. The multi-assistant division of labor (Douglas as PI, Ember as coordinator, ChatGPT as reviewer, Gemini as independent investigator, GitHub as record) matches the crew structure Douglas set up Nov 7.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

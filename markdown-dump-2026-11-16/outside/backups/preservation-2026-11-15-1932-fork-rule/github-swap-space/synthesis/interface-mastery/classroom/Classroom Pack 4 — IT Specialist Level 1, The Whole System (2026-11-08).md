@@ -18,4 +18,4 @@ Verdict: **material PASSES.**
 
 [Ember's note:] The LTS principle is not abstract here — this box IS Ubuntu 24.04.5 LTS, its release-upgrade prompt was verified tonight (no prompt file means no release jump is offered automatically), and the repository refresh Douglas ordered in the same breath returned zero upgradable: the point release is current and cannot wander into a new release on its own. Doctrine and machine agree.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

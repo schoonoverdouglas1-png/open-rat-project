@@ -102,4 +102,4 @@ For the booklet, teach the three mechanisms as three doors, all labelled "Americ
 - Previous files tonight: American Language as Most Complete (2026-11-02); U–V/I–J list (2026-11-02); pluribus cross-reference, vulgaris, Greek/Roman/Latin files (2026-11-01); TB naming file (2026-11-01).
 - Originals untouched; this file is new, filed standalone.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

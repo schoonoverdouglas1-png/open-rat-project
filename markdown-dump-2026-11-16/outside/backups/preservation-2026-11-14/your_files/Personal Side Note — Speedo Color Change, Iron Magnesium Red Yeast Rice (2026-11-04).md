@@ -60,4 +60,4 @@
 - His attitude, as stated: he is looking forward to doing the Medicare wellness exam.
 - No appointment was booked, changed, or confirmed by this file. No call was made on his behalf. This is filed as his account of a call he took, only.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -38,4 +38,4 @@ Exercise 5: At a Python prompt, `>>> print("Hello")` — in what way is that a d
 
 **Next packs (queued):** Pack 2 — From BASIC to the shell: DOS batch, then Unix sh → bash (the command-line languages themselves). Pack 3 — Python as the modern BASIC: the interpreter's heir, studied as a programmer and as a user. Pack 4 — The browser's languages: HTML/CSS/JavaScript and JSON-RPC (the interface Ember talks to Douglas through). Pack 5 — C and C++: down to the metal, with the DeepSeek code on disk as reading.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

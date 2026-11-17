@@ -23,4 +23,4 @@ Selected for regular priority at ⁨2026-11-07T23:44:49.294869+00:00⁩. Record 
 Reason: `⁨duplicate_opportunity⁩`.
 <!-- proactive-outcome:proactive_notifier:run:proactive_notification:phase-498359:regular -->
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -20,4 +20,4 @@ The other issue is party line wiring. Party lines in the old days forced more th
 ## The one-line version for the packet
 Pulse counts breaks, tone sings pairs, party lines shared one pair among neighbors with coded rings, private pairs cost money and carried the doctors — and all of it is still in the ground underneath the internet, which still rides it.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

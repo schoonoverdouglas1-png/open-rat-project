@@ -37,4 +37,4 @@ One arrow for the book: virus → nature → human. Every human virus story shou
 - Relations, not merges: "Thesis — SARS Zero, Cove One, Nesting Dolls, and Shared DNA (2026-10-31)" (P6, P7) · virome creed (Oct 17) · don't-villainize doctrine (Oct 18).
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold · [GAP] unknown.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

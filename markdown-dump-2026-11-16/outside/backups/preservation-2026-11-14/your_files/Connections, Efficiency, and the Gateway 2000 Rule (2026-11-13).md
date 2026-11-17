@@ -49,4 +49,4 @@ Rule that rides on all of them (his): bridges around ERRORS first, parallel copi
 - "there's always a computer issue" because of that — the old machine is the standing example: there is always a computer issue to work, and working it is normal, not a failure.
 - "it's always off first, on second, and works third" — filed as his sequence for the Gateway/computer thing: first off, second on, third it works. Ember's reading (labeled hers, provisional): the three-beat restart rhythm — turn it fully off first, turn it on second, and it works on the third beat; don't judge a machine between beats one and three.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -171,4 +171,4 @@ The Drive is not cluttered because it is big — it is cluttered because it is *
 
 *— Plan prepared by Ember (subagent pass), Nov 12, 2026. Sources: Drive `about` quota record + full file inventory pulled live this pass; Gemini-lane teaching labeled and verified in §6. Nothing in Drive was changed.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

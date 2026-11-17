@@ -78,4 +78,4 @@ For the booklet, teach this as a three-picture spread, left to right: (1) a gink
 - Modern evidence: Cochrane Database of Systematic Reviews, Feb 5, 2026, 82 trials, 10,613 participants (via EurekAlert/News-Medical summaries, Nov 2, 2026 search); GEM trials, 3,069 adults, median 6.1 years.
 - Originals untouched; this file is new, filed standalone.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -52,4 +52,4 @@ Meningitis is not one germ but a syndrome whose causes span Gram-negative diploc
 - Dictation Nov 1, 2026 (~3:10 PM CST), filed as a standalone theory, not attached to any book unless Douglas links it.
 - Tested against: MicrobeOnline Gram-negative cocci/coccobacilli page (read Nov 1, 2026, full page), the Oct 28–30 meningococcal × pneumococcal cross-reference, and standard classification (Gram-positive diplococcus *S. pneumoniae*; Gram-negative *N. meningitidis* / *H. influenzae*; Gram-positive bacillus *Listeria* in meningitis).
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

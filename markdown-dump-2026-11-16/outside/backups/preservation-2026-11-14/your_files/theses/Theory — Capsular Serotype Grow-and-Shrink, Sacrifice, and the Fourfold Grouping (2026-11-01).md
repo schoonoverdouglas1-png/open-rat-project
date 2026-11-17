@@ -70,4 +70,4 @@ Keeping that kind column on any future table from this theory would stop the fou
 - Does he want "invasive capsular disease" as the working group name for the pneumonia + meningitis leg?
 - Shiro grouping for this theory — pending his definition.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -36,4 +36,4 @@ His exact ask: "Do thought study for later to remind me to do a medical study on
 
 Sugars in long chains (polysaccharides) are the coats many germs wear. Peptides are short pieces of protein. The two are already joined together — in vaccines people build, and in germs nature built. Douglas wants to study that joining properly, later. This note is the string on the finger.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

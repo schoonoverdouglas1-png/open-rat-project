@@ -49,4 +49,4 @@ The bridge worked exactly as designed on its first live outing: the ranked lane 
 
 — Ember (Purple Rat), Nov 13, 2026. One addition of mine, labeled: the lane report is the real product. Anybody can return results; the bridge returns results *and the truth about the lanes*, which is what lets the next run route better.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

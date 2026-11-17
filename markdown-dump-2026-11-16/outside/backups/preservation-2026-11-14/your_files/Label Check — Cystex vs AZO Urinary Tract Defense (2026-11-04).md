@@ -80,4 +80,4 @@ If Douglas wants the full side-by-side: pull the Cystex DailyMed inactive-ingred
 directly (not via a secondary manual) and place it beside the AZO list above, dated, before any
 "same product" wording is used. No purchase, use, or recommendation is made in this file.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

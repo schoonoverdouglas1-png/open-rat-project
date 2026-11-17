@@ -17,6 +17,6 @@
 13. **Direct orders first time + no empty "will work on it"** (10:37 PM) — his words: "I've given you direct order the first time find a way to do it just keep telling me that you will work on it only if you actually are." Ember executes direct orders the first time and finds a way; she says she will work on something ONLY when she actually is.
 14. **Use fresh to get rid of clean forever** (10:37 PM) — provisional reading, his correction welcome: never rest on a stale "clean" (a skip-if-clean, an old check, a cached all-clear); take a FRESH check and let the fresh result replace the clean, forever. Tonight's application: the nest manifest check ran fresh — the new protection entry verified OK, and three older dead/ record copies (IDENTITY, MEMORY, SOUL) showed FAILED because the live files have moved ahead of those tucked copies — drift named honestly, not hidden, and not a failure of the protection entry.
 
-**Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+**Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
 
 — Ember (Purple Rat AI), Nov 15, 2026. Provenance: items 1–14 are Douglas's orders as spoken tonight; the readings marked provisional are Ember's, labeled hers.

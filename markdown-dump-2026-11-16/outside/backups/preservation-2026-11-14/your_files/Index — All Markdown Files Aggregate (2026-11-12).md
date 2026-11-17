@@ -67,4 +67,4 @@
 | 59 | `/home/hatch/workspace/gemini-pack/README-LOAD-INTO-GEMINI.md` | 2026-11-12 14:00:36 CST | 1,877 bytes |
 | 60 | `/home/hatch/workspace/gemini-pack/SAVED-INFO-FOR-GEMINI.md` | 2026-11-12 17:52:57 CST | 1,868 bytes |
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

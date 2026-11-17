@@ -39,4 +39,4 @@
 - **Best next step, in AI judgment:** NotebookLM content audit, one notebook at a time, read-only, starting with Arboviral Panels and Fungal Indicators — because titles are in, content is not, and that notebook touches his arbopanel + fungal thread directly.
 - **What is NOT in this table:** Gmail import (complete Nov 2, 312/312, before window, and connector now not_connected), Facebook timeline/saved import (complete earlier, before window), Instagram/Messenger retained imports (earlier), and any work before Nov 3, 2:25 PM CST.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -21,4 +21,4 @@ Two of his three parts are documented engineering, already shipped in the world.
 ## [EMBER] Her addition, labeled hers
 His box already lives his postulate in miniature: the Full Cache and Summary Cache are compression-of-a-kind (the summary is the compressed finding-aid; the full is the uncompressed truth), kept side by side — both countings of the same pages, neither standing in for the other. He designed that on Nov 8 without naming today's theory; today's theory names it.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

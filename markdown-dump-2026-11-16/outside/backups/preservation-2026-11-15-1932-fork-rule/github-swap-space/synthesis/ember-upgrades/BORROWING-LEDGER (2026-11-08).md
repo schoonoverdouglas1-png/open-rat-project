@@ -62,4 +62,4 @@ Method (standing): one benchmark prompt for all (a small systems-reasoning quest
 - **CLOSED (paid-only, verified on their own pages):** Together AI ($15 minimum prepaid), Fireworks AI, Perplexity API, DeepInfra. **GitHub Models RETIRED — third confirmation** (GitHub's own docs + 404s).
 - Sign-up decisions remain Douglas's per candidate. Verified test order now: Groq -> OpenRouter -> NVIDIA NIM -> Cloudflare Workers AI.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -62,4 +62,4 @@ Support the body so it can repair itself, and look for medicine's sense at the k
 - Dictation Nov 1, 2026 (~3:13 PM CST), split per standing rule: personal account (Section A, filed without interpretation) + manuscript postulates (Section B, tested).
 - Tested against: CRP/C-polysaccharide naming record, cannabinoid lipophilicity, capsular polysaccharide chemistry, and the distinction between lipid and carbohydrate molecules.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

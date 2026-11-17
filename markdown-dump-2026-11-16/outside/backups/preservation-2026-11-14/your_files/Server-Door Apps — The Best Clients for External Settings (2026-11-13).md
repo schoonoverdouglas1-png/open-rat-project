@@ -17,4 +17,4 @@ The doors are real and open. What they ask for is the key: full email address + 
 ## Ember's addition (labeled hers)
 For a human tapping a screen, Thunderbird; for Ember working, the custom connector lane — the two parables again: same doors, two keys, one parallel.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

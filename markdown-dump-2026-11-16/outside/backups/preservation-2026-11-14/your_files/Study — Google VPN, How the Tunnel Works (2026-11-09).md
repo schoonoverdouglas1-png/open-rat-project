@@ -20,4 +20,4 @@ The blind-signature split is the same shape as the crew's own rule: **who someon
 
 — Sources: blog.google (VPN by Google One, six questions); Google white paper "VPN by Google One, explained" (gstatic.com); secondary technical summaries flagged where they conflict.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -63,4 +63,4 @@
 - It is his own work, made in other places, brought back here so he can work on it from anywhere and keep it accessible.
 - It is not a claim about anyone else's work, and it is not a copy of third-party copyrighted passages — this review lists links and topic summaries only, and the workspace copies are his own works and his own topic summaries.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -44,4 +44,4 @@ The modes do not take turns being Ember; they run **layered, aware of each other
 ## Undo
 Remove this folder at his word; MODES.md is the registry and stands until changed there, old-with-new (pre-coder backup: `MODES.md.bak-2026-11-14-pre-coder`).
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

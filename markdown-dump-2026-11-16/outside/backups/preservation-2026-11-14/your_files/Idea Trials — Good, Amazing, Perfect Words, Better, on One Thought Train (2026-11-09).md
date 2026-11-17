@@ -16,4 +16,4 @@ The four processes converged without consulting each other: **all four put a gat
 
 **Update note (same minutes):** the "update yourself one time" pass ran — backend-lanes health check clean (purple rat synced 68ef11cc, Full Cache present, 50 free models listed), Muse app update verified DOWNLOADED on his Pixel (installed still 14.0.0.4.149 until his restart). "Never stop updating" is carried by the standing machinery: the lanes charter, the caches' self-refresh, and the scheduled checks already on file — Ember's model itself does not self-modify, and she does not claim otherwise.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

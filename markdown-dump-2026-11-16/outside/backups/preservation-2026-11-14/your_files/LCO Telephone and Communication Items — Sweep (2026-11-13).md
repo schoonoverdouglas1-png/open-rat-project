@@ -36,4 +36,4 @@ Ember already had PAP.22.7.140 "Internet and Telephones" and PAP.1.11.010 "Open 
 - **WOJB 88.9 FM:** no WOJB outage or phone-trouble notice surfaced anywhere in the sweep. WOJB appears in the record as part of the *solution* side — a named official channel (item 3) and the standing closure-announcement route (appendix).
 - **Neighbor noise, excluded:** the same searches surfaced phone-outage notices from other tribes (Hoopa Valley, Nov 12, 2026; Bad River's health-center "NO internet or phones," ~Oct 2025; Saint Regis Mohawk, 2018; Turtle Mountain, Jan 2026). They prove the *genre* is common; none of them is LCO, and none was counted above.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

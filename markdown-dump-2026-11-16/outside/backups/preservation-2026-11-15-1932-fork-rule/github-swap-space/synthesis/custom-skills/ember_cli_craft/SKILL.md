@@ -32,4 +32,4 @@ Read-only script sections: identity/PID 1, failed units (filtered — degraded i
 ## Proven language lanes (polyglot_code skill holds the detail)
 Python core; JS only in the browser; C++ lost its one race (I/O-bound small files) — Python stays the text lane. No Rust/Go until a real job demands one.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

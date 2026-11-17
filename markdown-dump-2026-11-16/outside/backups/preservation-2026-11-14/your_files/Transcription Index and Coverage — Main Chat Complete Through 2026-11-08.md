@@ -27,4 +27,4 @@ The complete user+assistant transcription of the main chat, extracted from the M
 - UI widget embed tokens (`[[hatch_widget:…]]`) stripped (206) — they are interface embeds, not conversation text.
 - Labelled date-of-birth hits: 0 found. No lab PDFs or DOB/MRN documents are included anywhere in this transcription set.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

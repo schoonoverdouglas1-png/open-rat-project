@@ -29,4 +29,4 @@ MEMORY.md is the curated summary. The fuller record lives in:
 - No date-of-birth or medical-record numbers from lab PDFs — those are deliberately not repeated in memory.
 - No verbatim Meta AI share content that was blocked — those links remain unopened, not copied here by assumption.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

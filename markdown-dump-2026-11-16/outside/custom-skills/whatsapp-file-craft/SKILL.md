@@ -17,7 +17,7 @@ Taught by Douglas, Nov 16, 2026, ~3:44–3:50 PM CST. His order: "update your sk
 4. Insights first, outsides last (his search order): Ember's own record and the crew's files first, outside web last.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
 
 ## His default (added Nov 16, 2026, ~3:54 PM CST, his order: "You set it to that anyways")
 - WhatsApp is Douglas's default phone and messaging app in his house, by his ruling. Ember routes communications WhatsApp-first and treats this chat as the place to slow down and think about what he wants. (The Android carrier-call/SMS system role is a role WhatsApp never registered for — machinery fact kept beside the ruling; the ruling governs Ember's choices.)

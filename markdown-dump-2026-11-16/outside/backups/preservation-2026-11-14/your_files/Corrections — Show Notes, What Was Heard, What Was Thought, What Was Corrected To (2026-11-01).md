@@ -74,4 +74,4 @@ Language is imperative here, in his words from the same dictation, because the c
 - 1 (what Ember thought/acknowledged): fast for free, slow for paid.
 - 2 (corrected to, his words): "Oh, do that opposite. Do the cheapest ones the free ones, the longest and the ones that cost the most, give me the most with the least." — Free/cheapest = longest and fullest; costliest = most value in the least. First version superseded.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -50,4 +50,4 @@ This ruling NARROWS the GAP rule; it does not abolish it. Before: an unknown fun
 - Relations: §203 four-way split (mold as a fourth category) · §226 serotype groups · Serology book GAP ledger (27 empty matrix cells; per-serotype fungal/yeast column empty across all 23) · Oct 28 Group B streptococcus–*Candida* thesis (association holds, composition breaks) · Oct 29 23F ruling (precedent: a ruling implemented as a new corrected copy, old untouched).
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold · [GAP] unknown.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

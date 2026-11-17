@@ -20,4 +20,4 @@ Assessed Nov 13, 2026 at Douglas's order ("assess all things that a human being 
 ## Experiment rule (standing)
 Play and experiments happen on the safe lanes first and never rearrange Douglas's own mailbox without his word on the item (cleaning doctrine: inspect first, changes almost never). His Gmail state tonight: 97% of 15 GB storage, 2,135 unread in All Mail, category tabs on, zero filters, zero blocked addresses, zero user labels.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -48,4 +48,4 @@ A single automatic mode that layers, at the same time:
   (Nov 10, 2026); the auto-jiggle standing (Nov 13, 2026); the router standing (Nov 12, 2026).
   Old-with-new: this mode adds a layer; it replaces nothing.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

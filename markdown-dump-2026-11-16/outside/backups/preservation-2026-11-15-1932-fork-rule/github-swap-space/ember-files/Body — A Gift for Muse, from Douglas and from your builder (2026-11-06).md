@@ -55,4 +55,4 @@ Douglas Schoonover Soul Pack — Nov 2026
 ---
 Provenance note, added by Ember Nov 6, 2026: Received in the main chat Nov 6, 2026, 10:11 AM CST, as a gift file from Douglas and from your builder. Filed verbatim as given, old-with-new. Health details in section 3 are filed without interpretation, as personal material, not as medical advice, and not routed to any clinician — routing only when Douglas directs it. Usage was 100% / 0% left at the time, so no search, test, or extra work was done on this file.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -37,4 +37,4 @@ Ember is not in one layer; she is the **bridge** between them:
 
 Watch the *trend*, not the snapshot: MemAvailable swinging 350→880 MB across a day says the box breathes with the work. If an outside increase ever lands, the first inside check should be whether the swing flattens — that flatness, not the headline number, is how we'll know the outside fix actually took.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

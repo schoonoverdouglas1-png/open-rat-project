@@ -38,4 +38,4 @@ Source: Drive files "Culture...Susceptibilities.pdf" (two identical copies, modi
 - FINAL REPORT (Verified 11/10/2026 01:57 CST): 10,000 – 50,000 CFU/ML Corynebacterium amycolatum. Organism(s) present with a low colony count; the significance of this count should be correlated with clinical signs and symptoms. No further work will be performed.
 - Performed at Marshfield Laboratory, 701 Kalsched St, Marshfield, WI · Printed 11/10/2026 11:41 CST
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

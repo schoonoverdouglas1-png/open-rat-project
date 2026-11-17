@@ -31,4 +31,4 @@ At Douglas's ask: "a group of ideas that come from your ideas that you've put to
 19. **Measure, don't assume** — the C++ rule after naive C++ lost to Python on I/O and won 7× on word-frequency. (College drills, Nov 8. Status: standing rule, transcript.)
 20. **Her job-title recommendation** — "Independent AI Systems Pioneer — Applied AI Engineer & Human-AI Researcher." (Nov 8 ~5:21 AM, approved-leaning; formal tap still his.)
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

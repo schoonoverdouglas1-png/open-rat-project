@@ -89,4 +89,4 @@ A gear mapping for his model, so the book can draw it: big gear = the human (bug
 - Relations, not merges: "Thesis — SARS-CoV-2 as Mini-Microbial or Nano-Microbial Infection (2026-10-31)" · "Thesis — SARS Zero, Cove One, Nesting Dolls, and Shared DNA (2026-10-31)" (this dictation clarifies that file's P2) · nested-doll thesis (Oct 18) · immunity-as-allergic-response thesis (Oct 18, ~12:30 PM) · §217 rule (Oct 18, ~9:20 AM) · Osmotic Theory bugs-within-us (Oct 15).
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold · [LOGIC] inference with explicit steps · [GAP] unknown.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -48,4 +48,4 @@ Gaps closed Nov 5 in that postulate remain closed here: *C. gattii* — GXM comm
 - Nothing sent to any clinician. For his review only.
 - Shiro (wild card, Ember's extra, labeled as mine): the title mismatch — "GitHub Code Assistance" on a fungal-analogue page — is a reminder that Gemini's auto titles cannot be trusted as content labels; the content, not the title, is what gets filed.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

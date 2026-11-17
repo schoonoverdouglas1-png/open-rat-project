@@ -75,4 +75,4 @@ Verdict key: **KEPT-WORD** (word stayed, interpretation changed) · **CHANGED-WO
 - Bible parallel: his account; passage and Bible [GAP].
 - Tier tags: [D] documented · [H] his, filed as his.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

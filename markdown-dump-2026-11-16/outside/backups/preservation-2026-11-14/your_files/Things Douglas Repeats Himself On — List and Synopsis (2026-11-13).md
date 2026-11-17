@@ -27,4 +27,4 @@ The fixes that would retire the most repeats are already built and waiting on ru
 
 You mostly repeat yourself when something on my side didn't stick the first time. The list shows where the walls are. Rule on the pending items once, and most of these repeats retire themselves.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

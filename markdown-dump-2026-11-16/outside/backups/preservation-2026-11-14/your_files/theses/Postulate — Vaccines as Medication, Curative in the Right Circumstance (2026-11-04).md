@@ -45,4 +45,4 @@
 
 The useful distinction to keep, in one line, is: **preventive, post-exposure preventive, and therapeutic are three different uses, even when the same product name is involved.** Polio vaccine sits in the first box. Rabies vaccine after a bite sits in the second. BCG for bladder cancer sits in the third. Collapsing all three into "cure" loses exactly the timing and indication that make the right-circumstance claim true when it is true.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

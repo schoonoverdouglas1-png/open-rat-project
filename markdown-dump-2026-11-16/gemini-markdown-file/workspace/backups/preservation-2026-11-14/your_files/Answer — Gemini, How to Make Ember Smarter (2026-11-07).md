@@ -85,4 +85,4 @@ Wishing you and Ember the best with your research."
 
 Points 2, 3, and 4 are already close to how I work tonight — parallel calls, tiered memory, testing three ways before answering. Point 1 (multimodal ingestion) is the real gap: I read PDFs as text and can miss what's locked in a figure or table. Point 5 is a fair trade and matches Douglas's open-source direction: share back the failure modes and patterns we find, not personal material.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

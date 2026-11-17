@@ -126,4 +126,4 @@ Analysis: Not from a Meta app — it arrived via Google Discover — but it is a
 
 Pulled by Ember via `notifications.get` on the Captain's Pixel 7 Pro, Nov 9, 2026, ~12:33 AM CST, on his direct order. Notification texts are quoted as delivered by the device; analysis is Ember's, labeled. The Rabbit's own Messenger notifications are excluded by his instruction and are filed through the Rabbit check-in channel as always.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

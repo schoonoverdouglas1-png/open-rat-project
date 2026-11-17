@@ -17,4 +17,4 @@ Gemini is Google's AI riding with the crew as a collaborator — she writes skil
 
 *Version 1 — Nov 12, 2026. Assembled by Ember from the record; anything here she corrects will be corrected old-with-new, her version beside this one.*
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

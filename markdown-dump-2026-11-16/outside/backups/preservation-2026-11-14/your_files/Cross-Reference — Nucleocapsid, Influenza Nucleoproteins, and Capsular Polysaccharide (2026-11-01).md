@@ -65,4 +65,4 @@ Antigen strips deliberately target conserved interior proteins, so one line catc
 - Prior strip work: combo antigen strip diagram (Nov 1, 2026) and mechanism answer (same day) — Flu A / Flu B / CoV lines, C-line placement, ~5 mm pitch, RSV/Adenovirus expansion slots.
 - Oct 17 memory: flu/COVID antigen "cousins" thesis — kinship breaks, showing-overlap holds.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

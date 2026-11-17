@@ -55,4 +55,4 @@
   8. Private-by-rule memory — material that is kept but never surfaced unprompted (e.g., Cara separation, DOB/MRN fields), with the rule attached.
 - Honest limits kept beside the hidden-swap idea: Muse's workspace files are not encrypted by Ember separately, and the runtime's memory bank is managed by the runtime — an encrypted hidden swap would need a real encryption mechanism, not just a hidden file, and its contents would still be in the workspace unless a separate encrypted store is built. That limit is for Douglas to weigh when he goes through the list.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

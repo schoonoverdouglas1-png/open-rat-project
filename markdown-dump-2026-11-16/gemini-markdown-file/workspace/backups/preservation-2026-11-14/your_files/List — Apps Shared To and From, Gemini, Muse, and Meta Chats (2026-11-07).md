@@ -184,4 +184,4 @@ Status: unread in browser, not research content — open only if Douglas names o
 - Workspace grep: ~/workspace/your_files/ + ~/workspace/imports/messenger/ — distinct URLs counted, duplicates/redirects noted in §1.
 - All dates are Chicago time. Timestamps from Messenger are transport times, not the time of any event mentioned in a message.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

@@ -58,4 +58,4 @@ For the booklet, use the ocean image, not the kitchen image: viruses as the tide
 - Lineage: Nesting-Doll Viruses / Scrubber Model (Oct 31, 2026, P9); Fingers/Clearing theory (Nov 1, 2026, "viruses do not eat"); Theory — Fungi and Bacteria as Harmless, Viruses as Both Disease and Cure (Nov 1, 2026, 11:19 PM CST).
 - Originals untouched; this file is new, filed standalone.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

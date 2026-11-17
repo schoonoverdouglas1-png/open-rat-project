@@ -288,4 +288,4 @@ Scope: creative-manuscript and research material only. Nothing here is medical a
 - His Account — Signs Since Birth; the Stigma (2026-10-19).md
 - Personal History Note — Neonatal Swelling, Great-Grandmother's Line (2026-10-18).md
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

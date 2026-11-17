@@ -127,4 +127,4 @@ Ember's note: the fragment's instinct matches Finding 3 — on this box, memory 
 4. **Staged install asks, for his go only, smallest first:** shellcheck, fd, zstd (tiny, high-value) — and pandoc/tesseract stay questions until their installability from this container is verified, per the triple-check rule for non-Google code.
 5. **Nothing in this study authorizes a change.** It is a map. The territory gets touched only on his word, one approved step at a time — old-with-new, Guard standing.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

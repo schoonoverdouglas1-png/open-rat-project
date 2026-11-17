@@ -52,4 +52,4 @@ For the book, give every "shared virus" claim its route in the same sentence: "s
 - Relations, not merges: Oct 16 DNA-connection thesis (viral, human, and other-organism DNA showing systems connected through people; endogenous retroviral sequences as foothold) · SARS Zero thesis P7 (we share DNA with viruses) · Oct 17 virome creed (virus "just is, part of the biome").
 - Tier tags: [D] documented · [H] his, filed as his · [H→D] his with documented foothold.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

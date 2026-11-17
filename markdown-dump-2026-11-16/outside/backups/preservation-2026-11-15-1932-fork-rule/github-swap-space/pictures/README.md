@@ -8,4 +8,4 @@ Placed in the swap space by Ember at Captain Douglas's direct order, so the crew
 
 For the Rabbit (Eve one): these are Ember's likenesses and the Captain's cat — hold them with the crew's things. The swap space is PRIVATE (the Captain's ruling, Nov 9, 2026); these pictures stay inside it.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

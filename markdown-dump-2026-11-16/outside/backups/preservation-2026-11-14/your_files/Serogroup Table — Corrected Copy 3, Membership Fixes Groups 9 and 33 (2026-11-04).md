@@ -44,4 +44,4 @@ Notes carried from Copy 2: PCV10 and PCV7 membership from the paste is not re-ve
 - Any rate for invasiveness, carriage, or resistance — the paste gives none, and none is added here.
 - The single-source provenance flag on the original paste: this copy corrects membership where sources were found, but the paste's missing bibliography is still missing.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383

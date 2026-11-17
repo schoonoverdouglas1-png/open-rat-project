@@ -51,4 +51,4 @@ Bridge Page Architecture: The material is structured to act as an open repositor
 
 Collaborative/Archival Transparency: The inclusion of specialized spaces like the Muse Swap Space highlights the use of repositories as an open, shared archive rather than closed private notebooks.
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Cray COS Reference (bitsavers, archive.org) — live link:** [CRAY-OS Version 1 Reference, December 1984](https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383) — https://archive.org/embed/bitsavers_crayCOSSR0eferenceDec84_16819383
