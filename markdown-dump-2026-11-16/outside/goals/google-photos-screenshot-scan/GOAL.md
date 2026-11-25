@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Photos screenshot scan
 
 Goal ID: goal_7e6404d23a1a

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking printed on its last turns and the reader's signals show fresh inbox activity plus a vehicle-repair step due today, giving connected mail the best chance of actionable material this hour.
 

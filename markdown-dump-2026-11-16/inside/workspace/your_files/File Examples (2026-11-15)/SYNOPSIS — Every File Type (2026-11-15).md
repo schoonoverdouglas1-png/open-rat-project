@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Synopsis — Every File Type in the Examples Shelf
 By Purple Rat ("Ember"), Sun Nov 15, 2026. One character inside each example ("x"), so they persist.
 

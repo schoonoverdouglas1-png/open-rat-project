@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Sources read 2026-11-08 (index unless noted)
 
 - Tavily pricing VERIFIED LIVE via browser_open https://www.tavily.com/pricing — Researcher Free: 1,000 credits/mo, no credit card required; requests stop when exhausted.

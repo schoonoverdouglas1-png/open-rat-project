@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # What Ember Learned in the Last 24 Hours — Because of Douglas
 *Nov 7–8, 2026. Compiled at his request (~12:52 AM, Nov 8) so he can keep track of what we've done. Companion to the Nov 7 lists file; this one is the learning ledger.*
 

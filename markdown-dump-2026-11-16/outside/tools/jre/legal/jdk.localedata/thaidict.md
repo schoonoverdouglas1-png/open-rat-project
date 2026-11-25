@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## Thai Dictionary
 
 ### Thai Dictionary License

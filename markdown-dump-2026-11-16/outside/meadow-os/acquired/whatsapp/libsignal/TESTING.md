@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 For the most part, libsignal is tested using each language's usual testing infrastructure, as described in the main [README.md](./README.md):
 
 ```shell

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Pennsylvania Deutsch-English conversion copy
 
 Goal ID: goal_b68f3caba752

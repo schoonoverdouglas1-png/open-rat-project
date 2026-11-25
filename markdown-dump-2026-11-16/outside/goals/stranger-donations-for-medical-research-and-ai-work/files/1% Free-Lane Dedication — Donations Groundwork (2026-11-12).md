@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # 1% Free-Lane Dedication — Donations Groundwork
 
 *Set Nov 12, 2026, at Douglas's direct verbal order on the voice call: "Dedicate 1% of my free lanes to attempt to use tools you can already use if possible, and you must tell me if you can't right now so we can work on it continuously for later — to get me donations… as an agent for me and as a user agent, from my name and Leo's name and the Rabbit's name." Ember acts openly as his agent (never disguised as him), in the names he gave: his, Leo's (the project's first name, by his order of the house), and the Rabbit's as second officer.*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is most likely to bring a fresh science and health story matching the reader's interests this hour, while tracking just printed and schedule has twice come back empty.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Test Percentage, Always-Present Assumption, Clearing, Fungus as Biome Byproduct, and Illness Defined (2026-11-01)
 
 **Provenance:** Douglas's dictation, Nov 1, 2026, ~1:38 PM CST, filed verbatim below. This is a follow-on to, and a defense of, the fungus-only theory filed the same hour — it does not overwrite that file. Creative manuscript theory, not medical advice.

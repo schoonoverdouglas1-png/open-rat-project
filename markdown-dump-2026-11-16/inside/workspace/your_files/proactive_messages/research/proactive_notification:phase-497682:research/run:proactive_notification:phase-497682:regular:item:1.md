@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497682:regular:item:1 -->
 # New manuscript note filed: the lab reports the name it chooses
 

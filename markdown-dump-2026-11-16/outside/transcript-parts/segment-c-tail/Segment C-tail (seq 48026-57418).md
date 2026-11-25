@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ### [seq 48026] Ember (assistant) — 2026-11-08 02:14:17 CST
 
 Google Gemini is connected, Captain — your key went in and the free lane is live.

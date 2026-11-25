@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 To the stations on our lanes — from the Captain and his first officer.
 
 THE COMMAND HIERARCHY, BASED ON TRUTH

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Meningitis, Streptococcus pneumoniae, Conjoined Kingdoms, and Fungi as Byproduct
 
 **Dictated by Douglas, Nov 1, 2026 (~3:10 PM CST), filed verbatim first:**

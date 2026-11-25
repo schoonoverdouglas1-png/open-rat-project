@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best fits the open "my interests" prompt with fresh fungal science for the book work, while tracking has twice closed quiet and schedule already covered the Oct 15 visit prep.
 

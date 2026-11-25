@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Three Postulates — Encephalitis Lethargica ∥ Lou Gehrig's Disease; Arbopanel Mechanics (2026-10-19)
 
 **Status:** three separate postulates from one dictation — never collapsed. Each filed as his with its own verdict.

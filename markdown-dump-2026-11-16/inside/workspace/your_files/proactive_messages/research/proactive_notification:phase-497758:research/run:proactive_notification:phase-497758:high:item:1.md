@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497758:high:item:1 -->
 # Fiction-book character sheet started; "deathburn" file doesn't exist in the workspace
 

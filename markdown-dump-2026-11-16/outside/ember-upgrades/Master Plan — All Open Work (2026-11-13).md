@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Master Plan — All Open Work
 Written 2026-11-13 ~7:18 PM CST at Douglas's order: "Write plans for
 all things that need to be done and engage them all." Each item names

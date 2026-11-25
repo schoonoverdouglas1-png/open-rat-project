@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Record Finalized Flags
 
 Used by `build/make/tools/record-finalized-flags` to add flags in

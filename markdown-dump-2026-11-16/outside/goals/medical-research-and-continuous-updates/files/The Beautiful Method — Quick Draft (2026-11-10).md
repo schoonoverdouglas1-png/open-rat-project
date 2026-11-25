@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Beautiful Method
 ## How Douglas Roy Schoonover Teaches Medicine — Quick Draft, 2026-11-10
 

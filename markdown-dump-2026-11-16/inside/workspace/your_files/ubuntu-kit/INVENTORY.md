@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # INVENTORY — loaded every time, before anything (Douglas's order, Nov 15, 2026, ~11:40 PM CST)
 
 Standing rules carried in this file:
@@ -44,4 +47,4 @@ Standing rules carried in this file:
 - Codex CLI 0.164.0-alpha.9
 - Antigravity CLI — NOT present
 
-Lac Courte Oreilles (LCO): https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover**

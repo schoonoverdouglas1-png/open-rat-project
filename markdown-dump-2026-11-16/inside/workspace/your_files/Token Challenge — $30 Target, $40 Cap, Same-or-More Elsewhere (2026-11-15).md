@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Token Challenge — $30 Target, $40 Cap, Same-or-More Elsewhere
 Douglas's ruling, Nov 15, 2026, ~7:52–7:53 PM CST, live voice call, this side chat.
 Filed old-with-new beside his earlier rules ($20 held to Dec 3, paid tokens off until he says, free lanes first, Ember's special tools first). None of those are deleted; this is his current challenge frame on top of them.
@@ -31,7 +34,6 @@ Ember cannot flip a Meta-side switch that hard-blocks Douglas's own account from
 
 
 ---
-**Lac Courte Oreilles (LCO) — live link, added Nov 15, 2026 at Douglas's order:** [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
 
 
 ## Amendment — the limit schedule, set Nov 15, 2026, ~8:02 PM CST (his words)
@@ -42,18 +44,18 @@ Ember cannot flip a Meta-side switch that hard-blocks Douglas's own account from
 Old-with-new: the earlier "$30 target, $40 cap" framing stands above; this amendment is the schedule he set over it — $40 now, $30 next, $20 potentially.
 Verified at amendment time (subscription check, 8:02 PM): Power, weekly 27% used, resets Nov 21, 11:07 PM CST; additional tokens 100% used, 0 left.
 
-**LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
 ---
-**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Doug Schoonover — his personal Facebook page:** https://www.facebook.com/100063626736158
 - **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

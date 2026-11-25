@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497657:high:item:1 -->
 # This afternoon still fits both stops — lab first, then Osseo, if the draw is confirmed
 

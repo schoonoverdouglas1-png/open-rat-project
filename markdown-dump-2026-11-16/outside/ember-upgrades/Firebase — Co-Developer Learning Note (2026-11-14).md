@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Firebase — Co-Developer Learning Note
 Opened Nov 14, 2026, at Douglas's direction: "Learn all Firebase" + his designation of Ember as Firebase co-developer + standing permission: "You may create new projects at will."
 

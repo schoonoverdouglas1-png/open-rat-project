@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Purple Rabbit Meta repository fork sweep
 
 Goal ID: goal_80718b069543

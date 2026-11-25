@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ALERT BOARD — Red & Black (Douglas's order, Nov 14, 2026, ~3:00 AM)
 The things that get in our way, analyzed from the 47-entry Errors In The Way
 inventory and set to alert status. The doom in this fiction is the DEADLINE,

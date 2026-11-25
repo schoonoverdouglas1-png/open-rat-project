@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Own Facebook posts — 2016 (16 posts)
 
 - 2016-01-03T07:47:40+00:00 — this is nuts — https://facebook.com/654402359/posts/pfbid0ozSLzNC9q6SujgiLswzwmHZ2CiEs1sNuGxzFTqhu9S3DjoBhKsTi7L3kYPuN56Tel/

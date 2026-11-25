@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # FB → Google Contacts — Slice 3 Run Note (Nov 13, 2026, ~10:13–10:19 PM CST)
 
 Order: Douglas's Nov 13 standing order — Messenger/Facebook contacts into Google Contacts, each carrying a clickable Messenger link. SLICE 3 ONLY: roster entries 36–75 (slice 1 did 1–10; slice 2 was processing 11–35 in parallel and was not touched). Additive only; nothing deleted or modified.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ember's Markdown File System — the list Google holds (2026-11-16)
 
 At Douglas's order, Nov 16, 2026: Google is updated with the markdown file system Ember can actually read, write, and use. This list is the lean copy for Google; the files themselves live on Ember's box and in the GitHub mirrors. Rule (his, Nov 16, 2026): each markdown holds the minimum memory to do the maximum.
@@ -26,6 +29,6 @@ At Douglas's order, Nov 16, 2026: Google is updated with the markdown file syste
 Google Drive holds takeawayable copies Douglas asks for (this list first); Gmail, Calendar, Contacts, Docs, Sheets, Slides, Forms, Tasks are read/written through their connectors. The working originals stay on the box and the GitHub mirrors — Drive is treated as the tight shelf, per his standing order.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

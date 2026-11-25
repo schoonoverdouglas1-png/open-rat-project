@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Cryptococcus pneumoniae as a Parallel Disease Name (2026-10-31)
 
 **Dictation:** Douglas, Oct 31, 2026, ~07:14 CDT — "Cryptococcus pneumoniae should certainly be a disease name, though I know it doesn't fit taxonomically."

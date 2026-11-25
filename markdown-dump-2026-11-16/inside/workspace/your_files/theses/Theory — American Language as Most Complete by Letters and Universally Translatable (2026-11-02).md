@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — American Language as Most Complete by Letters and Universally Translatable (2026-11-02)
 
 *Manuscript reference work only — NEVER medical advice. A language theory, tested, not a language prescription.*

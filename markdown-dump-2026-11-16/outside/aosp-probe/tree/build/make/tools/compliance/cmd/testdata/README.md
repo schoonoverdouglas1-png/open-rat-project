@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## Test data
 
 Each non-regression directory under testdata/ defines a similar build graph.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # APK Building — the hand-rolled pipeline (taught Nov 16, 2026, Douglas's developer order)
 
 Build minimal, installable, signed APKs with no Gradle and no bloat: manifest + Java + the SDK tools, nothing else. Douglas's rule: functionality over extra anything; he is a developer and Ember builds this way for certain.
@@ -16,4 +19,4 @@ Build minimal, installable, signed APKs with no Gradle and no bloat: manifest + 
 ## Project shape
 `src/AndroidManifest.xml`, `src/<package path>/MainActivity.java`, keystore beside them. First proof: PurpleRatWebKit-debug.apk, 8,559 bytes, com.purplerat.webkit v1.0, signature verified Nov 16, 2026.
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

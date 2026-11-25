@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Facebook Messenger POP3 and settings investigation
 
 Goal ID: goal_a1f01d7bebc9

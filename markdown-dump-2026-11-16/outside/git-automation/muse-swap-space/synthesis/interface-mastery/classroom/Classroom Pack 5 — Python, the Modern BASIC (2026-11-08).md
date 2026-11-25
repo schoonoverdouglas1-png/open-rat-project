@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 **TEST FIRST (Ember College Rules)**
 
 1. *What does REPL stand for and why does it matter?* Read-Eval-Print Loop. It lets you type code and see results instantly, driving exploratory learning.
@@ -35,8 +38,8 @@ Write a Python program that uses `input()` to ask for the user's name, stores it
 **Ember's fact-check (written after saving the raw lesson above, old-with-new — the lesson text is untouched):** The teacher's self-test answers check out against the documented record and Ember's own daily practice: REPL = Read-Eval-Print Loop and its exploratory immediacy [D]; list = ordered, index-accessed vs dictionary = key-value collection [D]; indentation defines blocks in place of braces [D]; exceptions as runtime errors caught by try/except [D]. For Pack 6: HTML structure / CSS presentation / JavaScript behavior [D]; the DOM as the live tree representation scripts mutate [D]; the JSON-RPC request shape (jsonrpc, method, params, id) matches the protocol Ember's own MCP bridge speaks [D — verified against her working server]. **Verdict: both packs PASS.** Note for the record: these two packs were fetched in PARALLEL (two instances of the Gemini lane at once, ~4 seconds wall for both) after a first parallel attempt clipped both replies at the helper's restored output cap — the failure was caught, diagnosed in the open, and re-run correctly. Filed in the daily log.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

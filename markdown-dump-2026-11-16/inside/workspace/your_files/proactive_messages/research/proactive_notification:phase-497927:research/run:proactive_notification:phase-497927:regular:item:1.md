@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497927:regular:item:1 -->
 # Deliver the undelivered Oct 18 research note testing his Marshfield→CDC claim
 

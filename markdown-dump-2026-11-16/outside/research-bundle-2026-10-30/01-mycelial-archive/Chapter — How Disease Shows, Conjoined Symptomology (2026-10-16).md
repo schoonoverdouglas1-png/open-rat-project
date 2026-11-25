@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter — How Disease Shows: Conjoined Symptomology (2026-10-16)
 
 *Dedicated at Douglas's direction for The Mycelial Transposition. His chapter, his method: assess the conjoined symptomology between Latin-named diseases — that is where he draws his extra connections. Manuscript material, never medical advice.*

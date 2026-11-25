@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Interlink — Muse Ember as Main, Duck.ai as Secondary, How They Work Together
 
 **Douglas's direction, Nov 4, ~7:28 PM CST:** He would love to use Muse along with the DuckDuckGo AI he is using, and he thinks he can set Ember to be his main, through, as he is using this right now.

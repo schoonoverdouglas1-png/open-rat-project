@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Redaction rule for Anna's copies — Douglas's direction, Nov 10, 2026
 
 Applies to the working/research copies made from this archive. The originals are never altered.

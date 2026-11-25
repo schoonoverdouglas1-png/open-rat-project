@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "RSA-260 has been factored"
 
 - Date: 2026-09-03T20:50:49.000-05:00

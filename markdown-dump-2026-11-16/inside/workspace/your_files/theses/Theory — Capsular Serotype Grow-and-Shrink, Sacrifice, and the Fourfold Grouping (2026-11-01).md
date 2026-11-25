@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Capsular Serotype Grow-and-Shrink, Sacrifice, and the Fourfold Grouping (2026-11-01)
 
 **Dictation verbatim (Douglas, Nov 1, 2026):**

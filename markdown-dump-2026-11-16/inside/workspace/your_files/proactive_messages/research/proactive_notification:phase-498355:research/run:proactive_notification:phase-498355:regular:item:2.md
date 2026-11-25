@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498355:regular:item:2 -->
 # Research space — serotyping and serology at its core, widened to all your research
 

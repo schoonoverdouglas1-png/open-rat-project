@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web serves "my interests" and its last two picks printed mycology stories on the reader's book thread while tracking and schedule closed quiet.
 

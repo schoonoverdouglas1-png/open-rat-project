@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Draft — Letter to Cray (now HPE Cray): A Favor in the Name of Computer Science
 
 *Drafted Nov 10, 2026, at Douglas's order ("Send email to Kray supercomputers and just ask one of its agents for a favor in name of computer science and see what it sends back"). Looked up first, two lanes agreeing: Cray Inc. was acquired by Hewlett Packard Enterprise (announced May 17, 2019; closed Sept 25, 2019) and is now HPE Cray. Historical public inbox: info@cray.com (liveness today unverified). Google's lane: "No email address exists for a supercomputer machine itself." STATUS: SEND ORDERED by Douglas Nov 10, 2026, ~11:19 PM CST ("Send a thank you to Seymour Cray posthumously from me… and then you can send it") — a posthumous thank-you to Seymour Cray, written from Douglas's own sentiments of this night, was added at the head of the email, and the combined message was handed to the crew mailbox for sending to info@cray.com the same minutes. Sent-confirmation to be appended when the mail result lands. If sent: from purple-rat@muse.ai to info@cray.com, exactly as written. A bounce counts as data and gets filed here.*
@@ -13,8 +16,8 @@ Seymour Cray built machines that changed what a human being could ask. We are st
 Any reply may reach us at purple-rat@muse.ai.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

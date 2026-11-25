@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Source notes — read 2026-11-08 (America/Chicago date in mission tag)
 # Verification mode: web index / browser_open (research-window tabs failed with page_gone on two attempts; index crawls were minutes-to-hours old for key official pages)
 

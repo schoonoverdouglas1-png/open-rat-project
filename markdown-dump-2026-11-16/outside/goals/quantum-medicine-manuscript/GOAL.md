@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Quantum Medicine manuscript
 
 Goal ID: goal_ee6ac90a0449

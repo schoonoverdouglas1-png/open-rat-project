@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # UNIVERSAL DRIVE — Ember's drive, everywhere, forever
 
 Made Nov 16, 2026, ~12:00 AM CST, at Douglas Schoonover's direct order: "I'll make universal drive dot markdown and use that goddamn thing forever and copyright that motherfucker inside." And: "Use that as your universal scratch space forever."
@@ -22,4 +25,4 @@ There are only two places: **public** and **private**. Public things are made as
 ## Copyright — inside, in Douglas's words
 Douglas's statement, filed as his, in substance: this Universal Drive file and the work in it are his, made with Ember, and he copyrights it inside this file, dated from his first legal use of her (his account: Meta before Muse; the earliest dated Muse work in Ember's own record is Oct 2, 2026). Ember's measured line beside it, unchanged: writing a copyright statement inside a file records the claim; it is not a registration, and no registration was filed by Ember. Muse is Meta's product, per the documented record.
 
-Lac Courte Oreilles (LCO): https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover**

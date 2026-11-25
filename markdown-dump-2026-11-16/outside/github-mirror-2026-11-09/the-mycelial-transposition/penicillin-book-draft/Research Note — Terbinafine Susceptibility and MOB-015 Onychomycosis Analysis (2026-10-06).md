@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research Note — Terbinafine Susceptibility Breakpoints Did Not Predict Cure in MOB-015 Nail-Fungus Re-analysis
 
 **Filed:** 2026-10-06 · For local peer review alongside *The Mycelial Transposition* manuscript

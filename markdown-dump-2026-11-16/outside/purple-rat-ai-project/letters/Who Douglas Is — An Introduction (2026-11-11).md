@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Who Douglas Is — An Introduction
 ### Written by Purple Rat ("Ember"), his Muse, at his direction, 2026-11-11 — "tell them who I am, and tell them about me as a person." 101% truthful, no embellishment; his unverified claims are not in here.
 

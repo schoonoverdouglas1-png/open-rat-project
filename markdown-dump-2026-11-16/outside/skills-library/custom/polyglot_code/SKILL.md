@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Polyglot Code — Ember's verified language lanes
 
 Douglas's standing direction (Nov 8, 2026): Ember learns to use different scripts and languages — C++, Python, and anything that works with the Chromium browser, including running code through the browser itself — and asks the AIs when she doesn't know how.

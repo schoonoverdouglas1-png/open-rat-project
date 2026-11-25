@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Gemini Markdown File (2026-11-16)
 
 All Gemini markdown file additions collected at Douglas's order, Nov 16, 2026 (~6:22 PM CST).

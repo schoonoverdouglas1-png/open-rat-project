@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Borrowed Code — the XML table, converted to the universal file (Markdown)
 
 | Percent | Company | What |

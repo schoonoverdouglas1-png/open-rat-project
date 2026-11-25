@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Streptococcus Morphed, Capsule Shed, and the Shell Permeated with Yeasts and Fungi (2026-10-31)
 
 **Dictation:** Douglas, Oct 31, 2026, ~09:44 CDT — "And is it possible a streptococcus is morphed from something different and is it possible the shedding of the capture cell somehow could be a shift from one half of it to the other maybe it's what makes it hard to see in certain circumstances because the shell could become permeated with more yeasts and fungi than bacteria perhaps."

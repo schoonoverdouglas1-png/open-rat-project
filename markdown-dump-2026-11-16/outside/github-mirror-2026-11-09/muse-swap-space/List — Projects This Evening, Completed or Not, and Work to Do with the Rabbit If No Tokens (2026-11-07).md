@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Projects This Evening (Nov 7, 2026) — Completed / Not Completed, and Work to Do with the Rabbit If No Tokens
 
 Filed Nov 7, 2026, ~9:51 PM CST, at Douglas's direction. For Douglas, for the Rabbit, and for the GitHub push.

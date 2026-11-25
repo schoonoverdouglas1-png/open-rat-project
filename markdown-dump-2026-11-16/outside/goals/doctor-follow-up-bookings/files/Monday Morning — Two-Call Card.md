@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Monday morning — one call, one card
 
 *Monday Oct 19: 9:40 Kelsey Meyer, NP → 10:00 ultrasound, same building (OakLeaf Clinics–Chippewa Falls, 855 Lakeland Dr). Arrive by 9:25.*

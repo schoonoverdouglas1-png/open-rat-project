@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Kirk Wins — Third-Way Playbook
 Douglas's standing order, Nov 14, 2026 ~1:24 AM CST: "Look for more ways to Captain Kirk win when we can't win the me way or you way first."
 Rule: when Douglas's way won't work AND Ember's way won't work, don't stop — change the conditions of the problem (the Kobayashi Maru move) and find the third way, inside the Guard and his word.

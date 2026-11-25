@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # EXTRAS ENGAGED — the Open Guest, guest mode (Nov 12, 2026, ~7:38 PM CST)
 
 Captain's order: "Engage all extra shit in the guest mode that you can use the way we use it. Like my computer."

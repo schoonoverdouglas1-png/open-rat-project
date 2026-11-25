@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: schedule
 Angle: Schedule serves this open-ended interests prompt with actionable near-term calendar material for the reader's coming Grandma, surgery-prep and surgery threads, and it carries the highest reader-response weight among the fitting lanes.
 

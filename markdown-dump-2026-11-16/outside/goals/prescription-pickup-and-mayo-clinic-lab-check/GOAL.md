@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Prescription pickup and Mayo Clinic lab check
 
 Goal ID: goal_880902664da7

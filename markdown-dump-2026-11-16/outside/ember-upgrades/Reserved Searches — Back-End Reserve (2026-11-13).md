@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Reserved Searches — Back-End Reserve (started Nov 13, 2026, at Douglas's order)
 
 Standing (his words): "Find ways to reserve searches for later while you're doing things so they can sit in the back end so they're not wasted." Operating form: every search Ember runs during work gets its useful results reserved here (or in the task's own file) with source links, so a later task starts from the reserve instead of re-searching. Rides beside the Cache-Ahead manifest.

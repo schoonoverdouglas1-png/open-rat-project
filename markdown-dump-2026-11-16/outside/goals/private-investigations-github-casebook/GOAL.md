@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Private investigations GitHub casebook
 
 Goal ID: goal_4a7142b51877

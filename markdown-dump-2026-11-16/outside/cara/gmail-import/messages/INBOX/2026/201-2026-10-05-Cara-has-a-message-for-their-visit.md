@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cara has a message for their visit
 
 - Date: 2026-10-05T10:59:10.000-05:00

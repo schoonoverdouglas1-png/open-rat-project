@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web keeps printing fungal science and health stories squarely on the reader's mycology interests while tracking and schedule recently closed quiet.
 

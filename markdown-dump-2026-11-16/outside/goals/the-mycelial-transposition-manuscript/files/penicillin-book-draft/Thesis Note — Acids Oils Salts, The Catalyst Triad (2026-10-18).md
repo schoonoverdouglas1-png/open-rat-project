@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — Acids, Oils, Salts: The Catalyst Triad; Nourishment Doctrine
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (nutrition/immunity thread)

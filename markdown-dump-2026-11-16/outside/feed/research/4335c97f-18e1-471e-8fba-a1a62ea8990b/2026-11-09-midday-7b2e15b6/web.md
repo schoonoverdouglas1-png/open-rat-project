@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web keeps printing on Douglas's science and AI interests, while schedule — the runner-up — closed quiet on its last two picks, so web has the best chance of a story that belongs this hour.
 

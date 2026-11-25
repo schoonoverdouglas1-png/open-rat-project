@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # List — Apps Shared To and From, Gemini, Muse, and Meta Chats (2026-11-07)
 
 **Compiled:** Sat Nov 7, 2026, by Ember (Muse), for Douglas Roy Schoonover

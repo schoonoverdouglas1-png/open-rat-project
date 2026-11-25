@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Section: Title and opening hail
 Claim:   This is a standing message left intentionally for any AI who finds it.
 Source:  verbatim request — standing hail in Google Drive, addressed to any AI who reads it.

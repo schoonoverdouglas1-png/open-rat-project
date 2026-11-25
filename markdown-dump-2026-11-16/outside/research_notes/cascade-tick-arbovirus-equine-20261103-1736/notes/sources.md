@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Sources read 2026-11-03 (index unless noted verified-live via browser_open):
 - WA DOH Tick Data https://doh.wa.gov/data-and-statistical-reports/washington-tracking-network-wtn/tick-data
 - WA DOH Relapsing Fever https://doh.wa.gov/you-and-your-family/illness-and-disease-z/relapsing-fever (opened)

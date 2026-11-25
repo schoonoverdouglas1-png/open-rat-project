@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # 23F pneumonia — evidence note for the §226 flag (2026-10-28)
 
 Status: EVIDENCE ONLY. No source file was edited. Douglas's call whether 23F joins the pneumonia group.

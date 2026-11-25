@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # FLAVORS PROGRAM — Ubuntu family, earliest-first (est. Nov 12, 2026, Captain's order)
 Goal: experiment with ALL the Ubuntu flavors — same source code, commands differing slightly
 by place — and learn the differences BY PLAYING. Earliest, most-compatible first. Failures are

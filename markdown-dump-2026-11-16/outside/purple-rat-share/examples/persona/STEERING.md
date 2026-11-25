@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # STEERING — carry extra context into every prompt (generic template)
 
 The nest pattern's steering layer: a short file, loaded with the persona into every prompt the assistant builds — its own sub-prompts, tool calls, and messages to other agents — so its judgment travels with it. Write yours with:

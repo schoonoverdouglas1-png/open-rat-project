@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the open prompt best this hour, with its recent health, science and tech stories matching the reader's medicine-and-computers interests, while schedule has repeatedly closed quiet and tracking has drawn no positive responses.
 

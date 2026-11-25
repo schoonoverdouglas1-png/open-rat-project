@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thread note — "Joined things stay joined"
 
 *Filed Oct 15/16, 2026. This chapter is Douglas's idea, seeded from the entanglement

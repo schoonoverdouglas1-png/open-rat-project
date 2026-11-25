@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # You won't be able to back up new photos or videos soon
 
 - Date: 2026-09-11T17:11:20.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # opinions.md
 
 Stable preferences, opinions, and value judgements.

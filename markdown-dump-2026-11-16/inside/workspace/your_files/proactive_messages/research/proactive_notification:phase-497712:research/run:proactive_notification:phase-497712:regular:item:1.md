@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497712:regular:item:1 -->
 # Disease cure tree — draft scaffold from your notes, ready to correct
 

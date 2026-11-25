@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PDF Samples
 
 ## [PdfRenderer](/src/main/java/com/example/platform/graphics/PdfRenderer.kt)

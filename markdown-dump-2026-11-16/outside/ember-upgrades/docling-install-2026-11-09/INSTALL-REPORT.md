@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Docling Install Report — 2026-11-09
 
 - **Date/time:** 2026-11-09, started ~9:29 PM CST, test conversion verified ~9:58 PM CST

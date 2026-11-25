@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Toolkit — Named Pieces (built 2026-11-11, Douglas's naming)
 
 Douglas's rule: add extra things like waiters and rabbits to make other things.

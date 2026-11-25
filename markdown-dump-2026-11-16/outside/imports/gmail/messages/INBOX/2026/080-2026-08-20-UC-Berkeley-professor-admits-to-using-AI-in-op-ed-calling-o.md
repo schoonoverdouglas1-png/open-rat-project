@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "UC Berkeley professor admits to using AI in op-ed calling out students’ la..."
 
 - Date: 2026-08-20T21:03:11.000-05:00

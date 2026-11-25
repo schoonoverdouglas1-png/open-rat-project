@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thread note: the fairness doctrine — Change of Address project
 
 *Opened Oct 15/16, 2026, per the build directive. The seed is Douglas's doctrine.*

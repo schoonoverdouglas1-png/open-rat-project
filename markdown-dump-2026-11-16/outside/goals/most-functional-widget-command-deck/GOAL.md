@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Most functional widget command deck
 
 Goal ID: goal_0476371d0ac5

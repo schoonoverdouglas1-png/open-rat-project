@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Serotype Trees — Streptococcus pneumoniae and the Tuberculosis Complex (2026-10-16)
 
 *Compiled at Douglas's direction. Naming reference for the book — never medical advice.*

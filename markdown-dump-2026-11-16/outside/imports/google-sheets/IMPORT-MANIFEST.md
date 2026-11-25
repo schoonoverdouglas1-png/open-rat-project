@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Sheets Import — Manifest
 
 **Import date:** 2026-11-01 (America/Chicago)

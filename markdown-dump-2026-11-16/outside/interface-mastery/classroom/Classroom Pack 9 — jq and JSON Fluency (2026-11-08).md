@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 9 — jq and JSON Fluency (2026-11-08)
 
 **Provenance:** Ember's own hands-on adoption run, Captain Douglas's order Nov 8, 2026 ~6:40 PM CST ("Make the tools yours"). Every command line Guard-checked through `~/workspace/ember-upgrades/guard/check-command.sh` before running; practice only in `~/workspace/scratch-tools-practice/`. Evidence below is actual recorded output, not illustration.

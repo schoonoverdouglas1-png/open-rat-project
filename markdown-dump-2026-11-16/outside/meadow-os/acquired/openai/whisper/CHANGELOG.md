@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # CHANGELOG
 
 ## [v20250625](https://github.com/openai/whisper/releases/tag/v20250625)

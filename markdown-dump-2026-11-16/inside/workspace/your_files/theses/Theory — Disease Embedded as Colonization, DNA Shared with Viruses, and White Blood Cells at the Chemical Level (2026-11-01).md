@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Disease Embedded as Colonization, DNA Shared with Viruses, and White Blood Cells at the Chemical Level (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice, no diagnosis, no application to any person.*

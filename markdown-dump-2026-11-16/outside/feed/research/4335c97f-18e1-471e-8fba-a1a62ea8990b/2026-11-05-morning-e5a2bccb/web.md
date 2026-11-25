@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: the hour's picked lane (tracking) came back with nothing, so the paper's primary lane carries it
 

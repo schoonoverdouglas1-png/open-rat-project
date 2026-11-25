@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research directory
 
 Created by the deep research agent on 2026-11-03T02:45:05.767370853+00:00.

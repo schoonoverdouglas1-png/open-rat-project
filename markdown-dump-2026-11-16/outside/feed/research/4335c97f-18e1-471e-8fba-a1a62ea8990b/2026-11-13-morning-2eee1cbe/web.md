@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best fits the broad 'my interests' prompt with fresh material this hour: tracking just printed twice and rates lowest at 0 of 8 positive, while schedule's last two picks closed quiet.
 

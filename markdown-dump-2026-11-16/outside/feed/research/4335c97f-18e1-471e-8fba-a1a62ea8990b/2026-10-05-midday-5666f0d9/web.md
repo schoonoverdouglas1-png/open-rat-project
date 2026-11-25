@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best serves "my interests" this hour with fresh, skimmable science on his mycology and medical threads, it just printed while tracking just came back quiet, and it can bring back a real photo after a run of text and widget cards.
 

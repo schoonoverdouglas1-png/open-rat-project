@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo ARBOP / ABOPC — primary catalog
 - Read 2026-11-02 via browser_open (index/catalog fetch; live research window failed with page_gone, see report gaps).
 - ARBOP: https://www.mayocliniclabs.com/test-catalog/overview/83267 — Arbovirus Antibody Panel, IgG and IgM, Serum; IFA; serum 0.5 mL (min 0.15 mL); NY State Available Yes; performing lab Mayo Clinic Laboratories - Rochester Superior Drive. Profile: CAVP Calif Virus (LaCrosse) IgG and IgM,S; EEEP East Equine Enceph Ab, IgG and IgM,S; STLP St. Louis Enceph Ab, IgG and IgM,S; WEEP West Equine Enceph Ab, IgG and IgM,S. All Always Performed Yes, Available Separately No in profile table. Reference <1:10 IgG and IgM for all four, all ages. Aliases: Arbovirus Serology, Central Nervous System Screen, Alphavirus (old Arbovirus, group A), Flavivirus (old Arbovirus, group B). No Jamestown Canyon, no coronavirus component listed.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking serves this reader's current follow-ups, and its last two picks both printed rather than closing quiet.
 

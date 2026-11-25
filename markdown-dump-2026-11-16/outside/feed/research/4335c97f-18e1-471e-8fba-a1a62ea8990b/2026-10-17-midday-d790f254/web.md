@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits 'my interests' best this hour with fresh material on his manuscript topics, while tracking last closed quiet and schedule just printed.
 

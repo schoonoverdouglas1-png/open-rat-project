@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Brain as Bilobal Organ, Ginkgo Biloba, and the Doctrine of Signatures (2026-11-02)
 
 *Manuscript reference work only — NEVER medical advice. No recommendation to take ginkgo for any condition; supplement questions belong to a clinician/pharmacist, and ginkgo interacts with blood-thinning medicines, a documented safety point to check with a clinician, not a verdict in this file.*

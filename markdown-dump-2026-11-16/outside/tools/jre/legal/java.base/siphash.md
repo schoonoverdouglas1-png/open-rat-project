@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## SipHash v1.0-68c8a7c
 
 ### Notice

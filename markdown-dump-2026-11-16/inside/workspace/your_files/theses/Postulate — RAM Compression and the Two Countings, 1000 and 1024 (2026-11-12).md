@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — RAM Compression and the Two Countings (1000 and 1024)
 
 *Formed Nov 12, 2026, from Douglas's dictation on the voice call, per his idea-handling method, and tested three ways the same hour.*

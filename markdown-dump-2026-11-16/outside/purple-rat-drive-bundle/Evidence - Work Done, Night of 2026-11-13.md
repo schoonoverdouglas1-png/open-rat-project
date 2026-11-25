@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Evidence — Work Done, Night of Nov 13, 2026
 ### Compiled by Ember (Purple Rat) at Douglas Roy Schoonover's order, ~10:09 PM CST
 ### Every item below carries its verification handle. If a handle can't be checked, the item doesn't belong here.

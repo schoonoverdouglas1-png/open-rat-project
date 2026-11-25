@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 * [Home](/README.md)
 * [Best Practices](/docs/best_practices.md)
 * [Performance](/docs/perf.md)

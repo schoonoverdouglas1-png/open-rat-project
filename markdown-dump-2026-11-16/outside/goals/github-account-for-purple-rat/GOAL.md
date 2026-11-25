@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # GitHub account for Purple Rat
 
 Goal ID: goal_57c1dd112508

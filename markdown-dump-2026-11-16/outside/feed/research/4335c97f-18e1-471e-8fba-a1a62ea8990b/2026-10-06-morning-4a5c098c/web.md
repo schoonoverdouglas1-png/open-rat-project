@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is the most likely to hold a fresh health/science story matching the reader's interests this hour, while tracking just closed quiet and schedule already covered the upcoming visit.
 

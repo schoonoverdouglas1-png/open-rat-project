@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Grandmother Anna's lab files — import and breakdown
 
 Goal ID: goal_89330f345dfc

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Passkey created for your Yahoo account
 
 - Date: 2026-08-06T16:25:26.000-05:00

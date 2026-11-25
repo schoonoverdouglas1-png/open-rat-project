@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Your Android device will soon join the Find Hub network
 
 - Date: 2026-08-04T23:44:35.000-05:00

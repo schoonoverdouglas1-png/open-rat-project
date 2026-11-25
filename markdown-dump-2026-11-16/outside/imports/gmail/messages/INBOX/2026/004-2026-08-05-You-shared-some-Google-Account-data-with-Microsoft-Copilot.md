@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # You shared some Google Account data with Microsoft Copilot
 
 - Date: 2026-08-05T14:52:43.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Compiled — The Sputum Culture Record with Entries 5 and 20 (2026-10-17)
 
 *His commission: "take the PDF I uploaded and the information you pulled together from I believe number five and number 20 and show me the information you can compile based on all that." This is a compilation of sources placed side by side — not an interpretation. What the test means for him belongs to Kelsey (visit prep item 12, Monday).*

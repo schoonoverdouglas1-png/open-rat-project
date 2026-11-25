@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — Antibody Testing + Arbopanel; La Crosse = Lyme (via Obaid)
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (namology/serology thread)

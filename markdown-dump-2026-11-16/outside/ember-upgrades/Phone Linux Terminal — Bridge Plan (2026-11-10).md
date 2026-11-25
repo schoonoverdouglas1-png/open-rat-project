@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Phone Linux Terminal — Bridge Plan (2026-11-10)
 
 Filed: Nov 10, 2026, ~7:09 PM CST, on Douglas's direct order ("make it so") in voice call: think of his phone as an Ubuntu box, Google-search how to access the Linux terminal on it, and figure out how to use it.

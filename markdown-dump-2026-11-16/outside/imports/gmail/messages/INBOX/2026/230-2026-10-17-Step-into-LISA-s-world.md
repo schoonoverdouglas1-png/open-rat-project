@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Step into LISA’s world
 
 - Date: 2026-10-17T12:07:51.000-05:00

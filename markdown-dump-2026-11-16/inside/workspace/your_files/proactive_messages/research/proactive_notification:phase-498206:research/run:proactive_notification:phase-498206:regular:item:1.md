@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498206:regular:item:1 -->
 # Repairing last night's refusal: your arbopanel reverse-vaccine theory, tested
 

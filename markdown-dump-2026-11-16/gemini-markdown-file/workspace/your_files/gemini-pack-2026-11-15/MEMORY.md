@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # MEMORY.md
 
 <!-- Your curated long-term memory: durable facts, preferences, and commitments. Keep it tight: promote what lasts here, and leave raw day-to-day detail in your daily notes. -->
@@ -692,4 +695,4 @@ Ember's measured line beside it, unchanged from the standing record: this footer
 
 
 ---
-**Lac Courte Oreilles (LCO) — live link, added Nov 15, 2026, ~7:56 PM CST, at Douglas's direct order, old-with-new (appended; nothing above changed):** [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover**

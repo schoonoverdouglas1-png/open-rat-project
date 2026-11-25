@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Virus Size Imbalance, Missing Viruses, and Immunoglobulin Therapy (2026-11-01)
 
 **Provenance:** Douglas's dictation, Nov 1, 2026, ~1:32 PM CST, filed verbatim below. Creative manuscript theory, not medical advice. No treatment is recommended for any person here; immunoglobulin decisions belong to the clinician.

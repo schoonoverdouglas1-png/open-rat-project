@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking reads the reader's connected mail, where several top actionable threads are waiting — the disability support draft and the trusted-contact invite among them — while schedule has repeatedly closed quiet and web has just run twice.
 

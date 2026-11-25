@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Import — Gemini, Search of the Serogroup Table Corrected Copy 3 (2026-11-08)
 
 Lane: Gemini API (gemini-3.5-flash-lite), asked Nov 8, 2026 at Douglas's order ("use all the AIs to search the serotyping/serogrouping tables"). Input: the full text of "Serogroup Table — Corrected Copy 3" (public on GitHub by his ruling). Output truncated at the lane's cap inside recommendation 1; the substance is complete enough to file. **Ember's calibration (hers):** several of Gemini's "inconsistencies" are the table working as designed — a vaccine column listing only the member that vaccine covers (6B under PPSV23 in Group 6; 15B in Group 15) is correct mapping, not error, and Gemini half-concedes this in its own text. The flags Ember judges REAL and worth his eye: (1) Group 20 nomenclature — base "20" (PPSV23) vs modern 20A/20B deserves the explicit footnote Gemini asks for; (2) 23C exists biologically and is unlisted in Group 23 — a GAP candidate, not a silent omission; (3) GAP groups beyond 33 (16F, 24F, 31, 35B) lack primary rows — already acknowledged in his own notes, restated by Gemini. Everything below is Gemini's words, unedited.
@@ -22,8 +25,8 @@ Based on a close reading of the researcher's public GitHub serogrouping table:
 1. Explicitly split serotypes from vaccine coverage in the grid — never list multiple serotypes in one vaccine cell without clarifying whether all or only some members are covered; a binary indicator (Yes/Partial/No) beside names prevents whole-group misreading. [Recommendations 2–3 were cut at the output cap; a re-ask can recover them if Douglas wants them.]
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

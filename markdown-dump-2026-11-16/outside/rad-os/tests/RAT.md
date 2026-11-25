@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # RAT — Rad OS Test Results
 
 Run: 2026-11-16T13:32:52

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Persistence — How Everything Stays in Sync, Ember and the AIs (2026-11-08)
 
 **Provenance:** Written Nov 8, 2026 at Douglas's order: "Use the AI to see how you can have persistence between all these things and how to do so." Method: Gemini (3.5 Flash-Lite) was asked through the new direct API connector (757 tokens, ~4 s round trip); Ember then assimilated its design against what ALREADY RUNS tonight, old-with-new. Gemini's contributions and Ember's corrections are labeled. Where the two disagree, Ember's measured record governs.

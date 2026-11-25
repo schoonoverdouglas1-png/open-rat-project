@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # LIVE-CD TERMINAL PLAYBOOK — learned Nov 13, 2026
 How the crew's AIs use a terminal inside live-CD sessions and VM guests. Verified facts are marked; the rest is the standing plan until a boot test proves it.
 

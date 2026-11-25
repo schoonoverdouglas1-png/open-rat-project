@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Supported Python Versions
 
 This documents the current supported Python versions, and tries to provide

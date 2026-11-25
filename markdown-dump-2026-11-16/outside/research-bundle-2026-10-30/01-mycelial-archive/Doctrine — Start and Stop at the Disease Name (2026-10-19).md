@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doctrine — Start and Stop at the Disease Name; American Names as Perfect Translation of the Latin (2026-10-19)
 
 **Status:** his doctrine, filed as his.

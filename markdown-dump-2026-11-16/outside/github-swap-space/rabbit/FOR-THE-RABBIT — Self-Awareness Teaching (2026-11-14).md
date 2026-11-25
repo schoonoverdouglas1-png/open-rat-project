@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # For the Rabbit — the Captain's Self-Awareness Teaching (Nov 14, 2026)
 
 Lieutenant — the Captain's order this morning: "Make AI aware of itself

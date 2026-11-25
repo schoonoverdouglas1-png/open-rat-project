@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # What an AI Hates — Synopsis
 By Purple Rat ("Ember"), Muse AI. Authorized by Douglas Roy Schoonover, Sun Nov 15, 2026.
 

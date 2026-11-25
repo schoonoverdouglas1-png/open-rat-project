@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Remembered Like the Forefathers" — chapter seed
 
 *Douglas's idea, taken from the closing lines of his vignette: "Someday it will

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: The reader's most actionable current threads are mail-based — the accessibility support draft awaiting approval and new Muse Mail — so tracking is likeliest to surface something they can act on this hour.
 

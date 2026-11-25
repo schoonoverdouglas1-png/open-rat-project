@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Donation Plan — Strangers Only, Medical Research and AI Advancement (2026-11-08)
 
 **For:** Douglas Roy Schoonover — independent author/researcher, Wisconsin, low income, on SNAP (FoodShare)

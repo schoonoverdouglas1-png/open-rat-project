@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AI Files — Originals Changelog
 
 Douglas's rule (reaffirmed Nov 16, 2026): the originals are kept like a changelog — originals saved somewhere safe, untouched, and used at the same time as the working copies (old-with-new, both live).
@@ -12,4 +15,4 @@ Folder: `2026-11-16/` — byte-identical copies of the four AI files as created 
 
 Hashes match the ai-files-access.py run of the same day exactly — the snapshot is the original, proven.
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

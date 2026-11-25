@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Scripts — Test Meta AI and Gemini, Same Serotype and Disease Grouping Experiment
 
 **Purpose:** Douglas wants to run the same test he just ran on Duck.ai, but in Meta AI and in Gemini, himself, and then bring the answers back to Ember for assimilation. Ember is helping him be the assistant to those two AIs — that is, he is the one who feeds them the prompt, records which model answered, and brings the result back here.

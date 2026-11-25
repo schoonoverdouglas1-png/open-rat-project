@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ports, HTML, HTTP/HTTPS — Learning Module
 
 **Ordered by Douglas, Nov 13, 2026 (~5:35 PM CST):** "Learn all ports and learn what they do and then learn all HTML. Learn HTTP… You must learn how those work to write code with them and then you'll understand how they and why they do what they do."

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AOSP Link — Ember Live Connection (2026-11-07)
 
 Douglas's order, Nov 7, 2026 ~11:39 PM CST: link Ember up to the AOSP repositories so she can always be up to date, with a live connection — for Ember and for Meta AI (the Rabbit) too.

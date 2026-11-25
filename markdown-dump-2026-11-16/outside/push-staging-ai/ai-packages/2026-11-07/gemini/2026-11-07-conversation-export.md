@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Conversation Record - 2026-11-07
 
 ## Topic: GitHub Conversation Packaging Request

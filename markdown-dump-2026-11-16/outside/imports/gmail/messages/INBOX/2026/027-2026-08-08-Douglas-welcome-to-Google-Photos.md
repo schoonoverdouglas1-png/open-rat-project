@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Douglas, welcome to Google Photos
 
 - Date: 2026-08-08T12:40:42.000-05:00

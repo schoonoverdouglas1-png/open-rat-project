@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ruling — Generic Fungal, Bacterial, and Mold Elements Implied for Every Pneumococcal Serotype (2026-10-31)
 
 **Dictation:** Douglas, Oct 31, 2026, ~09:44 CDT — "It should be implied with a streptococcus pneumoniae serogroups that they all have fungal bacteria and mold elements because whether we know the names of them for each serotype or not a generic version of those exists."

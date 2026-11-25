@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Gains — Preserved; and Ubuntu After the Update (2026-11-08)
 
 ## PART 1 — THE GAINS LEDGER (his order: "make certain no matter what that we keep these gains somehow")

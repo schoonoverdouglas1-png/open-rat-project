@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # New Message in Patient Online Services
 
 - Date: 2026-10-30T16:49:18.000-05:00

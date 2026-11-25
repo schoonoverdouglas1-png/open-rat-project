@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Evening gates-open build — run log, Sat 2026-11-14 23:08 CST
 
 ## State found at start (23:09 CST)

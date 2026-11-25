@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doctrine — Testing and Treatment Belong to Clinician and Patient
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (doctrine)

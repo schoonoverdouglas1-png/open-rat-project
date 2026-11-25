@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web most directly serves the 'my interests' prompt with fresh material this hour, while schedule just closed quiet, tracking's Gmail link to interests is weak, and no saved idea fits without stretching.
 

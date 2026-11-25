@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Penicillin-Resistant Serotypes — Theory and Medical Reasons (2026-10-16)
 
 *Built at Douglas's direction for The Mycelial Transposition. Old and new looked at together, per his rule. Manuscript reference, never medical advice.*

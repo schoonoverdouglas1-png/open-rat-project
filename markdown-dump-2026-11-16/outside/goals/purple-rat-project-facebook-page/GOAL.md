@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Purple Rat Project Facebook Page
 
 Goal ID: goal_c19fda5ef9c0

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Code Map — Everything Ember Has Code In (2026-11-14)
 
 Walked read-only by Ember's subagent on Nov 14, 2026, at Douglas's order ("walk all code that you have something to do with so you know it"). Nothing was modified, installed, or run. Counts are files actually present on disk at walk time; "read" means the file's contents were opened and reviewed in this walk.
@@ -117,4 +120,4 @@ Shortlist built **only** from the README text and directory names above — a ma
 
 *Filed Nov 14, 2026. Walk was read-only; the only file created is this map.*
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

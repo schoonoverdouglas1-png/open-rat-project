@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Core User Profile & Background Context
 ## Identity & Demographics
 Name: Douglas Roy Schoonover

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # CLion project generator
 
 Soong can generate CLion projects. This is intended for source code editing

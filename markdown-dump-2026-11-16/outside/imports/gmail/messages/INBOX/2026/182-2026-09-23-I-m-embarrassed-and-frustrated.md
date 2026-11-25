@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "I’m embarrassed and frustrated"
 
 - Date: 2026-09-23T21:38:20.000-05:00

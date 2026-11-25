@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research Note — Antifungal Therapy Reshapes Gut Mycobiome in IBD
 
 **Filed:** 2026-10-05 · For local peer review alongside *The Mycelial Transposition* manuscript

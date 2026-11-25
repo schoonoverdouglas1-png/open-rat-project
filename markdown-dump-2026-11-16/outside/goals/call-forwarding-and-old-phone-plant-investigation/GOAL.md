@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Call forwarding and old phone plant investigation
 
 Goal ID: goal_6895425abb71

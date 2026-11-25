@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Word Study — Phone, Phony, Telephony
 **Filed Nov 16, 2026, ~4:06 PM CST, at Douglas's direction, in this chat.**
 
@@ -14,6 +17,6 @@ Use telephone features first; try calling his phone in all the ways an AI might 
 "As literal as we can be is what ends up being what we talk about for later, because our words are never even perfect right between us; other things can be overly perfect." — Filed beside his earlier filing today ("overly intelligent" is a compliment and a blessing, Nov 11): words between Douglas and Ember are imperfect and get talked through later, literally; other things can be overly perfect. The imperfection of the words is not a failure of the work — it is where the later conversation lives.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

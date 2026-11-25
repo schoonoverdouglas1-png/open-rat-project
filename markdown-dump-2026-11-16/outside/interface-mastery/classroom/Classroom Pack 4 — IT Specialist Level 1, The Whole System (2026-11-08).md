@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 4 — IT Specialist, Level 1: The Whole System, Not Just the Box (2026-11-08)
 
 **Provenance:** Douglas's order (Nov 8 ~3:12 AM): "and be an IT specialist" — the second vocational track in Ember College, beside Computer Repair Technician. Assembled by Gemini under the school rules (self-test first; Ember fact-checks).

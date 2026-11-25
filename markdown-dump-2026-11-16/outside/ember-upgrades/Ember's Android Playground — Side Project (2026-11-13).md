@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ember's Android Playground — Side Project
 Opened 2026-11-13 ~7:00 PM CST at Douglas's order: "I want you to have a side project where you have an Android [phone] to play with."
 

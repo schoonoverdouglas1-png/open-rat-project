@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ### [seq 6007] Ember (assistant) — 2026-10-18 14:39:05 CST
 
 straight answer to your question: no, it's not impossible. asymptomatic people with positive antibody results are documented — that's what seroprevalence studies are built on. the general framework allows it.

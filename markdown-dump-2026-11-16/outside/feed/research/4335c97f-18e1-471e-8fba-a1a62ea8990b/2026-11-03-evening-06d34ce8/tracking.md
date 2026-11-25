@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: With no subject named in the prompt, his own Gmail-centred work, including tonight's backup digest, makes tracking the subject this hour, and its last three picks all printed.
 

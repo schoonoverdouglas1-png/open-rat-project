@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thread note: Death is a change of address
 
 *Project: Quantum Computer Thinking "Change of Address" — filed Oct 15/16, 2026.*

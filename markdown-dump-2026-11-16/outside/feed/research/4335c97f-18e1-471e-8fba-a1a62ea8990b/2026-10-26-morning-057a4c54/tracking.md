@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking serves the reader's own pending items and its most recent pick printed, which is evidence it is not quiet.
 

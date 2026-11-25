@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Verify Before Claiming Completion
 
 ## Name the state before you claim it

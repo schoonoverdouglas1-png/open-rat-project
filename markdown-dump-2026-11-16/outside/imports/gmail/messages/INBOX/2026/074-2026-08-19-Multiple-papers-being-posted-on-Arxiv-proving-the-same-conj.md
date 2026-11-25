@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Multiple papers being posted on Arxiv proving the same conjecture"
 
 - Date: 2026-08-19T21:28:41.000-05:00

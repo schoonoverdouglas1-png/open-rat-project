@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Maximal Paper — All Thoughts, The Full Process
 
 ### A technical clinical research synthesis for *The Mycelial Transposition* (2026-10-18)

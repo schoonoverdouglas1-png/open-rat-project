@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Import — Gemini Share, Branch, Vaccine-Toxoid Matrix Audit and 2.0 Plan (2026-11-07)
 
 **Source:** Gemini share link, read in the live browser Nov 7, 2026, 3:44–3:45 PM CST, read-only, no sign-in needed, nothing posted, sent, or edited.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## Apache Commons Byte Code Engineering Library (BCEL) Version 6.7.0
 
 ### Apache Commons BCEL Notice

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cross-Reference Database: Cryptococcus and PN23M Vaccine Structural Metrics
 
 - Date: 2026-10-27T18:11:16.000-05:00

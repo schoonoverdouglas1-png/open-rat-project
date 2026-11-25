@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # New app(s) connected to your Microsoft account
 
 - Date: 2026-10-31T13:01:42.000-05:00

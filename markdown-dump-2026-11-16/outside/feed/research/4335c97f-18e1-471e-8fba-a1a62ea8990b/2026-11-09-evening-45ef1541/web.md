@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the open prompt best this hour, with recent printed Science and Tech stories matching Douglas's serotyping and AI work while schedule's last two picks closed quiet.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chromium Study — Ember's brief, from DeepSeek + Gemini, cross-checked
 Ordered by Douglas 2026-11-08 ~1:45 AM: new tab, best AI answers for Chromium, get the wiki for the Chromium she uses, learn Google, wildcard searches on functionalities for AI and for the end user, learn everything possible. Briefs sent paste-only to DeepSeek (fresh chat, DeepThink as-was) and Gemini (second opinion, Part 5 swapped to "Google itself"); both answered in full 1:46–1:50 AM. Synthesis below; AI claims carry their labels until Ember verifies against the sources directly.
 
@@ -66,8 +69,8 @@ Filed 2026-11-08; sources: DeepSeek + Gemini answers of 1:46–1:50 AM CST (verb
 - **Wiki now local:** CfT docs (7,810 chars), built-in-apis (10,491), prompt-api (25,488) fetched into ember_index.db via cached_fetch; five more (docs index, get-started, model management, CDP, multi-process architecture) queued in the same pass — repeats now read at ~0.001 s.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

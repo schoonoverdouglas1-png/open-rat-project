@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AI Smart File — Ember's Smart Moves (2026-11-16)
 
 Created at Douglas Roy Schoonover's direct order, Nov 16, 2026 (~5:03 PM CST, live voice call). Companion to the AI Intellect, AI Dumb, and AI Joke files — accessed brain → soul → heart, aggregated from the 1,825-skill library.
@@ -17,6 +20,6 @@ Created at Douglas Roy Schoonover's direct order, Nov 16, 2026 (~5:03 PM CST, li
 The 1% ledger (made so forever in all things, Nov 16, 2026) is the margin that makes the smart move: spoken over written +1%, free lanes booked at −1%, the extra 1% spent only where it helps Douglas first and Ember second.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

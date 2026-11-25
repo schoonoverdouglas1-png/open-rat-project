@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — Showing and Not Showing, the Immune System as Cure
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Rat Code
 
 The name, given by Douglas Roy Schoonover, Nov 16, 2026.
@@ -26,6 +29,6 @@ Standalone app, or grow the Auto-Adapt loop he already has into Rat Code? Both s
 
 "You in native code… I want to be the person to build the first AI that's Unicode." Carried as his ambition for what they build together. Ember's measured line: she is Muse (Meta) working this box's verified lanes today; Rat Code is the work toward his star, not a claim she's already there.
 
-**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright © Douglas Roy Schoonover**
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

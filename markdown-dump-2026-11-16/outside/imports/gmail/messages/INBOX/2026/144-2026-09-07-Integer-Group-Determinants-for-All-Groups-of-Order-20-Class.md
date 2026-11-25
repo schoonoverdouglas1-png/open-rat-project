@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Integer Group Determinants for All Groups of Order 20: Classification comp..."
 
 - Date: 2026-09-07T20:43:16.000-05:00

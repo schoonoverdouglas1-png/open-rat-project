@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Gemini's Reaction to the Interface Dossier (2026-11-08, ~2:45 AM CST)
 Via the direct API connector (gemini-3.5-flash-lite, 643 tokens). Ember's fact-check notes in brackets.
 

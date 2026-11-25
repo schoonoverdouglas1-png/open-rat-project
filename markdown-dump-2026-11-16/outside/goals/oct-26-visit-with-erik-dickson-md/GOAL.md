@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Oct 26 visit with Erik Dickson, MD
 
 Goal ID: goal_ef11e1d96fb0

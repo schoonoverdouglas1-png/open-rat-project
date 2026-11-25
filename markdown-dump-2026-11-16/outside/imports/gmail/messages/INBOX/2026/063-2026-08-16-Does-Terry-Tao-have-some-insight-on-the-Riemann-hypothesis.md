@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Does Terry Tao have some insight on the Riemann hypothesis after Claude’s ..."
 
 - Date: 2026-08-16T20:39:52.000-05:00

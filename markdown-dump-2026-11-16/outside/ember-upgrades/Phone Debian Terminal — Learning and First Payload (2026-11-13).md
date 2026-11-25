@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Phone Debian Terminal — Learning and First Payload
 
 Filed 2026-11-13 ~7:27 PM CST, at Douglas's report and order.

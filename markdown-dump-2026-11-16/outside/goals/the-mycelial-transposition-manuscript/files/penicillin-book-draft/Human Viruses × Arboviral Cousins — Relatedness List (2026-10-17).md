@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Human Viruses × Arboviral Cousins — Relatedness List (2026-10-17)
 
 *Built at Douglas's commission (dictated-notes sections 94–95). Manuscript reference — never medical advice, no treatment or diagnostic content.*

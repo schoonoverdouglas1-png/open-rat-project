@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Villages Home Prices Drop Again: America’s Largest Retirement Spot Gets More Affordable and more top stories of the week
 
 - Date: 2026-09-05T04:20:35.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Facebook / Messenger client for Ubuntu 24.04 — ONLINE-ONLY webview research
 
 - **Date:** Sun Nov 8, 2026 (~6:14–6:25 AM CST), Captain's orders.

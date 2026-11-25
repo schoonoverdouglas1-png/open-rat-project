@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research — Oils, Krill Oil, and Fluid and Pressure Around the Skull (2026-11-10)
 
 **Commissioned by:** Douglas Roy Schoonover, Tue Nov 10, 2026 — general research under standing researcher-mode rules.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497801:high:item:1 -->
 # MTM ride: number and hours verified — first-time caveat before the 6pm deadline
 

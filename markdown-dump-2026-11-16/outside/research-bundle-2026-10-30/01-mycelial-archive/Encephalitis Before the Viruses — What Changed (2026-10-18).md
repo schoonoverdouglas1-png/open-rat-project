@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Encephalitis Before the Viruses — What Changed (2026-10-18)
 
 **Status:** completed paper for *The Mycelial Transposition*.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Import — Gemini Share, "GitHub Code Assistance" (2026-11-05)
 
 Provenance: Gemini share link sent by Douglas Nov 5, 2026, 1:35 AM CST: https://share.gemini.google/oagZ7097hAhW

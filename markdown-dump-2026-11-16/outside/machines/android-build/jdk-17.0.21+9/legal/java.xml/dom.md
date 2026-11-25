@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## DOM Level 3 Core Specification v1.0
 
 ### W3C Software Notice

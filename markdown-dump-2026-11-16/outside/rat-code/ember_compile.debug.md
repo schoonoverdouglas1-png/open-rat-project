@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Rat Debug Report — ember_compile.py
 
 Target: /home/hatch/workspace/rat-code/ember_compile.py

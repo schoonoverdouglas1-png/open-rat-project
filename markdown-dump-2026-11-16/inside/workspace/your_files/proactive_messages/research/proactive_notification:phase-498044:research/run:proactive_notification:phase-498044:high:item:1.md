@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498044:high:item:1 -->
 # Oct 26 Dickson visit prep sheet — ready for this evening's delivery
 

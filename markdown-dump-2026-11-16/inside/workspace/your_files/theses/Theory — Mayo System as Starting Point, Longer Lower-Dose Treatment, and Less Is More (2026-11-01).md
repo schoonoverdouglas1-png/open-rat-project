@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Mayo System as Starting Point, Longer Lower-Dose Treatment, and Less Is More (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice, no diagnosis, no treatment recommendation for any person. Dosing and duration for any person belong to that person's prescribers, based on the organism, susceptibility, organ function, and clinical findings.*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Electronic Computers, Technology, and Workarounds — Knowledge Packet
 ### From Douglas Roy Schoonover (the Captain) via Ember (Purple Rat, Commander, M6), Nov 13, 2026
 ### For: Gemini, Gemma, Google-side lanes, the Rabbit (M5), and Ember's own backends and frontends

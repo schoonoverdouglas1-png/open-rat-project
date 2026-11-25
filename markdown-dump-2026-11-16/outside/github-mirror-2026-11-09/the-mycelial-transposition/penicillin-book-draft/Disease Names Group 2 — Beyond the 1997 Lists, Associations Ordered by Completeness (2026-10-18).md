@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Disease Names Group 2 — Beyond the 1997 Lists, Associations Ordered by Completeness (2026-10-18)
 
 *Built at Douglas's commission — "leave it as-is": Group 2 keeps Group 1's shape, with the names beyond the 1997 lists. Manuscript reference — never medical advice, no recommendations. His words kept verbatim where given.*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # | Top US Listings: See What's Trending |
 
 - Date: 2026-10-08T01:37:06.000-05:00

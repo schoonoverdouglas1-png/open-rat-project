@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Susceptibility Is Bacterial, and Medicine Reacts With the Pests That Create Bacteria and Other Wastes (2026-11-03)
 
 **Origin (his theory):** Douglas, Nov 3, 2026, as dictated, in substance: anything that has to do with susceptibility has to do with bacteria, as far as the way that the medicine reacts with the pests that create the bacteria and other wastes.

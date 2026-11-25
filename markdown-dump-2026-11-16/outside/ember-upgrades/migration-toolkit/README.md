@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Migration & Aggregation Toolkit
 
 Built 2026-11-13 at Douglas's order: prepare tools so data can migrate

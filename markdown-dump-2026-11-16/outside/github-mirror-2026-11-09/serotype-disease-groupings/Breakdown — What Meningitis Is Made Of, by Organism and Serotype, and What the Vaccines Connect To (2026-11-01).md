@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Breakdown — What Meningitis Is Made Of, by Organism and Serotype, and What the Vaccines Connect To (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice, no diagnosis, no application to any person.*

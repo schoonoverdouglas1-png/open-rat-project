@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # You shared some Google Account data with GitHub
 
 - Date: 2026-10-22T22:47:02.000-05:00

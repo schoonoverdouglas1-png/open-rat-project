@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ruling — Medical Elements Equals Medical Terminology (2026-11-01)
 
 **Provenance:** Douglas's ruling, Nov 1, 2026, ~1:41 PM CST, filed verbatim below. This ruling answers Part IV, question 2 of the Medical Elements book outline filed the same hour. It does not overwrite that outline; it sits beside it, old-with-new.

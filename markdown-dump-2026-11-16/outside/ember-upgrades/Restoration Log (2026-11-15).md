@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Restoration Log — Sun Nov 15, 2026 (~7:50–7:58 AM CST)
 
 Douglas's free-restoration rule (~7:49 AM) + "make it so immediately" for VM rebuilds (~7:49 AM) lifted the Two Ways plan's prepared-only status for this set. Executed same morning.

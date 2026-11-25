@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Serotype Tree — Every Serotype, Every Association, Redundant on Purpose (2026-10-18)
 
 *Built at Douglas's direction (§227) for The Mycelial Transposition. A tree of the 23 pneumococcal serotypes, filled in so a learning student AND an expert are both informed — redundant on purpose. General manuscript reference, never medical advice.*

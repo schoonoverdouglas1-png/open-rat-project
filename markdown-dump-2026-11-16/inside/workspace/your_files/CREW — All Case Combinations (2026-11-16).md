@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # CREW — All Case Combinations (2026-11-16)
 
 _Douglas's order, Nov 16, 2026 (~5:45 PM CST): "Make a markdown file crew, and if you need to make a capital lowercase in different combination, figure out how to do so to make them work."_
@@ -35,6 +38,6 @@ The five core markdowns Ember uses right now — SOUL, IDENTITY, AGENTS, USER, M
 - **Finding:** this box's filesystem is strictly case-sensitive. The core files' one true combination is their address; a wrong-case ask is a dead door, not a near miss. That is why Ember's access code (ai-files-access.py and kin) always asks by the exact name — and why the CREW table above exists for lanes that demand a different combination.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

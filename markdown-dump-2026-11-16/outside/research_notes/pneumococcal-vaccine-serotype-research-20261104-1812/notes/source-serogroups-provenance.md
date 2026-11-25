@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Source notes — serogroups, provenance, cross-reactivity (read 2026-11-04)
 
 - CANDIDATE SINGLE-SOURCE TABLE: Sunfire Biotechnologies, https://sunfirebio.com/wp-content/uploads/2022/08/Resources_Pneumo_Serotypes.pdf — read full via browser_open. Table 1 groups 1-47 only; Table 2 says 'Info coming soon!'; no bibliography, no methods, no dates in the retrieved PDF. This matches Douglas's description (a website, only place found, bibliography missing) in form, but the specific serotype in Douglas's table was NOT named, so this is flagged as CANDIDATE only, NOT asserted to be Douglas's source. Do not treat Sunfire as verified.

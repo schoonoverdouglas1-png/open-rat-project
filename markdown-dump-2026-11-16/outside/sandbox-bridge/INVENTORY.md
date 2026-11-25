@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Inventory — every machine, every image
 
 The complete contents of `~/workspace/machines/` as of Sun Nov 15, 2026:

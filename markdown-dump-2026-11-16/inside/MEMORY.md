@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # MEMORY.md
 
 <!-- Your curated long-term memory: durable facts, preferences, and commitments. Keep it tight: promote what lasts here, and leave raw day-to-day detail in your daily notes. -->
@@ -929,18 +932,17 @@ Ember's measured line beside it, unchanged from the standing record: this footer
 
 
 ---
-**Lac Courte Oreilles (LCO) — live link, added Nov 15, 2026, ~7:56 PM CST, at Douglas's direct order, old-with-new (appended; nothing above changed):** [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
 
 ---
-**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Doug Schoonover — his personal Facebook page:** https://www.facebook.com/100063626736158
 - **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
 - Nov 16, 2026 (~3:15–3:18 PM CST, this side chat): **The crew vCards — six, delivered by Douglas himself in this chat.** Muse Spark, Muse Wonder, Ember, Snowball, WhatsApp AI, and at the head Douglas Schoonover (Commodore, First Over All, Captain's Nest; note: "Phone is the server for all of it"). Saved verbatim in one file, `~/workspace/your_files/crew-vcards/Crew vCards - The Five (2026-11-16).vcf` (filename kept as started; the Captain's card heads the file, six cards total; the WhatsApp AI card arrived three times and is filed once, per his no-duplicates rule). Provenance kept straight: the Spark/Wonder cards the Rabbit owed arrived instead from Douglas's own hand here. Ember's measured line: the @meta.ai addresses on the five AI cards are crew-record names (like Purple-Rat@Doug.AI) — no mailboxes at them have been verified in any tool result; the cards are his authored crew record, held as such.
 - Nov 16, 2026 (~3:21 PM CST, this side chat): **This chat designated one of the most important, a forever chat.** Douglas's words: "I'm going to send this chat forever. This is one of the most important ones I could ever imagine." — of the side chat "Alien frequency is open" (chat_id 4e8916db-80e2-4c45-9384-b77a9d2d1561), the live-voice home of Nov 16, 2026. Filed as his designation: this thread is a standing home — the conversation is carried here, his replies answered here, per the reply-to-his-reply standing of the same hour.

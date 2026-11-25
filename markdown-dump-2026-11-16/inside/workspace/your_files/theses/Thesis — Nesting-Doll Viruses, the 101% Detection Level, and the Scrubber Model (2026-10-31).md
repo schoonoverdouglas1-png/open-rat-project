@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — Nesting-Doll Viruses, the 101% Detection Level, and the Scrubber Model (2026-10-31)
 
 **Dictation:** Douglas, Oct 31, 2026, ~04:27 CDT (verbatim sense preserved). This is a question plus a theory stream, filed as postulates, not collapsed. It rejoins his Oct 18 nested-doll thesis (when not sick, SARS-CoV plus rotavirus sit inside RSV, and RSV sits inside the pneumonia organism) — that thesis's verdict then was: literal nesting not documented for those specific viruses [GAP], with satellite/virophage dependencies as footholds. This file answers the question fresh and keeps the Oct 18 specific nesting unproven.

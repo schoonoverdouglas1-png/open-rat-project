@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # 5 for Friday: Income-Maxxing Abodes: Bargain Properties With Renter-Ready ADUs and Apartments—and All Available for Under $500K
 
 - Date: 2026-08-14T17:35:16.000-05:00

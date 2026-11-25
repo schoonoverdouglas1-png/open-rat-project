@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Your review reached 100 views 📝
 
 - Date: 2026-10-13T06:03:45.000-05:00

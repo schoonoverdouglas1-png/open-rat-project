@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # FREEBIES-FIRST — Routing Card (2026-11-12)
 
 Captain's order, Nov 12, 2026 ~6:50 PM CST (standing, filed in ~/AGENTS.md):

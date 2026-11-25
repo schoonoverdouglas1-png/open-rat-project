@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XVIII: Arboviral Panels as Fungal Indicators, Unculturable Pathogen Solutions, and Oakleaf Clinic Collaboration
 # I. Arboviral Panels as Proxies for Unculturable Fungal Pathologies
 Historically, when standard culture tubes failed to grow microscopic, unculturable pathogens outside the human body, clinical investigation required innovative surrogate markers. A decade ago, arboviral panels served as vital indicators to help clinicians identify and navigate complex fungal-associated infections. Because these microscopic elements evade conventional isolation, tracking viral panel reactivity provided an essential window into underlying systemic fungal burdens and immune responses.

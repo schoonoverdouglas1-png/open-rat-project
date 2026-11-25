@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has printed five straight units on the fungal and health science threads at the center of his interests, so it holds this hour's most likely story.
 

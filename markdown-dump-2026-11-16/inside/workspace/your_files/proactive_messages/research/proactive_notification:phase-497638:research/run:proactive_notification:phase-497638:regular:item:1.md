@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497638:regular:item:1 -->
 # Confirm the Oct 15 visit in MyChart — with a name check first
 

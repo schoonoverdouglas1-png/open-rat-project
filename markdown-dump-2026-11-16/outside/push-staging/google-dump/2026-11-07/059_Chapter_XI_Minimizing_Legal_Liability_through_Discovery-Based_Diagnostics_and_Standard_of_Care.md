@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XI: Minimizing Legal Liability through Discovery-Based Diagnostics and Standard of Care
 # I. Paradigm Shift: From "Disease Is Born" to "Disease Is Discovered"
 Legal liability within clinical practice often stems from precise diagnostic terminology and its downstream legal interpretations. Traditional medical documentation and legal pleadings frequently employ language suggesting that a pathogen or condition was "born" or created within a facility, during a specific timeframe, or as a direct consequence of localized care. This terminology creates significant exposure to civil lawsuits grounded in negligence, improper isolation, or institutional fault.

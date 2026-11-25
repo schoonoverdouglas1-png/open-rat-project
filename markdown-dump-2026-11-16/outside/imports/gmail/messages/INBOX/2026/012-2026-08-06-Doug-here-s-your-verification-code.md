@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doug, here's your verification code
 
 - Date: 2026-08-06T16:19:30.000-05:00

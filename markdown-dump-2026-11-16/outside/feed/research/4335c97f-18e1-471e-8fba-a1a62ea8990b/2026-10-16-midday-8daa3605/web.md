@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits your 'my interests' prompt best this hour, with fresh science and health stories matching your manuscript work while mail and calendar hold logistics rather than topical interests.
 

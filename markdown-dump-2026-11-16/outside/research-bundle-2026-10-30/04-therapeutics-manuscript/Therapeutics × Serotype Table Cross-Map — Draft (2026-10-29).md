@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Therapeutics × Serotype Table Cross-Map — DRAFT (2026-10-29)
 
 **Status: DRAFT for Douglas's review only. Nothing here enters either manuscript until he says so. Both source files are untouched (old with new).**

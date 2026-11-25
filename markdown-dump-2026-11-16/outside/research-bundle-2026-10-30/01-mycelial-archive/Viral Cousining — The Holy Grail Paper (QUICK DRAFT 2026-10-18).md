@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Viral Cousining — The Holy Grail Paper (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the completed paper is still building. This is your reading copy meanwhile.

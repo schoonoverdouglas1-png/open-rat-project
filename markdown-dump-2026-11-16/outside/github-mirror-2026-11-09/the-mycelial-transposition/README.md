@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Mycelial Transposition
 
 Creative manuscript by Douglas Roy Schoonover — quantum medicine and the connection between all things, built better and simpler from available information.

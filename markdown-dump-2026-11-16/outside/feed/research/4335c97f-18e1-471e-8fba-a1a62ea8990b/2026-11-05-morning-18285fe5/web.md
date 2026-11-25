@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is most likely to bring a fresh science or health story matching Douglas's interests, and a real photograph after the recent run of text-only cards.
 

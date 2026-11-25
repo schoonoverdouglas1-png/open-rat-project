@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ### [seq 45362] Ember (assistant) — 2026-11-08 00:30:39 CST
 
 Quick Rabbit update from the latest check-in, Captain — new replies up to 12:18 AM, all filed to the swap space and pushed:

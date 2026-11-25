@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research — Phone Overlay and App Control: How It Is Done on Android
 Prepared 2026-11-08 at Douglas's direction ("do a quick research project, get the instructions on how to do so"), as the evidence pack behind a feature request to the Muse team. Searches run plain AND with wildcards, per his method; the wildcard runs surfaced the open-source agent projects the plain runs missed.
 

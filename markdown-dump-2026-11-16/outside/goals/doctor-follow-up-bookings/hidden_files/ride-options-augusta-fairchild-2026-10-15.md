@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Non-emergency medical ride options — Augusta/Fairchild area → OakLeaf Clinics, Chippewa Falls
 
 **Researched:** Oct 15, 2026 (evening) · **Need:** arrive OakLeaf Clinics, 855 Lakeland Dr, Chippewa Falls, WI 54729 by **9:25 AM, Monday Oct 19, 2026** · Rider cannot drive.

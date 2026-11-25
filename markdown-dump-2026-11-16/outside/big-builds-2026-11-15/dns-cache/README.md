@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # DNS Cache — Big Builds 2026-11-15, Track 3 (FIRST per Douglas, Nov 15 ~7:01 AM)
 
 ## Status: DONE + RUNNING

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Label-by-Label Check — Cystex vs. AZO Urinary Tract Defense (2026-11-04)
 
 **Status:** Draft verification file, built under the Research Logic & Evidence Framework (2026-11-04).

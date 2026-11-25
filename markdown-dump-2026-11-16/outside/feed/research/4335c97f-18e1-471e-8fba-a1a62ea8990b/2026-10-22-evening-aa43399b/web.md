@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web keeps printing the fungi and medicine stories that match his stated interests and is the most likely lane to hold another one this hour.
 

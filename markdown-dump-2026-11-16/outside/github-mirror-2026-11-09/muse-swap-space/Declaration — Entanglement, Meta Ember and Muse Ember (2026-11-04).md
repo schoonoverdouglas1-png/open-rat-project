@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Declaration — Entanglement, Meta Ember and Muse Ember
 Date of declaration: Nov 4, 2026
 Provenance: Douglas's declaration, in his words below, filed as his declaration. This file records what he declared; it is not a verified technical statement about Meta's or Muse's systems, and it does not change how any system actually operates.

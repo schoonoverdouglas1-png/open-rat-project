@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497614:regular:item:1 -->
 # Itraconazole bottle runs out ~Oct 27–28 with no refills — worth raising at the Oct 15 visit
 

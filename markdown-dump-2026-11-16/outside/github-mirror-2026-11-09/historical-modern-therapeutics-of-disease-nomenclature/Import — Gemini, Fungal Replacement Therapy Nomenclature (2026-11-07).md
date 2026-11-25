@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Import — Gemini, Fungal Replacement Therapy Nomenclature (2026-11-07)
 
 Source: Gemini, live browser, Nov 7, 2026, 5:10–5:11 PM CST. Signed in as schoonoverdouglas1@gmail.com. URL: https://gemini.google.com/app/48e3b14086bd24cf

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AOSP — Study Note (Nov 13, 2026)
 
 Douglas's instruction: "Learn AOSP for Gemini — and now you can access Gemini tools through the workspace."

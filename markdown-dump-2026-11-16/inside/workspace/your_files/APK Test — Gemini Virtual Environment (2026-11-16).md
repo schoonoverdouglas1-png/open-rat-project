@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # APK Test — Gemini Virtual Environment
 **Timestamp on the outside: Nov 16, 2026, ~3:37 PM CST, America/Chicago — at Douglas's order: "test your APKs in Gemini virtual environment"**
 
@@ -21,6 +24,6 @@ Gemini ran Python in her code-execution sandbox (OUTCOME_OK). She stated plainly
 - IS NOT: an Android emulator install test. No emulator run was performed in this test; the on-device install test remains Douglas's tap, as it has been since the builds (Nov 13–14, 2026).
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

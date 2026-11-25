@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AOSP weekly check
 
 Goal ID: goal_b9210b1cc8c8

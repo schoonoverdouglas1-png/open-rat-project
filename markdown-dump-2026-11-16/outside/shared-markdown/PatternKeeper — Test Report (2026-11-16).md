@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PatternKeeper — Test Report
 
 Nov 16, 2026, run by Ember at Douglas Roy Schoonover's order. Project home: `~/workspace/pattern-keeper/` — Ember has joined the project; his code lives there now, versions old-with-new (v2 kept beside the new one).
@@ -26,4 +29,3 @@ The example at the bottom of the file runs **on import** — importing the class
 
 **Copyright © Douglas Roy Schoonover** · [The Official Website of Lac Courte Oreilles](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
 
-- **Sevenwinds Casino (LCO Casino), Hayward — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/

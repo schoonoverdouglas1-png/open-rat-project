@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Serotype Groups by Disease Group — A Diagnostic Grouping of the 23 Serotypes (2026-10-18)
 
 *Built at Douglas's direction (§226) for The Mycelial Transposition. Regroups the 23 panel serotypes by disease group, for diagnostic purposes. General manuscript reference, never medical advice.*

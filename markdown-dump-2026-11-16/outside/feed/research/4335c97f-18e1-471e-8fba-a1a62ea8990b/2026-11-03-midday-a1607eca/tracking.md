@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Gmail is the reader's active, connected source today and tracking's recent prints show it is live, while schedule closed quiet twice.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Android-x86 Install Run — 2026-11-13 (night run, Kirk mode)
 
 VM: ~/workspace/machines/virtual-phone/ ; disk phone-disk.qcow2 (100 TiB virtual, sparse — stays 100 TiB per Douglas's order)

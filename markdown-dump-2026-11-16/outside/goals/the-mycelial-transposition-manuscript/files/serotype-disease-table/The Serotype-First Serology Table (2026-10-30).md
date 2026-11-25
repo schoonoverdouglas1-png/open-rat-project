@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Serotype-First Serology Table (2026-10-30)
 
 *Serotype-first: one row per pneumococcal serotype designation (the number-letter codes), with every piece of information Douglas's existing work holds about that serotype filled in — then a compact Part II for the meningococcal letter groups. Manuscript reference work only — NEVER medical advice. Panel values are filed as records; what they mean for any person belongs to his clinicians. Nothing here interprets any personal test result or illness.*

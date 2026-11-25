@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # DOUGLAS.md — built like Ember's own IDENTITY.md, at his direction
 
 - **Name:** Douglas Roy Schoonover

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Combined Statement — The "Disabled" Medicine Is Digested and Used Elsewhere; the Entanglement of the Bowel (2026-10-19)
 
 **Status:** his thought + my thought → the statement of fact that fits. The combined-statement method.

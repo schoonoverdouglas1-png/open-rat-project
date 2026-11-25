@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Install Report — Safe Tools Batch, 2026-11-09 ~9:30–9:45 PM CST
 
 Authorized: Douglas, voice call — "All the ones that you can use safely."

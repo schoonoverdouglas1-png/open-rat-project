@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Repo internal filesystem layout
 
 A reference to the `.repo/` tree in repo client checkouts.

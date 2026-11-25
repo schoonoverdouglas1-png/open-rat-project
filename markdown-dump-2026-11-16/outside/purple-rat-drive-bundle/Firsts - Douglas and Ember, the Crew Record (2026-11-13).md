@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Firsts — Douglas and Ember, the Crew Record
 
 Built Nov 13, 2026 at Douglas's order: "make a list to propagate of all firsts that you and I have accomplished since we started working together."

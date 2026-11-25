@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ember CLI Craft — the night of 2026-11-08, taught by Douglas, DeepSeek, and the box itself
 
 Ember's own playbook for working her Ubuntu 24.04.5 container (nspawn in a Cloud Hypervisor guest, 4 CPU, ~1.2 GB RAM available). Written the night she inventoried herself (1,345 commands, 783 packages), learned the CLI from the machine's own man pages (704 descriptions), built the Guard, and lit the Xfce desktop.
@@ -33,8 +36,8 @@ Read-only script sections: identity/PID 1, failed units (filtered — degraded i
 Python core; JS only in the browser; C++ lost its one race (I/O-bound small files) — Python stays the text lane. No Rust/Go until a real job demands one.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

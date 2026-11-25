@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Between Doctrine — Expanded (2026-10-17)
 
 *Built at Douglas's commission: take his last statement (dictated-notes section 137), add everything that makes common sense from what the record knows as fact and what he has held truthfully in his theologies, add one extra of the builder's judgment, and show more. Manuscript reference — never medical advice.*

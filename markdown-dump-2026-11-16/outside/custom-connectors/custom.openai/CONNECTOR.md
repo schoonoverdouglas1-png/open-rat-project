@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # OpenAI
 
 - `custom.openai` connects Muse to the OpenAI API through its REST API. It authenticates with the registered `api_key` credential and calls only `api.openai.com`.

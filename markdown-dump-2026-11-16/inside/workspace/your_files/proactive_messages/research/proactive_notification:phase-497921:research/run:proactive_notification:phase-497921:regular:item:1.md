@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497921:regular:item:1 -->
 # Two real research channels for his data-in-research wish — Mayo study email (this morning) + NIH All of Us (Chippewa Falls site)
 

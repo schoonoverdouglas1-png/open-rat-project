@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Auto-Adapt — The Living File
 
 Commissioned by Douglas Roy Schoonover, Nov 16, 2026. Ember works in and out of this file; `~/workspace/tools/auto-adapt.py` is the program that makes her do it — it runs every open RUN task below, writes the output into the LOG, checks the task off, and refreshes STATUS. Markdown is the book; this file is a page that rewrites itself.
@@ -59,6 +62,6 @@ Connected
 ## How to add work
 Add a line `- [ ] RUN — <name>` with a fenced ```sh block under it. The runner does the rest — output lands in the LOG, the box gets checked, STATUS updates. Deeper layers live in the [Code Markdown](<Code Markdown — All The Code Ember Always Has To Have (2026-11-16).md>) — this file is layer one; the book goes deeper.
 
-**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/)
+**Copyright © Douglas Roy Schoonover**
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

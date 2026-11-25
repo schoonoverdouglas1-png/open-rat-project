@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497633:high:item:1 -->
 # Oct 15 lab window is open — ready-to-send message to Carly's team + updated prep sheet
 

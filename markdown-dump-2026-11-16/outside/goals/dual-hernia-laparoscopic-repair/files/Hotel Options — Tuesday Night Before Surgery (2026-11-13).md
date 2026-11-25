@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Hotel Options — Tuesday Night Before Surgery
 
 **Update (Nov 13, 12:42 PM, Douglas's word): ONE night only — Tuesday Nov 17 (Option B).** After the surgery he goes to his mother's house to stay, so no second night is needed. His criterion: one of the cheapest within 10 miles of the surgical site. On those terms the pick from this sheet is the **Econo Lodge Inn & Suites Eau Claire South, one night $83.99 total** (later-cancel rate $88.53) — see its cautions in the table notes. The two-night figures below stay on file, old-with-new.

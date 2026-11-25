@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Docling Install — Undo Path (recorded BEFORE install)
 Date/time: 2026-11-09 ~9:29 PM CST
 Authorized: Douglas, voice call Nov 9, 2026 ~9:28 PM CST — "Go ahead and sign me up for Docling" [Docling]. Docling is free open-source, no account/sign-up; this is a local install only.

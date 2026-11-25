@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Clinical Research Case Study: Protocol 23-004120 (Douglas Schoonover)
 
 - Date: 2026-10-29T00:41:50.000-05:00

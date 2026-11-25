@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Clinical Taxonomy Mapping
 
 Built Nov 12, 2026 at Douglas's order, from the skill Gemini described as "Clinical Taxonomy Mapping". This skill structures the reference taxonomy work behind Douglas's research books. It maps names to names and codes to sources for research. It does not diagnose, treat or bill for any person.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # His Virus Theory — Synthesis and the Serotype Connection (2026-10-16)
 
 *Synthesized at Douglas's direction from his dictation in this thread. His theory throughout — filed as his, with verified anchors marked. Manuscript material, never medical advice.*

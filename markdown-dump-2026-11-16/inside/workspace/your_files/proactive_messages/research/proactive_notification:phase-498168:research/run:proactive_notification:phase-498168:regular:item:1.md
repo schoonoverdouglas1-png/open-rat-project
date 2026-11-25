@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498168:regular:item:1 -->
 # Saturday is the Luther pickup window — Friday's has closed
 

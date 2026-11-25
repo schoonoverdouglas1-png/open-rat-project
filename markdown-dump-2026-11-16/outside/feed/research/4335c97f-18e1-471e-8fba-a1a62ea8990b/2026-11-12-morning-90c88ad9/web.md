@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: The prompt leaves the subject to the reader's interests, and web has printed consistently on them while schedule's last two picks closed quiet and tracking rates lowest, so web has the best odds of a usable story this hour.
 

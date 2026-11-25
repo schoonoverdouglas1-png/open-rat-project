@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Acknowledgments
 
 libsignal makes use of the following open source projects.

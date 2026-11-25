@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Android Build AI SDK
 
 A pure Python SDK providing a stateless, Model Context Protocol (MCP) compliant interface for AI Agents to interact with the Android Build System and the CLI tools (Soong, Ninja, aconfig, etc.).

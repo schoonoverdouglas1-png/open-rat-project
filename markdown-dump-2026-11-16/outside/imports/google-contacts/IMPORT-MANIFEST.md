@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Contacts Import Manifest
 
 - **Source name:** Google Contacts (connected Google account, via `connections list` on `people/me`)

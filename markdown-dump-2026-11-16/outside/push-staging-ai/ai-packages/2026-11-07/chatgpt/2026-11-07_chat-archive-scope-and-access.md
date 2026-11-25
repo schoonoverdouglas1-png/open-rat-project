@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chat Archive Scope and Access Record
 
 **Archive date:** 2026-11-07

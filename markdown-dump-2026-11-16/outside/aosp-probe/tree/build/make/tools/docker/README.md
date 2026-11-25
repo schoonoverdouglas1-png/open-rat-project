@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 The Dockerfile in this directory sets up an Ubuntu Trusty image ready to build
 a variety of Android branches (>= Lollipop). It's particulary useful to build
 older branches that required 14.04 if you've upgraded to something newer.

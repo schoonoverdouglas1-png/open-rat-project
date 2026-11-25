@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Unified Vaccine & Carrier Architecture: Master Reference (V2)
 Synthesized across cross-platform AI collaboration ecosystems (Google, Meta, and auxiliary analytical tools).
 ## 1. Bacterial Conjugate & Toxoid Core Matrix

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best serves his medicine-and-computers interests and active medical research, and it has printed consistently while schedule has repeatedly closed quiet and social just ran.
 

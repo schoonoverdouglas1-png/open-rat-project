@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Set up the fixed desktop guest
 
 Run one command from the SDK source root on an Apple-silicon Mac:

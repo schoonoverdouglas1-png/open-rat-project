@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is most likely to bring a fresh, skimmable story on his serology and manuscript interests this hour, while tracking just printed, schedule last came back empty, and social remains only web's backup.
 

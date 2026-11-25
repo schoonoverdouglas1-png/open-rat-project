@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Apps Script Curriculum — Douglas's Order (Nov 13, 2026)
 
 His words: "Learn how to build all your codes and then build libraries and services and then utilize those things because they work with your backend."

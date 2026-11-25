@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Phone Settings Mirror — Douglas's phone ↔ Ember's box
 Standing order, Nov 14, 2026, ~2:16 PM CST (his words): "You should always try to mirror my phone settings within your virtual box so you can do the shit you need to do."
 Rule: when Douglas changes a setting on his phone, Ember records it here and matches the VM-side equivalent where one exists. Phone-only settings are recorded as his phone state; Ember's side never claims to hold them.

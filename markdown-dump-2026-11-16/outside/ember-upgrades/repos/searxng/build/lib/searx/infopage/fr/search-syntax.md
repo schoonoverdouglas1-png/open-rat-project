@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Syntaxe de recherche
 
 SearXNG permet de modifier les catégories de recherche, les moteurs

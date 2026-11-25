@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Bluetooth Low Energy (BLE) samples
 
 This module contains samples related to Bluetooth BLE APIs

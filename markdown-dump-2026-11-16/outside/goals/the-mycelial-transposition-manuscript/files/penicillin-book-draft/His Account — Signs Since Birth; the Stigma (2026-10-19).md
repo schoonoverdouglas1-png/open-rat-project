@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # His Account — Signs Since Birth; the Stigma Made It Difficult (2026-10-19)
 
 **Status:** his personal account, filed without interpretation. The general observation beside it.

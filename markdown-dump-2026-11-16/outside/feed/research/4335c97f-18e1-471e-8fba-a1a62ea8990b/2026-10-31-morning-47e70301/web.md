@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is most likely to hold a fresh science and health story matching Douglas's interests this hour, while tracking and schedule last came back quiet.
 

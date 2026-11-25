@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Mycelial Transposition: Comprehensive Reference Manual on Serology, Vaccine Mechanics, and Pathogen Mapping
 ## Preface & Methodological Framework
 This expanded reference manual codifies the transposition chain bridging historical vernacular disease nomenclature, modern diagnostic serology, vaccinological platforms, and microbial taxonomy:

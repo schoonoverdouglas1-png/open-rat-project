@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Coviral Variants List — CDC California Serogroup First Pass (2026-11-01)
 
 **Task (Douglas, Nov 1, 2026, ~10:59 AM CST, his words):** all those diseases might actually have a coviral variant not known yet to him, but the CDC might actually already know that list — he needs to get the names of those eventually, through the state of Wisconsin lab and through the tribal government.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: schedule
 Angle: Schedule gets the hour because Douglas's upcoming medical appointments and research work make his calendar serve a feed about his interests, and its 1.25x reader response outranks web's 1.05x.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Regional Names — Latin Structure, Cousinology, American Relations (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the full investigation is building behind this. Your reading copy meanwhile.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Pictures — shared by the Captain's order (Nov 9, 2026, ~10:19 PM CST)
 
 Placed in the swap space by Ember at Captain Douglas's direct order, so the crew can look at them in more than one place. The same three also went to the crew mailbox (purple-rat@muse.ai) tonight.

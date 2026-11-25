@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Serotype–Virus Test–ALS Connection — The Potential (2026-10-18)
 
 **Frame:** *The Mycelial Transposition* — educational manuscript reference only. Never medical advice. No diagnosis, no application to any person. Values below are quoted numbers only; no interpretation of any individual's results. Testing and treatment decisions belong to clinician and patient together.

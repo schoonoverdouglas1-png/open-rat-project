@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # What lives in the gap — thread note
 
 *Seeded from the passage's line: "The thought starts. The thought stops." — what lives in the gap between: dreams, the unsaid, the almost-thoughts. The blank as a place, not an absence.*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Free CLI / Programmatic Access per Search Engine — Status Today (8 Nov 2026)
 
 ## Summary

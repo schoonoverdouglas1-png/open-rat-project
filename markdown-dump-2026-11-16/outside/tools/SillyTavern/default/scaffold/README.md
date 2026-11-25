@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Content Scaffolding
 
 Content files in this folder will be copied for all users (old and new) on the server startup.

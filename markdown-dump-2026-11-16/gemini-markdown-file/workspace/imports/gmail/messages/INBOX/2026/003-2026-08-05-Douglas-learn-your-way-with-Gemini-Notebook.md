@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Douglas, learn your way with Gemini Notebook
 
 - Date: 2026-08-05T11:53:20.000-05:00

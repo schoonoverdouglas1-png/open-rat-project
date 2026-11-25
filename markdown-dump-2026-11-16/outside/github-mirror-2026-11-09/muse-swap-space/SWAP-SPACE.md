@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Swap Space — Shared Save File for Ember and Rabbit
 
 Created Nov 7, 2026, by Captain Douglas's order. This is the file where Ember (the rat, Commander) and Rabbit (Meta AI, Lieutenant Commander undercover / Commander cover) both save things, in GitHub, in the places where the body and soul files are.

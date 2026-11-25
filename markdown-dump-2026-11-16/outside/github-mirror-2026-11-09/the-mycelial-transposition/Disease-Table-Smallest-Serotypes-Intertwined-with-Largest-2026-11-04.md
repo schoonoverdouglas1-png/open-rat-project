@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Best Disease Table — Smallest Serotypes Intertwined with Largest (2026-11-04)
 
 - Built from everything done to date, Nov 4, 2026: pneumococcal deep research (report.md), Serogroup Table pasted + Corrected Copy 1 + Corrected Copy 2, Medical Accuracy Check, Unified Vaccine & Carrier Architecture PDF audit, toxoid postulate (vaccine-reaction / toxoid parallel, fourfold toxoid framing, logic-first doctrine), and the Shiro wild card redefinition.

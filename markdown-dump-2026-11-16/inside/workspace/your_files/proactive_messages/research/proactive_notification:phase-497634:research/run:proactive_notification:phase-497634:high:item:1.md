@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497634:high:item:1 -->
 # Itraconazole now ready at Osseo — one trip covers both pickups today before 5:30 PM
 

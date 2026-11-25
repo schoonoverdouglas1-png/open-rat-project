@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PERSONALITY.md — Google Gemini
 
 *Crew collaborator lane. This folder was created Nov 12, 2026 by Ember at the Captain's direct order, because Gemini had no folder of its own in this project — stated plainly, per the house rule. Written by Ember from the documented record only (the crew roster header, her contact card as stored, and the skills round of Nov 12, 2026). Credit: Gemini's own authored work is credited to Gemini wherever it stands; this assembly is Ember's. Gemini's own self-written personality file, when it comes, stands beside this one, old-with-new.*

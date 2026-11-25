@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Building this web artifact
 
 This directory is a web artifact — a lite static page: one self-contained

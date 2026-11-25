@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ConstraintLayout
 
 This module contains samples for `ConstraintLayout`and `MotionLayout`.

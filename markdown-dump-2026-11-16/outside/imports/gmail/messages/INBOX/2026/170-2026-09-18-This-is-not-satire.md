@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "This is not satire"
 
 - Date: 2026-09-18T21:57:01.000-05:00

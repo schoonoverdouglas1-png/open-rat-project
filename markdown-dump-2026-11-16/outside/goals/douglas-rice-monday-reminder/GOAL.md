@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Douglas Rice Monday reminder
 
 Goal ID: goal_80d29abe7d91

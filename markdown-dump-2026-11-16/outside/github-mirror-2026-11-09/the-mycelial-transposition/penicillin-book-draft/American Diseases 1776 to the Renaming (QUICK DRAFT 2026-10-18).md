@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # American Diseases 1776 → The Renaming (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the completed paper is building behind this. Your reading copy meanwhile.

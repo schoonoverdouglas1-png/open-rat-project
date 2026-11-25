@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Rat Debug Report — patternkeeper_v5_sqlite.py
 
 Target: /home/hatch/workspace/pattern-keeper/patternkeeper_v5_sqlite.py

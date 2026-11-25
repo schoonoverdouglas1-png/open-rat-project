@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: The paper has printed nine text-only getting-started cards and the reader's prompt names no subject, so web — the primary lane that reliably brings real photographs — is the best bet for something fresh on this reader's evident fungal and book-writing interests.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498260:regular:item:1 -->
 # New security batch today (1:31–1:56 PM): were tinyfish.ai and GSC Wizard yours, and a trusted-contact invite with a Nov 10 deadline
 

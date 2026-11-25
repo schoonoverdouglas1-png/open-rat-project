@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo appointment Nov 9
 
 Goal ID: goal_f01723e97d82

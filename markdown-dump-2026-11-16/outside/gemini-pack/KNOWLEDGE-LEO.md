@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # LEO — First. Douglas — Last.
 ## A written representation that a human being can understand
 Built Nov 12, 2026, at Douglas Roy Schoonover's direction, in Ember's sandbox.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # SHOGUN HORSE — decoy and tripwire marker
 
 This file is a decoy. It contains nothing of value: no keys, no passwords, no private data.

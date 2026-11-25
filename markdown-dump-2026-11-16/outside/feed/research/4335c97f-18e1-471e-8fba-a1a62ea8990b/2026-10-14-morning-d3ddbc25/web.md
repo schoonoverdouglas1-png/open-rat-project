@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web most directly serves "my interests" with fresh fungal-science reporting for his manuscript, while tracking and schedule offer only quiet logistics and social is just web's backup.
 

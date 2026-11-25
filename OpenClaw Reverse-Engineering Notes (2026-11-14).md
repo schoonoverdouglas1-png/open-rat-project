@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # OpenClaw Reverse-Engineering Notes (2026-11-14)
 
 Read-only study of the clone at `~/workspace/github-clones/openclaw`, one level deeper than the
@@ -440,4 +443,4 @@ rules).
 *Filed Nov 14, 2026. Study was read-only; the only file created is this one. All file paths
 above are inside `~/workspace/github-clones/openclaw/` unless stated otherwise.*
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

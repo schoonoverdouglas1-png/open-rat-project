@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Historical & Modern Therapeutics of Disease Nomenclature
 
 Goal ID: goal_c63aaba257e9

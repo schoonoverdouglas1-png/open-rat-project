@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # OpenClaw — Fixes in a Parable Way (2026-11-16)
 
 At Douglas's order, Nov 16, 2026: "Try to fix OpenClaw in a parable way — issue 128090 and OpenClaw issue 200227." Checked live on GitHub the same hour. Kept lean on purpose: each markdown holds the minimum memory to do the maximum (his rule, Nov 16, 2026).
@@ -22,6 +25,6 @@ Upstream: a feature request to add a rendered Markdown preview (Source / Preview
 The two issues are the same lesson from two sides, which is also Douglas's minimum-memory rule: hold the least you must, exactly where it works the hardest — watch doors, not pages; show the reading, not just the ink; keep each markdown small and let the index carry the weight.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

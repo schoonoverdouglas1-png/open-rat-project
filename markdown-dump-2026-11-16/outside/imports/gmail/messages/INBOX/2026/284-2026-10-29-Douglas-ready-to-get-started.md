@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Douglas, ready to get started?
 
 - Date: 2026-10-29T03:49:12.000-05:00

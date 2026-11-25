@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Applied Mathematics PhD"
 
 - Date: 2026-10-16T20:22:34.000-05:00

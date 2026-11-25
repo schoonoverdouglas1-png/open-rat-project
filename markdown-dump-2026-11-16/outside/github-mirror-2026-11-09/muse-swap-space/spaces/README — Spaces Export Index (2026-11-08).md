@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Spaces Export Index (2026-11-08)
 
 All 14 Muse Spaces (web artifacts) exported on Nov 8, 2026 via the artifact export route and archived here. Each folder holds the space's self-contained HTML (byte-identical to the live page at export time; sizes verified) plus its `space.json` (name, slug, runtime = static). All 14 are static pages — no server database — so the HTML *is* the complete content.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: With no lane holding a clearly stronger story this hour and media favouring nobody, Gmail is a connected source serving the reader's interests and its recent picks printed, unlike schedule's last quiet turn.
 

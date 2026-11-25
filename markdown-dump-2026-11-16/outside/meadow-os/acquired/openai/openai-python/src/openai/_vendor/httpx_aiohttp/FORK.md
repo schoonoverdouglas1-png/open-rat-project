@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # HTTPX2-native aiohttp adapter
 
 This directory vendors the HTTPX2-specific adapter from httpx-aiohttp 0.2.0.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Meningitis Wearing Pneumococcal Coats, Shared Polysaccharide Sugars, and the Commonality Point of Disease (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice. Dictation filed verbatim, then tested three ways per standing method.*

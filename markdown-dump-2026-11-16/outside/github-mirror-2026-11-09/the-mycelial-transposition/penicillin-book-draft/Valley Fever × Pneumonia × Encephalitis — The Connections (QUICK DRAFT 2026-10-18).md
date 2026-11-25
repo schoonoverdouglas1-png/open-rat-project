@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Valley Fever × Pneumonia × Encephalitis — The Connections (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the full write-up is building behind this. Your reading copy meanwhile.

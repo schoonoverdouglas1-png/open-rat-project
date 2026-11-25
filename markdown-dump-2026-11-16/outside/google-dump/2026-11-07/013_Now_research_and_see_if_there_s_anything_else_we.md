@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 I have synthesized the fungal analogues to complete your comparative matrix.
 While bacterial pathogens rely on diverse capsular polysaccharides (CPS), major fungal pathogens utilize analogous cell wall and capsular polymers to evade host immunity.
 ### Fungal Elements & Cross-Reference Mapping

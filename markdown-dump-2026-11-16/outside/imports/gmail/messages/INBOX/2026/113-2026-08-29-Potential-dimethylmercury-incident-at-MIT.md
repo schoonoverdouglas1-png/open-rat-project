@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Potential dimethylmercury incident at MIT"
 
 - Date: 2026-08-29T20:19:35.000-05:00

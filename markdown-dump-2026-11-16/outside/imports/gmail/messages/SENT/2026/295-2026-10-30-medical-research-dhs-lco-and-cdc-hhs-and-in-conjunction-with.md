@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # medical research dhs lco and cdc hhs and in conjunction with mayo, marshfield and Oakleaf clinics
 
 - Date: 2026-10-30T19:11:33.000-05:00

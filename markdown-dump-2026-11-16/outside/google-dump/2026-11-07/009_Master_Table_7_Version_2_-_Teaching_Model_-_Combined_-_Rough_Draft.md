@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Master Table 7 Version 2 - Teaching Model - Combined
 Rough draft - efficient thorough - old with new always. Created Nov 5 2026. For entry-level medical students: how serotypes, acids, channels, pathways, carriers relate. One species = sum of its serotypes.
 ## Core Principle - You Asked For This One Line

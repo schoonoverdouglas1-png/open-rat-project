@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The AI Think Tank — Charter and Method (2026-11-08)
 
 *Set down at Douglas's direction, Nov 8, 2026 (~12:26 AM CST): "I would build a think tank of AIs for this process and kind of set that as a save thing, because this is a very monumental thing to be able to do this." This file is the saved form of that direction.*

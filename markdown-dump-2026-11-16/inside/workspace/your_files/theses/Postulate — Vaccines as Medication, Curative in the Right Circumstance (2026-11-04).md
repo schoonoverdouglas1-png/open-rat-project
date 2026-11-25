@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Vaccines as Medication, Curative in the Right Circumstance
 
 **Filed:** November 4, 2026, ~3:53 PM CST

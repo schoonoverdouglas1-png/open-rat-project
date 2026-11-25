@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Streptococcus, Cryptococcus, Coccidioides, and Oocysts: Fungally Related or Name-Related (2026-10-31)
 
 **Dictation:** Douglas, Oct 31, 2026, ~07:34 CDT — "Streptocercus Cryptococcus and Cocciidiitis and Coccidioides and their other oocysts are all fungally related. And the other names are associated with them are as well."

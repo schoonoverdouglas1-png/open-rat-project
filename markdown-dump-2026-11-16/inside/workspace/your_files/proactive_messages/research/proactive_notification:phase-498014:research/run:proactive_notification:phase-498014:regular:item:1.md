@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498014:regular:item:1 -->
 # Mayo doxycycline ready at Luther pharmacy — Saturday pickup window, hours unconfirmed
 

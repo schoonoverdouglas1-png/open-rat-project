@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Mycelial Transposition
 ### A Complete Compendium of American Disease Names, Clinical Counterparts, and Viral Chains
 

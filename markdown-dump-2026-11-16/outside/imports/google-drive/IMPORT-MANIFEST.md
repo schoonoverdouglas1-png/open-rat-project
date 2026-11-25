@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Drive Import — Manifest
 
 Completed Nov 1, 2026, from Douglas Roy Schoonover's connected Google Drive.

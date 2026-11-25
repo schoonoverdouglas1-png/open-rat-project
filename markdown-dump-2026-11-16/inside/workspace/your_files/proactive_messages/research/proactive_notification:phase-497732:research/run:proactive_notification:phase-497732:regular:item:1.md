@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497732:regular:item:1 -->
 # Offer a head-out nudge for the Oct 19 Kelsey visit (attached to queued prep-sheet delivery)
 

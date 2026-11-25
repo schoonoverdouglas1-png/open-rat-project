@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — American Name as One Word Combining Two Latin or Greek Words, Translation or Not (2026-11-02)
 
 *Manuscript reference work only — NEVER medical advice. A naming theory, tested against his own tables.*

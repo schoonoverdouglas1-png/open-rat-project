@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497541:high:item:1 -->
 # Heads-up: OakLeaf appointment tomorrow 3:20 PM (new MyChart email)
 

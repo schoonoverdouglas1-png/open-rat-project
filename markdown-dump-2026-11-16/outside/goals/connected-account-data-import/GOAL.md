@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Connected-account data import
 
 Goal ID: goal_ade1b9badde6

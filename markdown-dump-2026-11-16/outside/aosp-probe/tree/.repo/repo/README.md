@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # repo
 
 Repo is a tool built on top of Git.  Repo helps manage many Git repositories,

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Viruses Suffering Encephalopathy, Virus Swelling, and Immune Clearance
 
 **Dictated by Douglas, Nov 1, 2026 (~3:11 PM CST), filed verbatim first:**

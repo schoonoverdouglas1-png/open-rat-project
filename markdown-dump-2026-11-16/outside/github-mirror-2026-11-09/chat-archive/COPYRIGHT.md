@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Copyright (c) 2026 Douglas Roy Schoonover
 All rights reserved.
 

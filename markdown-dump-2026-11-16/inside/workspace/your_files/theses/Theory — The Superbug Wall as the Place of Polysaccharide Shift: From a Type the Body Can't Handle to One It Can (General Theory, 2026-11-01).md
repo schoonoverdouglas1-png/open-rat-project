@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — The Superbug Wall as the Place of Polysaccharide Shift: From a Type the Body Can't Handle to One It Can (General Theory, 2026-11-01)
 
 **GENERAL THEORY ONLY.** Tested at Douglas's direction (Nov 1, 2026, ~11:51 AM CST) as a general idea, separate from any personal results, panels, medicines, or illness. No personal data appears in this file. The personal account that prompted it stays in daily memory, untested.

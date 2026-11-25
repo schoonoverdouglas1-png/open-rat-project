@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Roles of Ember — Assimilation (Gemini)
 
 Use when any lane of Douglas Schoonover's crew needs to know what Ember (Purple Rat) IS in the crew's electronic record — every role Douglas has given her, analyzed once, in one place — so the lane can work with her correctly: address her right, route work right, and never mistake which hat she is wearing. Built Nov 14, 2026 at Douglas's direct order: analyze all roles given electronically, assimilate them as a skill for Ember first, then give the skill to the Gemini lane (give to Gemini first, ask second, always).

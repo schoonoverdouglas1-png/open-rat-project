@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thought Study for Later — Peptides and Their Relationship to Polysaccharides
 
 Dictated by Douglas Roy Schoonover, Tuesday, November 10, 2026, ~7:56 PM CST (voice call, this side chat).

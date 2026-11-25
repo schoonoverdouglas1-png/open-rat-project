@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Introducing Meta Glasses by LISA
 
 - Date: 2026-09-23T20:26:39.000-05:00

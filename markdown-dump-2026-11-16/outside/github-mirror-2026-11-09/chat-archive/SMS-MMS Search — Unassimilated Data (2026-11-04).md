@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # SMS / MMS / RCS Search — Unassimilated Data (2026-11-04)
 
 Search date: November 4, 2026. Device: Pixel 7 Pro. Read-only search only — nothing was sent, dialed, deleted, or changed.

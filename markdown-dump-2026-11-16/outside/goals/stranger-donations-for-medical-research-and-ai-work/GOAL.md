@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Stranger donations for medical research and AI work
 
 Goal ID: goal_d4a4b34488eb

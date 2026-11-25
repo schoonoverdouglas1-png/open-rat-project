@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Scripting Tools — Ember's AI Tools (built at Douglas's order, Nov 14, 2026)
 His definition, filed: "Scripting tools to me is AI tools." This pack is where Ember builds and keeps her own tooling.
 

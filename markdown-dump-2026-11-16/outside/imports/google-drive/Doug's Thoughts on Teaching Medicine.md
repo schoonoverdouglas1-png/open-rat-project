@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Doug's Thoughts on Teaching Medicine -->
 <!-- Drive modified: 2026-10-24T16:14:17.062Z -->
 

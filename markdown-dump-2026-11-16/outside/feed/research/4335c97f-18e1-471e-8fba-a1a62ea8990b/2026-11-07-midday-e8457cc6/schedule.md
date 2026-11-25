@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: schedule
 Angle: Schedule's calendar serves his interests and upcoming appointments, and it carries the highest response weight at 1.25x over web's 1.05x.
 

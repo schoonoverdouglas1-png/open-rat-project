@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — American Latinology: The Letters, the Differences, the King James Key
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition*

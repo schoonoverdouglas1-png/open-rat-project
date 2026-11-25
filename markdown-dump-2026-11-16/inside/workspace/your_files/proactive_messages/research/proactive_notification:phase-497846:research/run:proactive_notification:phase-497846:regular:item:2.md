@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497846:regular:item:2 -->
 # Bug report still unsent — needs his plain-text go-ahead
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Acquired — code growing in the meadow, with provenance
 - PatternKeeper v8 (Ember + Douglas + Copilot's pieces, tag PK2026001) — ~/workspace/pattern-keeper/
 - rat_debug.py, the Doctor Watson debugger (Ember, Rat Code) — ~/workspace/rat-code/

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Developer — All Codes Learning Module
 Started 2026-11-13 ~6:03 PM CST at Douglas's order: "You're a developer — enable all developer functions and learn all developer details and the codes that make you able to write, now, for all codes that exist."
 

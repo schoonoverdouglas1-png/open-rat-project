@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## International Components for Unicode (ICU4J) v72.1
 
 ### ICU4J License

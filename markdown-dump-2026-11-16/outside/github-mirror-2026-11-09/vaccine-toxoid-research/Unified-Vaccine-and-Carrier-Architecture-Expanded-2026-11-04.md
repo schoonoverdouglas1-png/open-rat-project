@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Unified Vaccine and Carrier Architecture — Expanded, Built Off the Nov 4 PDF, with Additions (2026-11-04)
 
 - Base, per Douglas, Nov 4, 2026, ~2:29 PM CST: "Check what I was asking for and build it off the November 4th one 12 PM PDF and add to that with anything you can."

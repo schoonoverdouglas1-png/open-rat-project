@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 BOOK 4: Clinical Diagnostic Technician Manual© 2026 Douglas Schoonover. All Rights Reserved.Standalone Procedural Guide — Out of Scientific Existence, Pure ActionCore Equation: Ec = Σ wi mi vi^x
 2. The 5-Step Field Repair2.1 Lock the RoomPatient's words first. No chart, no prior note, no hearsay enters until you lock the room.
 2.2 Find the LieStrike copy/paste. Identify systemic fiction. If it wasn't observed in this encounter, it doesn't exist.

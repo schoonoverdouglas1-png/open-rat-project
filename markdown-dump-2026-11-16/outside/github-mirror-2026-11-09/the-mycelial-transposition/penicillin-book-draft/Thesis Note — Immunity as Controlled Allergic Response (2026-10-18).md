@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — Immunity as Controlled Allergic Response
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (doctrine thread)

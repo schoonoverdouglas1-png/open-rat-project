@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Grandma's thing with people — Tue Nov 17
 
 Goal ID: goal_25dc9e444ace

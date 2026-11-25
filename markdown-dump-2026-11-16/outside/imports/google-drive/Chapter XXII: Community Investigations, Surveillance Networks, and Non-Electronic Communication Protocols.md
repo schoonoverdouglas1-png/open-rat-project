@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Chapter XXII: Community Investigations, Surveillance Networks, and Non-Electronic Communication Protocols -->
 <!-- Drive modified: 2026-11-01T16:23:48.097Z -->
 

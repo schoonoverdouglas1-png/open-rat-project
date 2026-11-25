@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking serves the reader's own interests and recent tracking picks printed, so it is the lane most likely to hold useful, actionable material this hour.
 

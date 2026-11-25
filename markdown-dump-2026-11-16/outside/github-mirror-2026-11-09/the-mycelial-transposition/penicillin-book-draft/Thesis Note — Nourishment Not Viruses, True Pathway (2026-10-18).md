@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — Nourishment, Not Viruses: The True Pathway to Disease and Cure
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (doctrine thread)

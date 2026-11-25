@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Your confirmation code for Meta account email change
 
 - Date: 2026-08-08T15:25:03.000-05:00

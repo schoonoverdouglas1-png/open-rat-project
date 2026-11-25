@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497870:regular:item:1 -->
 # Sunday is the day to check the ultrasound prep link
 

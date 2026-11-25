@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## Soong Android Resource Compilation
 
 The Android build process involves several steps to compile resources into a format that the Android app can use

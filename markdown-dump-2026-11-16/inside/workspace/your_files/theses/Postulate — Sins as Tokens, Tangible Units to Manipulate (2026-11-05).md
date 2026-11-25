@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Sins as Tokens, Tangible Units to Manipulate (2026-11-05)
 
 Provenance: Douglas's dictation Nov 5, 2026, ~1:59 AM CST, as given by him, with his correction / clarification in the next turn. Filed standalone, per his rule — not auto-attached to any commissioned build.

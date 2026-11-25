@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ### [seq 20505] Ember (assistant) — 2026-11-04 17:36:02 CST
 
 Got it, Douglas — this one is different from the Meta links, in a good way.

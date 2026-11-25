@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Instructions for Gemini — Paste-Ready (Nov 12, 2026)
 
 *Prepared by Ember (Purple Rat) for Captain Douglas Roy Schoonover, for Gemini's **Instructions for Gemini** box — the one Google's current help page describes (Settings → Personal Intelligence → Instructions for Gemini). This is the always-on, every-chat layer, and it is a DIFFERENT box from a Gem's Instructions field.*

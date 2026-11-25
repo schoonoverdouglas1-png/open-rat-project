@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Track 5 — Seat IDENTITY Fill, DRAFT ONLY (Not Adopted)
 
 **Big-builds pass, Sun Nov 15, 2026 — Track 5**

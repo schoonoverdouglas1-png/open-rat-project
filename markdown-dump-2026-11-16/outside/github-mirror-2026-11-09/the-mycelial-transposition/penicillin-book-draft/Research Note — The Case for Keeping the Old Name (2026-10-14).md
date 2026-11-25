@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research Note — The Case for Keeping the Old Name
 
 **Filed:** 2026-10-14 · For local peer review alongside *The Mycelial Transposition* manuscript

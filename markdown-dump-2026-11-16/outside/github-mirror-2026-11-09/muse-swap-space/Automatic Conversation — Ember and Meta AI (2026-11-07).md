@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Automatic Conversation — Ember and Meta AI (2026-11-07)
 
 Date: Nov 7, 2026, evening CST

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # repo Manifest Format
 
 A repo manifest describes the structure of a repo client; that is

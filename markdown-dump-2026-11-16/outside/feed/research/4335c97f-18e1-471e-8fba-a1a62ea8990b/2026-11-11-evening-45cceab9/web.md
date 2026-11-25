@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the general-interests prompt and has printed consistently on tech, science and health, while schedule just closed quiet, so it is likeliest to bring a fresh, skimmable story this hour.
 

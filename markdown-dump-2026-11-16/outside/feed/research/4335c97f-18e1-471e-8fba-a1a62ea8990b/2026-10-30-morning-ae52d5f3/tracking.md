@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking fits this promptless hour because Gmail covers Douglas's own interests and work, and its two most recent picks both printed, showing that source is live rather than quiet.
 

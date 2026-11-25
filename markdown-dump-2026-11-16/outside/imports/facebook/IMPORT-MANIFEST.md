@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Facebook Import — Manifest
 
 - **Source:** Facebook (via `/opt/hatch/bin/facebook-cli`), account: Douglas Schoonover

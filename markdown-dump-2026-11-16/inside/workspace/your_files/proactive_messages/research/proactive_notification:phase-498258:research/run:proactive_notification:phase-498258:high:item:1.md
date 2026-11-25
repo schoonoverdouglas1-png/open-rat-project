@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498258:high:item:1 -->
 # Luther trip timing, updated: 2 PM is still in the wettest stretch — 5 PM is drier but after dark
 

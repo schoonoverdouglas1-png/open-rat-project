@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking serves the reader's top live threads — the pending domain acquisition, hourly Muse Mail monitoring, and urgent saved-login access — and it printed on recent turns while schedule closed quiet on its last three picks.
 

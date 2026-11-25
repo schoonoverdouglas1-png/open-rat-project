@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo Tapestry 2.0 — Email Findings (2026-11-14)
 
 Background check run Nov 14, 2026 at Douglas's request ("do the tapestries thing from my email, in the back, as an experiment"). Read-only: nothing was submitted, signed, or clicked through. Consent to a medical study is Douglas's own hand; everything here stops at that line.

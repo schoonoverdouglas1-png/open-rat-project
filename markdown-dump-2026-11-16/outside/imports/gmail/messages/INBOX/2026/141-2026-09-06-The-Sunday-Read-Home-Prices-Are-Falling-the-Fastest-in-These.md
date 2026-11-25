@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Sunday Read: Home Prices Are Falling the Fastest in These Cities
 
 - Date: 2026-09-06T04:28:32.000-05:00

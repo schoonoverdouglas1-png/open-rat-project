@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best serves the open 'my interests' prompt this hour, with a steady record of printed science, tech and outdoors stories while tracking just printed and schedule has repeatedly closed quiet.
 

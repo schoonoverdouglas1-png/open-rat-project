@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Background assessment — inefficiencies, AI last
 
 Goal ID: goal_292ae3e3151e

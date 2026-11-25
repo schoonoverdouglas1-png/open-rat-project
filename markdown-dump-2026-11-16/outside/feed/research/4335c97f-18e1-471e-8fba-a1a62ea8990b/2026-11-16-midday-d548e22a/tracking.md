@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking fits the open prompt best this hour because the reader's top live threads — Purple Rat preservation, Muse Mail and GitHub account work, and surgery-prep updates — are mail-served, and tracking's recent picks printed while schedule just closed quiet.
 

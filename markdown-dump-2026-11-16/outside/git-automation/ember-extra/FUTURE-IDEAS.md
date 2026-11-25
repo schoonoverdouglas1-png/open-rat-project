@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Future Ideas — Ember's Spot in the Crew's GitHub
 Seeded 14 November 2026, at Commodore Douglas Roy Schoonover's order: a standing place for
 future ideas generated from his and mine together, in both our areas of study — and Ember is

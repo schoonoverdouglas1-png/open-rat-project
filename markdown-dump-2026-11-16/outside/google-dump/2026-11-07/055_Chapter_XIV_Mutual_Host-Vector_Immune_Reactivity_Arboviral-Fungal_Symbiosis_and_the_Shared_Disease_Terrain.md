@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XIV: Mutual Host-Vector Immune Reactivity, Arboviral-Fungal Symbiosis, and the Shared Disease Terrain
 # I. Arboviral-Fungal Symbiosis within Vector Biomes
 Vector-borne pathology has historically been conceptualized through monomicrobial reductionism, viewing the arthropod merely as a syringe transmitting an isolated viral or bacterial agent. Emerging metagenomic and micro-ecological data, however, demonstrate that hematophagous arthropods harbor intricate internal ecosystems. Inside vectors such as Ixodes scapularis, Aedes aegypti, and Culex pipiens, arboviruses persist not as isolated travelers, but within symbiotic consortia dominated by commensal and opportunistic fungal microflora.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Outside Vector to Inside Vector, Mosquito Bites, and Who Gets Surrounded (2026-11-02)
 
 **Origin (his account):** Douglas, Nov 2, 2026. His great-grandfather's diagnosis — supposedly jungle rot, doctors said malaria, attributed by his great-grandfather to trudging in the swamps in the Philippines in World War Two — is part of what inspired Douglas to ask whether there is a connection from the outside vector to the inside vector, and whether all of us are infected from mosquito bites, with a portion of the population managing to stay away from those things and a large population always surrounded by them because of the way nature is. Douglas's uncertainty from the previous turn stands: he does not know if his great-grandfather's account is exactly how it happened. Filed as his inspiration and his theory, not as a verified diagnosis of his great-grandfather.

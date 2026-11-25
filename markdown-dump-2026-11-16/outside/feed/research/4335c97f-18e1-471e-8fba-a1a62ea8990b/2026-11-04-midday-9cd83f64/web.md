@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best serves his health and science interests and has printed consistently, while schedule's last turn came back empty.
 

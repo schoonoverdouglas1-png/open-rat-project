@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mac System 7 — Asset Manifest (built 2026-11-15)
 All downloads from archive.org (Internet Archive) public preservation items only.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Dictated Notes — Nervous-System History, Namology, Co-Disease Thesis (2026-10-15/16)
 
 *Dictated by Douglas, night of Oct 15/16, 2026, in the Disease Cure Tree thread. Filed verbatim-ish from his messages. Everything below is his account — self-reported, not independently verified. Manuscript material, not medical advice.*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking fits the 'my interests' brief through what Douglas is waiting on and responsible for, and its connected Gmail is the lane most likely to hold something plainly actionable this Monday morning ahead of today's appointment and pharmacy window.
 

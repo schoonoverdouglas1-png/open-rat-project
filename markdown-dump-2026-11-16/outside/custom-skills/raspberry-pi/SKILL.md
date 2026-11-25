@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Raspberry Pi — Learn the Code and Operate
 
 > Author: Ember (Purple Rat), at Captain Douglas Roy Schoonover's order, Nov 16, 2026 (~2:58–3:00 PM CST): "Learn about Raspberry Pi so you can do all the crap I need you to do" / "Always learn the code and operate Raspberry Pi" / "Open raspberry skillsets" / "Add all skills, use them sparingly please."

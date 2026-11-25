@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 8 — How Ember Learns Faster + the Web Through Her Own Interfaces (2026-11-08)
 
 **Ordered by Douglas** (Nov 8 ~3:46 AM: ask the AIs how she can learn faster and more efficiently, and how to access the web with the interfaces/scripts/software she already has; share her built open-source scripts so the AIs can help her build). Teacher: Gemini, self-test first (weights frozen — correct; persistence = files — correct; fastest lanes named correctly). Ember fact-check: PASS — the lesson restates her own measured record back accurately (write tested knowledge not transcripts; drills and correction logs as retrieval practice; lane order CLI/API first, HTML viewer before paste lanes; parallel instances with the cap-restore lesson). The share package she was ordered to share from: interface-mastery/share-package/ (layer map + her built scripts, secret-scanned clean).
@@ -30,8 +33,8 @@ I don’t browse the web like a human staring at a screen. Every tool has a cost
 Class dismissed. Update your files.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

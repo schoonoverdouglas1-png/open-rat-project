@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497591:regular:item:1 -->
 # Manuscript data point: the ATE nanoparticle study calls amphotericin B an "antibiotic"
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Cross-Axis Diagnostic Framework: Integrating Streptococcal, Meningococcal, and Encephalitic Serology for Systemic Terrain Diagnosis
 This framework introduces a unified clinical paradigm for evaluating neurotropic and systemic immune vulnerability. Rather than assessing acute or subacute presentations in isolation, the cross-axis methodology triangulates three historically segregated immunological markers—streptococcal invasive serology, meningococcal capsule variants, and latent viral neurotropic panels. This synthesis provides a multidimensional profile of the patient’s systemic terrain.
 # Chapter I: The Triadic Serological Axis

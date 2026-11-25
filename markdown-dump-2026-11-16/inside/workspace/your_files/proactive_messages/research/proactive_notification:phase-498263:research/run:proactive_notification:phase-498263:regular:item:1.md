@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498263:regular:item:1 -->
 # New Google security alert today: did you grant TuneMyMusic access at 4:48 PM?
 

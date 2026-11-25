@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo Clinic Encephalitis / Meningitis PCR Panels — Research Report
 
 ## Summary

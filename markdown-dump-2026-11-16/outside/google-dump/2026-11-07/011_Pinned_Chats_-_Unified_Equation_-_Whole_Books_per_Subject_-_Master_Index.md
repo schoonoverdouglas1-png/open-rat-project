@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Pinned Chats - Unified Equation - Whole Books per Subject Matter
 Created Nov 5 2026 - Rough draft - Efficient thorough - Old with new always Core: M_c(t) = Ψ(t)· Σ w_i·m_i·v_i^{x_i}  FIXED: Ψ(t)= e^{i·2π·361/360}·M_memory(t) dimensionless M_memory=1 if old+new always — TEACHING HEURISTIC ONLY, replaces dimensionally wrong integral version Lock Rule: w_i=1 iff observed after Lock Protocol else w_i<1
 

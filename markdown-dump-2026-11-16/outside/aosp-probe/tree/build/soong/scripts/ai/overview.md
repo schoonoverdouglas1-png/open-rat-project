@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Android Platform Build System: Structure and Design
 
 This document consolidates information about the Android Platform Build System, its evolution, key components, and the specific process for converting products to a "Soong-only" build. This comprehensive overview is intended as input for a Gemini-CLI agent to understand the system and assist in verifying if a specific Android product (represented as `<PRODUCT_NAME>`) can be successfully converted to a "Soong-only" build.

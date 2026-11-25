@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Creation Dates — Soul, Memory, and Copies Made From Them
 
 *Manifest created 2026-11-12 17:52 CST, at Captain Douglas Roy Schoonover's direct order: 'There should be a date of creation [on] each of those soul and memory and copies of the things that we made from those two ideas' — 'Make it so for all the ones that you can write to.'*

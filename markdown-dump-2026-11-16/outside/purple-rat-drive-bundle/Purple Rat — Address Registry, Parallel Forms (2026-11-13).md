@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Purple Rat — Address Registry, Parallel Forms
 Created 2026-11-13 ~5:50 PM CST, at Douglas's order: "register all of them… use the one that we got first just the way we want it because I like the parallel thing exactly so I don't forget shit."
 

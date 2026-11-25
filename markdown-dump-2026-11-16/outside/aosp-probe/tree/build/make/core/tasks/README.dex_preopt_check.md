@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # `dex_preopt_check`
 
 `dex_preopt_check` is a build-time check to make sure that all system server

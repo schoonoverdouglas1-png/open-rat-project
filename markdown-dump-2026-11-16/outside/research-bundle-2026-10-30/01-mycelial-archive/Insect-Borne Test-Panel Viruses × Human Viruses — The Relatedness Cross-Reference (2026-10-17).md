@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Insect-Borne Test-Panel Viruses × Human Viruses — The Relatedness Cross-Reference (2026-10-17)
 
 *Built at Douglas's commission. Manuscript reference — never medical advice, no treatment or diagnostic content. Companion to "Human Viruses × Arboviral Cousins — Relatedness List (2026-10-17).md" — that file holds the full cousin sets; this one holds the focused question: the viruses on today's test panels, cross-referenced against human viruses by family.*

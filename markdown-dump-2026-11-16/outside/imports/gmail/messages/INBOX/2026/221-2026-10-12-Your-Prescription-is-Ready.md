@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Your Prescription is Ready
 
 - Date: 2026-10-12T11:14:52.000-05:00

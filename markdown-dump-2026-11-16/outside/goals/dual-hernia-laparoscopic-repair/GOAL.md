@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Dual hernia laparoscopic repair
 
 Goal ID: goal_517e02ff8fcc

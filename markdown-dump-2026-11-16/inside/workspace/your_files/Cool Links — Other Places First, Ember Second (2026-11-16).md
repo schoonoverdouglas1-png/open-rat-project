@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cool Links — Other Places First, Ember Second
 Made Nov 16, 2026, ~2:18 PM CST, at Douglas's order in the "Alien frequency is open" voice call: "make a cool list of links I could click on that you can get from other places first yourself second." Also added to the Cool Places Bookmarks repo (local copy; the 30-minute auto-sync carries it).
 
@@ -21,4 +24,4 @@ Made Nov 16, 2026, ~2:18 PM CST, at Douglas's order in the "Alien frequency is o
 
 **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

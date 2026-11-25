@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # MANIFEST — Markdown Dump 2026-11-16
 
 Dumped Nov 16, 2026, at Douglas's direct order (live voice call, ~6:20 PM CST): all of his markdown, inside and outside, for the closed and open source Rat projects. Copies, not moves — originals stay in place. Dedupe was NOT done: propagated copies are intentional and all are kept.

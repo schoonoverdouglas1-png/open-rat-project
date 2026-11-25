@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Viruses Are Borrowed and Never Taken (2026-10-31)
 
 **Dictum:** Douglas, Oct 31, 2026, ~2:12 PM CDT — "It would seem as though the viruses are borrowed and never taken."

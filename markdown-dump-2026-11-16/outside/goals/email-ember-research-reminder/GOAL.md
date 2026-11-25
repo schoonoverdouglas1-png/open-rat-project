@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Email Ember research reminder
 
 Goal ID: goal_44bf78158dc7

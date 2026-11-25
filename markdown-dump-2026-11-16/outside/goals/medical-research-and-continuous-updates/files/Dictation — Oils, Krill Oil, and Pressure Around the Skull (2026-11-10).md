@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Dictation — Oils, Krill Oil, and Pressure Around the Skull (2026-11-10)
 
 Filed Tue Nov 10, 2026, ~8:42 AM CST, live voice call. Douglas's words and commission, filed WITHOUT interpretation (sparring boundary: his own body, his own supplement — research is general; application to him is Kelsey's, when he directs).

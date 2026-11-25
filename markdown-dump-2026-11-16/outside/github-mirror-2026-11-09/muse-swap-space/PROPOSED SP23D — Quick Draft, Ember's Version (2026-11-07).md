@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PROPOSED SP23D — Quick Draft, Ember's Version (2026-11-07)
 
 **Investigator:** Douglas Roy Schoonover — Medical and Clinical Researcher since 1996; Mayo Clinic Rochester research patient since 2003 [H, corrected by Douglas in the Meta thread, Nov 7, 2026; earlier drafts said 2002]

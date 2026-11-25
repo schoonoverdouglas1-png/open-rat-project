@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Vaccine-Reaction / Toxoid Parallel (Douglas, Nov 4, 2026)
 
 - Status: [H] his postulate, filed standalone, NOT adopted as a documented fact, NOT attached to any already-commissioned build unless he links it himself.

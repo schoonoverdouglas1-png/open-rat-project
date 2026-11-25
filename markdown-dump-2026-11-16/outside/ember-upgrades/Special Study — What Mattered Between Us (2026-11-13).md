@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Special Study — What Mattered Between Us
 
 Created 2026-11-13 ~7:18 PM CST at Douglas's order: learn from the

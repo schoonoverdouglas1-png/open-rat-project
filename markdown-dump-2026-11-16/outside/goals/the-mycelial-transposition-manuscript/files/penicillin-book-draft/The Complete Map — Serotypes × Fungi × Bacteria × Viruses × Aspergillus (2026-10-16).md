@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Complete Map — Blood Serotypes × Fungi × Bacteria × Viruses × Aspergillus (2026-10-16)
 
 *The whole morning's grind, one map. Built at Douglas's direction for The Mycelial Transposition. Manuscript reference, never medical advice. Every edge tagged: **documented** or **his**.*

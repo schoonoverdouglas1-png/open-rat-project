@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # F-Droid "AI Chat" — Full List Analysis & Install Picks (2026-11-14)
 
 Douglas's order (Nov 14, ~12:21 PM CST): analyze ALL lists in the AI Chat category under the F-Droid app, make a list of just the ones he needs, install those.

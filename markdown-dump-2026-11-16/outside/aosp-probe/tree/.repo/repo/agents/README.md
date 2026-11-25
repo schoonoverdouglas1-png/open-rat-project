@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # git-repo AI Review Agents (WIP)
 
 **Note:** This project is a work in progress and is subject to change.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Tissue Inclusions, Body as Battery, Oils in Plasma, Kidney Failure, and the Standard Teaching Booklets Plan (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice, no diagnosis, no application to any person. Compound dictation split per standing rule — each idea its own postulate, no sub-idea lost.*

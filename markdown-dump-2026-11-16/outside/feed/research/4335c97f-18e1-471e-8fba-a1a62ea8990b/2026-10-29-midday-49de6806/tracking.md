@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Gmail is connected and serves his health and manuscript interests, its recent pick printed rather than closing quiet, and nothing this hour separates it from web on story value.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Background Retrieval Job #2 — Report (2026-11-09 night, America/Chicago)
 
 Authorized by Doug on the Nov 9, 2026 voice call. Method: Packet Bridge (halves + overlapping third, seams verified). Read-only toward all sources; nothing deleted, nothing overwritten (old-with-new). New material lives in `~/workspace/github-mirror-2026-11-09/` and `~/workspace/drive-pull-2026-11-09/`.

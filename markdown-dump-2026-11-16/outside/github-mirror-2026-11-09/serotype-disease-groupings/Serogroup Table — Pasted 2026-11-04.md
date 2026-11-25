@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Serogroup Table — Pasted 2026-11-04
 
 Source: pasted by Douglas in the main chat, Nov 4, 2026, ~12:00 PM CST. Filed verbatim as pasted, not verified against a lab or vaccine catalog in this filing. Group numbers, serotype counts, and vaccine inclusions are as pasted.

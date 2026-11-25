@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Taxonomic and Clinical Assessment of Bacterial Coccobacilli in Meningitis: Deconstructing Morphological Typologies through Diagnostic Coding Ontologies
 ## Critical Assessment of Morphological Diagnostic Hypotheses and Historical Work
 In clinical microbiology and infectious disease epidemiology, pathogen classification historically relied on phenotypic traits, primarily cell morphology and Gram-stain characteristics. The term "coccobacillus" denotes a bacterial shape intermediate between a spherical coccus and an elongated bacillus—specifically, a short, pleomorphic rod. A recurrent hypothesis in diagnostic research is whether phenotypic morphology, or the nomenclature conventions used to describe coccobacillary species, directly correlates with clinical symptomology, systemic disease expression, or structural diagnostic codes in standardized medical classification systems.

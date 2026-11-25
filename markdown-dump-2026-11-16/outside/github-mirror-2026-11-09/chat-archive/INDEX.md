@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chat Archive Index
 Date: Nov 5, 2026
 Provenance: Ember's index, built from the conversation summary and goals on file Nov 5, 2026. Not a verbatim transcript — that build is still owed, in pieces, after reset.

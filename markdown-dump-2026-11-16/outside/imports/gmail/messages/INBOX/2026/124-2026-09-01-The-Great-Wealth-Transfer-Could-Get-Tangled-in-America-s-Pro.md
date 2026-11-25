@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Great Wealth Transfer Could Get Tangled in America’s Property Records and More News
 
 - Date: 2026-09-01T04:40:55.000-05:00

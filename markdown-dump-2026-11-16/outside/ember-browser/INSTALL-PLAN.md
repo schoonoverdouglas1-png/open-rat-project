@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # INSTALL-PLAN — Android toolchain for building Ember Browser
 
 **Status: STAGED, not executed.** Written Nov 13, 2026. On that date the box was verified to have **no Java, no Gradle, no Kotlin, and no Android SDK** (`which java javac gradle kotlinc` all empty; `ANDROID_HOME` unset; no `~/Android`, `/opt/android*`, or `/usr/lib/android-sdk`). Douglas ordered the app built the same day; per his standing agreement (Nov 10) and the Reversibility Rule, the toolchain install runs only as this plan — snapshot first, exact lists, undo recorded before anything changes.

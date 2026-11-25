@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Changelog
 
 This is the changelog for the open source version of tiktoken.

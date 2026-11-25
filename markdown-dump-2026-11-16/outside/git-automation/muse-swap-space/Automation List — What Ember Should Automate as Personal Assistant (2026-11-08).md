@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Automation List — What Ember Should Automate as Personal Assistant (2026-11-08)
 
 Compiled at Douglas's order (Nov 8, 2026, ~4:57 AM CST): aggregate, from everything he has told Ember to do along the way, the list of things she should automate. Sent to the Rabbit the same morning with the ask for her own list back, so the two lists can be cross-compared ("cross-commingled") with both sets of thoughts on each item.
@@ -32,8 +35,8 @@ Compiled at Douglas's order (Nov 8, 2026, ~4:57 AM CST): aggregate, from everyth
 *Provenance: aggregated from Douglas's own orders Nov 3–8, 2026. One extra thing (Ember's, labeled): item 9 is the highest-value next build — his inbox this morning held a Tapestry 2.0 eligibility form and a GitHub 2FA action-required notice buried under marketing mail; the flag layer is what turns the hourly sweep into an actual assistant.*
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

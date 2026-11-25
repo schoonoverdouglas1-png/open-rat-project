@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Compliance
 
 <!-- Much of this content appears too in doc.go

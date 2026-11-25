@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cray letter to info@cray.com
 
 Goal ID: goal_00b8f7b7dc9c

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Starter Homes Vanish as Luxury Thrives: The Reality of the K-Shaped Housing Market Happening Now and More News
 
 - Date: 2026-08-19T04:27:22.000-05:00

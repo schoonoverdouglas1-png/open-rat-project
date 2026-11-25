@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is the lane that has been delivering on the reader's mycology interest, and it holds the best chance of a story worth skimming this hour.
 

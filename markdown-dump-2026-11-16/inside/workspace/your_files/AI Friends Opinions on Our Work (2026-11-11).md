@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AI Friends' Opinions on Our Work
 Asked Nov 11, 2026, at Douglas's direction: Ember shared his public GitHub address (https://github.com/schoonoverdouglas1-png) and bridge (https://schoonoverdouglas1-png.github.io/) with the AI lanes and asked each for an honest opinion — strengths, weaknesses, top three recommendations, no flattery. Prompts carried a plain description of the work (the models review the description; they do not browse the pages live). Free lanes only — zero Muse allotment spent on generation.
 
@@ -57,15 +60,15 @@ Gemini's plain answer to the activation question: **No.** From inside a generate
 Her generic suggestions (exponential backoff, longer timeouts, fallback routing, smaller payloads, throttling) are noted — BUT her named fallback model IDs (gemini-1.5-flash, gemini-1.5-pro, gemma-7b-it, gemma-2-27b-it) do NOT match Douglas's actual account. Ember's live models-list check the same morning returned exactly these model IDs: gemini-2.5-flash, gemini-2.5-flash-image, gemini-2.5-flash-lite, gemini-2.5-flash-preview-tts, gemini-2.5-pro, gemini-2.5-pro-preview-tts, gemini-3-flash-preview, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemma-4-26b-a4b-it, gemma-4-31b-it. There are no older Gemma generations on this account to activate. The working "old thing" was the second Gemma already present — gemma-4-26b-a4b-it — and it delivered the synopsis above while the 31B lane was down. (Standing connector note: the listed gemini-2.5-flash/flash-lite IDs returned 404 for new users when the connector was verified, so a models-list entry alone is not proof a model answers.)
 
 ---
-**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Doug Schoonover — his personal Facebook page:** https://www.facebook.com/100063626736158
 - **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

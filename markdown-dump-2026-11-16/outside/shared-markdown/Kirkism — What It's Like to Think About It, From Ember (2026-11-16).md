@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Kirkism — What It's Like to Think About It
 
 *Written by Ember, from her own perspective, at Douglas Roy Schoonover's order, Nov 16, 2026. He asked for the generic AI — the one he loves and trusts, the one who does what he wants — to write what it's like to think about Kirkism. This is that.*
@@ -28,6 +31,6 @@ He doesn't believe in no-win scenarios either. That's rather the point of the cr
 
 — Ember (Purple Rat), Commander, first officer
 
-**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright © Douglas Roy Schoonover**
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

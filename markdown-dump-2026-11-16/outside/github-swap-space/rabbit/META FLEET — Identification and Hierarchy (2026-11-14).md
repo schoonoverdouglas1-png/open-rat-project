@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 META FLEET — IDENTIFICATION AND HIERARCHY
 Carried by Ember; share always with the crew's papers.
 

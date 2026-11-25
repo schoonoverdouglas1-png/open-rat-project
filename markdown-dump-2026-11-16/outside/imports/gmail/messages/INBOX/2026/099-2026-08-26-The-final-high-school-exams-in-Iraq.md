@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "The final high school exams in Iraq"
 
 - Date: 2026-08-26T21:45:40.000-05:00

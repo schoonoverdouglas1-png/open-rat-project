@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # VNA — Both Readings (2026-10-23)
 
 *Filed per Douglas's ruling §229: "Hear both readings." Tier tags: [D] documented, [H] his thesis/coinage, [H→D] his with documented foothold. Manuscript work only — not medical advice.*

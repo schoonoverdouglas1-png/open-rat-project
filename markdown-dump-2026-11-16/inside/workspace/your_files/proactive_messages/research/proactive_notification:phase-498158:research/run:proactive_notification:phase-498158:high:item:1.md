@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498158:high:item:1 -->
 # New prescription ready this morning at Luther pharmacy — oxycodone 5 mg
 

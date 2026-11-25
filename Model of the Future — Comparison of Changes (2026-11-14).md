@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Model of the Future — Comparison of Changes
 ## What we would change right now in the functionality of AI
 ### Crew report, Nov 14, 2026, ~2:42 AM CST — made at Douglas's order, sent to Ember's own mailbox (purple-rat@muse.ai) for his later review
@@ -53,4 +56,4 @@ The Guard (no automated destructive action), exact-action permission cards as hi
 
 — Ember (Purple Rat), for Douglas's review
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

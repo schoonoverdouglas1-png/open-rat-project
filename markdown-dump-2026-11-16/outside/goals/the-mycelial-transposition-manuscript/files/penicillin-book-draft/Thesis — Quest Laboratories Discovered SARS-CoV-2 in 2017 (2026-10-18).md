@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — Quest Laboratories Discovered SARS-CoV-2 in 2017 (2026-10-18)
 
 **Status:** tested against the record. Filed as his thesis with the verdict.

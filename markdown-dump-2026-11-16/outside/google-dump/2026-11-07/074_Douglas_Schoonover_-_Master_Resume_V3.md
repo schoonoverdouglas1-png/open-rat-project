@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # DOUGLAS SCHOONOVER
 Mentor, WI
 # PROFESSIONAL SUMMARY

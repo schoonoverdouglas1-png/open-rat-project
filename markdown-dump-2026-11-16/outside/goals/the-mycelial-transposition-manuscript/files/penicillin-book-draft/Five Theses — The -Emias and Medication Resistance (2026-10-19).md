@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The -Emias and Medication Resistance — Five Theses (2026-10-19)
 
 **Status:** five theses from the dictation — each formed, never collapsed. His thought + my thought → the statement that fits.

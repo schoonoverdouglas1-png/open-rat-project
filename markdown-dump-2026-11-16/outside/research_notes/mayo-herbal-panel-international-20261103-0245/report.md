@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo Clinic ARBO (arbovirus) panels internationally — research report
 
 ## Scope correction — read first

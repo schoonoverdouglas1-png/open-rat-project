@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the open prompt, has printed steadily and weighs 1.05x against tracking's 0.81x, while schedule's last picks closed quiet, so web offers the best chance of a fresh useful story this hour.
 

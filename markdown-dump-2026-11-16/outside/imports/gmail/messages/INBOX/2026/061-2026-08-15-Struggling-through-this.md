@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Struggling through this"
 
 - Date: 2026-08-15T21:12:52.000-05:00

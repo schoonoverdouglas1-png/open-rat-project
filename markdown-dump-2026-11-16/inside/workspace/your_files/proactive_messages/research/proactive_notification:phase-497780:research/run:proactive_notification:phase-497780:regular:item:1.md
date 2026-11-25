@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497780:regular:item:1 -->
 # Oct 19 Kelsey visit: how are you getting to Chippewa Falls?
 

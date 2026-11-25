@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Own Facebook posts — 2009 (204 posts)
 
 - 2009-01-19T03:19:20+00:00 — Is Gay — https://facebook.com/654402359/posts/pfbid02xn7w4zeB6WoHdFkQWTRhgKFjXad1jFivZrC7Sm18Ko92wqgLsrcnyDXSCPaCXMyel/

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # world.md
 
 Durable facts about the world and the user's circumstances.

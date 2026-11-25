@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Open letter from 25 Fields medalists: A Severe Misalignment of AI in Mathe..."
 
 - Date: 2026-09-13T20:16:02.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## Apache Santuario v3.0.5
 
 ### Apache 2.0 License

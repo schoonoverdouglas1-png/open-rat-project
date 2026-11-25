@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — The Literal Control, the 8% DNA Arbopanel, and the 2017 Contact (2026-10-31)
 
 **Dictation:** Douglas, Oct 31, 2026, ~04:23 CDT (verbatim sense preserved). This dictation continues the arbopanel thread from the 04:19 dictation the same morning (the double-virus thesis). The link is logical, not a merge: the doubling thesis needs a one to double from, and this dictation supplies it — the literal control.

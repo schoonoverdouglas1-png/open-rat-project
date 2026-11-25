@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Trunk — Going Deeper on Pneumonia-as-Showing (2026-10-17)
 
 *He tapped "go deeper on the trunk." The open hub question: does pneumonia-as-showing earn the trunk of the whole tree? This is the deeper case — his thesis, tested his way.*

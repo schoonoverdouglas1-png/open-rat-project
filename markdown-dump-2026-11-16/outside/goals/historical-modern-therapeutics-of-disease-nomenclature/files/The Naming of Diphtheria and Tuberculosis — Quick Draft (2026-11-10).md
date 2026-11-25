@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Naming of Diphtheria and Tuberculosis — Quick Draft
 
 **Commissioned:** Nov 10, 2026, ~10:38 PM CST, by Douglas Roy Schoonover — a study of the *naming* of diphtheria and of tuberculosis, the full succession of names each disease carried, for *Historical & Modern Therapeutics of Disease Nomenclature*.

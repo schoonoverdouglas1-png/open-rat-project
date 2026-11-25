@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Chapter XI: Minimizing Legal Liability through Discovery-Based Diagnostics and Standard of Care -->
 <!-- Drive modified: 2026-11-01T15:37:20.046Z -->
 

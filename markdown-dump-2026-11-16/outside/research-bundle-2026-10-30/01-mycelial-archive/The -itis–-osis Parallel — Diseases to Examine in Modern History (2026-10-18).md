@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The -itis–-osis Parallel — Diseases to Examine in Modern History
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (manuscript reference only — never medical advice, no treatment recommendations, no personal-result interpretation)

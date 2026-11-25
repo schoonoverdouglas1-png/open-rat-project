@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — Bug Zero, Cov One, Cov Two, and the Lucas Gear Model (2026-10-31)
 
 **Dictation:** Douglas, Oct 31, 2026, ~04:18 CDT (verbatim sense preserved; "sires" read as SARS — flagged, his to confirm).

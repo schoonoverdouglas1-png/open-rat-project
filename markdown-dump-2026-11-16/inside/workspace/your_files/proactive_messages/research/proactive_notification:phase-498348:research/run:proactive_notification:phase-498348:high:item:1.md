@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498348:high:item:1 -->
 # Overnight grants 3:25–3:32 AM: Perplexity + Pipedream across Google, GitHub, Microsoft — were they yours?
 

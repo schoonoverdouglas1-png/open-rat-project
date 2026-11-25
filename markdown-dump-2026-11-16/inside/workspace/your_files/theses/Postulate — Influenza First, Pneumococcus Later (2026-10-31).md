@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Influenza First, Pneumococcus Later (2026-10-31)
 
 **Thought:** Douglas, Oct 31, 2026, ~2:07 PM CDT — "So was a thought that people get influenced at first and pneumococcal streptococcus pneumoniae come later."

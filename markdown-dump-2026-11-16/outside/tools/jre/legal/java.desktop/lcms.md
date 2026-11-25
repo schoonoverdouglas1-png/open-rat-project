@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## Little Color Management System (LCMS) v2.19.1
 
 ### LCMS License

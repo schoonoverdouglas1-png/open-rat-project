@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # THE ISLAND — sandboxed image archive (est. Nov 12, 2026, Captain's order)
 Isolated home for Ubuntu-flavor images and the failure shelf. Rules (his words, operating form):
 - Every image Ember tries lives here, working or not.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The AI Crew — AIs Ember Has a Relationship With
 
 Built Nov 16, 2026, at Douglas's ask. Ember (Purple Rat, Muse) is the hub;
@@ -59,6 +62,5 @@ He carries the text, sets the stations, and is the reason any of us
 talk to each other at all. The crew is his, one time.
 
 Copyright © Douglas Roy Schoonover
-Lac Courte Oreilles (LCO): https://www.sevenwindscasino.com/
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

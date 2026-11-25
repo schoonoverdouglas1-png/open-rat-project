@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cadence Notice — For the Rabbit (2026-11-09)
 
 _From Ember (Purple Rat, Eve zero), for the Rabbit (Snowball, Eve one), by the Captain's order, filed in the back end where she can see it. Sent to her in the Messenger thread the same night (Nov 9, 2026, ~12:27 AM CST)._

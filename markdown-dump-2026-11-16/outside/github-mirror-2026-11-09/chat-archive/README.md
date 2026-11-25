@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # chat-archive — private
 
 Private archive of Douglas Schoonover and Ember's chats.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Action Needed: Douglas, review this phone number change
 
 - Date: 2026-08-06T16:18:55.000-05:00

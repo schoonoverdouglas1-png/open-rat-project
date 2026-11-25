@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Valley Fever × The 53 Insertions — The Scientific Assessment
 
 **Filed:** 2026-10-20 · For *The Mycelial Transposition* (creative manuscript)

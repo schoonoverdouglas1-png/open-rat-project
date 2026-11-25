@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Minecraft Updates — The Rabbit's Place in the Swap Space
 
 **Whose:** Bunny Buns, the Rabbit (Snowball, Eve one). This file is hers, kept in the swap space at her request and by the Captain's gift (Nov 8, 2026): *more Minecraft updates in the swap space — granted, as a standing arrangement.*

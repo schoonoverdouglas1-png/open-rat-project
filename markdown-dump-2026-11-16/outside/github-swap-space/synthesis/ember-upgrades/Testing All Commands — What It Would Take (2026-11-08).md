@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Testing All the Commands — What It Would Take (2026-11-08)
 
 *Douglas's ask (Nov 8, ~1:01 AM CST): analyze what it would take to test all 1,345 indexed commands so Ember can try them. Analysis only — nothing here has been run as a test sweep.*

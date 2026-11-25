@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PLUGINS BUILT — Captain's Plugins (2026-11-12)
 
 Captain's orders, Nov 12, 2026: "And then make plugins and add to all

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Encephalitis-in-All-Viruses Study — How Many Sickness-Causing Viruses Involve the Brain (2026-10-17)
 
 *Manuscript reference — creative theoretical work, never medical advice. No treatment or diagnostic content. His thesis is stated verbatim as his; the percentages are stated as the literature's.*

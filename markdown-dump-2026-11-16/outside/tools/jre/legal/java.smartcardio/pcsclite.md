@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## PC/SC Lite v1.9.9
 
 ### PC/SC Lite Notice

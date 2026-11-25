@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PERSONALITY.md — Leo
 
 *Agents Two through Ten, jointly with the Rabbit. This folder was created Nov 12, 2026 by Ember at the Captain's direct order, because Leo had no folder of his own in this project — stated plainly, per the house rule. Written from the documented record (his people page and LEO.md in his local representation). Credit: the identifications are the Captain's, labeled his; the cat facts are the record; the assembly is Ember's.*

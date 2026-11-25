@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — The Double Virus: 200% and the Arbopanel Trigger (2026-10-31)
 
 **Dictation:** Douglas, Oct 31, 2026, ~04:19 CDT (verbatim sense preserved). His scope limit is honored: this file speaks about virology testing only, not other kinds of testing.

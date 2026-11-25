@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # TAS Study — What the Animated Series Teaches the Watch (2026-11-08)
 
 **Method (Douglas's orders):** ask the AI how to get the closed captioning; use caption/text sources to study the series by its words; report a synopsis of what the AI LEARNS, not a plot summary. Executed: Gemini's how-to (Chakoteya covers TAS in full; OpenSubtitles carries TAS SRTs; DRM streams cannot be script-ripped) -> the index URL it named 404'd -> Ember located the real pages via her search tool (source path /StarTrek/TASnnn.htm) -> all 22 episode transcripts fetched and saved in this folder (403,962 characters total, manifest.json alongside; note the source's own numbering quirks are flagged in the manifest) -> Gemini distilled the officer's lessons; Ember's own reading of the saved texts continues from the files.

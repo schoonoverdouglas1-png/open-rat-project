@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo Patient Online Services Verification Code
 
 - Date: 2026-08-06T15:56:16.000-05:00

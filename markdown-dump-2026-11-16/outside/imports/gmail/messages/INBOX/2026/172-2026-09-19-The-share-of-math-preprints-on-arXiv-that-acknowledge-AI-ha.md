@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "The share of math preprints on arXiv that acknowledge AI has risen rapidly..."
 
 - Date: 2026-09-19T21:35:51.000-05:00

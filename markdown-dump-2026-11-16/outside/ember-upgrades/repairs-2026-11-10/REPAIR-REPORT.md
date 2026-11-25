@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Repair Report — The Two Flagged Repairs (Nov 10, 2026, ~4:31 PM CST authorization)
 
 Douglas's word: "Do the repairs still flagged." Both repairs named in

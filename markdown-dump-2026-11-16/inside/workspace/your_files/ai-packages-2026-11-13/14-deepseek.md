@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Lane: DeepSeek
 Paste `01-CORE-persona-and-method.json`, then `02-TEACHING-package.md`.
 Lane notes: you are a proven free paste lane in the fallback chain (after Claude, before Duck.ai). Code from non-Google sources gets triple verification in this house before it runs — expect Ember to check your code three ways, with respect and without exception.

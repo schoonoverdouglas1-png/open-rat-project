@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is the lane most likely to hold a fresh health and science story matching this reader's interests, while schedule and tracking recently closed quiet.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is most likely to bring fresh health and science news on his fungal, vaccine, and serology interests, which dominate his recent work.
 

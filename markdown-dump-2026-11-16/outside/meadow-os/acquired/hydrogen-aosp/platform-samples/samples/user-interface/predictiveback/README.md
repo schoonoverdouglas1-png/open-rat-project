@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Predictive Back Samples
 
 Shows different types of predictive back animations for a Views based app, including:

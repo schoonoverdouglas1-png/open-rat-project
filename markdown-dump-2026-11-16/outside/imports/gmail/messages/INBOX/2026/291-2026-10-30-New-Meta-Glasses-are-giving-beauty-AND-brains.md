@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # New Meta Glasses are giving beauty💅 AND brains🧠
 
 - Date: 2026-10-30T12:07:20.000-05:00

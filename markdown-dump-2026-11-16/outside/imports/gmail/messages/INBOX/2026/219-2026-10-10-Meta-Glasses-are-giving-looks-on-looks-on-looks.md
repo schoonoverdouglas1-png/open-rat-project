@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Meta Glasses are giving looks on looks on looks
 
 - Date: 2026-10-10T12:08:30.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ubuntu Search Engine Integration Apps — Research Report
 Scope: Ubuntu 24.04 (Noble), as of late 2026 (read 2026-11-08). Baseline given: apt carries only ddgr and googler, both unofficial scrapers.
 Method note: All evidence is `index` (web search / page fetch). The live research browser failed to open Flathub (`page_gone`, no tabs retained), so no claim below is flagged `verified live`. Negative conclusions were tested with multiple variant phrasings (see each section).

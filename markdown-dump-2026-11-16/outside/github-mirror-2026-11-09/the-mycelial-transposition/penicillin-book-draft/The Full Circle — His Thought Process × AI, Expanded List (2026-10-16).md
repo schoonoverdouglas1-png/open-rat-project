@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Full Circle — His Thought Process × AI: The Expanded List (2026-10-16)
 
 *Everything put together in this thread, circling all of medicine. Built at Douglas's direction for The Mycelial Transposition. Manuscript material, never medical advice.*

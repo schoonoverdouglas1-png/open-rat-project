@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # A Tree-Poisoning Mystery Is Rattling Locals in This Lake Community Surrounded By Luxury Homes and more top stories of the week
 
 - Date: 2026-08-22T13:42:20.000-05:00

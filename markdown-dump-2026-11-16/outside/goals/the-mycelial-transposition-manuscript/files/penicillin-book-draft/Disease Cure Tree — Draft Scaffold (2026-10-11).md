@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Disease Cure Tree — Draft Scaffold (2026-10-11)
 
 *Built tonight from your research notes plus tonight's sparring. This is a starter to correct, not a finished product. Everything below marked **notes** comes from filed research; everything marked **sparring** comes from tonight's conversation and is not in the notes. This is manuscript material, not medical advice — the tree maps what studies actually did, never what anyone should take.*

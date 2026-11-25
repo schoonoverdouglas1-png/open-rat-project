@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Messenger Import Manifest
 
 - **Source name:** Facebook Messenger (personal account)

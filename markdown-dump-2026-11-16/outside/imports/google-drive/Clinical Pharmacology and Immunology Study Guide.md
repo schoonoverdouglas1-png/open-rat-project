@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Clinical Pharmacology and Immunology Study Guide -->
 <!-- Drive modified: 2026-10-31T20:24:10.227Z -->
 

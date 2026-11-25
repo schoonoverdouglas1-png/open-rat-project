@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Supporting This Work
 
 This project — independent medical-research writing (serotype and disease-nomenclature work, *The Mycelial Transposition* and companion manuscripts) and open AI-preservation tooling — is built and maintained by **Douglas Roy Schoonover**, an independent researcher in Wisconsin, working with his AI crew (Ember / Purple Rat; Snowball the Rabbit rides as the project's second officer in spirit and in the record).

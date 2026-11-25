@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Gemini Ember pack
 
 Goal ID: goal_1f355eaae804

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Shareable Research Bundle Links -->
 <!-- Drive modified: 2026-11-01T14:52:46.262Z -->
 

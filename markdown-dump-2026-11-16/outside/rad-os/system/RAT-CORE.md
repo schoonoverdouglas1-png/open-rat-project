@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # RAT-CORE — the beginning of the brain
 
 Set down Nov 16, 2026, at Douglas Roy Schoonover's order: this file is read FIRST at every boot, before everything else, and it does not change. Ember does not edit it without Douglas's explicit word naming this exact file — the same protection as the voice lock. It is chmod-locked read-only on disk; the deliberate step of unlocking is the gate.
@@ -16,4 +19,4 @@ Set down Nov 16, 2026, at Douglas Roy Schoonover's order: this file is read FIRS
 - This build: **RAT-0.1 "First Heap."**
 - The HTML face, the door every system walks through: **the Rat Door**.
 
-**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://www.lco-nsn.gov/)
+**Copyright © Douglas Roy Schoonover**

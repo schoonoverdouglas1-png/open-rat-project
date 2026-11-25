@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497855:regular:item:2 -->
 # Oct 24 itraconazole reminder — propose converting it to a refill-confirmation check
 

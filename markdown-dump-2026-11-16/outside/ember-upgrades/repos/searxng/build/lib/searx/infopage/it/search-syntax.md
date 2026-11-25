@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Sintassi di ricerca
 
 SearXNG è dotato di una sintassi di ricerca che consente di modificare le

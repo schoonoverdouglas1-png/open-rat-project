@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — The Cough-and-Sputum Assumption
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition*

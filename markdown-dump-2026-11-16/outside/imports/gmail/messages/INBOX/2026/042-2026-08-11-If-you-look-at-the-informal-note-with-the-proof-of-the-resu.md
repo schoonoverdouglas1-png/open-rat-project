@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ""If you look at the "informal note" with the proof of the result, one thin..."
 
 - Date: 2026-08-11T21:38:19.000-05:00

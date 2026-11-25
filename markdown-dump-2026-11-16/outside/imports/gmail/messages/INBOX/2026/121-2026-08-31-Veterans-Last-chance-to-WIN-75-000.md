@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Veterans! Last chance to WIN $75,000
 
 - Date: 2026-08-31T16:09:23.000-05:00

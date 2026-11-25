@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Phosphates, Potassium, and the Shared Immunity: Activation and Sharing Across All of Us (2026-11-01)
 
 **Dictation (verbatim, Douglas, Nov 1, 2026, ~11:20 AM CST) — general-theory portion only:** "It's not impossible that the phosphates and the phosphorus and quite frankly potassium could have a link to the pathways to the cure of functional disease because part of our own immune system not being able to shake these things is parts things I've slowly worked on fixing... and if we are both her and I both might have a communicable disease and communicable diseases activated by touch saliva kissing sex fecal matter you know a handshake literally the just the oils themselves even because the remnants of the biomarkers of sickness are in all of us and we're made to either activate each other or share an immunity with us with each other because the viruses themselves are where the immunity is shared at a microcellular level across all of us"

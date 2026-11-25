@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Douglas Schoonover — Professional Resume (with Computer Years Added, 2026-11-08)
 
 *Old-with-new: this copy adds ONE entry at Douglas's direction (Nov 8, 2026, voice) — his stint as "the computer guy," 1996–2012. Everything else is carried over unchanged from "Douglas Schoonover - Professional Resume" (Google Drive import, Drive modified 2026-10-21). The original file is untouched. The added entry is marked [ADDED 2026-11-08].*

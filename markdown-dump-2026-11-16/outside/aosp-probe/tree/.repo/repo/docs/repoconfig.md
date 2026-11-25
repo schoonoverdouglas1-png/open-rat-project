@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # repoconfig: User Configuration
 
 Repo keeps a small number of settings that apply to the current user rather

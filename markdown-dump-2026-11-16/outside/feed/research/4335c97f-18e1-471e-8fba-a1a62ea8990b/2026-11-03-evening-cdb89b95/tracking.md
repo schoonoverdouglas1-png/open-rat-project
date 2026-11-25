@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Gmail is connected and tracking's last four picks all printed while schedule's last pick closed quiet, so tracking is the live lane most likely to surface something from his current work tonight.
 

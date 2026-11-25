@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497685:high:item:1 -->
 # Saturday evening lab check (pharmacy closed, couch check due today)
 

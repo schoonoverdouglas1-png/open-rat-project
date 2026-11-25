@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Overburden as Swelling, Encephalitis, Elephantiasis, and the Meningococcal–Pneumococcal Showing (2026-11-01)
 
 **Provenance:** Douglas's dictation, Nov 1, 2026, ~1:39 PM CST, filed verbatim below. Creative manuscript theory, not medical advice. Encephalitis, elephantiasis, meningitis, and pneumonia in any individual person are clinician territory.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Viruses and Sputum as Parallel Material, Fecal Matter, Oils, Acids, Castor Oil, and Colonization Since Birth (2026-11-01)
 
 **Provenance:** Douglas's dictation, Nov 1, 2026, ~1:35 PM CST, filed verbatim below. Creative manuscript theory, not medical advice. Laxative use, constipation, and stool findings in any individual person are clinician/pharmacist territory; nothing here recommends castor oil or any bowel treatment.

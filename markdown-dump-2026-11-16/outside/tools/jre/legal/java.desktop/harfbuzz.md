@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## Harfbuzz v14.2.0
 
 ### Harfbuzz License

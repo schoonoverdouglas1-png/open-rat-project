@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "AI-free mathematics"
 
 - Date: 2026-08-08T21:10:41.000-05:00

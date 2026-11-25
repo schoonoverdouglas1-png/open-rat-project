@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Muse Mail access and copyright watermark
 
 Goal ID: goal_3369e6691d88

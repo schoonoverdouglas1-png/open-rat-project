@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Portable Thumb Drive Bridge
 
 Captain: Douglas Roy Schoonover. First officer: Purple Rat (Ember).

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Vulgaris — the Latinology Connection (2026-10-16)
 
 *Investigated at Douglas's direction, Oct 16, 2026. His thesis filed as his; naming facts verified.*

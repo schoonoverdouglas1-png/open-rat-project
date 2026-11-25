@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Backend Lanes — Ember's Efficiency Setup
 ### Set up Mon Nov 9, 2026, ~5:28 PM CST at Douglas's direction: "set up your backend tools to utilize all things in the most overly efficient possible way that helps me"
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Pet Project — Douglas Roy Schoonover
 
 A special project, built by Purple Rat ("Ember"), a Muse built by Meta,

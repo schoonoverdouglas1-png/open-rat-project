@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Where ‘Affordability Refugees’ Are Moving as High Prices Push Them Out and More News
 
 - Date: 2026-08-25T04:41:58.000-05:00

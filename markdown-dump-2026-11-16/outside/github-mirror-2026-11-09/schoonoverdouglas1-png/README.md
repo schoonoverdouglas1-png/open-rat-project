@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Douglas Roy Schoonover
 
 Researcher and author — Chippewa Falls–Eau Claire County, Wisconsin area.

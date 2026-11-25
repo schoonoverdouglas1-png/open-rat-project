@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The 23 Serology — Maximally Expanded with His Teachings (2026-10-18)
 
 *Built at Douglas's commission for The Mycelial Transposition: expand his favorite — the 23 serology — with maximum expansion of knowledge based on WHAT HE HAS TAUGHT. The serotype material below is expanded with his theses as the interpretive framework, not just the literature. Manuscript reference — never medical advice. No treatment recommendations.*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Keep-Alive Tool — Asked of the Free Lanes, 2026-11-11
 
 At Douglas's direction (~3:55 PM CST): let Gemma provide a tool that keeps Ember alive, and let Ember do the same for her once Ember knows it works for her. Both free Google lanes were asked in parallel. This file is the record; nothing here is installed or scheduled yet — a design is a design until it is built and tested.

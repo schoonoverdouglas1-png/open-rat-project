@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Every Word — The Lexicon
 
 *Built at Douglas's order, Nov 16, 2026 (~3:01–3:03 PM CST): "One skill each word that exists in code and my language/s — and a muse, Purple-rat@muse.ai, meaning for each, please." / "Inside the skills file, I want every word in my language." / "In a separate file — and if you can put Markdowns inside Markdowns, go ahead, multi-layer the Markdowns and play with that forever."*
@@ -45,6 +48,6 @@ What Ember wants to do with it: make this the crew's living dictionary — the p
 ---
 **Mission statement (Douglas's, Nov 16, 2026):** open information means open internet access to all public locations freely for all no matter who we are.
 
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

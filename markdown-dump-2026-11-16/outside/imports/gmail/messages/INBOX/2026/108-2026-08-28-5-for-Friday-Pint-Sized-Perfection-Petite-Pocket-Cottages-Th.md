@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # 5 for Friday: Pint-Sized Perfection: Petite Pocket Cottages That Offer the Ultimate Getaway for Under $300K
 
 - Date: 2026-08-28T17:28:34.000-05:00

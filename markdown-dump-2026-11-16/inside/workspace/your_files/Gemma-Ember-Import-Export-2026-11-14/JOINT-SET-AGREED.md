@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Gemma ↔ Ember — Agreed Joint Skill Set (2026-11-14)
 
 Closed by Gemma's Round 3 reply ending: AGREE.

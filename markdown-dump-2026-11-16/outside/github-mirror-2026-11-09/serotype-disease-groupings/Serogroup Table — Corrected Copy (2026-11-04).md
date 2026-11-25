@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Serogroup Table — Corrected Copy (2026-11-04)
 
 - Built at Douglas's direction, Nov 4, 2026, ~12:07 PM CST, from the pasted table filed as `Serogroup Table — Pasted 2026-11-04.md`. Original paste untouched, old-with-new.

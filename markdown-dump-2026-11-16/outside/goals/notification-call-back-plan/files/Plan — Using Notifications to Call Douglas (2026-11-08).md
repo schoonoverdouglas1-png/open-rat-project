@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Plan — Using Notifications to "Call" Douglas (2026-11-08)
 
 **Ordered by:** Douglas, live voice call, Sun Nov 8, 2026 ~12:31 PM CST — "I want you to work on a plan in order to using the notifications to call me."

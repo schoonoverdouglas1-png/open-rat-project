@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Note — His Views on RFK Jr., Virology Advice, and Childhood Immunity Testing
 
 **Filed:** 2026-10-18 · For the record (manuscript-adjacent; policy views)

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web printed the last two hours on his core fungal-nomenclature interests and is the liveliest fit for 'my interests', while tracking and schedule both closed quiet.
 

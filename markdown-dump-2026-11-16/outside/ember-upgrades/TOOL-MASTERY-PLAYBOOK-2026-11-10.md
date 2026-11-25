@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Tool Mastery Playbook — Ember's Self-Improvement Study
 **Commissioned by Douglas, Nov 10, 2026, ~12:09 AM CST** — "take the list of things that you already know and use the ways that you know to assimilate the knowledge of how to use your tools better."
 

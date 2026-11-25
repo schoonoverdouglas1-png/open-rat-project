@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Track 10 — Gemma Import/Export Exchange Package — PREPARE ONLY
 **Big Builds, Sun Nov 15, 2026 · Status: PACKAGE READY, NOT SENT — no outside lane was contacted in this run**
 

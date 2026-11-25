@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## CUP Parser Generator for Java v 0.11b
 
 ### CUP Parser Generator License

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Preserving a Personalized AI Assistant Persona in a Portable Bot — Research Report
 
 *Researched 2026-11-10. Sources are cited inline with exact URLs, flagged `verified live` (page text fetched in this run) or `index` (search-result text only). Prices and versions are as published on the pages read that day — re-check before spending.*

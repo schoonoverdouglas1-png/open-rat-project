@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # TOOLS.md - Local Notes
 
 Short, durable notes that make external tools work reliably in this
@@ -11,4 +14,4 @@ file holds only what is unique here.
 - LibreOffice → `soffice` / `libreoffice` (headless nogui build)
 - Poppler → `pdftotext`, `pdfinfo` (pkg poppler-utils)
 - Always run `~/workspace/ember-upgrades/check-tools.sh` before saying a tool is missing.
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Manuscript Folder Map — The Mycelial Transposition
 
 *All files live in `workspace/goals/the-mycelial-transposition-manuscript/files/penicillin-book-draft/` (briefs in `briefs/`). Verified 2026-10-11. `based on your input` = you asked for, pointed at, or argued it; `filed behind the scenes` = research found and written up in the background, then shown to you.*

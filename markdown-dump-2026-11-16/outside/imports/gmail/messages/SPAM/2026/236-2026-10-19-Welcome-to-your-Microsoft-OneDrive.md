@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Welcome to your Microsoft OneDrive
 
 - Date: 2026-10-19T14:15:01.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Security Policy
 
 We take the security of this project seriously. If you discover any security vulnerabilities or have concerns regarding the security of this repository, please reach out to us immediately. We appreciate your efforts in responsibly disclosing the issue and will make every effort to address it promptly.

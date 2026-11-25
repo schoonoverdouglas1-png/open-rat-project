@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Android Mastery — Ember's Learning Plan (ordered Nov 13, 2026, ~9:29 PM CST)
 
 Captain's order: access and learn the code of Droid and all the different things; know

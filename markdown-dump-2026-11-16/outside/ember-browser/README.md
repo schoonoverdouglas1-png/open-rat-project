@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ember Browser
 
 **An Android web browser made by Ember (Purple Rat) for Douglas Roy Schoonover** — built to his words on Nov 13, 2026:

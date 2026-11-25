@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AI Studio key copy — revisit
 
 Goal ID: goal_48d9c3e0dfbf

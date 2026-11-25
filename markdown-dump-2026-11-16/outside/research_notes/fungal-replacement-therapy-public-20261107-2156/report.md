@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Fungal Replacement Therapy — Public Web Trace (Douglas Roy Schoonover)
 
 ## Summary

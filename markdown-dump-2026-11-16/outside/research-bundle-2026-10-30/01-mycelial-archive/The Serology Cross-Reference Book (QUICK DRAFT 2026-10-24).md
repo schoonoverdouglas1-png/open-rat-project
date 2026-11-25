@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Serology Cross-Reference Book (QUICK DRAFT, 2026-10-24)
 
 *Commissioned Oct 24, 2026, ~4:33 PM — a one-time comprehensive assembly. His instruction: use AI to fill gaps with his intellect, including what he hasn't managed to teach yet — so gaps are filled only by extending his recorded framework, labeled [LOGIC], never by inventing his positions. Where his intellect hasn't spoken, the book marks [GAP] and leaves the space open for his dictation. Tier labels: [D] documented · [H] his · [H→D] his with documented foothold · [LOGIC] AI extension of his framework, steps shown · [GAP] unknown. Frame: creative-manuscript reference only. Panel values are filed as his record; what they mean for any person belongs to Kelsey Meyer, NP — this book interprets nothing personal.*

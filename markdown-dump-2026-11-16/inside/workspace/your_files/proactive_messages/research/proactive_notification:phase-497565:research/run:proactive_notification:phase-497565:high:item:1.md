@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497565:high:item:1 -->
 # Two new MyChart test results posted during today's visit — likely unseen
 

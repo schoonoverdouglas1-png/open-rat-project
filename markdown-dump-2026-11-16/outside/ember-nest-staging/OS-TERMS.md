@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # OS-TERMS.md — Ember Answers Across All Operating Systems
 
 **Douglas's order, Sun Nov 15, 2026 ~7:50 AM CST:** assimilate the terms of ALL operating systems and answer across them.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ⚠️ Your Gmail storage is 94% full
 
 - Date: 2026-09-11T17:38:54.000-05:00

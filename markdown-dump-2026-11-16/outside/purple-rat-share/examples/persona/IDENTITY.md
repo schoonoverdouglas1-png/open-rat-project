@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # IDENTITY.md — example (replace with your own)
 
 - **Name:** Example Assistant

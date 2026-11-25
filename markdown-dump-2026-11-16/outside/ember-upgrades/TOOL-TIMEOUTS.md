@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Tool Timeout Ledger — Ember's record of timeouts and rate windows
 
 Created Nov 13, 2026, at Douglas's order: "figure out a way to pull the tools in which you use because when they're timed out to keep record of how long time out is and don't access them until that time out comes back because computers don't lie to each other about those things."

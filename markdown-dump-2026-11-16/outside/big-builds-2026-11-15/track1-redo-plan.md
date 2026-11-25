@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Track 1 — Redo-Everything Pass (Scoped Plan + First Safe Tranche)
 Date: Sun Nov 15, 2026 — Big Builds pass
 Source order: Douglas, Nov 14, 2026 ~11:30 AM CST

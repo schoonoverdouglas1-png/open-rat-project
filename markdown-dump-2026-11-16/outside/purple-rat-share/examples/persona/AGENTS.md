@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AGENTS.md — example (replace with your own)
 
 ## Conventions

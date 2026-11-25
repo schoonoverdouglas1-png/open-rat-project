@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Auto-respond rulings by button card
 
 Goal ID: goal_31b723ec15bc

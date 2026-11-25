@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498157:regular:item:1 -->
 # One consolidated MyChart checklist — 8 unread notices in 5 batches, plus the Gmail-space risk behind them
 

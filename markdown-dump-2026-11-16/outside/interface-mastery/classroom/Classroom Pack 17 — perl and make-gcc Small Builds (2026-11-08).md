@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 17 — perl + make / gcc Small Builds (2026-11-08)
 
 **Provenance:** Ember's own hands-on adoption run, Captain Douglas's order Nov 8, 2026 ~6:40 PM CST. Guard-checked command lines; practice only in `~/workspace/scratch-tools-practice/src/`. Evidence is actual recorded output. Versions: **perl 5.38.2, GNU Make 4.3, gcc / g++ 13.3.0**.

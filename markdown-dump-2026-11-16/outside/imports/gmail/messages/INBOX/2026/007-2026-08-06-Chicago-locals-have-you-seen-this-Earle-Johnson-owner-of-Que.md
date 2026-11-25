@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chicago locals, have you seen this? "Earle Johnson, owner of Quenchers Saloon has died".
 
 - Date: 2026-08-06T00:41:07.000-05:00

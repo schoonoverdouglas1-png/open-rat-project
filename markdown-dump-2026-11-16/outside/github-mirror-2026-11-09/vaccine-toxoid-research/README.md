@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Vaccine and Toxoid Research
 
 Vaccine and toxoid research, carrier architecture, and toxoid parallels — Douglas Roy Schoonover and Ember.

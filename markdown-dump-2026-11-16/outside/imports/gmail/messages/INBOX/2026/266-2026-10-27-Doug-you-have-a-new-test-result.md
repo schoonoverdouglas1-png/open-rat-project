@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doug, you have a new test result
 
 - Date: 2026-10-27T16:47:57.000-05:00

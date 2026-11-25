@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Arbovirus & Meningitis/Encephalitis Tests: Dominican Republic and Mexico vs US Regional Panels
 ## — Blood-PCR-only scope, international parallels, equine viruses, and CSF-to-blood adaptation
 

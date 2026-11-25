@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # An earlier appointment is now available
 
 - Date: 2026-08-07T12:53:49.000-05:00

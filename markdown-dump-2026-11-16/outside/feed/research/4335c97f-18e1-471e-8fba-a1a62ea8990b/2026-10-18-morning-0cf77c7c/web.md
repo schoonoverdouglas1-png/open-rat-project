@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best serves his mycology/vaccine manuscript interests and its recent picks have all printed while schedule just closed quiet.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best fits the reader's mycology and medical-manuscript interests and has printed seven straight hours on those subjects.
 

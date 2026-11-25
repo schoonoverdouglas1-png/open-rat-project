@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # TB Vaccines — BCG Strains, Serology, Mechanism (2026-10-17)
 
 Research note for the manuscript. [D] = documented.

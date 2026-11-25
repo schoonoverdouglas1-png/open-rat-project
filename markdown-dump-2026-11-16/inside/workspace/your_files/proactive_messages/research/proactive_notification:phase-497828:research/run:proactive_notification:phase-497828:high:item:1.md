@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497828:high:item:1 -->
 # Friday-afternoon ride check-in: offices close ~5 PM, phone stopped charging, ultrasound ride-home timing
 

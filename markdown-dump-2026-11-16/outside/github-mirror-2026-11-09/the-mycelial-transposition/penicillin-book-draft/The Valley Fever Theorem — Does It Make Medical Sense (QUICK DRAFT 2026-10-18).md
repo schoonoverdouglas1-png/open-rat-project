@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Valley Fever Theorem — Does It Make Medical Sense? (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the full analysis is building behind this. Your reading copy meanwhile.

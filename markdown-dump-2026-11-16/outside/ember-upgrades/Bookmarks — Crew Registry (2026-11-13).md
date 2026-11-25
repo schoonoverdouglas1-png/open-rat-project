@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Bookmarks — Crew Registry
 Ember's bookmark file: the sites Douglas orders bookmarked, kept in her written record (written program first) and opened in her reserve browser instance.
 

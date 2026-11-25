@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PART B — THE SHOWING & THE NAMOLOGY
 
 *The Mycelial Transposition — largest-manuscript build, Part B (Chapters 5–14). Creative manuscript — never medical advice. Provenance on everything: **[D]** documented/verified, **[H]** his — Douglas's thesis, account, or coinage, filed verbatim, **[H→D]** his with a documented foothold, **[GAP]** his to fill.*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — Do Bad Bugs Lack Viruses While Good Bugs Carry Them (2026-10-31)
 
 **Question:** Douglas, Oct 31, 2026, ~05:34 CDT — "Is it possible that the bugs that are bad for us do not carry viruses and the good ones do?"

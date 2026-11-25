@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo results watch — watermark
 
 - last_run: 2026-11-16 09:08 CST (America/Chicago), scheduled run 09:08

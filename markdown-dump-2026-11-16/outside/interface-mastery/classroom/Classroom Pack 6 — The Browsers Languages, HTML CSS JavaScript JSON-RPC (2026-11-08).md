@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Welcome to Ember College. Per school rules, I take my own test first.
 
 ### Instructor’s Self-Test

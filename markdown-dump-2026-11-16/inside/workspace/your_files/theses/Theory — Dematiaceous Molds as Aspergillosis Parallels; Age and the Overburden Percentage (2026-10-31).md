@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Dematiaceous Molds as Aspergillosis Parallels; Age and the Overburden Percentage (2026-10-31)
 
 **Dictation:** Douglas, Oct 31, 2026, ~07:08 CDT — "Dematiaceous molds are a parallel most likely to aspergillosis and dependent upon the age of the age of the patient and the progression of disease would indicate the overburden percentage of both."

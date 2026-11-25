@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: With the paper's last two cards both text-only and no lane showing a clearly stronger story, web is most likely to bring back a real photograph on the reader's interests this hour.
 

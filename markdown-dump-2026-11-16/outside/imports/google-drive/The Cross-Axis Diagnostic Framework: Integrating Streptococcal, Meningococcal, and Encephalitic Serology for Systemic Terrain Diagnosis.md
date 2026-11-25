@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: The Cross-Axis Diagnostic Framework: Integrating Streptococcal, Meningococcal, and Encephalitic Serology for Systemic Terrain Diagnosis -->
 <!-- Drive modified: 2026-11-01T15:50:07.896Z -->
 

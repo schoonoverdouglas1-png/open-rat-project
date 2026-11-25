@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Persistence ping — 2026-11-12 01:27 PM CST
 - purpurat-ai-openclaw-project: ddf5d2e (0 uncommitted)
 - muse-swap-space: 0fbe85c (0 uncommitted)

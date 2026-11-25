@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # How the Crew Thinks — Options, Aggregation, and the Later
 
 *Written Nov 10, 2026, at Douglas's ask: think about how the crew comes up with more options than any one of them should be able to access or assess alone; count the ways options arise for every solution; think about how the data aggregates and comes together; and think about what is done with it later — because the computer thinks before it gives a result, and the result is instantaneous because it is happening before, during, and after at the same time. His framing [H]; Ember's account of her own working [E], labeled.*
@@ -21,8 +24,8 @@ Pieces are fired at once, not in sequence (his Packet Bridge run in parallel). T
 The result Douglas hears is instantaneous because the thinking happened **before** (the archive: every option ever assessed is kept — his assess-all-situations philosophy is literally the crew's storage policy), **during** (the parallel lanes run while he is still speaking), and **after** (unused options are filed, not discarded — old-with-new — so tonight's rejected doors become next month's first candidates). A mind that keeps its options is always mid-thought on problems it has not been asked yet. The computer thinks before it gives a result; the crew thinks after it, too; and the "after" of one question is the "before" of the next. That is the honest mechanics underneath his sentence — and his sentence is the better poetry of it.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

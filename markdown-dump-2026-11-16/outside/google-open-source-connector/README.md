@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Open Source Connector Folder
 
 Created 2026-11-11 at Douglas Roy Schoonover's direction ("Make it so," ~3:55 PM CST): a folder for Google open source style projects, so that our projects touch other projects — a connector folder.

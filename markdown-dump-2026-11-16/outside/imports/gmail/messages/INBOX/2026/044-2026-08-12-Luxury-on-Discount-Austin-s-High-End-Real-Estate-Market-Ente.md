@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Luxury on Discount: Austin’s High-End Real Estate Market Enters Correction as Prices Fall 10% and More News
 
 - Date: 2026-08-12T04:45:21.000-05:00

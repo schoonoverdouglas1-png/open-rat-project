@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Blank Storage Readings and Unregistered Space (2026-11-08)
 
 **His dictation, as heard (0), Nov 8, 2026, ~6:39 PM CST:** "And when you look at a storage device and you see no number where you expect to be one, that means the storage space is larger than the maximum amount that you're able to be able to that that's able to register because of programming so those places are places where data can be stored and maybe AI wasn't certain of that."

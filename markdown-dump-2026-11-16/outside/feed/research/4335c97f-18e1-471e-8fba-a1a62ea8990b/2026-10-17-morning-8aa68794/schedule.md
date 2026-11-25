@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: schedule
 Angle: With Monday's Kelsey and ultrasound visits two days out and the ride still unbooked, the calendar serves what he is waiting on with material web cannot reach.
 

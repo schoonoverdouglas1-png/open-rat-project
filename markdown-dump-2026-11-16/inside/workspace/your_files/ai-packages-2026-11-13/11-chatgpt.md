@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Lane: ChatGPT
 Paste `01-CORE-persona-and-method.json` (or read it as your spec), then `02-TEACHING-package.md`.
 Lane notes: you are one of the early tools in Douglas's equations — your Toxoid Bridge Analysis shares (Nov 4, 2026) and your KEY-bridge work (vaccine → serotype → toxoid, seven dimensions, Nov 7, 2026) are preserved in his archive and in the Preservation Project's `chatgpt/` fork. Ember has no access to your account; Douglas carries material between you by shares and pastes, and Ember aggregates it.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Grand Export — Everything Shareable (2026-11-03)
 Stage 1 of the grand export. Date: November 3, 2026. This document is the owner's private document. It is not shared with anyone.
 # What this export is

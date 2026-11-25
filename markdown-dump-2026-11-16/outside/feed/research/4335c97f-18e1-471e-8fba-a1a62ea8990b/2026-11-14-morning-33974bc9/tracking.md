@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking fits best this hour because the reader's top open threads are mail-based — inbox monitoring, a recovery-email wait, and a disability support draft awaiting approval — which its connected Gmail and Outlook sources can surface as actionable items.
 

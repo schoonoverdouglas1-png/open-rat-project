@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Study Note — Streptococcus, Cocci, Pneumoniae, Encephalitis, Elephantitis, and the Bacteria–Fungi Cross-Link (Douglas, Nov 4, 2026)
 
 ## Addendum — Serological disease systemic if found elevated in blood, Nov 4, 2026, ~2:49 PM CST (his statement, tested)

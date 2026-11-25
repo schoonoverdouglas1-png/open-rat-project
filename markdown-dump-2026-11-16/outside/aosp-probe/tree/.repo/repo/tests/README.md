@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Repo Tests
 
 There is a mixture of [pytest] & [Python unittest] in here.  We adopted [pytest]

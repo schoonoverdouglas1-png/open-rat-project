@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Live WebSocket lifecycle
 
 `client.live.connect()` and `client.live.forks.connect(session_id=...)` leave

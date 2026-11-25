@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Source notes — read 2026-11-03 via web index (not live-browser verified unless noted)
 
 1. Jingmenvirus Cameroon 2025 — https://pmc.ncbi.nlm.nih.gov/articles/PMC12723927/ and https://link.springer.com/article/10.1186/s13071-025-07111-4

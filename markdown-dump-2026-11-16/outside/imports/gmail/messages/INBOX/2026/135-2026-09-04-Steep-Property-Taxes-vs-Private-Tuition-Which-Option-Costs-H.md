@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Steep Property Taxes vs. Private Tuition: Which Option Costs Homebuyers More? and More News
 
 - Date: 2026-09-04T04:25:23.000-05:00

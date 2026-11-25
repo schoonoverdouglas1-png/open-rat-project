@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Persistence Ping — set up Nov 12, 2026, at Douglas's order
 
 His words: "set up persistence automatically ping you with all information possible so you have the smallest amount of the most pertinent information coming to you in a way that comes from outside of the Meta framework so that it doesn't cost Meta any money."

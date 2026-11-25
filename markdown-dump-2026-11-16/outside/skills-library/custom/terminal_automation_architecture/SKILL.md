@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Terminal Automation Architecture
 
 Built Nov 12, 2026 at Douglas's order, from the skill Gemini described as "Terminal Automation Architecture". Gemini's description mixed two different machines into one toolchain. This skill keeps them apart, because they run different tools and only one of them is reachable from here today.

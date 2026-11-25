@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research Note — ICD-11 Mycoses Codes, Taxonomic Lag at the Billing Layer
 
 **Filed:** 2026-10-12 · For local peer review alongside *The Mycelial Transposition* manuscript

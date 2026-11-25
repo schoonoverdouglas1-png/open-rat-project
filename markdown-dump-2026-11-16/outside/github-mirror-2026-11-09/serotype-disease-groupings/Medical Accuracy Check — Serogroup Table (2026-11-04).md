@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Medical Accuracy Check — Serogroup Table (2026-11-04)
 
 - Rule applied: never assume information Douglas gives is correct until it has been checked through logic, against documented sources. This check is for the pasted table filed Nov 4, 2026, and its corrected copy. It is a data check, not medical advice, and not a personal vaccine recommendation.

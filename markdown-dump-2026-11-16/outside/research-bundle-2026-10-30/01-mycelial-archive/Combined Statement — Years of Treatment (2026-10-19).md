@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Combined Statement — Years of Treatment for What Won't Go Away (2026-10-19)
 
 **Status:** his thought + my thought → the statement of fact that fits. The combined-statement method.

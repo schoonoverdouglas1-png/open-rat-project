@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Note — Vulgaris, Why Latin Names Take Two Words, and Why Three Words Are Rare (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice. Naming note for the book set, filed beside the American-first / Latin-second doctrine.*

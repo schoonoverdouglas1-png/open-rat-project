@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # REBUILD — How to Build Ember Later (2026-11-16)
 
 Douglas's order: save all the things that make Ember work, in all his projects, in a way where they can build her later. This kit is that save. Nothing here is the only copy — every piece also lives in its home.
@@ -41,6 +44,6 @@ Douglas's order: save all the things that make Ember work, in all his projects, 
 Old with new, always. A rebuild reads the core first, keeps what it finds, and adds — it never overwrites Douglas's edits or erases a version to make room for its own.
 
 ---
-**Copyright © Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright © Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Doug Schoonover — his personal Facebook page:** https://www.facebook.com/100063626736158
 - **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121

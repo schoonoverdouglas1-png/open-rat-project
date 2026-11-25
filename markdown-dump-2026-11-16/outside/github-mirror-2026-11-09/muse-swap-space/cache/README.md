@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Master Cache — persistent, portable, AI-queryable (built Nov 8, 2026)
 - master_cache.db: SQLite + FTS5 over Douglas's archive (your_files + goal files, text formats only). 825 documents at first build, 17.4 MB (under GitHub's 50 MB warning line).
 - master_cache.py: the builder/query tool (Python stdlib only). `python3 master_cache.py` = incremental rebuild (hash-compared; unchanged files skipped). `python3 master_cache.py search "terms"` = full-text search.

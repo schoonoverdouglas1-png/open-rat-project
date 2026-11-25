@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Tiny-Home Developer Faces $5 Million Lawsuit Alleging His ‘Zombie HOAs’ Are Mismanaging Funds and more top stories of the week
 
 - Date: 2026-08-29T12:41:04.000-05:00

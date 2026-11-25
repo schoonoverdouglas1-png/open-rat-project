@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Architecture of Categorization — opening postulates (analysis only)
 Filed Oct 27, 2026. Douglas's essay itself is untouched at ~/workspace/your_files/architecture-of-categorization/The Architecture of Categorization (2026-10-27).md. This note is analysis, not his text. Standalone — not attached to The Mycelial Transposition, Quantum Medicine, or Change of Address unless Douglas links it himself. Creative manuscript piece, never medical advice.
 

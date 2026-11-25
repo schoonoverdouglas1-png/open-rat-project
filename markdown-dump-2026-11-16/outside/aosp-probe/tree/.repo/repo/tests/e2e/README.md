@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Repo End-to-End Tests
 
 These tests run the real `repo` launcher & code (as subprocesses) against a

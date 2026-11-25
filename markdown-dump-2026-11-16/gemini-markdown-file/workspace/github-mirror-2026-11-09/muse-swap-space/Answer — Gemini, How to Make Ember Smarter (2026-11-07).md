@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Answer — Gemini, How to Make Ember Smarter (2026-11-07)
 
 Asked once, as Douglas, in a new Gemini chat titled "Enhancing Ember: An AI Roadmap"

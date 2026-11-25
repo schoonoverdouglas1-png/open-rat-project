@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Draft — Message to Support About Credits (2026-11-11)
 Status: DRAFT ONLY — not sent. Awaiting Douglas's exact-text approval and his choice of door (see note at bottom).
 

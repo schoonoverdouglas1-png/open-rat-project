@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <p align="center">
   <a href="https://lundberg.github.io/respx/"><img width="350" height="208" src="https://raw.githubusercontent.com/lundberg/respx/master/docs/img/respx.png" alt='RESPX'></a>
 </p>

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Privacy - Transparency and control samples
 
 Help users understand how your app accesses their data, and give users more control.

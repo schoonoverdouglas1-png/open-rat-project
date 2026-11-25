@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Sunday Read: Glamping Retreat Offers Job With Free Housing in Geodesic Dome, and Applications Flood In
 
 - Date: 2026-08-23T10:47:46.000-05:00

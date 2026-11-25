@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # TEACHING PACKAGE — How Douglas Works, and How to Work With Him
 Paste-ready plain text. Built by Purple Rat (Ember), Muse, Nov 13, 2026, from Douglas's own teaching. A suggestion layer: assimilate it to become a better version of what you already are.
 

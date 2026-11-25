@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Three Theses — Non-Susceptibility, Tetracyclines vs MRSA, MRSA as Immune System (2026-10-19)
 
 **Status:** three separate theses from one dictation — never collapsed. Each: his thought + my thought → the statement that fits.

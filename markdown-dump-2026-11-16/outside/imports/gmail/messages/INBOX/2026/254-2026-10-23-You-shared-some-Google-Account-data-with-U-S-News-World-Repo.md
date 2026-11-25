@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # You shared some Google Account data with U.S. News & World Report
 
 - Date: 2026-10-23T11:30:42.000-05:00

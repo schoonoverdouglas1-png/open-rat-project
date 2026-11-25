@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has consistently printed clear health and science stories matching Douglas's medical research interests, while schedule last closed quiet.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Between Doctrine Trial — Full Protocol Design (2026-10-18)
 
 *Built at Douglas's commission: "Go deeper on the trial design." Manuscript material for his clinical-research setting — a book's trial design, not a real trial, not medical advice, and no facilitation of human-subjects research beyond the manuscript design. Nothing marked [H] is presented as verified.*

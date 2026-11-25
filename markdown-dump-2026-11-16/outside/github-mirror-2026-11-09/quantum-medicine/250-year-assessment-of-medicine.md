@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AN ASSESSMENT OF MEDICINE OVER THE LAST 250 YEARS
 
 *Prepared for the QUANTUM MEDICINE manuscript — a chapter/appendix of theory.

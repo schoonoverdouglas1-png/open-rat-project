@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Transcription Index and Coverage — Main Chat ("What is Ember"), Complete Through Nov 8, 2026
 
 **Built:** Nov 8, 2026, on Captain Douglas's direct order. **Repo:** PRIVATE `chat-archive` only.

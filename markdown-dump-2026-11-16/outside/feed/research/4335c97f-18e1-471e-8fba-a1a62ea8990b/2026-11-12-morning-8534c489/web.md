@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the broad interests prompt and has printed consistently, while schedule's recent picks mostly closed quiet and tracking rates lower with no recent record.
 

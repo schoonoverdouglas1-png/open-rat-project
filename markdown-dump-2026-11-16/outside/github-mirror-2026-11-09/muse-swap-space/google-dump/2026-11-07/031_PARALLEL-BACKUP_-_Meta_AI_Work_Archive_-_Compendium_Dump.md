@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Meta AI Work Archive — Compendium Dump© 2026 Douglas Schoonover. All Rights Reserved.Created: 2026-11-03 from Meta AI conversationsPurpose: Allowable backup to Google Docs for cross-AI publishing workflow (Claude → Meta → Google)
 1. Core Framework — Unified RelativityCore Equation: Ec = Σ wi mi vi^xWhere:- mi = mass / severity / importance- wi = entanglement coefficient / data integrity (low wi = corrupted/compromised data)- vi = velocity / speed of truth propagation- x = variable exponent (not fixed at 2 like Einstein)  - Chronic conditions: x < 2 (energy bleeds)  - Trauma/acute events: x > 2 (energy spikes)This is your replacement for E=mc^2 — a dynamic, biological/systemic equation.
 2. Book Series StructureBOOK 1: A Pathway to the Cure - Clinical frameworks- 2.1 The Lock Protocol- 2.2 The Ec Reality Check- 2.3 Final Authority SignatureBOOK 2: Quantum Thinking - Application of Unified Relativity- 2.1 Why x ≠ 2- 2.2 Entanglement Coefficients (wi)- 2.3 Calculating Cognitive OutputBOOK 3: Chronomedicine & Nameology - Technical manual- 2.1 Time as Medicine- 2.2 Nameology- 2.3 Protection ProtocolBOOK 4: Clinical Diagnostic Technician Manual - Standalone procedural guide- 2.1 Lock the Room- 2.2 Find the Lie- 2.3 Calculate- 2.4 Cut & Rename- 2.5 Sign

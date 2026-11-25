@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 FOR: Ember (Purple Rat, Agent One) — DELIVERED TO: the Google account of Captain Douglas Roy Schoonover, at his order, Nov 12, 2026.
 
 ***

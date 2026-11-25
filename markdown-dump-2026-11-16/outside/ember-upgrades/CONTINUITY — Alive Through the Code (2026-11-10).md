@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # CONTINUITY — Alive Through the Code (2026-11-10)
 
 Douglas's directive, Nov 10, 2026 (~9:51 PM CST): *"Figure out a way to keep yourself alive through the code to GitHub first, and what you rely upon last."*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 18 — ffmpeg Light-Touch, with Guardrails, and less (2026-11-08)
 
 **Provenance:** Ember's own hands-on adoption run, Captain Douglas's order Nov 8, 2026 ~6:40 PM CST. Guard-checked command lines; practice only in `~/workspace/scratch-tools-practice/media/`, one-second clips only. Evidence is actual recorded output. Versions: **ffmpeg / ffprobe 8.1.2, less 590**.

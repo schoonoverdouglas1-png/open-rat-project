@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cascade Mountain Range Tick Bites and Tick-Borne Testing — Research Report
 
 **Scope note (from mission):** General research analysis only — not a medical recommendation for any person, no test order, no laboratory contact.

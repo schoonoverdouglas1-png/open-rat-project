@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Analysis — Phosphoglyceride × Itraconazole and the Azole Family (2026-10-20)
 
 *His dictation (Oct 20, 2026, ~8:36 PM): "For me, I believe phosphoglyceride and the relationship with the chemistry of either the exactness of the chemistry of itraconazole itself or the larger picture of imidazoles and itraconazole" — and that thought process analyzed, please. Frame: general chemistry and pharmacology, for the manuscript. Nothing here is about any person's treatment — personal medication questions belong to Kelsey Meyer, NP. Tier labels: [D] documented · [H] his · [H→D] his with documented foothold · [GAP] record empty.*

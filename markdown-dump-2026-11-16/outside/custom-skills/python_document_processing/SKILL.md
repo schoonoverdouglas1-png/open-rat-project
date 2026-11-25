@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Python Document Processing
 
 Built Nov 12, 2026 at Douglas's order, from the skill Gemini described as "Python Document Processing". Every version below was verified live on this box the same day, by importing the library and by a smoke test. A library listed as missing in one Python is routed to the Python that actually has it, never assumed present everywhere.

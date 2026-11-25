@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Least Testing, Most Information — The Diagnostic Efficiency Paper
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* — EDUCATIONAL reference only.

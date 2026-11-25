@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # COPYRIGHT DECLARATION — "Way Forwarder" and "Way Forwardest"
 ## A public and private declaration, one text in both places, in the name of Douglas Roy Schoonover
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Please show me an expanded book upon this and show... -->
 <!-- Drive modified: 2026-10-26T12:00:18.803Z -->
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Launch Pack — Drafts for Douglas's Review (2026-11-08)
 
 **Status: DRAFTS ONLY.** Nothing here is posted, published, or committed anywhere.

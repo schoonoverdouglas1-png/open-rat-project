@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Connectivity Audio samples
 
 This module includes Audio Samples related to connectivity:

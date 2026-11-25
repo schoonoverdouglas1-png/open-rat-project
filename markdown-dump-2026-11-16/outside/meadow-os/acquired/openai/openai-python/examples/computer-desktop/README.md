@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Isolated desktop
 
 Run a browser and a native editor inside a private Debian guest. The sample

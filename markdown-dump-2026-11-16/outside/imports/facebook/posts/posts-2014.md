@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Own Facebook posts — 2014 (35 posts)
 
 - 2014-01-01T16:37:04+00:00 —  — https://facebook.com/654402359/posts/pfbid021W3E5GtSx9qmuEJdNRuuEFGWcH37d4D9NniMXfvADv7sSkPB3uCJJFmWxAxtaFaJl/

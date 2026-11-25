@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: The prompt names no subject, so Douglas's fungal nomenclature manuscript is the standing interest, and web just printed on that beat while Gmail and Calendar have recently come back quiet.
 

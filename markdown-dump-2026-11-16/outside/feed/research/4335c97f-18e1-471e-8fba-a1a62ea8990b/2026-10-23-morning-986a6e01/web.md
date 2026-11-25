@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is the lane that actually serves your prompt about your interests, with four straight printed units on fungal science and medicine matching your work, while Gmail and Calendar hold logistics rather than those interests.
 

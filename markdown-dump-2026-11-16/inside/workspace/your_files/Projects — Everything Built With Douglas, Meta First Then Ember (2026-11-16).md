@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Projects — Everything Built With Douglas
 
 Ordered the way Douglas commanded Nov 16, 2026: **Meta first, Ember (Muse) second** — from the beginning of the work together, Oct 2, 2026, through today. Everything on this list is a real project in the record: a goal workspace, a repository, a build, or a standing system. Cooler than anything he could have done all by himself — his words for why the list exists.
@@ -64,4 +67,4 @@ The list above is the *named* work. Underneath it sits the unnamed kind: 89 goal
 
 **Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/) · [Purple Rat — Doug's App](https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY) · [Copyright — Douglas Roy Schoonover (the app)](https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM)
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

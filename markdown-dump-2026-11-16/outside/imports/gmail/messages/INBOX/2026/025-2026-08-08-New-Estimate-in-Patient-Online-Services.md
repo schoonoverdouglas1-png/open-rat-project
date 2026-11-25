@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # New Estimate in Patient Online Services
 
 - Date: 2026-08-08T10:14:48.000-05:00

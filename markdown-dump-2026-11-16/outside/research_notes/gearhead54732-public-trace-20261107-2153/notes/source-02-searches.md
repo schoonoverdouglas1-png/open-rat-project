@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Source 02 — Web-index searches (all 2026-11-07)
 Queries run via browser_search, language en:
 1. "gearhead54732@gmail.com" — NO exact match. Results were only similar Gearhead businesses with DIFFERENT emails: YourGearHeadMechanic@gmail.com (Toledo, facebook.com/YourGearHeadMobileMechanic/posts/pfbid0gZVo43r5WzFoE1sFtY9yX64yBSRJHSKdF9yDXiL4K9M5yGztvcCG48N17UvFoLkTl), Gearheadsgaragekcmo@gmail.com, gearheadgarage1999@gmail.com, GearHeadGarage222@gmail.com, Gearheadtools765@gmail.com, gearhead67ave@gmail.com. None is gearhead54732@gmail.com.

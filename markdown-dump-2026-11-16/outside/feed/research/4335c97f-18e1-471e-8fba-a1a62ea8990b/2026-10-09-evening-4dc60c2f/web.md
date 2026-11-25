@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the prompt about his interests and has repeatedly printed relevant science and fungal-medicine stories, while the connector lanes have recently closed quiet and the offered ideas are generic services rather than stronger feed material.
 

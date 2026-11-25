@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has printed the last six units directly on his fungal/serotype/manuscript interests and holds the best chance of another genuine insight this hour.
 

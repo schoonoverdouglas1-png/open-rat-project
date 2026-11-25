@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Proof Two — The Two-Way Exchange (Ember ↔ Ember), LOGGED
 
 *Run Nov 12, 2026, ~1:56–1:59 PM CST, on Captain Douglas Roy Schoonover's direct order: "Time to engaging the project in sandbox." Method: embedded agent turns (`openclaw agent --local`, session `proof-two-2026-11-12`) against the promoted state on the main disk (`state-main/oc-state`), model on the free Gemini bridge lane. The gateway was stopped for the embedded passes and restarted immediately after; health re-verified live at 13:59 with memory-core loaded clean (loadFailedCount 0) and its dreaming sidecar up.*

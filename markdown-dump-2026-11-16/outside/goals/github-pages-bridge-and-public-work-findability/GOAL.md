@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # GitHub Pages bridge and public-work findability
 
 Goal ID: goal_603d06625bca

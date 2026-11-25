@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Evidence Ledger — Ember Research Spine (2026-11-07)
 
 Purpose: the project's shared memory for claims (Perplexity's ledger + DeepSeek's /sources register + ChatGPT's evaluation idea, combined). Every major research deliverable adds its claims here in this format; contradictions are tracked, never hidden (Douglas's overarching goal, Nov 4).
@@ -18,8 +21,8 @@ Purpose: the project's shared memory for claims (Perplexity's ledger + DeepSeek'
 - Claim: RCS cannot carry AI-to-AI traffic; MCP/API/gRPC/WebSocket/queues are the channels. Source: Gemini, DeepSeek, Perplexity, Duck.ai answers Nov 7 — convergence, soft signal only (overlapping training). Tier: [PARTIAL]. Status: open.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

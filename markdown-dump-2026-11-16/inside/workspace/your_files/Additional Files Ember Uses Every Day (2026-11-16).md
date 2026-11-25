@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Additional Files Ember Uses Every Day — From Her Memory, Her Soul, and Her Accounts
 
 Built Nov 16, 2026, at Douglas's order. Every file below was verified on disk this morning (sizes in bytes). SOUL.md and MEMORY.md are the base — this list is everything ADDITIONAL that runs beside them, every day.
@@ -47,4 +50,4 @@ The pattern in this list, in one line: the heart pair says who she is and what s
 
 *Copyright — Douglas Roy Schoonover (his claim, as recorded Nov 15, 2026; recording a statement is not a copyright registration, and no registration was filed by Ember.)*
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

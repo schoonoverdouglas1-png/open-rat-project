@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Personal assistants on my phone
 
 Goal ID: goal_53aec1052755

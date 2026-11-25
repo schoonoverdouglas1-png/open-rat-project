@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Entries 5 and 20 + The Sputum Test — The Etymology Reading (2026-10-17)
 
 *His commission: "Show me a repeat of the five plus twenty and add in the speed test and show that PDF in there second time and then analyze the etymology and show me something interesting based upon that." The repeat, the document, and the word-analysis. Etymology only — no interpretation of any person's test.*

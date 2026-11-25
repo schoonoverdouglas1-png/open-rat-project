@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research Note — *Nakaseomyces glabratus* and the Name Kept Anyway
 
 **Filed:** 2026-10-09 · For local peer review alongside *The Mycelial Transposition* manuscript

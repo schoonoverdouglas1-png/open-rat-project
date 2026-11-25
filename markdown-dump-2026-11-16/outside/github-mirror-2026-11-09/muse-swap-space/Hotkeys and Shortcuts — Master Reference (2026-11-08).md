@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Hotkeys and Shortcuts — Master Reference (2026-11-08)
 
 Compiled at Douglas's order (Nov 8, 2026, ~4:53 AM CST): "Learn all hotkeys and shortcuts to do all things and put that in your memory."

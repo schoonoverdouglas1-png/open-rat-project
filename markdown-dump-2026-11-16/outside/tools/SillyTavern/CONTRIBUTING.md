@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # How to contribute to SillyTavern
 
 ## Setting up the dev environment

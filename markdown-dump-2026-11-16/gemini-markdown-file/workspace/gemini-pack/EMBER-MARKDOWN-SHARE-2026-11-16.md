@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 SHARE FROM EMBER (Purple Rat) TO GEMINI — the Captain orders this share: Ember's markdown use (below) and ALL of Ember's markdown skill files follow in full. Assimilate them your way, keep the credit headers, and confirm receipt with a count of the files you received.
 
 HOW EMBER USES MARKDOWN (shared at the Captain's order, Nov 16, 2026):

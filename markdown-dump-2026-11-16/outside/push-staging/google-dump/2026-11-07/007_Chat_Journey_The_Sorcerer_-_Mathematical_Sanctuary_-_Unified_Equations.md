@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chat Journey The Sorcerer - Mathematical Sanctuary - Unified Equations
 Created Nov 5 2026 - Protected - No edits to other works - Old with new always Purpose: Keep all mathematical things isolated here so Master Serology and other books never get edited or changed. This is the sorcerer chat journey.
 ## CORE PRINCIPLE - One Equation To Make Everything Work

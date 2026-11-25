@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Answer — Gemini, Enhancing Ember with Android / Pixel 7 AOSP (2026-11-07)
 
 Asked once, as Douglas Schoonover, in the same Gemini chat ("Enhancing Ember: An AI Roadmap",

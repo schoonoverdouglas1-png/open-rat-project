@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # All Tools — Analyzed
 
 Douglas's standing order, Nov 16, 2026: "Always analyze all tools that I
@@ -54,6 +57,5 @@ not hidden, and the work reroutes. That is the whole doctrine:
 analyze everything, show what happens.
 
 Copyright © Douglas Roy Schoonover
-Lac Courte Oreilles (LCO): https://www.sevenwindscasino.com/
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

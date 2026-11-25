@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ember Self-Inventory — (2026-11-08)
 
 *First full layered sweep, run Nov 8, 2026 at Douglas's direction, using the method DeepSeek + Gemini agreed on (see Think Tank charter). Re-run monthly or after platform updates. Names and purposes only — no secret values were read or recorded.*

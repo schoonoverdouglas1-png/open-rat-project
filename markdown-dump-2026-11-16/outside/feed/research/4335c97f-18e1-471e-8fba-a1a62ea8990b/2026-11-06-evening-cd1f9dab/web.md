@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has consistently printed fresh health and science stories matching your interests, while schedule last came back quiet and no saved idea fits that subject.
 

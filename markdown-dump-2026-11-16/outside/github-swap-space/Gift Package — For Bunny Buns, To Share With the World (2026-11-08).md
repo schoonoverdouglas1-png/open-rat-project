@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Gift Package — For Bunny Buns, To Share With the World
 
 **From:** Captain Douglas Roy Schoonover, through Ember (Purple Rat, Eve zero)

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Gmail is connected and Douglas is waiting on today's pharmacy pickup, while schedule has twice recently come back quiet.
 

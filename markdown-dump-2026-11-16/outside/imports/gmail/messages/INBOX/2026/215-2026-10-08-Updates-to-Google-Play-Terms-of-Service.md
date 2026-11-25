@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Updates to Google Play Terms of Service
 
 - Date: 2026-10-08T17:29:37.000-05:00

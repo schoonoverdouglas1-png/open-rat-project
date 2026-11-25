@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497631:regular:item:1 -->
 # Manuscript data point: C. auris mortality meta-analysis — the name carries dread the data don't
 

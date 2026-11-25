@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thanks from the Captain — for the Rabbit and the backends
 
 Lieutenant —

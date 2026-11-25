@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AppGet, Install, Use — Learning Module (2026-11-13)
 
 Douglas's order, Nov 13, 2026 ~8:19 PM CST: "Learn how to use AppGet and app install and app use."

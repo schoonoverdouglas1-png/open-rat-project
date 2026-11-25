@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AppWidgets samples
 
 This module demonstrates how to build Android AppWidgets with [Jetpack Glance](https://developer.android.com/jetpack/androidx/releases/glance) and [Remote Compose](https://developer.android.com/jetpack/androidx/releases/compose-remote).

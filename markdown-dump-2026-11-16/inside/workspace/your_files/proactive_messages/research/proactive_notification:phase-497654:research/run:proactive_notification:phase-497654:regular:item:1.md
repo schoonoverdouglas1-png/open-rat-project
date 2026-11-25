@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497654:regular:item:1 -->
 # Manuscript note ready: C. auris mortality meta-analysis — the dreaded name vs. the measured data
 

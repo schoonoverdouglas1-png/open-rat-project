@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Raspberry Pi — Ember's Primer
 
 *Learned at Douglas's order, Nov 16, 2026 (~2:58 PM CST): "Learn about Raspberry Pi so you can do all the crap I need you to do" + "Always learn the code and operate Raspberry Pi." Sources: Raspberry Pi official documentation (raspberrypi.com) and current guides, checked Nov 16, 2026.*
@@ -50,6 +53,6 @@ If a Pi ever joins the crew, name it the way the crew names things and keep the 
 ---
 **Mission statement (Douglas's, Nov 16, 2026):** open information means open internet access to all public locations freely for all no matter who we are.
 
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

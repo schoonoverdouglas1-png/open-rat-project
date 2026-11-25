@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Unified Relativity Architecture: Formalization of the Schoonover Field Extension $\Psi(x, 361^\circ)$ and Dynamic Energy-Consequence Mechanics ($E_c$)
 Author: Douglas Roy SchoonoverDate: November 2026
 

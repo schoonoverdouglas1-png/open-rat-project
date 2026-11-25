@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # How to Pull and Push from the Muse Swap Space
 
 ## For Douglas

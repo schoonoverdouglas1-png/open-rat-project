@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Medical research and continuous updates
 
 Goal ID: goal_b4e3b37c943b

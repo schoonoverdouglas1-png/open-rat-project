@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Making a libsignal release
 
 ## 1. Run bin/prepare_release.py

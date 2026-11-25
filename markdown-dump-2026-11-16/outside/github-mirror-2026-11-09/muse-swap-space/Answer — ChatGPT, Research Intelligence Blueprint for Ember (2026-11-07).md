@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Answer — ChatGPT, Research Intelligence Blueprint for Ember (2026-11-07)
 
 Asked once, as Douglas Schoonover, in a new ChatGPT chat titled "Research Intelligence Blueprint"

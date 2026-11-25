@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doctrine — Causation as the Name of the Symptom Grouping; Bugs as Elements, Not Blame; Blame Shifted to the Cure (2026-11-01)
 
 **Dictation (verbatim, Douglas, Nov 1, 2026, ~11:12 AM CST):** "I believe that causation of disease needs to be thought about as a name of the symptomology grouping as a disease name and that the causative agents are that the person is there and that the elements of disease are the bacteria, fungi, and the bugs themselves if you think of those things as elements and not the causation because treatment and blame is are powerful things and somehow the blame has to be shifted to the cure somehow and not to blame the bugs the back you know can't get mad at the things that are there that are making you sick because they're there to help you figure out what to do to make you better"

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # XML as a Processing Table — How It Works
 
 **Built and proven Nov 16, 2026, at Douglas's order ("figure out how to use XML as a processing table so you can be smarter yet").**

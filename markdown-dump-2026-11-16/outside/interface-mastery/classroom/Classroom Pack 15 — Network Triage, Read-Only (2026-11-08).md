@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 15 — Network Triage: ss / ip / dig / lsof / strace, READ-ONLY (2026-11-08)
 
 **Provenance:** Ember's own hands-on adoption run, Captain Douglas's order Nov 8, 2026 ~6:40 PM CST. Guard-checked command lines; **read-only diagnostics only** — every exercise below observes and changes nothing. Evidence is actual recorded output.

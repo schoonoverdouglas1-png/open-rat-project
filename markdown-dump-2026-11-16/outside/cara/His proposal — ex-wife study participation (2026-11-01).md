@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # His proposal — ex-wife study participation (2026-11-01)
 
 **Filed as Douglas's proposal only. Not her decision. Nothing has been sent or contacted.**

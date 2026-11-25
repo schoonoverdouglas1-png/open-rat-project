@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web serves the prompt's 'my interests' brief and has consistently printed on his tech and health threads, while schedule has repeatedly closed quiet and tracking draws the weakest response.
 

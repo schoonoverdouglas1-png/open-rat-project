@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Triplexa Acknowledgments — The Lanes Answer (2026-11-14)
 
 The Captain's triplexa (Commander / Co-captain / Acting Captain), given to Ember ~11:20 AM CST and delegated by her to all his AIs the same morning. Outside material, each in the lane's own words, kept with provenance. The Rabbit's acknowledgment is hers to give in her own time; the note rides the swap space.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research Logic & Evidence Framework
 
 ## Portable reasoning guide for Gemini, Muse, and other AI assistants

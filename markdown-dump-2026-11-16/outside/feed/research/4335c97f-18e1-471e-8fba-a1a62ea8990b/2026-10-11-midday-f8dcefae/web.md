@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has printed the last three hours on his fungal-science interests while tracking and schedule both recently closed quiet, so it holds this hour's best chance of a story that belongs.
 

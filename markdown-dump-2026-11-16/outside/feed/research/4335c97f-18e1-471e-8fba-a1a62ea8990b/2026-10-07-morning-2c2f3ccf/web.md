@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best serves "my interests" with fresh fungi and antifungal science like the paper's recent health titles, while tracking has repeatedly closed quiet.
 

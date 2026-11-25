@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Serogroup Table — Corrected Copy 3, Membership Fixes for Groups 9 and 33 (2026-11-04)
 
 - Third corrected copy, built Nov 4, 2026, from Corrected Copy 2 (Vaccine Breaks Fixed). Original paste, first corrected copy, and Corrected Copy 2 untouched, old-with-new.

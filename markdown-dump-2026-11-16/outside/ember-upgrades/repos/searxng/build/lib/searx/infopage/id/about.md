@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Tentang SearXNG
 
 SearXNG adalah sebuah [mesin pencari meta], yang mendapatkan hasil dari

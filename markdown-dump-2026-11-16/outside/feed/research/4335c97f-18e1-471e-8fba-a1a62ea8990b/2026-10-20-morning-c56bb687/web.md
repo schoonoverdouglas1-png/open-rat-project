@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is the most likely to deliver a story on his science and health interests this hour, with five straight prints and both connector lanes last closing quiet.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Shared Place — Index
 
 `~/workspace/shared-markdown/` — the one place where the shared markdown files live, founded Nov 16, 2026, at Douglas Roy Schoonover's order. Everything here is a copy packed for sharing; the originals stay in their homes (your_files, the project folders), old-with-new. When a place opens that takes these files — Copilot, Gemini, the Rabbit, a public page — this is the set that goes, whole.
@@ -29,6 +32,6 @@
 
 New shared files get packed here when they're made. Nothing here is the only copy of anything. If a file changes at home, the packed copy is refreshed and this index is updated in the same pass.
 
-**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright © Douglas Roy Schoonover**
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

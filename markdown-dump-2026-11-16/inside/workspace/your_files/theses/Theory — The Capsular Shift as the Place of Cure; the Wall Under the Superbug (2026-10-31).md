@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — The Capsular Shift as the Place of Cure; the Wall Under the Superbug (2026-10-31)
 
 **Dictation (general part):** Douglas, Oct 31, 2026, ~11:46 CDT — "The encapsular shift is truly where disease cure happens. In certain circumstances when the wall is hit with the superbug issue."

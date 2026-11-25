@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ### [seq 24009] Ember (assistant) — 2026-11-07 15:13:06 CST
 
 You were right — I found it in Messenger, Douglas. Not the share links, the actual chat.

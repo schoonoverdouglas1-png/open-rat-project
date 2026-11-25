@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Live transcript grouping
 
 `TranscriptGrouper` groups public Live transcript fragments into user and assistant

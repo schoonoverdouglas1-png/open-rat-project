@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Reproject Command Contract
 
 The `repo.reprojectcmd` configuration names a command that `repo sync` runs

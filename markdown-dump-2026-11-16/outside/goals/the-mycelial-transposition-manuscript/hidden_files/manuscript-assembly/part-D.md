@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PART 5 — THE VIRUSES
 
 *Manuscript material — creative theoretical work, never medical advice. The virus track is the rider: not the disease, not the illness, not the sickness, not the vaccine. All five stay separate here.*

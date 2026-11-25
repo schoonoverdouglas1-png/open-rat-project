@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doctrine Note — The Questionable Gap: Liability, Cheap Medicine, Testing Gaps
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (doctrine: economics, liability, surveillance)

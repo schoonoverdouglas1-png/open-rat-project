@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Posit — In La Crosse Encephalitis, the Viruses Are the Manifestation; Fungus, Bacteria, Molds Are the Basis (2026-10-18)
 
 **Status:** filed as his posit, tested against the record.

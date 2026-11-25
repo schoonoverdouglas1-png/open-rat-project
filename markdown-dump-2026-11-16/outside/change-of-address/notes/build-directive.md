@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Build directive — Quantum Computer Thinking "Change of Address"
 
 *Douglas's standing orders for this book, night of Oct 15/16, 2026.*

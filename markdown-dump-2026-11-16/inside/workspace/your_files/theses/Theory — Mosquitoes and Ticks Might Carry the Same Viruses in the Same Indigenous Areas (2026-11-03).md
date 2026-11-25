@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Mosquitoes and Ticks Might Carry the Same Viruses in the Same Indigenous Areas (2026-11-03)
 
 **Origin (his theory):** Douglas, Nov 3, 2026. He proposes that the bugs — mosquitoes and ticks — might carry the same viruses, in the same indigenous areas, and that this research needs to be looked upon.

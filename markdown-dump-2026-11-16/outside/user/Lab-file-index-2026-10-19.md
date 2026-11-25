@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Lab file index — Oct 19, 2026 uploads
 
 Filed as received. No interpretation here — what the results mean stays with Kelsey Meyer, NP.

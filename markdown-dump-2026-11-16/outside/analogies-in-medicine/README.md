@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Analogies in Medicine
 
 A collected shelf of the analogies medicine actually runs on — gathered, labeled, and tested.

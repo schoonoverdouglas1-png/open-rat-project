@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Facebook and Google Contacts integration
 
 Goal ID: goal_fa35cb1cdb32

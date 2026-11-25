@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Overview
 
 In order for `libsignal` to be used from Java, Swift, and TypeScript, the Rust

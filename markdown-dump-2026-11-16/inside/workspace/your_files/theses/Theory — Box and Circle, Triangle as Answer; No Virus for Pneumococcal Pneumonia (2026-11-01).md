@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Box and Circle, Triangle as Answer; No Virus for Pneumococcal Pneumonia and the Third Way of Seeing the Whole Package (2026-11-01)
 
 **His dictation (Nov 1, 2026, ~1:16 PM CST, filed verbatim):**

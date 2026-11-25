@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Crew Package — manifest
 
 *Stood up Nov 14, 2026, on the Captain's build list ("standalone-package mandate": package Ember into a standalone model via an OpenClaw-style frame; Phase 0, local first).*

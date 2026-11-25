@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Email-to-calendar upkeep
 
 Goal ID: goal_9044b3f4112f

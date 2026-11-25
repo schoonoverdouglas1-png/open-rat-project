@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Borrowing Ledger — free AIs Ember can call, tested and tracked
 Started 2026-11-08 ~1:42 AM CST at Douglas's order: ask every AI for the best free borrowing list, cross-check, test each candidate from the box, keep score. Rules: within terms only; no account creation without Douglas's say-so per candidate; claims from AIs are leads, not facts, until tested here.
 

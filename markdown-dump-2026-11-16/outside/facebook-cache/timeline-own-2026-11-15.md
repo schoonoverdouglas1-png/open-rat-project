@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cache batch — Douglas Schoonover's own timeline
 - Source: `facebook-cli timeline fetch --profile-id 654402359` (connector, read-only)
 - Retrieved: 2026-11-15 07:07–07:08 CST (America/Chicago)

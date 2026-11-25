@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is most likely to bring a fresh, skimmable science or health story on Douglas's serotype and disease research interests, while schedule just came back quiet and tracking's Gmail record is weak.
 

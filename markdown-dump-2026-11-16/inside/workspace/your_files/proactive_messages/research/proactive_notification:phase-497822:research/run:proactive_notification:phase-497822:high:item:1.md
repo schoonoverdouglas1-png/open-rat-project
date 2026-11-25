@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497822:high:item:1 -->
 # Word-for-word ride-booking call script for Monday's Oct 19 visit
 

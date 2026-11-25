@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research Note — Photodisinfection Cleared Severe Onychomycosis in McMaster Cohort Study
 
 **Filed:** 2026-10-06 · For local peer review alongside *The Mycelial Transposition* manuscript

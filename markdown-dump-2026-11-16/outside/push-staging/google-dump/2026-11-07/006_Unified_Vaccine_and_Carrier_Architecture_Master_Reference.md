@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Unified Vaccine & Carrier Architecture: Master Reference Document
 ## 1. Master Comparative Reference Table
 

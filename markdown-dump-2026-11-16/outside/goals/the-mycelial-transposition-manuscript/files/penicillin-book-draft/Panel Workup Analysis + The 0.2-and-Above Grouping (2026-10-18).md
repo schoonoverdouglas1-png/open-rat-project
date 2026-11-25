@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Panel Workup Analysis + The 0.2-and-Above Grouping (2026-10-18)
 
 **For *The Mycelial Transposition* — educational manuscript reference only. Never medical advice. No diagnosis, no application to any person. His values appear below as quoted numbers only — interpretation of personal results belongs to his clinician, Kelsey Meyer, NP. Testing and treatment decisions belong to clinician and patient together.**

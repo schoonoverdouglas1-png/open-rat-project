@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cara has a new test result
 
 - Date: 2026-08-11T11:09:44.000-05:00

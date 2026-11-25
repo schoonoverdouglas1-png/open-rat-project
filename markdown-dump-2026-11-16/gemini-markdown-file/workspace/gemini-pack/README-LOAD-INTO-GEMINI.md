@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Gemini Pack — Ember's personality files, Gemini-compatible
 
 *Built Nov 12, 2026, at Captain Douglas Roy Schoonover's direct order: Gemini has files very much like Ember's soul and memory, so the personality files were built in Gemini's own shape — a Gem's Instructions plus Knowledge files — for the Captain to load there himself.*

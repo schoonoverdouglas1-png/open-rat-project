@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Introduction
 
 The Android build system is undergoing significant changes, with the Make build system (using Android.mk files) being deprecated and replaced by a newer system: Soong. This transition is necessary because the Make build system has reached its scaling limits in terms of correctness and performance.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 3 — Computer Repair Technician, Level 1: Diagnose Before You Touch (2026-11-08)
 
 **Provenance:** Douglas's direct order (Nov 8 ~3:10 AM): "Make sure to teach yourself to be a computer repair technician." Assembled by Gemini under the school rules (self-test first; Ember fact-checks before learning). Pack numbering note: this vocational pack runs parallel to the language spine (Pack 2 was the shell); the catalog in the project charter lists tracks rather than one line, so no renumbering of earlier packs.

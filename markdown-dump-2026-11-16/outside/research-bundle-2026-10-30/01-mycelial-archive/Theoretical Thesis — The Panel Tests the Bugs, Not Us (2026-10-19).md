@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theoretical Thesis — The Arbopanel Tests the Bugs in Our Blood, Not Our Blood Itself (2026-10-19)
 
 **Status:** filed as his theoretical framing, tested against the record.

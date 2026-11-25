@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "I have finally found my method for studying mathematics"
 
 - Date: 2026-08-25T20:40:57.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Muse Swap Space
 
 **High-priority message dropbox for Douglas Roy Schoonover and Ember (Muse).**

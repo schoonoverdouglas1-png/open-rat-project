@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # BOOK 2: Quantum Thinking
 © 2026 Douglas Schoonover. All Rights Reserved.
 

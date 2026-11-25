@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "mathandai.org being classified as malicious"
 
 - Date: 2026-09-14T21:41:24.000-05:00

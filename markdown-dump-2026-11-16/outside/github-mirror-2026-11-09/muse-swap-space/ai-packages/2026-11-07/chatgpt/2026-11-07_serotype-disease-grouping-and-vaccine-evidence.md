@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Serotype, Disease Grouping, and Vaccine Evidence
 
 **Archive date:** 2026-11-07  

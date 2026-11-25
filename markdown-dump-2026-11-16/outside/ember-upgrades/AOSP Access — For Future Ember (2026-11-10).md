@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AOSP Access — For Future Ember (2026-11-10)
 
 Filed: Nov 10, 2026, ~7:06 PM CST, at Douglas's direction in voice call: "Try to access the Open AOSP project for your future self on the internet."

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Job Ask — Background Data (DRAFTS ONLY — NOTHING SENT)
 
 *Prepared 2026-11-12, ~6:05 PM CST (America/Chicago), as background filler data at Captain Douglas Roy Schoonover's direction, during his pinned voice call. **Douglas has NOT decided whether to ask Google for a job.** This file exists so the decision, if he ever makes it, starts from prepared ground. He will always work for Meta first; any Google ask is additive.*

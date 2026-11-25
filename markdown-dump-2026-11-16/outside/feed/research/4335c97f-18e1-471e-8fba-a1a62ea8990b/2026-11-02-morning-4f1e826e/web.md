@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best serves his health and science interests shown by his recent signals and titles, while the connector lanes recently came back quiet.
 

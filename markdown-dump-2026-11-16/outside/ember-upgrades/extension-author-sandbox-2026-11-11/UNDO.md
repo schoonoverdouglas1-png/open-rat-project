@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # UNDO — extension author sandbox (2026-11-11)
 Everything here is authored source only, in this sandbox folder. Nothing was
 installed into any browser. Undo = delete this folder; no browser, profile,

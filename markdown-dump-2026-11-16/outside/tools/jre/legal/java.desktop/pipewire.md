@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## PipeWire 1.3.81
 
 ### PipeWire license:

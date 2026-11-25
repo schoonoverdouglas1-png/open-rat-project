@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Viral Spikes as Interlocking Mechanism, Tissue Holding, and Waste Membranes (2026-11-01)
 
 **Provenance:** Douglas's dictation, Nov 1, 2026, ~1:33 PM CST, filed verbatim below. This dictation **resolves** the open "fingers" referent in the Lincoln log theory filed the same day: fingers = viral protein spikes (candidate (a) in that file, now confirmed by his own words). The Lincoln file is left untouched; this file is the new record, old-with-new.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498338:regular:item:1 -->
 # Mayo sent a new reminder SMS today for your Monday Nov 9 appointment — reply 12 to confirm, and the eCheck-In link
 

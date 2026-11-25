@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best serves Douglas's medical and science interests this hour, with a strong recent run of printed health and science stories while the connector lanes have recently come back quiet.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Eighty-year-old voice — thread note
 
 *Filed Oct 15/16, 2026 — from Douglas's own seed idea.*

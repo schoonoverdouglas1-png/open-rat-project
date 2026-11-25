@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doctrine — No Stigma for the Sick; We Are Born Sick; Healing Is Asked For (2026-10-19)
 
 **Status:** his doctrine, filed as his. A humane one, received plainly.

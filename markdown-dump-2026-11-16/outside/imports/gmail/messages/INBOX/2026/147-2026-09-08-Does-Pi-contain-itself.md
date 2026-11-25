@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Does Pi contain itself?"
 
 - Date: 2026-09-08T21:34:11.000-05:00

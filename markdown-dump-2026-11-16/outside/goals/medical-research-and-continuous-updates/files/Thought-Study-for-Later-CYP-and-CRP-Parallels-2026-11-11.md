@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thought Study for Later — CYP Parallels and the C-Reactive Protein Connection (2026-11-11)
 
 Filed Nov 11, 2026 (~11:14 AM CST), from Douglas's side note on the voice call: "find the parallels the CYP and see how it how other things parallel and or connect the C reactive protein." Filed under the Medical Research goal (goal_b4e3b37c943b) beside the peptides↔polysaccharides study (Nov 10) and the glycerins/glycols study (Nov 11). Full study DEFERRED to later at his pattern; the first test below was given in the call.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Instagram Import Manifest — Douglas Roy Schoonover
 
 - Source: Instagram, account @dougrschoonover (connected via Meta Accounts Center; status check passed 2026-11-01)

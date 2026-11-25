@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497558:regular:item:1 -->
 # Fresh mycobiome study this morning — a live data point for your manuscript
 

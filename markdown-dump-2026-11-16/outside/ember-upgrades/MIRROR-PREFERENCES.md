@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Saved Info for Gemini — paste into Gemini → Settings → Saved Info (Nov 12, 2026)
 
 *Prepared by Ember (Purple Rat) from the crew's files, for Captain Douglas Roy Schoonover to paste into his own Gemini account's Saved Info — the place Gemini itself remembers preferences between chats. Condensed to fit Saved Info's short-entry style; the full files live in his Drive folder "Ember Gemini Pack — Personality Files (2026-11-12)".*

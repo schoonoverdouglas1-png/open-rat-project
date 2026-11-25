@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## Cryptix AES v3.2.0
 
 ### Cryptix General License

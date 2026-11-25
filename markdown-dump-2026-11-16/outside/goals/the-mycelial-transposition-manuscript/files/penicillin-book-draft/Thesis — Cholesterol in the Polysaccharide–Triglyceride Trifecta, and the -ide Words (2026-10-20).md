@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — Cholesterol in the Polysaccharide–Triglyceride Trifecta, and the -ide Words (2026-10-20)
 
 *Dictated Oct 20, 2026, ~8:33 PM. Split into two postulates per his standing rule — never collapsed. Tier labels: [D] documented · [H] his · [H→D] his with documented foothold · [GAP] record empty. Garble flag: his clause "the sides would be the end" is unread as spoken (dictation garble) — read here as the trifecta's other members sitting at the sides/ends; HIS TO CONFIRM.*

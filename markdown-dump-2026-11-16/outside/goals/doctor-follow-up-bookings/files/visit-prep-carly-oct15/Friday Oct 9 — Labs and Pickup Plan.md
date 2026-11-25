@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Friday Oct 9 — Labs and Pickup Plan
 
 For: Douglas — Oct 15 follow-up with Carly Overgard, NP, OakLeaf Clinics–Eau Claire (3802 Oakwood Mall Dr, 715-839-9280; Thu Oct 15, 9:20 AM, arrive 9:05)

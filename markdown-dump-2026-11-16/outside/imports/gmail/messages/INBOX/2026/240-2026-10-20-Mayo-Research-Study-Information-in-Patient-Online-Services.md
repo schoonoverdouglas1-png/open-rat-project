@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo Research Study Information in Patient Online Services
 
 - Date: 2026-10-20T08:40:43.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Blood / serum / plasma PCR — Mayo single-organism tests and true blood panels
 - TIKLB Tick-Borne Panel, Molecular Detection, PCR, Blood — https://www.mayocliniclabs.com/test-catalog/overview/618311 — Whole Blood EDTA, 1 mL. Components BABPB Babesia spp., EPCRB Ehrlichia/Anaplasma (E. chaffeensis, E. ewingii/canis, E. muris eauclairensis, A. phagocytophilum), BMIPB Borrelia miyamotoi. Does NOT detect B. burgdorferi / B. mayonii. NY Yes.
 - BRBST Tickborne Bacterial, PCR and Sequencing, Blood — https://mml.testcatalog.org/show/BRBST — Whole Blood EDTA, 1 mL, 16S PCR + NGS, NOT first-tier, only when routine testing negative; also detects Coxiella, Leptospira-like presentations. Rochester.

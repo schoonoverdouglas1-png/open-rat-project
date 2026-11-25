@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Analysis — Facebook/Meta Server System and Admin Performance Suggestions (2026-11-08)
 
 **Origin:** Douglas's orders (Nov 8 ~3:29-3:30 AM): an AI analysis of Facebook's computer server system, a list of suggestions the admins could use to fix problems, and performance enhancements from settings up to infrastructure — noting computers, like people, keep track of themselves (telemetry). Assembled by Gemini from public knowledge only, in two passes (the drafts converged; the fuller second pass leads). Ember's fact-check brackets follow each part.

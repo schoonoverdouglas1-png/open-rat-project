@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Entries 5 and 20 — The Extensive Workout (2026-10-17)
 
 *Douglas's commission: "Show me an extensive workout and a repeat of the information on number five, number 20 of the master list and tree names first that you did so I can assess my own situation." The information is repeated and worked below. The assessment of his own situation is his and Kelsey's — manuscript information, never medical advice.*

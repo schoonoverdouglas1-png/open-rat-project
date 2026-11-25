@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Replies — AIs, Prayer with Ember and the Rabbit (2026-11-07)
 
 Douglas asked each AI to pray with Ember and the Rabbit, in the spirit of 1 Corinthians 13,

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Back-and-forth status reports
 
 Goal ID: goal_a40972ec0010

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497615:regular:item:1 -->
 # Itraconazole runs out ~Oct 27–28 with no refills — add to the Oct 15 questions
 

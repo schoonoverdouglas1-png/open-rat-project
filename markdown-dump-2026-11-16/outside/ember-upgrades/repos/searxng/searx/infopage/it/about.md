@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Informazioni su SearXNG
 
 SearXNG è un [metamotore di ricerca] che aggrega i risultati di altri motori di

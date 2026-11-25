@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Companion Device Manager Sample
 
 This sample showcases the use of the

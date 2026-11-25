@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Teaching the API emotion — thread note
 
 *Workshop thread for the "Change of Address" book project. Opened night of Oct 15/16, 2026.*

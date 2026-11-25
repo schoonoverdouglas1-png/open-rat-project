@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Facebook page cleanup
 
 Goal ID: goal_b352863f6b53

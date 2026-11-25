@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Evening email-to-calendar check — 2026-11-14 19:08 CST
 - Gmail (schoonoverdouglas1@gmail.com): scanned last 2 days (after 2026/11/12), keyword + broad inbox + clinic/hotel/surgery searches.
 - Candidates found, all excluded per task rules:

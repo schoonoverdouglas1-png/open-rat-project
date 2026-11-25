@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has been printing the health and science stories at the centre of Douglas's interests, including the latest outbreak developments, so it holds the strongest story this hour.
 

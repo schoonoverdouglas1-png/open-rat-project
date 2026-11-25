@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best serves Douglas's research interests in serology, disease, and herbology this hour, while schedule just printed and tracking last came back empty.
 

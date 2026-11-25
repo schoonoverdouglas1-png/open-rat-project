@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497564:regular:item:1 -->
 # Manuscript data point: Kenya pan-drug-resistant Candidozyma auris — second globally, with the rename angle
 

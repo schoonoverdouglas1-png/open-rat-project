@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Fixed Errors — American Early Names × Latin Later Names (QUICK DRAFT, starter list)
 
 **Status:** quick draft, 2026-10-18 — the full long list is building behind this. Starter entries below; the completed list goes much longer.

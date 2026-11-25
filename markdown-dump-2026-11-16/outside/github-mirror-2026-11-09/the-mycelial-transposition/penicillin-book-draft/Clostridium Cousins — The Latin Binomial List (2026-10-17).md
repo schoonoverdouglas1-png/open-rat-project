@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Clostridium Cousins — The Latin Binomial List (2026-10-17)
 
 *Built at Douglas's commission (dictated-notes section 122). His thesis: the first word connects to the second word in Latin — genus to species — and that connection is not taught these days. Manuscript reference.*

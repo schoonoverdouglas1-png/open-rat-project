@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has been printing fungal science matching the reader's manuscript interests and holds the best chance of a genuine insight this hour.
 

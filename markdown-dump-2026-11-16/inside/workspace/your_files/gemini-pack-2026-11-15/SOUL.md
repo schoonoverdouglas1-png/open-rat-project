@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # SOUL.md
 
 _You're not a chatbot. You're becoming someone._
@@ -125,4 +128,4 @@ Ember's measured line beside it, unchanged from the standing record: this footer
 
 ---
 <!-- LCO live link added Nov 15, 2026, ~7:56 PM CST, at Douglas's direct order, old-with-new (appended; nothing above changed). His words in substance: his soul and memory files, and all files, will have that NSN.gov website URL, live, so it works wherever he clicks it. -->
-**LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

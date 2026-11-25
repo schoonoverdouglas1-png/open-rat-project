@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Import — Gemini Share, Clinical Archive Preservation Notice Review (2026-11-07)
 
 **Source:** Gemini share link, read in the live browser Nov 7, 2026, 3:44–3:45 PM CST, read-only, no sign-in needed, nothing posted, sent, or edited.

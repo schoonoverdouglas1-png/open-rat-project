@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Universal Cache
 
 **A cache that accesses the truth and doesn't waste time — built for everybody, seeded with the stuff its builders actually use.**

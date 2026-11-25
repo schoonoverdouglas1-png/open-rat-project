@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Combined Statement — The Computer Sees the Gaps; No Name Without Underlying Causes First (2026-10-19)
 
 **Status:** his thought + my thought → the statement of fact that fits. The combined-statement method.

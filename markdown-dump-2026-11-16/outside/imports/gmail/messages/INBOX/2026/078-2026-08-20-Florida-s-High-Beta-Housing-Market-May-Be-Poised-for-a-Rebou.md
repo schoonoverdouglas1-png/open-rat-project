@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Florida’s ‘High-Beta’ Housing Market May Be Poised for a Rebound and More News
 
 - Date: 2026-08-20T04:30:41.000-05:00

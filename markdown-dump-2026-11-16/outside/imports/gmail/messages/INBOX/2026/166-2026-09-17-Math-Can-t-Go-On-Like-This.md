@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Math Can’t Go On Like This"
 
 - Date: 2026-09-17T20:39:18.000-05:00

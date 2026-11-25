@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # You shared some Google Account data with xhamster.com
 
 - Date: 2026-08-13T00:11:34.000-05:00

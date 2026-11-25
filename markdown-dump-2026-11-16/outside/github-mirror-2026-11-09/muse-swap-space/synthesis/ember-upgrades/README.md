@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ember Upgrades — Index (2026-11-07)
 
 Made Nov 7, 2026 from the six-AI research round (Gemini, ChatGPT, Perplexity, Duck.ai, DeepSeek, Meta AI/Rabbit), at Douglas's direction "make it all happen," in stingy mode.

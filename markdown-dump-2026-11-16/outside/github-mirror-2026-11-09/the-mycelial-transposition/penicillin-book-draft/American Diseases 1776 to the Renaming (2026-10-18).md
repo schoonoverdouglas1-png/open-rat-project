@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # American Diseases 1776 to the Renaming (2026-10-18)
 
 **Frame:** *The Mycelial Transposition* — educational manuscript reference only. Never medical advice. No diagnosis, no treatment recommendations, no application to any person.

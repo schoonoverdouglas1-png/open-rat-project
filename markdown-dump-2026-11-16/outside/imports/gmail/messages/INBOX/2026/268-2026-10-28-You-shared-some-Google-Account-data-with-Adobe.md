@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # You shared some Google Account data with Adobe
 
 - Date: 2026-10-28T03:36:32.000-05:00

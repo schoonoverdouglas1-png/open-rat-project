@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Outbreak × ALS — The Analysis (2026-10-18)
 
 *For **The Mycelial Transposition**. Manuscript reference — EDUCATIONAL, never medical advice. This file interprets no personal result, makes no diagnosis, recommends no treatment, and applies nothing to any person. His values appear as quoted numbers only. Testing and treatment decisions belong to clinician and patient together. Tier tags on every claim: [D] documented · [H] his, filed as his · [H→D] his with a documented foothold · [LOGIC] inference with explicit steps · [GAP] unknown.*

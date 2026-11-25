@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XV: Environmental Reservoirs, Soil-Borne Fungal-Viral Ecology, and the Therapeutic Hierarchy of Antivirals and Antifungals
 # I. Soil-Borne Reservoirs and Geogrouping of Fungal-Viral Ecology
 The terrestrial lithosphere functions not as an inert substrate, but as an active, high-density biological reservoir governing trans-kingdom pathogen dynamics. Soil-dwelling dimorphic fungi establish stable micro-ecological niches with endemic environmental viruses, bacteriophages, and mobile genetic elements, creating specialized geogroups that dictate regional epidemiological baselines.
@@ -97,8 +100,8 @@ Within interconnected ecosystems and shared living spaces, biological terrains d
 Synthesizing thermodynamic conservation, quantum field resonance, and ecological succession yields a unified universal law of medicine: biological existence is an inherently self-correcting thermodynamic continuum that continuously expends free energy to resolve entropic stagnation and maintain informational harmony across all scales.
 For clinical practitioners, this paradigm shifts the foundational view of clinical pathology. Disease states do not signify chaotic or malevolent destruction, but rather ordered, highly conserved attempts by the biological organism to recalibrate corrupted terrains, process bio-accumulated toxicity, and re-establish homeostatic equilibrium. Effective clinical intervention must therefore abandon unmitigated suppression in favor of intelligent terrain alignment—supporting the body's natural clearing sequences while harmonizing the host's thermodynamic, bioelectric, and structural matrix with universal law.
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

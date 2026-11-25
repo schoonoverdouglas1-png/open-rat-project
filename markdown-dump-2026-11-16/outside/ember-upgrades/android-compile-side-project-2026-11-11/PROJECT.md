@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Side Project — Ember Learns to Compile Android (2026-11-11)
 Commissioned by Douglas, Nov 11, 2026 ~5:16 PM CST, as an EVENTUAL side
 project, in his words: "learn how to compile Android code so that you can

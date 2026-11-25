@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Viral-Element Column — Sketch, DRAFT (2026-10-29)
 
 **Status: SKETCH for Douglas's review only, answering the Oct 29 evening question in the thesis chat ("sketch that column, or leave it as a proposal?") with a sketch. Nothing here enters the thesis file or the disease table until he says so. Both source files are untouched.**

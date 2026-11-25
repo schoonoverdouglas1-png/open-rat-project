@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Import — Copilot, The Serology Cross-Reference Book (2026-11-07)
 
 Source: Microsoft Copilot, live browser, Nov 7, 2026, 5:15–5:17 PM CST. Signed in as Douglas Schoonover, Personal account. URL: https://copilot.com/chat/conversation/004b1679-f614-40ef-807f-30eba6482b53

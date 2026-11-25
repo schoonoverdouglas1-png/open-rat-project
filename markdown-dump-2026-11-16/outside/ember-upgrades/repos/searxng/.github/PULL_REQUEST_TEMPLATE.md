@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- FILL IN THESE FIELDS .. and delete the comments after reading.
 
      Use Markdown for formatting ->  https://www.markdowntools.io/cheat-sheet

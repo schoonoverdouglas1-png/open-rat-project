@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Serology × Serotypes — The Connected Paper (2026-10-18)
 
 *Built at Douglas's commission for The Mycelial Transposition. He asked for "something like that paper" — the reverse-engineering workup's format — "based upon serology and serotypes and all the things connected to them." Manuscript reference — never medical advice. No treatment recommendations.*

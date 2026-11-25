@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the open "my interests" prompt and holds the best story odds this hour, with its last two picks printing on the reader's fungal science interests while tracking and schedule recently closed quiet.
 

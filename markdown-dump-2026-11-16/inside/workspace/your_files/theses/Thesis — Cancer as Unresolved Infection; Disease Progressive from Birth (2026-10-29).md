@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — Cancer as Unresolved Infection; Disease as Progressive from Birth (2026-10-29)
 
 **Source:** Douglas's dictation, Oct 29, 2026 (main chat). Filed standalone — not attached to The Mycelial Transposition, Quantum Medicine, or Change of Address unless he links it himself.

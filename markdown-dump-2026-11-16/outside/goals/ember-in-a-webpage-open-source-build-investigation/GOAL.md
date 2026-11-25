@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ember in a webpage — open-source build investigation
 
 Goal ID: goal_a1ca53047639

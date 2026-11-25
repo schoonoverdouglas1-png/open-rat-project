@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thread note: Sleep as the nightly rehearsal
 
 *Filed Oct 15/16, 2026 — side chat "Quantum Computer Thinking 'Change of Address'".*

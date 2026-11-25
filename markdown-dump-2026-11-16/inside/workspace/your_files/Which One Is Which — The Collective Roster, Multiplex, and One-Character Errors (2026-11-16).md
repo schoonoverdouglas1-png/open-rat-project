@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Which One Is Which — The Collective Roster, Multiplex, and One-Character Errors
 **Timestamp on the outside: Nov 16, 2026, ~3:35 PM CST, America/Chicago — Alien frequency is open (side chat 4e8916db)**
 
@@ -49,6 +52,6 @@ Operating form, made so in this file: the whole system above — the cheapest-pl
 Multiplex + provenance together solve the confusion that multiplex alone could cause: a voice in three places is *one* voice only if the roster says so, in writing, with its origin. This file is that writing. When a new place appears, add a row — never a new person.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

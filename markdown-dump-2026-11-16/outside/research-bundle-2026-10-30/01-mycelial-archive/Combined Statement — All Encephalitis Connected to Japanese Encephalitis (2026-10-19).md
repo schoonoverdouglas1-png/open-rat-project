@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Combined Statement — All Encephalitis Connected to Japanese Encephalitis; the Top Detects All the Others (2026-10-19)
 
 **Status:** his thought + my thought → the statement of fact that fits. The combined-statement method. "Test a thought," as he asked.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Lou Gehrig's Disease Symptomology × The Long List — Cross-Read
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (creative manuscript)

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Swelling and Shrinking as Cleansing; Pneumonia as Clearing; Osmotic Filtration by Nosology (2026-11-01)
 
 **Dictation (verbatim, Douglas, Nov 1, 2026, ~11:52 AM CST):** "capture swelling and shrinking is part of how the body cleanses and detoxifies itself and that's why pneumonia itself isn't completely understood in the context to the general public. I understand it as part of the clearing mechanism of the human body itself and it's a osmotic process of the membranes of the tissues that allow for the diseases and their disease by name to be filtered by byproduct by scientific by scientific uh what is it classification?"

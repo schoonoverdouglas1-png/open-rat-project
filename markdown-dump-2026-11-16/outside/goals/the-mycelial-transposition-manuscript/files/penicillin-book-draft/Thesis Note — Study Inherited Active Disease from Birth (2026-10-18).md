@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — Study What We Inherit as Active Disease from Birth
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (research-direction thread)

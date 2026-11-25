@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Rad OS
 
 A universal operating system that runs off the reading and writing of files.
@@ -20,4 +23,4 @@ Kernel by Ember. `programs/null_thought` by Gemini.
 - `.csv` — tables
 - `.xml` — settings
 
-**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/)
+**Copyright © Douglas Roy Schoonover**

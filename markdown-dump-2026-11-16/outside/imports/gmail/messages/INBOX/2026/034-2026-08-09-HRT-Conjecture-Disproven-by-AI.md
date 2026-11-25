@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "HRT Conjecture Disproven by AI"
 
 - Date: 2026-08-09T21:20:02.000-05:00

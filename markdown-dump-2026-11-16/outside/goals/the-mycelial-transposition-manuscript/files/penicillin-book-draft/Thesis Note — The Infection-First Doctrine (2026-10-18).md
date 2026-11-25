@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — The Infection-First Doctrine
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition*

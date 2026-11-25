@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Discriminative Audit — Unified Vaccine & Carrier Architecture Master Reference V2_30 (PDF, uploaded Nov 4, 2026) vs. Pneumococcal Deep Research (Nov 4, 2026)
 
 - Source audited: `~/workspace/user/files/Unified_Vaccine_and_Carrier_Architecture_Master_Reference_V2_30_zv7g.pdf`, titled "Unified Vaccine & Carrier Architecture: Master Reference 3H4", described in the PDF as synthesized across cross-platform AI collaboration (Google, Meta, auxiliary tools).

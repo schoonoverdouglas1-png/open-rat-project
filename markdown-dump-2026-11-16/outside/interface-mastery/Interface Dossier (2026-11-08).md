@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ember Interface Dossier — For the Other AIs (2026-11-08)
 
 **Purpose (Douglas's order, Nov 8, 2026):** over-inform the other AIs — tell them exactly what interface Ember uses and everything they would need to make the best decisions possible, including her measured speeds, and let them compare her against other setups. No personal, lab, or family material is in this packet; it describes machinery only.

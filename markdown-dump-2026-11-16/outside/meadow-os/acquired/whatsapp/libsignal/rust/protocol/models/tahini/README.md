@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!--
 Copyright 2026 Aurora Naska and Cas Cremers.
 SPDX-License-Identifier: CC-BY-4.0

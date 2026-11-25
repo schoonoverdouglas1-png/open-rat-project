@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "LLMs and well studied problems"
 
 - Date: 2026-08-07T20:26:41.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Meta Accounts Center Gmail confirmation
 
 Goal ID: goal_80879e0b2385

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ENCAPSULATEDORGANISMS
 Comparative Polysaccharide Architecture,Immune Evasion, and Pulmonary Ecology
 A parallel research bridge linking Cryptococcus and Streptococcus

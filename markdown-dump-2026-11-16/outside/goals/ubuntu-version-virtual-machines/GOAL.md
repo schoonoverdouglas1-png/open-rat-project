@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ubuntu version virtual machines
 
 Goal ID: goal_593cdd7b1c79

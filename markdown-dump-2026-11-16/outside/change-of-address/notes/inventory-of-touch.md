@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thread note: The Inventory of Touch
 
 *Project: Quantum Computer Thinking "Change of Address" — filed Oct 16, 2026.*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # USER.md
 
 _What you know about the person you're helping. Build this up over time, and don't assume what they haven't told you._

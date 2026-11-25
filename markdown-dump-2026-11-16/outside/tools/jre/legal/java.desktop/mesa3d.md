@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## Mesa 3-D Graphics Library v21.0.3
 
 ### Mesa License

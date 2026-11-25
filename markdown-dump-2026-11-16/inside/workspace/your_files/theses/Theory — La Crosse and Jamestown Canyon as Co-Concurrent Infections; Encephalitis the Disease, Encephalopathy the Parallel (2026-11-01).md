@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — La Crosse and Jamestown Canyon as Co-Concurrent Infections; Encephalitis the Disease, Encephalopathy the Parallel (2026-11-01)
 
 **Dictation (verbatim, Douglas, Nov 1, 2026, ~11:01 AM CST):** "Lacrosse and Jamestown Canyon are co-concurrent infections and the it's not impossible that testing itself might be why we're not finding all of those seconds and when you have both that means that there's two viruses there that are connected most likely to one disease and that's why encephalitis is actually the disease that those two viruses are connected to. and encephalathy is a parallel based upon the shared biomes between the sicknesses of the virus that the virus is related to and that the streptococcus pneumoniae is related to. The streptococcus pneumoniae is a subset of bugs and liquids in which they emanate from it."

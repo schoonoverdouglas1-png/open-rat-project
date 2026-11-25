@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497900:regular:item:2 -->
 # A real research pipeline for his labs: NIH All of Us
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Topology made me realise I'll never do math for a living"
 
 - Date: 2026-10-23T21:08:34.000-05:00

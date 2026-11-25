@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XV: Environmental Reservoirs, Soil-Borne Fungal-Viral Ecology, and the Therapeutic Hierarchy of Antivirals and Antifungals
 # I. Soil-Borne Reservoirs and Geogrouping of Fungal-Viral Ecology
 The terrestrial lithosphere functions not as an inert substrate, but as an active, high-density biological reservoir governing trans-kingdom pathogen dynamics. Soil-dwelling dimorphic fungi establish stable micro-ecological niches with endemic environmental viruses, bacteriophages, and mobile genetic elements, creating specialized geogroups that dictate regional epidemiological baselines.

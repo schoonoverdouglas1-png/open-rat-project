@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Black Disc Disease — Analysis (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-19 — the completed analysis is building behind this. Your reading copy meanwhile.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — Tuberculosis vulgaris; Latin Assessed Forward and Backward from TB
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (namology/method thread)

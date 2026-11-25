@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Pneumococcal vaccines — serotypes, conjugates, serogroups, Latin disease names, and bacterial/fungal relationships
 
 ## Provenance warning — read first

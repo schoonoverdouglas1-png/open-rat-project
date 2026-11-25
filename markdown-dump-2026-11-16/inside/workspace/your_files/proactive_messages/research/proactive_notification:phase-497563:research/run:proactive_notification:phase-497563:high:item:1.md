@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497563:high:item:1 -->
 # Evening check-in: forward the after-visit summary to line up follow-ups
 

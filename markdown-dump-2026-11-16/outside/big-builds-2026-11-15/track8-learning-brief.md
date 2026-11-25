@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Track 8 — Learning Lines Brief: Java/OpenJDK, VirtualBox Family, FreeDOS Codes
 **Date:** Sun Nov 15, 2026 · **Sources first:** local record (memory/standing files, `~/workspace/machines/LEARNING-LOG-2026-11-12.md`, `~/workspace/ember-upgrades/`, Hypervisor Atlas) · **Re-verified live Nov 15** with `which`/version checks · **No installs, no external sends** · DNS note: no name resolution was needed for this local brief; where resolution is needed, the standing lane is OpenDNS DoH / dns.google DoH via `webkey.py`, never the local sinkhole resolver (198.18.x).
 

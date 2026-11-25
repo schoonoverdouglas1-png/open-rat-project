@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Meta AI Work Archive — Compendium Dump
 © 2026 Douglas Schoonover. All Rights Reserved.
 

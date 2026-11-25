@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Diphtheria and Its Parallels — The Pseudomembrane Diseases (2026-10-31)
 
 **A completed paper, built October 31, 2026, from the diphtheria parallels work of the same day.**

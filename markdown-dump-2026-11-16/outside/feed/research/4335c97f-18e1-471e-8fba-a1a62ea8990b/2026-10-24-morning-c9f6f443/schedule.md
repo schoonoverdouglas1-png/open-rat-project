@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: schedule
 Angle: Schedule gets the hour because with a subject-open prompt the connected calendar squarely serves the reader's signaled health and manuscript interests with timely, actionable material web cannot reach.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Mycelial Transposition
 
 ## Fungal Replacement Therapy Nomenclature

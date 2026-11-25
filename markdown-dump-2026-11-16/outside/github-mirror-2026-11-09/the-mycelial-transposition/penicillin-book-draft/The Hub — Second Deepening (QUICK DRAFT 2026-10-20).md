@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Hub — Second Deepening (QUICK DRAFT — 2026-10-20)
 
 *His ruling §228: "That's the reading." His commission: "Go deeper on the hub." Condensed reading copy while the completed paper builds. Tier tags: [D] documented, [H] his, [H→D] his with documented foothold, mine labeled mine.*

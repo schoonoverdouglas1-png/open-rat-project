@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking serves this hour because Gmail is where the reader's waiting-on items from today would appear, while schedule last came back quiet.
 

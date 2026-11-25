@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Search — Interfacing With the Meta Engine, Routes for Ember (2026-11-08)
 
 Douglas's order (Nov 8, 2026, ~3:10 PM CST): use the search algorithm and interface research to see whether Ember can use the Meta Engine (the consumer Meta AI assistant) as an assistant programmatically — a deep search with AIs — even if Meta says it is not possible.

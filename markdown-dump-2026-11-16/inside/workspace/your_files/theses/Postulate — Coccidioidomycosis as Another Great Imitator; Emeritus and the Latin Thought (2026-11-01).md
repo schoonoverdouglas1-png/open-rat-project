@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Coccidioidomycosis as Another Great Imitator; Emeritus and the Latin Thought (2026-11-01)
 
 **Dictation (verbatim, Douglas, Nov 1, 2026, ~10:53 AM CST):** "Kosi my courses also the great imitator, I believe as well. And Emeritus, I believe in Latin is part of the etymology of that, that shares that thought."

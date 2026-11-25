@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Tuberculosis as Pneumonia, Names Jiving, and Mycobacterium tuberculosis as One Name (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice.*

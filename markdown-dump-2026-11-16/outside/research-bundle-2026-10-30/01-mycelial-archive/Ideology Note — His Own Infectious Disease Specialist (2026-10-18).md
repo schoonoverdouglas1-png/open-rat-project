@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ideology Note — His Own Infectious Disease Specialist
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (author's stance)

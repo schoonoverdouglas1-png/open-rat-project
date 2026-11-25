@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## Unicode Common Local Data Repository (CLDR) v43
 
 ### CLDR License

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Python generated-code transition
 
 ## Objective and non-negotiable contract

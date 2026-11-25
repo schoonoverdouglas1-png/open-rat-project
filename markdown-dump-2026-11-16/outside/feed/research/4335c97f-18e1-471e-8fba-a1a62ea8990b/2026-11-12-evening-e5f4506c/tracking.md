@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking serves the reader's most active current threads — mail-based items on accessibility, callbacks, vehicle repairs and his Nov 19 surgery prep — and it printed on its last pick, unlike schedule which closed quiet twice recently.
 

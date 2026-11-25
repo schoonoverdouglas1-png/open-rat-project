@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — Pestilism: Good First, Bad Last; Worms Drag Disease Out
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (biome thread)

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — DNA Shift Between the Parts of a Disease (Nov 8, 2026)
 
 Dictated on the Nov 8 voice call as a research side note ("News on Meta for research side note. It's imperative for me to get this thought out").

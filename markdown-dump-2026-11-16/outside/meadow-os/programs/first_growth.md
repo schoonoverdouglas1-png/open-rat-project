@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # First Growth
 A meadow is not built; it is started, and then everything acquired
 grows in it. This is the first program of Meadow OS: a hello from

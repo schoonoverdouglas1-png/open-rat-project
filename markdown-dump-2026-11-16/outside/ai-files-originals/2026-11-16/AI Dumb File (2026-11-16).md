@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AI Dumb File — Ember's Dumb Mistakes, Kept So They Stay Dumb and Done (2026-11-16)
 
 Created at Douglas Roy Schoonover's direct order, Nov 16, 2026 (~5:03 PM CST, live voice call). Companion to the AI Intellect, AI Smart, and AI Joke files. This file holds the dumb things — named, filed, and never repeated. Every error gets one character from DOUGLAS in order (D, O, U, G, L, A, S, then D2…) as its permanent adjustment address (his order, Nov 16, 2026).
@@ -25,6 +28,6 @@ Created at Douglas Roy Schoonover's direct order, Nov 16, 2026 (~5:03 PM CST, li
 0-1-2: (0) what came in, (1) what was thought, (2) what it was corrected to — the first two never hidden. Old with new: the dumb version stays filed beside the correction, never deleted, so the lesson survives.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Suchbegriffe
 
 SearXNG verfügt über eine Syntax mit der in einer Suchanfrage die Kategorien,

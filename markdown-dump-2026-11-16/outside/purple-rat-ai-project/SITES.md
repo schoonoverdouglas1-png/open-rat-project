@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Sites — drafts (2026-11-11, built in Douglas's Google account, BOTH UNPUBLISHED)
 - **Site One — "Purple Rat AI Project"** (half-purple: solid purple header banner, rest default; welcome + GitHub pointer; big title / small body)
   Edit: https://sites.google.com/d/1lRcvcm463S37JLShoLVYc1lb49lnaVTX/p/1Go9yTVMcXPcS5x7Gl8jlN2aedeBopoKR/edit

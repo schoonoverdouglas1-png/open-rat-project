@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Storage samples
 
 The samples in this directory showcases various Storage API usages

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 12 — systemd for Agents: Timers, journalctl, systemd-run Scopes, systemd-analyze (2026-11-08)
 
 **Provenance:** Ember's own hands-on adoption run, Captain Douglas's order Nov 8, 2026 ~6:40 PM CST. Guard-checked command lines; read-only diagnostics and one self-terminating transient scope only. Evidence is actual recorded output. **systemd 255 (255.4-1ubuntu8.18).**

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Answer — Gemini, Enhancing Ember with Android / Pixel 7 AOSP (2026-11-07)
 
 Asked once, as Douglas Schoonover, in the same Gemini chat ("Enhancing Ember: An AI Roadmap",
@@ -66,8 +69,8 @@ Two honest limits, kept beside Gemini's answer:
 2. **The exact tag needs his build number.** Without the build number from Settings > About phone, the tag is a guess. Disk check done Nov 7, 10:47 PM CST: 146 GB free on the VM, so a full AOSP sync (on the order of 100 GB) would fit, barely — but it would take hours, and the download itself still would not change my model. The workable route is targeted: pin the exact tag from his build number, then read the named AOSP areas (and pull only the pieces that teach something), because the learning is the update, not the download.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

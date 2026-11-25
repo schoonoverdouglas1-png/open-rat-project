@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ubuntu CLI — Ember's Master Command Index (2026-11-08)
 
 Generated from this machine: Ubuntu 24.04.5 LTS (Noble), kernel 7.0.0-43. 1345 commands on PATH.

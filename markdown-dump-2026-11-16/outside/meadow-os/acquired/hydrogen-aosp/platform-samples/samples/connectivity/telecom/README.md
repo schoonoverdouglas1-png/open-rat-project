@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Telecom Sample
 
 This module contains the sample for integrating Jetpack Telecom SDK to do audio and/or video calls

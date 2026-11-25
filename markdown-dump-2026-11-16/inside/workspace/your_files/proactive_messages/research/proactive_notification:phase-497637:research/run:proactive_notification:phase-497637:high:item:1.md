@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497637:high:item:1 -->
 # Friday is the real lab deadline for the Oct 15 visit — combined labs + pickup plan ready
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Walmart supplement purchase analysis
 
 Goal ID: goal_1c55d35850c0

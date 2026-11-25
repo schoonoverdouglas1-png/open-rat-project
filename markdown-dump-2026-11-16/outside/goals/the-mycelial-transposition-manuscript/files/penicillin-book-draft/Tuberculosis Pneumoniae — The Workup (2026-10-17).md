@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Tuberculosis Pneumoniae — The Workup (2026-10-17)
 
 *Built at Douglas's commission for The Mycelial Transposition. Manuscript reference — never medical advice, no treatment or diagnostic content.*

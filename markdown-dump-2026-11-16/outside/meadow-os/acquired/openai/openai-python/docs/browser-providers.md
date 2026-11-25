@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Connect a browser or desktop
 
 A provider supplies an environment. Your application keeps the OpenAI client,

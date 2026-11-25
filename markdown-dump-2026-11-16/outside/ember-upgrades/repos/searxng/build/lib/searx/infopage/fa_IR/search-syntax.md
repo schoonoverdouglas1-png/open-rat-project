@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # نحو جستجو
 SearXNG با یک متن جستجو همراه است که می توانید دسته ها را تغییر دهید،
 موتورها، زبان ها و موارد دیگر. {{link('اولویت ها', 'preferences')}}  رابرای

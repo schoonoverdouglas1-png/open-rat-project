@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Roboleaf configuration files interpreter
 
 Reads and executes Roboleaf product configuration files.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: The Mycelial Transposition — Book Manuscript -->
 <!-- Drive modified: 2026-10-26T06:03:13.108Z -->
 

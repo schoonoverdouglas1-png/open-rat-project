@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Excretion as the Exit, Not the Origin (2026-10-31)
 
 **Question:** Douglas, Oct 31, 2026, ~2:09 PM CDT — "Is a virus exiting the biome through excretion of excrement the source of where viruses come from from the bugs within us and or the biome within us?"

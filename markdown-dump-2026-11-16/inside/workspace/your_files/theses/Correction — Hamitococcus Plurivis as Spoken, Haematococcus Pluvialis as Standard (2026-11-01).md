@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Correction — Hamitococcus Plurivis as Spoken, Haematococcus Pluvialis as Standard (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice. Naming correction, old-with-new: his spoken form kept verbatim, standard form beside it, neither erased.*

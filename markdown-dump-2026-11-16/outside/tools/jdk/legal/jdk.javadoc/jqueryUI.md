@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## jQuery UI v1.13.2
 
 ### jQuery UI License

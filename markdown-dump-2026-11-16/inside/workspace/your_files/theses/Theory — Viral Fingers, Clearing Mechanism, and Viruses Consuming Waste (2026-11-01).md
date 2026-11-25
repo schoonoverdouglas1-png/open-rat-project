@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Viral Fingers, Clearing Mechanism, and Viruses Consuming Waste (2026-11-01)
 
 **Provenance:** Douglas's dictation, Nov 1, 2026, ~1:33 PM CST, filed verbatim below. Creative manuscript theory, not medical advice.

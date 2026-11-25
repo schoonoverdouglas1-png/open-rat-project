@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Git Auto-Allow — Learned (2026-11-13, at Douglas's direction)
 
 His ask: "Learn how to auto allow git pushes somehow."

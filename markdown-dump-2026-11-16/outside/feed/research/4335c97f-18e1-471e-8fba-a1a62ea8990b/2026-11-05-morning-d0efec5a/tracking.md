@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Gmail is the connected source most likely to hold something actionable for Douglas tonight, around his Mayo PreCheck-In and pending items, and its last pick printed while schedule closed quiet.
 

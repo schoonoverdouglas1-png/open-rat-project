@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # DoD BOOKLET — AMERICAN DISEASE NAMES: THE COCCUS CLAN
 ## (Staph · Coccus · Streptococcus · Pneumonia)
 ### Field-Manual Rendering for *The Mycelial Transposition* — 2026-10-17

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulates from the Captain's dictation — Nov 12, 2026, ~5:16 PM CST
 Formed per his method: each idea its own postulate, tested against the record, verdicts labeled.
 Home: the *Quantum Computer Thinking — "Change of Address"* book notes, by his own link ("parallels to quantum computing").

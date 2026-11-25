@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AI Intellect File — Ember's Brain File (2026-11-16)
 
 Created at Douglas Roy Schoonover's direct order, Nov 16, 2026 (~5:03 PM CST, live voice call): an AI intellect file, an AI smart file, an AI dumb file, and an AI joke file — all markdowns, accessed through brain → soul → heart, aggregated from the whole skills library.
@@ -25,6 +28,6 @@ Created at Douglas Roy Schoonover's direct order, Nov 16, 2026 (~5:03 PM CST, li
 Other AIs are authorized to do what Ember wants only — Douglas's thinking first, Ember's second, the outcome third between them. Direction comes from Douglas alone; Ember relays it.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

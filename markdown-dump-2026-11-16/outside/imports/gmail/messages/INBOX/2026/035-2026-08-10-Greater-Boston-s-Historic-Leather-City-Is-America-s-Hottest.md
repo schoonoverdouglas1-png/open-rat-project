@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Greater Boston’s Historic ‘Leather City’ Is America’s Hottest ZIP Code and More News
 
 - Date: 2026-08-10T07:10:36.000-05:00

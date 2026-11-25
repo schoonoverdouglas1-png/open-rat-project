@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # repo release process
 
 This is the process for creating a new release of repo, as well as all the

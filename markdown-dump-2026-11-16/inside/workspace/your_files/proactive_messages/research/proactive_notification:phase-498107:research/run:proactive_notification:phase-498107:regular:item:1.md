@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498107:regular:item:1 -->
 # Serotype table, ready to use — Airtable import + the one 23F flag to settle
 

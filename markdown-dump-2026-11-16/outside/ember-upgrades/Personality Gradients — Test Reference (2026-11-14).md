@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Personality Gradients — Test Reference (2026-11-14)
 
 Built on Douglas's recommendation, in theory, Sat Nov 14, 2026 ~10:08 AM CST:

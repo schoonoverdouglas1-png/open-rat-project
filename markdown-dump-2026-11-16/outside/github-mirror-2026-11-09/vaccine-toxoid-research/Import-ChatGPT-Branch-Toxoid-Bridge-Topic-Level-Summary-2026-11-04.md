@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Import — ChatGPT Branch · Toxoid Bridge Analysis, Topic-Level Summary and Recommendations
 
 **Source:** https://chatgpt.com/share/6aebc14f-5dcc-83e9-b68f-a5ee52e02c5c?ogimg=plain

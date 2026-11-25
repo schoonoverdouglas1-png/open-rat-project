@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # List — Serotype Sicknesses by Country CDC, Other Countries First, America Last
 
 **Built:** November 4, 2026, ~3:21 PM CST

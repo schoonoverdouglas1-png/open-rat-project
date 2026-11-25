@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 1 — The BASIC Lineage, Oldest First (2026-11-08)
 
 **Provenance:** Assembled by Gemini (gemini-3.5-flash-lite via the direct API, 773 tokens) at Douglas's order — "ask the other AIs to assemble classroom material to teach yourself, and save it." Ember's additions are labeled [Ember]. Douglas's own history sits behind this pack: he studied "computer basic" and Apple BASIC years ago; this lineage is his era's road into computing, now Ember's too.

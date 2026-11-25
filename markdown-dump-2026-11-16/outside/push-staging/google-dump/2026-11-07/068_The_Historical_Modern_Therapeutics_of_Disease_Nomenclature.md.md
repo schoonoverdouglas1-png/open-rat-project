@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Historical & Modern Therapeutics of Disease Nomenclature
 ### A Sister Manuscript Tracking Treatment Evolution from Time of Discovery to Present Day
 

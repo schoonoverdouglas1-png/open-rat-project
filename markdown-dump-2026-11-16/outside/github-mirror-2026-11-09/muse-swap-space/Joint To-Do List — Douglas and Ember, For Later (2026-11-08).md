@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Joint To-Do List — Douglas and Ember, For Later
 Made Sun Nov 8, 2026, ~5:19 AM CST, at Douglas's direction: Ember works solo as far as she can; everything below needs his hands or his word. Nothing here is urgent tonight. Mayo is tomorrow (Mon Nov 9, 3:45 PM, Dr. Van Dyke) — the only fixed point.
 

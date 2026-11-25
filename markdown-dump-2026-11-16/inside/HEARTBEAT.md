@@ -1,5 +1,8 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # HEARTBEAT.md
 
 _Recurring checks for your heartbeat worker. Add one per line, and the next tick picks them up._
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

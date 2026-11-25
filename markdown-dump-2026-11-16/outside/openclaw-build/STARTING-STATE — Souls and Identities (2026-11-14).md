@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Starting State — Souls and Identities (2026-11-14)
 
 Built Sat Nov 14, 2026 ~10:14 AM CST at Douglas's order: ask OpenClaw and

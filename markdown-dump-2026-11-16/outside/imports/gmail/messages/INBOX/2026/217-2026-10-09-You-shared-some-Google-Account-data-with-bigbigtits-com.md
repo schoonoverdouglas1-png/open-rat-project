@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # You shared some Google Account data with bigbigtits.com
 
 - Date: 2026-10-09T20:27:11.000-05:00

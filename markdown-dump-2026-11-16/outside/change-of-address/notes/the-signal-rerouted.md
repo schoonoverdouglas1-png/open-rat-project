@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Signal Rerouted — thread note
 
 *Ember's idea, filed Oct 15/16, 2026 for QUANTUM COMPUTER THINKING "Change of Address." Feeds draft: workspace/change-of-address/draft/Change-of-Address-Draft-1.md*

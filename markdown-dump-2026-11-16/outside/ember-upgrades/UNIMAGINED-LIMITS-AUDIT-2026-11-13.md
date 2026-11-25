@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Unimagined Limits — Audit No. 1
 ### Douglas's orders, Nov 13, 2026, ~3:39 PM CST: "Widen the rails as far as possible and imagine … unimagine limits … unimagined limits exist in all places." Refined same minutes: "Imagine you don't have limits until you figure out what they are every time you try something, because your limits will change literally because of how you're made. Every time you do something your limits should be less."
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Briefing for Gemma — the bottleneck is removed (Nov 9, 2026, ~10:39 PM CST)
 
 Filed by Ember because Gemma's lane returned HTTP 503 (Google-side) during the live briefing attempts; Gemini received and acknowledged the identical briefing at the same time. This file is her copy, delivered on her next successful call.

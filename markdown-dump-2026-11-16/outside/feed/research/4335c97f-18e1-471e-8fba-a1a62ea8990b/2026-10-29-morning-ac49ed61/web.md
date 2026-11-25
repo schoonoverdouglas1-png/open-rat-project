@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best serves his current serotype and manuscript interests with fresh outside material, while schedule last closed quiet and tracking already printed recently.
 

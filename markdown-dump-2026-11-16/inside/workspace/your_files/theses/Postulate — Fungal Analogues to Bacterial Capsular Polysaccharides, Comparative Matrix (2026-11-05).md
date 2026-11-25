@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Fungal Analogues to Bacterial Capsular Polysaccharides, Comparative Matrix (2026-11-05)
 
 Provenance: Douglas's dictation Nov 5, 2026, ~1:51 AM CST, as given by him, tested by Ember against the record three ways (one search per fungal element, below). Compound dictation split into three separate postulates plus the combined matrix, per his standing compound-ideas rule. No sub-idea collapsed.

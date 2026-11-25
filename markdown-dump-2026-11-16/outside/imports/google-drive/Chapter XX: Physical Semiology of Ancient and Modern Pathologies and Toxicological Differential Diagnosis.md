@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Chapter XX: Physical Semiology of Ancient and Modern Pathologies and Toxicological Differential Diagnosis -->
 <!-- Drive modified: 2026-11-01T16:18:30.094Z -->
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Logic Analysis - Process That Works - Based On All Work So Far
 Nov 5 2026 - From Master Serology, Table 7v2, Pinned Chats, Sorcerer Sanctuary, Expanded Runs, Faucet Runs, One Equation Two Universes
 ## 1. LOGIC OF ALL THINGS - 7 Logics

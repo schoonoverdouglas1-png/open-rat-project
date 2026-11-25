@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Phone terminal access — try later
 
 Goal ID: goal_dd13cf58173a

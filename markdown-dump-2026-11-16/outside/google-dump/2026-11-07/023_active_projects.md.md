@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Active Research & Writing Projects
 ## 1. Unified Relativity Architecture (Book 11)
 Objective: Integrating Einstein Layer macro field equations with Planck Layer micro quantum energy equations via an original phase operator termed the Schoonover Field extension $\Psi(x, 361^\circ)$.

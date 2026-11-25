@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Loretta's Trading Post Facebook Page disablement
 
 Goal ID: goal_1f693f57b9b1

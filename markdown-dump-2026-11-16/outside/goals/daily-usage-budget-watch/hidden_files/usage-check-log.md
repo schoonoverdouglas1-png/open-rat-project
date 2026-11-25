@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 
 ## 2026-11-07 18:24 CST
 - subscription-status status: 59% used, 41% left; reset Nov 14, 2026 3:06 PM CST.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Fiction Project — Character Notes (starter, Oct 13, 2026)
 
 Douglas's own description of the project (Oct 13, 2026): a fictional story based on factual people he has met, with characters built from their intellects and personalities.

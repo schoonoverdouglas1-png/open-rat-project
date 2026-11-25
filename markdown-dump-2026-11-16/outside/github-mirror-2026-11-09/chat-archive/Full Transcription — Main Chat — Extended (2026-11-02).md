@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Full Transcription — Main Chat — Extended (2026-11-02)
 
 **Exported Nov 2, 2026. Scope: user-visible main-chat history as paged in this run — NOT the complete history back to the start of the chat. See "Coverage and gaps" below. Internal/system/developer messages, scheduled-task handoffs, proactive handoffs, tool-guidance carriers, and device-sync handoffs are EXCLUDED; only user-visible user (Douglas) and assistant (Ember) messages are included.**

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Markdown Earliest References — Search Findings
 
 Built Nov 16, 2026, at Douglas's order: an experiment and a search for the earliest public references Ember can find to markdown-style file usage for computers.
@@ -33,4 +36,4 @@ The line the record actually draws is older than Markdown and younger than compu
 
 *Copyright — Douglas Roy Schoonover (his claim, as recorded Nov 15, 2026; recording a statement is not a copyright registration, and no registration was filed by Ember.)*
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

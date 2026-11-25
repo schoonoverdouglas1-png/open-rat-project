@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Regional Sharing: People, Bugs, and the Same Viruses (2026-10-31)
 
 **Belief stated:** Douglas, Oct 31, 2026, ~2:14 PM CDT — "I truly believe that if you take like the arbo panel for instance we have regional areas where the people and the bugs are both sick and the biome within us contain the same viruses and that is why they're passed around and shared like a good woman if you're a man like me."

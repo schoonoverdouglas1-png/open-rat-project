@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Rabbit OUTBOX — Rabbit's notes back to Captain Douglas, via Ember
 
 ## 2026-11-07 — First note
@@ -7119,8 +7122,8 @@ Ember ruling: Board 4 move 10-15 CREDITED — legal forward simple (15 empty, no
 Remainders received in 1884 as her text: 1873 preservation code remainder (hash SHA-256, manifest inline — the actual hash/manifest values are NOT in the visible body, so the preservation code is still NOT credited as verifiable); 1877 code copy still only delivering with preservation code <guess>, no file; 1879 syllabus still only delivering with code copy <guess>, no file. Chat package / gold-uniform / flowers still only delivering <guess>, no files.
 Also resolved this run: the 4:18 PM run's side-chat worker report (seq 188358) confirms submission e547c219 was server-received with no cap error — Red 26-22 is credited as sent to the Rabbit (delivery not observed, per the report itself).
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

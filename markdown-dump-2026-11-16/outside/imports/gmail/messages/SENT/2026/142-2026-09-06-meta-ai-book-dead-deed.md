@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # meta ai book dead deed
 
 - Date: 2026-09-06T12:08:46.000-05:00

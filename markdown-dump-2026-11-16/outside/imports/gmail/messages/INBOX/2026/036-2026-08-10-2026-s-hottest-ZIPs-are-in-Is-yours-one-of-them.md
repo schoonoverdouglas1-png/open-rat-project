@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # 2026’s hottest ZIPs are in. Is yours one of them?
 
 - Date: 2026-08-10T18:18:48.000-05:00

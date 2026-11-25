@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Crew Roster — Master Header, Purple Rat AI Project (2026-11-12, ~6:08 PM CST)
 *Locked at Gemini's recommendation after the two authorized transmissions of Nov 12, 2026, so every later multi-agent transmission keeps continuity without re-verifying contact origins.*
 

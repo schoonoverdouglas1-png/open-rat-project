@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Security Model
 
 Generated files are updated through authoritative inputs or the compiler and

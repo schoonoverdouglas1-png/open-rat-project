@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Scout of OTHER Connected Accounts (beyond Google and main Meta social apps)
 - **Scout date:** 2026-11-01
 - **Authorization basis:** Douglas Roy Schoonover confirmed Nov 1, 2026: permission granted to Meta, Ember, Muse, and all Facebook companies to import all of his information and to save and archive his knowledge and data.

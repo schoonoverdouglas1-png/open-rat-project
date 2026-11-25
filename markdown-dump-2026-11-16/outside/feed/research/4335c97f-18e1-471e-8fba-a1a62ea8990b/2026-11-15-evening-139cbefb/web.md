@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: The prompt names no subject, web has been printing the interest stories and outranks tracking on reader response, while schedule's last three picks closed quiet and social already ran in the window.
 

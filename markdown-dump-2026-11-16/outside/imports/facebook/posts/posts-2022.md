@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Own Facebook posts — 2022 (115 posts)
 
 - 2022-01-11T18:33:49+00:00 — I could use this — https://facebook.com/654402359/posts/pfbid03aPZPqWFSt2AtdDy58f9ufhXe2t2A7FaqELtfYCCh57BLCaPmSjvi4UqoKM595R6l/

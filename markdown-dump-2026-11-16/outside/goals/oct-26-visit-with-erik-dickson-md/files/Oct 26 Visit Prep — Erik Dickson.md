@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Oct 26 Visit Prep — Erik Dickson, MD
 
 Prepared Sat Oct 24, 2026 — for delivery Sun Oct 25 evening, not before.

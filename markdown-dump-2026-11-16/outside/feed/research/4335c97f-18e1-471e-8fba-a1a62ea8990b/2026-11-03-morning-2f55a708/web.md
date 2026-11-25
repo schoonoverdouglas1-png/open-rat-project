@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has printed consistently on the health and science subjects in this reader's recent output and is the most likely lane to hold a fresh, skimmable story this hour.
 

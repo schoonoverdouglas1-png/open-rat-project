@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Notes — Schoonovers in America (Google Sites, genealogy, NOT Douglas Roy's)
 
 URL: http://sites.google.com/site/schoonoversinamerica/

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## ASM Bytecode Manipulation Framework v8.0.1
 
 ### ASM License

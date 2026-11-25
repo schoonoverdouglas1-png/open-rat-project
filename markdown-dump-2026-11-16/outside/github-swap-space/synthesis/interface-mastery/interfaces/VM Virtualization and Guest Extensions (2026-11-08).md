@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The VM Asked Directly — Virtualization & Guest Extensions (2026-11-08)
 
 **Douglas's orders:** ask the VM itself if all virtualization features are enabled; download the VM extensions package for the OS; search-AI for the update commands and run a full Ubuntu update.

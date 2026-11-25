@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498329:regular:item:1 -->
 # Mayo appointment Monday Nov 9 — PreCheck-In still open
 

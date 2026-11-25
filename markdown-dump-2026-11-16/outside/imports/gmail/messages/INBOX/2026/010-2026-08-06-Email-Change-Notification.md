@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Email Change Notification
 
 - Date: 2026-08-06T16:11:04.000-05:00

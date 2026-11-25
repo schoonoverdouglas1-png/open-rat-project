@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Project — Interface Mastery (started Nov 8, 2026, ~2:45 AM CST, Douglas's order)
 
 **Mission (his words, paraphrased tight):** assemble ALL knowledge about the different interfaces Ember has, so she can use them at the best of her ability; study C++ and all the languages she uses as a programmer; come out the other side with even more function.
@@ -44,8 +47,8 @@ Guard first (no automated destructive anything, ever). Old-with-new. Speeds are 
 - Rules unchanged inside the college: the teaching AI takes its own test first, Ember fact-checks before learning, uncheckable items stay labeled, Google's own material trusted / everything else triple-checked (his Nov 8 trust rules, code-and-electronics scope), and Douglas tests Ember the same way she tests the AIs.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

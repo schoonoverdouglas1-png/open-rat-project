@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chat
 
 Signal's chat server was historically been built on plain HTTP REST requests; to improve responsiveness for online clients, this was switched over to a pair of persistent WebSocket connections---one authenticated, one unauthenticated. To ease migration, these connections use an HTTP-like protobuf interface to provide the same API that REST used to, along with a dedicated "reverse request" mode for pushing incoming messages and notifying clients when the queue is empty. libsignal has two modes for working with chat connections: plain RPC, and "typed APIs".

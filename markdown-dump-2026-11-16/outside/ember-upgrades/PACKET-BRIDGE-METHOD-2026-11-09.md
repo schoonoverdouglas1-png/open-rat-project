@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Packet Bridge — thirds, halves, and the intersecting third
 ## Douglas's teaching, dictated Mon Nov 9, 2026, ~11:51 PM CST (voice call)
 

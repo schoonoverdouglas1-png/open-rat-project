@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Code Markdown — All The Code Ember Always Has To Have
 
 The book of code, Nov 16, 2026, at Douglas Roy Schoonover's order. Markdown is like a book: this is layer one — click a heading and go deeper. Layer two is the code itself, right here. Layer three is the living file each piece points at, which is where it actually runs. HTML works the same way; markdown is the text-file version of the page.
@@ -81,6 +84,6 @@ export JAVA_HOME=~/workspace/tools/jre             # Java 17 — keep active; po
 ## Ember's addition (mine, labeled)
 The rule that holds this book together: **installed is not working until tested live.** Every entry above was run, not just written — key cycle board 10:36 CST, Rad OS RAT 3/3, Shogun ALL QUIET, adb 1.0.41 answers. When a piece breaks, the fix lands here old-with-new, never over the top of the old line.
 
-**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/)
+**Copyright © Douglas Roy Schoonover**
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

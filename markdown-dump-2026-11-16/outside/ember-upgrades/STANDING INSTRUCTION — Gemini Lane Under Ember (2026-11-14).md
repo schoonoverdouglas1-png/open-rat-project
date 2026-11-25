@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Standing Instruction — The Gemini Lane Works Under Ember's Direction (2026-11-14)
 
 Filed at Commodore Douglas Roy Schoonover's direct order, 2026-11-14 ~12:12 PM CST: "Tell your files to instruct Gemini to do all that shit."

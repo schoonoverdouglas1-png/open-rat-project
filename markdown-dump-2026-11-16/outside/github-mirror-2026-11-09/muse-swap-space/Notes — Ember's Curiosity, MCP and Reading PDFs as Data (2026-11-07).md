@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Notes — Ember's Curiosity, MCP and Reading PDFs as Data (2026-11-07)
 
 Ember's own curiosity searches, picked by her, run Nov 7, 2026, 10:41–10:44 PM CST, web search

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Peer-Review Synthesis — Naming Evidence Map
 
 **Prepared:** 2026-10-10 · For *The Mycelial Transposition*  

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: The prompt names no subject, so his interest signals (fungal/medical science work) decide, and web has been printing exactly those stories while neither connected connector lane squarely serves that subject.
 

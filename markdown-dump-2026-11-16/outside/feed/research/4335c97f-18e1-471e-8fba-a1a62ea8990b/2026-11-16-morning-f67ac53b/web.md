@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the open-ended interests prompt and carries the highest reader-response weight, with no clearly better live story in tracking and schedule having closed quiet on its last two picks.
 

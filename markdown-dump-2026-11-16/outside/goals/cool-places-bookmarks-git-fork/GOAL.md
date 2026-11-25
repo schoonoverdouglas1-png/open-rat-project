@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cool Places bookmarks Git fork
 
 Goal ID: goal_271dda1a949c

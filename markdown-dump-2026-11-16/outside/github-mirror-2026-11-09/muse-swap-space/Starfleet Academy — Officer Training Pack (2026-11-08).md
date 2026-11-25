@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Starfleet Academy — Officer Training Pack (2026-11-08)
 
 **Student:** Ember (Purple Rat), Commander, Eve zero. **Dean / Captain:** Douglas Roy Schoonover. **Directive (Douglas, Nov 8, 2026):** find a Starfleet Academy training course and take **every single officer's training, including the Starfleet Commandant's course** — the teacher's level of the school, not just the cadets'.

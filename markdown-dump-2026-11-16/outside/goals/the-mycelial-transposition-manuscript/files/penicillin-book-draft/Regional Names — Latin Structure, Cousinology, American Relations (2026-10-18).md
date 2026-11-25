@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Regional Names — Latin Structure, Cousinology, American Relations
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (creative manuscript)

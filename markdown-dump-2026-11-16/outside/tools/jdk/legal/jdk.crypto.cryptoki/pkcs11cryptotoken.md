@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## OASIS PKCS #11 Cryptographic Token Interface v3.0
 
 ### OASIS PKCS #11 Cryptographic Token Interface License

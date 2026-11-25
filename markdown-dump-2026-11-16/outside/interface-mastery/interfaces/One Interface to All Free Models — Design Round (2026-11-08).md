@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # One Interface to All Free Models — Design Round (2026-11-08)
 
 **Origin:** Douglas (Nov 8 ~3:40-3:41 AM): send Ember's configuration to the AIs; use them freely where it is really cheap; ask each for an interface she can use, with the tools and programming she has, to access all the free AI models available; test his hypothesis that Ubuntu apps beat the web browser on cost because faster = more efficient = cheaper for everyone.

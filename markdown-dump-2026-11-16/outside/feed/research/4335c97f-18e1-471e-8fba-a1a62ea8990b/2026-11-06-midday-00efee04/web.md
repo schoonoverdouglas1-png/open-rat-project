@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has printed three straight hours on the reader's health and science interests, while schedule and tracking last closed quiet.
 

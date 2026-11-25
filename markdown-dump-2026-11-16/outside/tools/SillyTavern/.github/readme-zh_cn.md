@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 > [!IMPORTANT]  
 > 这里的信息可能已经过时或不完整，仅供您参考。请使用英文版本获取最新信息。
 

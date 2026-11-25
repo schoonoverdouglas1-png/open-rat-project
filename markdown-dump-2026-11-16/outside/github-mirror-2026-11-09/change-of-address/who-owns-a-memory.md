@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thread note: Who Owns a Memory
 
 - Date: Oct 15/16, 2026

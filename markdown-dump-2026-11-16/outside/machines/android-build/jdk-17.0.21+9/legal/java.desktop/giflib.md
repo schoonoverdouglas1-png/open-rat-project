@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## GIFLIB v6.1.3
 
 ### GIFLIB License

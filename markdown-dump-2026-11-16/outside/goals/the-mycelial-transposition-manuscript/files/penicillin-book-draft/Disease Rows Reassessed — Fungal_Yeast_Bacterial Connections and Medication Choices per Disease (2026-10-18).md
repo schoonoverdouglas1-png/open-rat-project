@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Disease Rows Reassessed — Fungal/Yeast/Bacterial Connections and Medication Choices per Disease (2026-10-18)
 
 *His commission (§216): "With all these vaccines, please reassess and look for fungal, yeasts, and bacterias that are connected to each of these things and then please add the medication choices for each one. For each disease." Built October 18, 2026, from the 57 rows of "Disease Names Group 1 — 1997 CDC and UK Lists" (+ the influenza coda) and the 42 rows of "Disease Names Group 2 — Beyond the 1997 Lists" — ~99 diseases, deduplicated.*

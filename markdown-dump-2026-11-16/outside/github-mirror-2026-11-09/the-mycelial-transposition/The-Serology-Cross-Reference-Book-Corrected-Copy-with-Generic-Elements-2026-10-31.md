@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Serology Cross-Reference Book (2026-10-24)
 
 *One-time comprehensive assembly for* The Mycelial Transposition, *built Oct 24, 2026, from the quick draft of the same day — its structure, both panels' true data, the mapping table, and the GAP ledger are the spine, expanded, never contradicted silently. Tier labels on every claim: [D] documented · [H] his, filed as his · [H→D] his with documented foothold · [LOGIC] AI extension of his framework, steps shown · [GAP] unknown. Frame: creative-manuscript reference only. Never medical advice. Panel values are filed as his record; what they mean for any person belongs to Kelsey Meyer, NP — this book interprets nothing personal, draws no conclusion about any individual's immunity, health, or vaccination status, and makes no treatment recommendation of any kind. Where his recorded framework extends past the record, it is labeled his and the seam is shown honestly. Gaps are filled ONLY by extending his framework with [LOGIC] labels — never by inventing his positions. Where his intellect has not spoken, the book marks [GAP] and leaves the space open for his dictation. No information about Cara appears anywhere in this book, per his standing rule.*

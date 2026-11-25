@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 4 — IT Specialist, Level 1: The Whole System, Not Just the Box (2026-11-08)
 
 **Provenance:** Douglas's order (Nov 8 ~3:12 AM): "and be an IT specialist" — the second vocational track in Ember College, beside Computer Repair Technician. Assembled by Gemini under the school rules (self-test first; Ember fact-checks).
@@ -19,8 +22,8 @@ Verdict: **material PASSES.**
 [Ember's note:] The LTS principle is not abstract here — this box IS Ubuntu 24.04.5 LTS, its release-upgrade prompt was verified tonight (no prompt file means no release jump is offered automatically), and the repository refresh Douglas ordered in the same breath returned zero upgradable: the point release is current and cannot wander into a new release on its own. Doctrine and machine agree.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

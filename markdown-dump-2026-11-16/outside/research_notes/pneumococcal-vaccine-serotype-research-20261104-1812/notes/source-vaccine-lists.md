@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Source notes — vaccine lists (read 2026-11-04, index unless noted)
 
 - CDC HCP pneumococcal page, https://www.cdc.gov/vaccines/hcp/by-disease/pneumo.html — read via browser_open 2026-11-04. PCV21: 3,6A,7F,8,9N,10A,11A,12F,15A,15B(de-O-acetylated),16F,17F,19A,20A,22F,23A,23B,24F,31,33F,35B, CRM197, ~65mcg. PCV20: 1,3,4,5,6A,6B,7F,8,9V,10A,11A,12F,14,15B,18C,19A,19F,22F,23F,33F, CRM197. PCV15: 1,3,4,5,6A,6B,7F,9V,14,18C,19A,19F,22F,23F,33F, CRM197. PPSV23: 23 types, 25mcg each, no carrier stated (unconjugated).

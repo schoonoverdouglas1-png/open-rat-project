@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has printed three straight Health/Science units matching his manuscript interests while schedule and tracking last closed quiet.
 

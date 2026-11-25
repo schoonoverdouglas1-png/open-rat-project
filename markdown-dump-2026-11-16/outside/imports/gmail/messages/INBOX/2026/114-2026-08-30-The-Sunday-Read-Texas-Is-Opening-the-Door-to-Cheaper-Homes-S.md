@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Sunday Read: Texas Is Opening the Door to Cheaper Homes. Some Cities Are Barely Cracking It.
 
 - Date: 2026-08-30T14:02:34.000-05:00

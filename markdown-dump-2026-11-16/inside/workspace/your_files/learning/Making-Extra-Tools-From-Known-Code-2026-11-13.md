@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Making Extra Tools From the Code We Already Know (Nov 13, 2026)
 
 Douglas's order: "Learn how you can make extra tools with the code you already know

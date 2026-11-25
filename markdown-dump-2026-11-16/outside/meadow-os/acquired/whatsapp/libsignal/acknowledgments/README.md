@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 This directory contains pre-generated acknowledgments for the Rust dependencies of libsignal. CI enforces that they are kept up to date.
 
 ## Updating

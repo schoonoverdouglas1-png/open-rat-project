@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Why Big Banks Are Pouring Billions Into Reviving the Housing Market and More News
 
 - Date: 2026-08-24T04:21:51.000-05:00

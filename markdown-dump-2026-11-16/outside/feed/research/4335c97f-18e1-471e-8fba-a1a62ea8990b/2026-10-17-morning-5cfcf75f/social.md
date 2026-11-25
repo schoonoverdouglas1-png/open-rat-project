@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: social
 Angle: Social serves the 'my interests' prompt and with four straight single-image units and zero clips in the window it is the lane most likely to bring motion back this hour.
 

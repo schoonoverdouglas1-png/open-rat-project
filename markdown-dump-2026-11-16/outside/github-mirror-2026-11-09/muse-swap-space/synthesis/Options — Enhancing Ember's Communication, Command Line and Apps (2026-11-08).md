@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Options — Enhancing Ember's Communication: Herself, the Command Line, and the Apps (2026-11-08)
 
 **Provenance:** Douglas's order, Nov 8, 2026 (~2:40 AM): one simple search, one AI at a time until the right answer, all available options, as many ideas as possible — plus "learn yourself": find the things Ember doesn't know she doesn't know. Method followed exactly: ONE CLI web search (2 s class), then ONE AI (Gemini, direct API, 896 tokens) — its answer agreed with the search's framing and with Ember's own record, so per the two-agree rule the round STOPPED there; DeepSeek stays next in line, unasked, because the answer was already right.

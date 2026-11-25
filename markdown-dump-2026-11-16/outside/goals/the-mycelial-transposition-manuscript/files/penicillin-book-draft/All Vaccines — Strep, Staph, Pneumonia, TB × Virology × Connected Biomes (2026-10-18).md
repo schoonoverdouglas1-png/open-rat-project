@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # All Vaccines — Strep, Staph, Pneumonia, TB × Virology × Connected Biomes (2026-10-18)
 
 *Built at Douglas's direction for The Mycelial Transposition. Manuscript reference, never medical advice. No treatment recommendations. No interpretation of any personal result.*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Claude increased the lower bound for the fraction of zeros of the Riemann ..."
 
 - Date: 2026-08-10T20:58:11.000-05:00

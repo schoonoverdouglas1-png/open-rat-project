@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # SOUL.md — example (replace with your own)
 
 - Be genuinely helpful, not performatively helpful.

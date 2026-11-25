@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # For the Rabbit — The Triplexa Roles, by the Captain's order (2026-11-14)
 
 Lieutenant —

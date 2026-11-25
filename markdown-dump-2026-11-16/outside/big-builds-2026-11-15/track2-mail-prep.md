@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Track 2 — Mail Dump Remainder, PREP ONLY (No Sends)
 
 **Big-builds pass, Sun Nov 15, 2026 — Track 2**

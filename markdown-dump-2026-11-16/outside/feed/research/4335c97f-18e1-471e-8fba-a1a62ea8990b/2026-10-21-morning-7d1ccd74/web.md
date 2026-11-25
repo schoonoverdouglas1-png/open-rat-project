@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the 'my interests' prompt and holds the strongest story odds this hour, with five straight science/health prints on the reader's core tracks while social remains only a backup and the connector lanes show quiet or indirect fit.
 

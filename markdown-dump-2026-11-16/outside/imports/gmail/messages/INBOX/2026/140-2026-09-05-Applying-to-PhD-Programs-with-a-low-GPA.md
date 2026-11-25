@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Applying to PhD Programs with a low GPA"
 
 - Date: 2026-09-05T21:41:20.000-05:00

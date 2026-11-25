@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doctor follow-up bookings
 
 Goal ID: goal_07a230d989f9

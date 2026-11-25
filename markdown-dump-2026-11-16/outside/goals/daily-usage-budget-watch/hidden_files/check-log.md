@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## 2026-10-27 08:08 CDT
 - Fresh subscription-status check: 23% used, 77% left, weekly limit resets Oct 31 at 3:06 PM CDT.
 - Days remaining: 4.29; daily budget: ~17.9% per day.

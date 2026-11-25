@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has printed the last two hours on the reader's interests while the connected lanes most recently came back empty, so it offers the best chance of a belonging story this hour.
 

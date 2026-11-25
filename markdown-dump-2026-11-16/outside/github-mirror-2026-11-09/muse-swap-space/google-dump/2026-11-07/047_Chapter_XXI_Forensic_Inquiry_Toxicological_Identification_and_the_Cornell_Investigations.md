@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XXI: Forensic Inquiry, Toxicological Identification, and the Cornell Investigations
 # I. Verbal Cross-Examination and Forensic Deduction
 Rigorous clinical investigation sometimes requires collaborative deductive role-play. Through verbal cross-examination and analytical quizzing with Dr. Obaid, complex toxicological patterns were evaluated to trace the source of localized exposures within the Cornell community.

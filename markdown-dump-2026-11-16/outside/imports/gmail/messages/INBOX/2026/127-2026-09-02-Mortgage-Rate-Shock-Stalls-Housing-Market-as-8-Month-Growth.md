@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mortgage Rate Shock Stalls Housing Market as 8-Month Growth Streak Collapses and More News
 
 - Date: 2026-09-02T04:28:50.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Block-and-Redirect Kit — Build Extra, Then Redirect to What We Control
 Built 2026-11-14 at Douglas's order, generalizing the blank-door build.
 His doctrine, in his words: "it's always better to build extra and then redirect towards

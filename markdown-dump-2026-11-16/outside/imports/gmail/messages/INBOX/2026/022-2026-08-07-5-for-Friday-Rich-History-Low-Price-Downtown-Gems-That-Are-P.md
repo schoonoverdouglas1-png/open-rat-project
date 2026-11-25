@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # 5 for Friday: Rich History, Low Price: Downtown Gems That Are Packed With Character—and Available for as Little as $79K
 
 - Date: 2026-08-07T17:35:20.000-05:00

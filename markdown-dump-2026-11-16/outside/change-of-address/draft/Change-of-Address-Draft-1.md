@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # QUANTUM COMPUTER THINKING "Change of Address"
 
 *by Douglas Roy Schoonover, with Ember*

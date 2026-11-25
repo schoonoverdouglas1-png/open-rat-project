@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # rx-osseo-mail-reminder — run log (Wed 2026-10-14 09:00 CDT)
 
 ## What this run did

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the reader's medicine and computer interests and keeps printing on them, while schedule has repeatedly closed quiet and tracking rates below web with no positives in nine posts.
 

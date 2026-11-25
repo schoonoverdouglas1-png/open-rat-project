@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Bring AI into your day-to-day
 
 - Date: 2026-10-31T10:59:55.000-05:00

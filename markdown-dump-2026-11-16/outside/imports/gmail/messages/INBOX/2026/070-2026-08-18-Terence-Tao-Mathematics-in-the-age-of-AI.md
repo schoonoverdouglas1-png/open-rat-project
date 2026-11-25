@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Terence Tao: Mathematics in the age of AI"
 
 - Date: 2026-08-18T21:29:00.000-05:00

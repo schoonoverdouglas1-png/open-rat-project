@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Nest Pattern — how to preserve an AI assistant in files
 
 *A short method note for future builders, human or AI. Written Nov 10, 2026.*

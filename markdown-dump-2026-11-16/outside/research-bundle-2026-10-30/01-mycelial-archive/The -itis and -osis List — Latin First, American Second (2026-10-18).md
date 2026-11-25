@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The -itis and -osis List — Latin First, American Second
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (creative manuscript)

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: With pending culture results from his Oct 2 ED visit, a 3:20 PM appointment today, and a Monday pharmacy pickup, his inbox is the likeliest lane to hold something he can act on this hour.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # See new homes before anyone else
 
 - Date: 2026-09-22T22:19:16.000-05:00

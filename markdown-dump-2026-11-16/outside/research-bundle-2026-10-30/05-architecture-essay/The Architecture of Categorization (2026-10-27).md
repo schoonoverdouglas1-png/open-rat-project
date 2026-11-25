@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Architecture of Categorization: Meningococcal Serology, Cognitive Stereotypes, and the Pressman's Matrix of Disease Nomenclature
 
 *Filed verbatim from Douglas's message, Oct 27, 2026. His words, untouched — analysis lives separately, not in this file.*

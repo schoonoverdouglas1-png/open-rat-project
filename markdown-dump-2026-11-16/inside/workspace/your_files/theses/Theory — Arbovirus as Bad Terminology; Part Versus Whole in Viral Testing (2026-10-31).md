@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Arbovirus as Bad Terminology; Part Versus Whole in Viral Testing (2026-10-31)
 
 **Dictation:** Douglas, Oct 31, 2026, ~2:19 PM CDT — "I believe Victor born an arboviruses is considered bad terminology because arboviruses is only one of the points of discovery because points of discovery and point of origin and what they actually are are all different things and that name is technically misleading but it's not because I know those viruses exist in other places but the size might be the size might be the difference between a small ones and the big ones and this is where Obeid and I were talking about the difference between SARS and SARS 2 SARS 2 and when you got big ones and small ones which tests are looking at what and how much of the DNA is being identified as part of the virus or the whole virus and I'm curious to know how that could potentially be you know misconstrued or misidentified even because the blood has the virus viruses that the blood has only first and the tube only has DNA markers to test against."

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Serotypes Alone — Individual Infections, Cross-Linked to TB Lineages (2026-10-16)
 
 *Built at Douglas's direction for The Mycelial Transposition. His premise: read each serotype as its own infection entity — not always via pneumonia — because the tests measure them individually. Manuscript reference, never medical advice.*

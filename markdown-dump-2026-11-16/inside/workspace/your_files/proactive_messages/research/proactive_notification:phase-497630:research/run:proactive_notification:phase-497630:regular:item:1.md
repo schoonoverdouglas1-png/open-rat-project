@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497630:regular:item:1 -->
 # Lab window opens today — on-site draw at the same clinic as your Oct 15 visit
 

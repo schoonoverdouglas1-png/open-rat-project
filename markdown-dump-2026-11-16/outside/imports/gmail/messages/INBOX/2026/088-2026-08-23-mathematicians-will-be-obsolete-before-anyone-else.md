@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ""mathematicians will be obsolete before anyone else""
 
 - Date: 2026-08-23T21:29:02.000-05:00

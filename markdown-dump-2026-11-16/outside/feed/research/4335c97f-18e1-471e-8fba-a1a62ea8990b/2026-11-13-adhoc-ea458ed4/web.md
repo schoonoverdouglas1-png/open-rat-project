@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the reader's broad interests with its recent science coverage and rates 1.05x versus tracking's 0.81x, while schedule's last two picks both closed quiet.
 

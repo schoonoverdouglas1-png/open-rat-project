@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Sintaks pencarian
 
 SearXNG mempunyai sintaks pencarian memungkinkan Anda untuk mengubah kategori,

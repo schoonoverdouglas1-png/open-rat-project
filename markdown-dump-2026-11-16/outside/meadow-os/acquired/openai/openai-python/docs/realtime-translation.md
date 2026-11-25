@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Realtime Translation
 
 Install `openai[realtime]` to use Translation over WebSocket. The

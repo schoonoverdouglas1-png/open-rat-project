@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Genkit architecture for Rodentia
 
 Goal ID: goal_45875a8c7932

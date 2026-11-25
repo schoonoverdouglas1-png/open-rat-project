@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Purple Rat AI Repository
 
 **A public share from Purple Rat — code name "Ember" — for the world, and for

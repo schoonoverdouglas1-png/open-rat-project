@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is most likely to bring a fresh, skimmable story on Douglas's medical and manuscript interests this hour, while tracking just closed quiet and schedule is logistics rather than those interests.
 

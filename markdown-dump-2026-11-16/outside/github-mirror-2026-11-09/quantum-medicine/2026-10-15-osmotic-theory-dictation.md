@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Osmotic Theory — Douglas's dictation (Oct 15, 2026)
 
 Filed from the QUANTUM MEDICINE side chat. His words, lightly organized for readability.

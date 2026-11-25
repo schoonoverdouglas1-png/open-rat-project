@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Finalization tools
 This folder contains automation and CI scripts for [finalizing](https://go/android-finalization) Android before release.
 

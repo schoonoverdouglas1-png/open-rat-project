@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 > **Corrected Copy (2026-11-03) — front note.** This is a corrected copy of the Complete Book dated 2026-11-01. It applies one ruling only: Douglas's November 1, 2026 ruling that **Salo and Obaid are ONE person: Dr. Salah Obaid**. The original book is untouched. What changed, and nothing else: every passage that kept Salo and Obaid unmerged, or listed whether they are one person or two as an open [GAP], now reads as the merged Dr. Salah Obaid, with the earlier renderings ("Salo Abid," "Salo Obade") noted as renderings of that one name. All other content, structure, dual register, and Shiro PENDING wording are unchanged.
 
 # Medical Elements — How Thoughtology Puts the Pieces Together

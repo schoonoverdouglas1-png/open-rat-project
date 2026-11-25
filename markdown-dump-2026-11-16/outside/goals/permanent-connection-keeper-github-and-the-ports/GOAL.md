@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Permanent connection keeper — GitHub and the ports
 
 Goal ID: goal_c19812d55bb2

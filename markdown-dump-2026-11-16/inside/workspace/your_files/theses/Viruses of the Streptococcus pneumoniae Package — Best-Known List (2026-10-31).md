@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Viruses of the Streptococcus pneumoniae Package — Best-Known List (2026-10-31)
 
 **Commission:** Douglas, Oct 31, 2026, ~1:40 PM CDT — "Show me a full list of viruses for the streptococcus pneumoniae package, as best known, because there should be more than one virus associated with it."

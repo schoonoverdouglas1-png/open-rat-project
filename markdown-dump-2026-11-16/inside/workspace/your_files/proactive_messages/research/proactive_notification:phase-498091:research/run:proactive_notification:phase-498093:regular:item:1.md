@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498093:regular:item:1 -->
 # Itraconazole run-out window opens today — one question, message ready if it wasn't handled
 

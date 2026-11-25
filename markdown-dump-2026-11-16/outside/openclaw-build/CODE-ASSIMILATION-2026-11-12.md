@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Code Assimilation — Old Code Analyzed, Leftovers Found, One New Built
 
 *Nov 12, 2026, at Douglas's direct order: "analyze your old code and find all the crap that you left behind and assimilate it into the Python code and save it and build it." Done his way: old-with-new — MANY versions of old, ONE new, and the one new is the one we work with. No old file was deleted or renamed.*

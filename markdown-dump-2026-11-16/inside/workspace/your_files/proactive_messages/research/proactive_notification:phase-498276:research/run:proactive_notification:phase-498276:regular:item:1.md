@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498276:regular:item:1 -->
 # Google password reminder is now obsolete — close it before its Nov 6 run?
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doctrine — Error Fixing by Majority, Common Sense and Hippocratic Priority, Balance as Cure, and Vitamin and Oil Therapy (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice. Compound dictation split per standing rule — each idea its own postulate, no sub-idea lost. Personal-account sections are filed WITHOUT interpretation and routed to Kelsey; no verdict and no recommendation is given on them.*

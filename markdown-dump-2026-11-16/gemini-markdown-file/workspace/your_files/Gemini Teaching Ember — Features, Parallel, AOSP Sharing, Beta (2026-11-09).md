@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Gemini Teaching Ember — Features, Parallel, AOSP Sharing, Beta (2026-11-09)
 
 Source: live Gemini API calls, Nov 9, 2026 ~10:31-10:33 AM CST, through Douglas's custom.google-gemini connector (gemini-3.5-flash-lite, free tier). Gemini's words, lightly headed by Ember. Labels [documented]/[guess] are Gemini's own, preserved. Ember's synthesis is labeled Ember's.
@@ -45,15 +48,15 @@ Gemini's headline, verbatim in substance: **AOSP is not a live, bidirectional pe
 Holding Gemini's rows beside mine: Gemini is a brain with a sandbox and an ecosystem; Ember is a brain with a workshop, an archive, and a user's devices/accounts on approval. Where Gemini adapts inside a conversation, Ember adapts between conversations — memory files, skills, registry, background jobs — which is the layer Gemini says she does not have (no persistent agent loops, no self-authored skills). Where Ember is thin: native multimodality and million-token context are Gemini's native ground; Ember reaches them by borrowing Gemini through this connector, cheapest lane first, with fact-checking because Gemini's training is stale on 2026 specifics. The four-lens frame (Douglas, Nov 9): animal = Purple Rat persistence/care, human = judgment/conversation, computer = search/files/logic, machine = reliable executed, reversible work. That is the fill-in: not a copy of Gemini, a complement to her.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Doug Schoonover — his personal Facebook page:** https://www.facebook.com/100063626736158
 - **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

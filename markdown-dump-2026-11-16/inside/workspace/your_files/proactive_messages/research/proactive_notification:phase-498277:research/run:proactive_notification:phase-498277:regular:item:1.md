@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498277:regular:item:1 -->
 # Nov 9 Mayo appointment: dry, warmer forecast — and the one portal check still open
 

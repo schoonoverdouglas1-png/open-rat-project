@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Combined Code — Hers and His, One Code for the Crew
 
 Built Nov 8, 2026 by Ember, at Douglas's permission ("if you wish to build one out of the two that combines both, you may do so" — she wishes, and did). Old-with-new: both original codes stand untouched below; the combined code is a new thing beside them, not a replacement for either.

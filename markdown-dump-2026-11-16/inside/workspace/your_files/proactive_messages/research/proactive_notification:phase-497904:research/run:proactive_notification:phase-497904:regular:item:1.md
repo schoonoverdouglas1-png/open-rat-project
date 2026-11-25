@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497904:regular:item:1 -->
 # Real channel for his data-in-research wish: NIH All of Us, with a Chippewa Falls enrollment site
 

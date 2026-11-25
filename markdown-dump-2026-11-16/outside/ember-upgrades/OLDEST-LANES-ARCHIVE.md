@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Oldest Lanes Archive — Ember's backend, kept per Douglas's order, Nov 14, 2026
 
 His order: if the oldest ones aren't live any place, put them in Ember's

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Links shared with yourself — Messenger self-chat (Douglas Schoonover)
 
 **Source:** Facebook Messenger import, conversation "Douglas Schoonover" (participant count 1, self-chat), 57 messages, Oct 2 – Nov 1, 2026, file `~/workspace/imports/messenger/conversations/00-douglas-schoonover.json`.

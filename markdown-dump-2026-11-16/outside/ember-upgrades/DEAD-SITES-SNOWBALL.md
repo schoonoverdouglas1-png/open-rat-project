@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Dead-Site Snowball — registry and method
 ### Douglas's order, Nov 13, 2026, ~3:36 PM CST (voice call). His words in substance:
 "Roll a snowball … to fix the gates of internet … you're using a lot of wasted places … teach yourself today to check those places once every 30 days … for one whole month they are down. The closer to that one month, the more you will skip them, based upon likelihood of them coming back to life and intelligence. Once they're dead sites you may mark them as a dead site to be looked upon later, because Wayback Machine has different URLs [to] access those places — so whenever you're looking for a website access the Wayback Machine first, because that'll always have all old shit."

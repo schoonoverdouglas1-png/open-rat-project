@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Visibility check — 2026-11-10 evening CST (2026-11-11 UTC)
 Method: web index searches (browser_search) + live visits in research browser (verified live).
 

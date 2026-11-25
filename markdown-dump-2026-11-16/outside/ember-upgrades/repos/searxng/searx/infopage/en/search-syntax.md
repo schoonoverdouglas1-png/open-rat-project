@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Search syntax
 
 SearXNG comes with a search syntax by which you can modify the categories,

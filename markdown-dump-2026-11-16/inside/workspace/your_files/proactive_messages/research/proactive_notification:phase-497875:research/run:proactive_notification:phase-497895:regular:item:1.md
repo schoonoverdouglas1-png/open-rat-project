@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497895:regular:item:1 -->
 # Oct 24 itraconazole reminder: conversion text ready for his post-visit choice
 

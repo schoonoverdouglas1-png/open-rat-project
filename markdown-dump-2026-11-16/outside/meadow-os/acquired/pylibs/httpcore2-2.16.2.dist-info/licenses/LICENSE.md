@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Copyright © 2026 to present Pydantic Services Inc. and individual contributors.
 Copyright © 2020, [Encode OSS Ltd](https://www.encode.io/).
 All rights reserved.

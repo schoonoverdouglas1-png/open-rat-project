@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498264:regular:item:1 -->
 # Share links expire Nov 5 at 11:32 AM CST — last chance to save from them
 

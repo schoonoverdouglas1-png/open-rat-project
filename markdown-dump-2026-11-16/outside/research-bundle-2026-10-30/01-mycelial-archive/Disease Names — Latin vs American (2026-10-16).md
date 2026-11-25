@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Disease Names — Latin vs American (2026-10-16)
 
 *Manuscript reference for The Mycelial Transposition. Each entry pairs the Latin/scientific name with the American common name and tells the naming story: whether the American name kept, translated, or replaced the Latin one, and why. **Scope note:** this is a working core list of the diseases Douglas knows best — from his own history, his research notes, and everyday life — not literally every known disease (the ICD catalogs tens of thousands). **This is a naming reference only — never medical advice, and it contains no treatment or diagnostic information.***

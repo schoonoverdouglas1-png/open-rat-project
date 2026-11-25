@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # What the Human Body Is Truly Made Of — Bacteria, Fungi, and What Needs to Be There
 
 **Commissioned by Douglas Roy Schoonover, Nov 11, 2026 (~12:37 AM CST, voice call).**

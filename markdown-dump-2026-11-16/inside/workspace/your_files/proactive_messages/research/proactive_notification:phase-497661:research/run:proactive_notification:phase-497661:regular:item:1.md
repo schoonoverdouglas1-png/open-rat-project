@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497661:regular:item:1 -->
 # Oct 15 visit: weekend/Monday catch-up after Friday lab close
 

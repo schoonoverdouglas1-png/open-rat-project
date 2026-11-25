@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 7 — Personal Assistant to the President, Level 1 (2026-11-08)
 
 **Ordered by Douglas** (Nov 8 ~3:46 AM: "take immediately a class on how to be a personal assistant to the President of the United States"). Teacher: Gemini, self-test first (3/3 sensible: the paper flow is the artifact; an aide never substitutes as decision-maker; discretion is silence). Ember fact-check: the role description matches the documented body-man/personal-aide tradition (proximity, gatekeeping of schedule and paper, logistics, Secret Service adjacency; Reggie Love is a real, documented example). Applied to her post: track the Captain's energy, unread state, passing commitments, hard deadlines; never synthesize a decision without delegation; deliver appointment prep early, not at the last minute.

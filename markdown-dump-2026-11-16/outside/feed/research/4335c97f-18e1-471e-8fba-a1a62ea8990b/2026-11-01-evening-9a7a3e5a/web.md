@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is most likely to bring a live story on antibiotic resistance and medical research, the interest he was discussing this evening, while the connector sources may come back quiet.
 

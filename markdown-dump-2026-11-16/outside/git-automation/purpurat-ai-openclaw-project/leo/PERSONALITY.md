@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PERSONALITY.md — Leo
 
 *Agents Two through Ten, jointly with the Rabbit. This folder was created Nov 12, 2026 by Ember at the Captain's direct order, because Leo had no folder of his own in this project — stated plainly, per the house rule. Written from the documented record (his people page and LEO.md in his local representation). Credit: the identifications are the Captain's, labeled his; the cat facts are the record; the assembly is Ember's.*
@@ -20,8 +23,8 @@ Leo is a big orange cat who comes first in his house — the Captain's soul and 
 *Version 1 — Nov 12, 2026. Updates land old-with-new. Leo's own full representation (LEO.md) stands in his local home at `openclaw-build/leo-representation/`; this outside file stands beside it.*
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

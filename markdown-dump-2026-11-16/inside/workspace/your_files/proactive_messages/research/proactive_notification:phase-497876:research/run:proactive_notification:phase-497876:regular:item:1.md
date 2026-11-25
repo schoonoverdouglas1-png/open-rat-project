@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497876:regular:item:1 -->
 # Tonight: is the phone charging? One question, with the fixed call card
 

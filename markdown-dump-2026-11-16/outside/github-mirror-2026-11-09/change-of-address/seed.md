@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # QUANTUM COMPUTER THINKING "Change of Address" — seed
 
 *Full title per Douglas's directive Oct 15, 2026 — exactly as given.*

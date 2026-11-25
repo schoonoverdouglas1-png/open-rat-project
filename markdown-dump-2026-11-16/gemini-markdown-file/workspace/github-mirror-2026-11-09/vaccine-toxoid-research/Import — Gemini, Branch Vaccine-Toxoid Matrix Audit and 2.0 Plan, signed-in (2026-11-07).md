@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Import — Gemini, Branch • Vaccine-Toxoid Matrix Audit and 2.0 Plan (signed-in list version)
 
 - Source: Gemini, signed in as schoonoverdouglas1@gmail.com

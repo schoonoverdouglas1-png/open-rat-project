@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Mycelial Transposition — The October Run
 
 ### Assembled from the dictated notes of Douglas Roy Schoonover, October 16–17, 2026

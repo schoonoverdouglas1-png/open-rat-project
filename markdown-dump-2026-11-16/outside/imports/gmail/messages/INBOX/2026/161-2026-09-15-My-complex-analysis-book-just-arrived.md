@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "My complex analysis book just arrived"
 
 - Date: 2026-09-15T20:57:47.000-05:00

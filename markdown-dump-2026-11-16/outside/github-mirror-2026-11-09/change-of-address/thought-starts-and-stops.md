@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thread note: "The thought starts. The thought stops." (his idea)
 
 *Filed Oct 15/16, 2026 — side chat: Quantum Computer Thinking "Change of Address".*

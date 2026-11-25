@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Keep table of contents
 
 Goal ID: goal_e98b7935c4d8

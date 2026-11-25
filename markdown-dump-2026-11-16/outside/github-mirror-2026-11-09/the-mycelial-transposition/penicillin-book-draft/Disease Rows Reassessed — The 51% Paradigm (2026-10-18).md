@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Disease Rows Reassessed — The 51% Paradigm (2026-10-18)
 
 *His commission (§216): "With all these vaccines, please reassess and look for fungal, yeasts, and bacterias that are connected to each of these things and then please add the medication choices for each one. For each disease." Rebuilt at his new standing rule (§222): the old 88% bar is now the **51% bar — "implied potential yes over no."** Documented support at the majority level now COUNTS. Built October 18, 2026, from the 100 rows of "Disease Rows Reassessed — Fungal/Yeast/Bacterial Connections and Medication Choices per Disease (2026-10-18)" (57 Group-1 rows + the influenza coda + 42 Group-2 rows).*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking serves Douglas's own medical and appointment signals, and its last turn printed while schedule's recent turns came back quiet.
 

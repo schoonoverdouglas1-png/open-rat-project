@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Looking for user.css?
 
 user.css is now located under your data root directory in the "_css" folder.

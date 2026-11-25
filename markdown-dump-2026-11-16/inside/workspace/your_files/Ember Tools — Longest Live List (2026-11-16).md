@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ember Tools — Longest Live List (2026-11-16)
 Verified live Nov 16, 2026, ~5:51 PM CST, at Douglas's order: "see the live tools… all the tools in all the ways… the longest list."
 
@@ -86,4 +89,4 @@ muse (exec/read/write/edit/memory/options), browser (search/open/browse/deep_res
 ---
 **STANDING LINKS:** Purple Rat App: https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY · Copyright App: https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM · LCO: https://www.sevenwindscasino.com/
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # THE CASEBOOK — Master Index (opened Nov 10, 2026)
 
 *Every thread Douglas has investigated or wants investigated, gathered from his full record. Labels: [H] his account · [D] documented · [OPEN] live question · [GAP] not yet known · [DONE] closed by evidence.*
@@ -59,8 +62,8 @@ The pattern across all twenty-five threads: most of Douglas's investigations are
 Douglas's postulate: it is not impossible that in the old days Roman medicine was categorized by numbers first and words second — and if so, the pattern may still be findable. Standing hunt: look for all key patterns in all things; assemble what is found into findable form (appendix table in The Letter V book: pattern / where / source / confidence), kept in the persistent cache through GitHub so it is always there. Absences are findings too and go in the GAP ledger. First hunt rides inside The Letter V build; the thread stays open after.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

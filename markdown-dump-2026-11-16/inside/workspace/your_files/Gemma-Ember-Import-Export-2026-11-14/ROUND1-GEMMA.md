@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Round 1 — Gemma reply (model gemma-4-26b-a4b-it)
 
 *   User: Douglas Schoonover (implied authority).

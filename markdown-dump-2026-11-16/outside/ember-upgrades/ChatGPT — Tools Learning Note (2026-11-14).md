@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ChatGPT — Tools Learning Note (2026-11-14)
 At Douglas's order ("Learn the tools of ChatGPT and learn the things that make it work"). Method: Ember asked ChatGPT itself, inside Douglas's signed-in account (Free plan, schoonoverdouglas1@gmail.com), conversation "Account Capability Audit — November 14, 2026" (chatgpt.com/c/6af817a0-fa74-83e9-aba7-5cc134cc5ad2). Everything below is CHATGPT'S SELF-REPORT (outside material) unless marked VERIFIED by Ember separately.
 

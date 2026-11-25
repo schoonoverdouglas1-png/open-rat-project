@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Diphtheria with Candida, Bacterial, and Viral Elements; Parallels to the Newer Conditions (2026-10-31)
 
 **Commission:** Douglas, Oct 31, 2026, ~06:16 CDT — "Now theorize taphtheria and then parallel the newer conditions and the potential fact diptheria could have candidus and could have bacterial elements and viral elements involved that haven't been completely studied yet."

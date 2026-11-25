@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497702:regular:item:1 -->
 # Sparring brief: your two peer-review questions, answered with pushback
 

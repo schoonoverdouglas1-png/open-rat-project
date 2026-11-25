@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Quantum Computer Thinking "Change of Address" book
 
 Goal ID: goal_707236b39946

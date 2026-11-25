@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Serotype–Aspergillus Connections (2026-10-16)
 
 *Researched at Douglas's direction for The Mycelial Transposition. "Aspergillosis-type things" = Aspergillus species (fumigatus, flavus, niger, terreus) and the syndromes: invasive pulmonary aspergillosis (IPA), chronic pulmonary aspergillosis (CPA), aspergilloma/fungus ball, allergic bronchopulmonary aspergillosis (ABPA). Association reference only — never medical advice, no treatment or diagnostic content.*

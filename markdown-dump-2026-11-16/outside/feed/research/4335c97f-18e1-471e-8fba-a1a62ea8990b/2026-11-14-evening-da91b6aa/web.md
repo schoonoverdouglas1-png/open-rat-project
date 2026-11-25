@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has consistently printed on this reader's medical research and tech interests and is likeliest to hold a fresh, useful story this hour, while schedule has repeatedly come back quiet.
 

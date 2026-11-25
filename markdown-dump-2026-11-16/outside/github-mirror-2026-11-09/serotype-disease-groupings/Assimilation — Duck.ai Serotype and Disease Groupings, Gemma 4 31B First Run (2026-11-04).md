@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Assimilation — Duck.ai Serotype and Disease Groupings, Gemma 4 31B First Run
 
 **Run:** Duck.ai, first one-time run, Nov 4, 2026, 6:34–6:36 PM CST (measured).

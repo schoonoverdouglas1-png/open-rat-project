@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the open-ended interests prompt, has printed consistently, and out-weighs tracking, while schedule's recent picks repeatedly closed quiet.
 

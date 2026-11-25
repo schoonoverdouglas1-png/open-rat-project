@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ember Testing - Ideas Pass/Fail - Before Use
 Nov 5 2026 - Per your instruction: Ember refuses to use my ideas if they fail in testing, so make certain to test my ideas, make certain that they're actually good for you before you use them.
 

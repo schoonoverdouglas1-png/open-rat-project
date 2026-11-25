@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking serves the reader's interests through connected mail on the recent purple-rat domain request and the payment due in two days, and its last pick printed while schedule closed quiet three times.
 

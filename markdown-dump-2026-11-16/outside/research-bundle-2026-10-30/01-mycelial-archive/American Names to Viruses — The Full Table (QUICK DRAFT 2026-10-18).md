@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # American Names → Everything Between → Viruses (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the full table is building behind this. Your reading copy meanwhile.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thanks! Your 1st contribution is already making an impact
 
 - Date: 2026-09-04T13:46:59.000-05:00

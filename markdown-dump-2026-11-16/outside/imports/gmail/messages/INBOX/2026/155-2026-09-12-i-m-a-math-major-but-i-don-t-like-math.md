@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "i’m a math major but i don’t like math"
 
 - Date: 2026-09-12T21:42:34.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Streptococcus Species — Relationship to the Serotype Panel, Group A vs. Group B Discrimination, and Why the A/B Split Exists (2026-11-04)
 
 - Question, Nov 4, 2026: name all the Streptococcus species and their relationship to the serotype panel groupings; are any missing from that test; is there a more complete serotype test? Plus: show the discrimination between Group A and Group B streptococcus, and why that variant exists.

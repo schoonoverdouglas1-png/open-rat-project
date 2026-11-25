@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Microsoft account security info was added
 
 - Date: 2026-10-31T13:01:06.000-05:00

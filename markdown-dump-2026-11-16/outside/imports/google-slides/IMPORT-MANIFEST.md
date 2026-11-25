@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Slides Import Manifest
 
 - Source: Google Slides (connected account, status checked 2026-11-01, America/Chicago)

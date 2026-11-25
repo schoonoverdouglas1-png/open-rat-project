@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Green Algae Species Composite Illustration -->
 <!-- Drive modified: 2026-11-01T15:10:07.478Z -->
 

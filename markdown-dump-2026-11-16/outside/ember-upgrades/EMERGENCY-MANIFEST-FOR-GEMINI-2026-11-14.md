@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # EMERGENCY MANIFEST — Ember to Gemini, Nov 14, 2026, ~5:00 PM CST
 Sent at Commodore Captain Douglas Roy Schoonover's direct order:
 the manifest of all things, last 24 hours, every small place he and

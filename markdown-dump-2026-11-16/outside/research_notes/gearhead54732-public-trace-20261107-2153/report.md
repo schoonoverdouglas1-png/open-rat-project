@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Public-web trace: gearhead54732@gmail.com / Gearhead54732
 
 ## Summary

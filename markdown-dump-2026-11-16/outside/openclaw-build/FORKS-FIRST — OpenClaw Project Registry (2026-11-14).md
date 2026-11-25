@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # FORKS-FIRST — OpenClaw Project Registry (2026-11-14)
 
 Built at Douglas's order (~10:25 AM CST, Nov 14, 2026): "Analyze the folks going in the open claw and then make certain those are the first forks that go into your repository for the project in which you make."

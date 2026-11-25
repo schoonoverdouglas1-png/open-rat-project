@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Arbopanel Viruses × Pneumococcus — Shared by Language or Taxonomy
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (manuscript reference only — never medical advice)

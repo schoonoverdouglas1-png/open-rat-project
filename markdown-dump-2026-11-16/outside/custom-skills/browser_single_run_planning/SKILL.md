@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Plan Browser Work as a Single Run
 
 ## Pre-stage everything before opening

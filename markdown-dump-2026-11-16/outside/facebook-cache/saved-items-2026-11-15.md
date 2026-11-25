@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cache batch — Douglas's saved items (first 2 pages)
 - Source: `facebook-cli saved list --limit 20` × 2 pages, connector, read-only
 - Retrieved: 2026-11-15 07:08:51 and 07:09:00 CST (America/Chicago)

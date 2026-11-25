@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498217:regular:item:1 -->
 # New Google sign-ins: Canva and Granola, Nov 1 at 2:20–2:21 PM — did you grant these?
 

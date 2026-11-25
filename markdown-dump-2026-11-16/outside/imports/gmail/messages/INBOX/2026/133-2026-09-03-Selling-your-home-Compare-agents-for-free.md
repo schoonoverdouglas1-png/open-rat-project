@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Selling your home? Compare agents for free
 
 - Date: 2026-09-03T12:50:43.000-05:00

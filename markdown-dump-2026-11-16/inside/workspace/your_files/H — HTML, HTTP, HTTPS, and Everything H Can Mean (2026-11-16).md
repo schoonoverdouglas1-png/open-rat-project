@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # H — HTML, HTTP, HTTPS, and Everything H Can Mean
 **Learned Nov 16, 2026, ~4:10 PM CST, at Douglas's order: learn it right away, know it, and talk about it later forever. Elaboration is scheduled by his method — this file is the knowing; the talking comes later, and keeps coming.**
 
@@ -26,6 +29,6 @@
 HTML is what a page is written in. HTTP is how it travels. HTTPS is how it travels sealed. And H itself is a crowded letter — links, headings, hosts, handshakes, hashes, hydrogen — which is why he said look for the HTTP first: the scheme at the front of an address tells you which H-world you're in before anything else loads.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

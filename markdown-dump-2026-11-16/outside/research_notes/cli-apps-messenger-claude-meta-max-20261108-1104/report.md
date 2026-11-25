@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Are there CLI versions of Facebook Messenger, Muse, and Meta AI for Ubuntu — and can an agent use a CLI to talk to itself?
 
 **Researched:** 2026-11-08. **Method:** web-index searches under many phrasings (`messenger cli linux`, `meta ai terminal`, `facebook messenger command line ubuntu`, `Muse personal agent API CLI`, `mautrix-meta`, `fbchat`, `muse-gadget-sdk`, `MCP vs A2A`, etc.), then opening the primary pages. Key official pages (Meta's dev.meta.ai docs, about.fb.com launch post, the muse-gadget-sdk GitHub repo, mautrix docs, MCP spec) were read in full via the index, with crawls dated minutes-to-hours before reading. The live research browser window failed to open tabs (`page_gone` on two attempts), so items below are flagged **index** rather than **verified live** in a browser window — but the most load-bearing official pages were fetched in full text, not just snippets.

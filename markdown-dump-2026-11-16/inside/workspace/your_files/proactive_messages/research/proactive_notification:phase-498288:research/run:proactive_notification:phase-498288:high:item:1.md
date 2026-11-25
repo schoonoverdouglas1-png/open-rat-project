@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498288:high:item:1 -->
 # Google sign-in + data-archive request, 27 seconds apart tonight — was that you?
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # His Statement — Documenting His Own Research (2026-10-18)
 
 **Status:** his words, filed as his. No interpretation, no debate.

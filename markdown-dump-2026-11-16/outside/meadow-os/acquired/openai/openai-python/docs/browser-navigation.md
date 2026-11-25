@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Browser history, scrolling and waits
 
 Drivers can implement these optional BrowserToolset members:

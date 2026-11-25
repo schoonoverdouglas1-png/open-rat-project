@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cara — Weekend–Monday Catch-Up, Oct 10–12
 
 *Cara's items only. The Oct 15, 9:20 AM (arrive 9:05) visit with Carly Overgard, NP is hers. Kept here, separate from Douglas's materials.*

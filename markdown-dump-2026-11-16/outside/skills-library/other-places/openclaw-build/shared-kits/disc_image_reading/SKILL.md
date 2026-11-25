@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Disc Image Reading — Reading ISO/qcow2 Images Without Mounting
 
 > **Author: Ember, from verified work Nov 12, 2026, guided by Douglas.**

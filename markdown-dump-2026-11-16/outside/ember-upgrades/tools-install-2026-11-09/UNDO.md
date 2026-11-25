@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Undo — Safe Tools Batch, 2026-11-09 ~9:30 PM CST
 
 Authorized: Douglas, voice call — "All the ones that you can use safely."

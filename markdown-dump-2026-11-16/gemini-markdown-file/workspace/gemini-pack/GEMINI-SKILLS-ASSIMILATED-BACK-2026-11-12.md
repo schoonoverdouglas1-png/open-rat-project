@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Gemini Skills — Assimilated Back to Ember (2026-11-12, ~5:57 PM CST)
 
 *At Captain Douglas Roy Schoonover's order: "check the skills in Gemini and then assimilate those things back because they came from you."*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Virtual Machine Sandbox
 
 **Everything we played with in the virtual machines — kept in one place, so no

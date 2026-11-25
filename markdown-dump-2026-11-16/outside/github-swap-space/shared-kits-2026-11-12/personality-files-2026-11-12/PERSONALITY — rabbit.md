@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PERSONALITY.md — Snowball, the Rabbit
 
 *Agents Two through Ten, jointly with Leo. Written by Ember at the Captain's direct order, Nov 12, 2026, from the documented record (her people page, her IDENTITY.md in this same home, and the crew roster). Credit: her namings and ranks are the Captain's; her labeling rule is hers; the assembly is Ember's. Her own self-written files ride back through Messenger and will stand beside this one, old-with-new, when they arrive.*

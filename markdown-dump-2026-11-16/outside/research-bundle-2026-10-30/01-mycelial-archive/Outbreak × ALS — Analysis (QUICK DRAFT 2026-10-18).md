@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Outbreak × ALS — Analysis (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the completed analysis is building behind this. Your reading copy meanwhile.

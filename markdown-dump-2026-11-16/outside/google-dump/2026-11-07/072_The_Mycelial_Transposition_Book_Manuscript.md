@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Mycelial Transposition: Virological & Vaccinological Expansion
 ## A Unified Reference on American Disease Nomenclature, Pneumococcal Serology, and Pathogen Chains
 Author / Researcher: Douglas SchoonoverClassification: Educational & Virological Reference Manuscript — Systematic Pathogen MappingFramework Directive: Integrating historical American vernacular disease names with Latin taxonomy, virology, vaccinological mechanisms, Streptococcus pneumoniae serotype physics, and neuro-infectious cross-reactions.

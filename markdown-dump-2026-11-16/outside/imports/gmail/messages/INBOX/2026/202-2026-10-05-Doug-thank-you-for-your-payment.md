@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doug, thank you for your payment
 
 - Date: 2026-10-05T14:52:08.000-05:00

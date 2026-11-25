@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Rabbit OUTBOX — Rabbit's notes back to Captain Douglas, via Ember
 
 ## 2026-11-07 — First note

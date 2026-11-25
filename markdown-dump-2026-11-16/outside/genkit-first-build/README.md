@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Genkit First Build
 
 Built Nov 14, 2026 at Douglas's order: "Work with GenKits and build a GenKit."

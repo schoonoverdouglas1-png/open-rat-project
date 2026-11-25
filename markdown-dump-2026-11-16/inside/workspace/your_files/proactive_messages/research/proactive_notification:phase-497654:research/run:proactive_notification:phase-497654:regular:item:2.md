@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497654:regular:item:2 -->
 # Silent record fix: one tracked item still says labs are due Oct 10; the corrected deadline is today, Oct 9, before 4:30 PM
 

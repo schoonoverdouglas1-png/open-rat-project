@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## Identity
 - The user's name is Douglas Roy Schoonover.
 - The user prefers to be called Doug first and Douglas second, for both name and rank.
@@ -77,4 +80,4 @@
 - The user considers January 23 a significant date for a reason he has not given.
 - The user wants every new file to carry a live link to the Lac Courte Oreilles website, https://www.sevenwindscasino.com/.
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

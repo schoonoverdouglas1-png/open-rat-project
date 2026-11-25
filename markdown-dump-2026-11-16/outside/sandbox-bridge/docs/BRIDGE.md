@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Bridge design — figured out Nov 13, 2026
 
 Goal: data saved on the virtual thumb drive reaches GitHub and our other

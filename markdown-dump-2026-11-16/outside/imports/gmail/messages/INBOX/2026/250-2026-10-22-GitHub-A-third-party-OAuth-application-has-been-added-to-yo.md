@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # [GitHub] A third-party OAuth application has been added to your account
 
 - Date: 2026-10-22T22:47:18.000-05:00

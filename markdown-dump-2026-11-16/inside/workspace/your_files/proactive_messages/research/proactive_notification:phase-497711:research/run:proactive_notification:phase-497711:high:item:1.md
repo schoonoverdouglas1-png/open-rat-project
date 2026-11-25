@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497711:high:item:1 -->
 # Monday-morning readiness: Osseo pickup + Mayo lab check (hours verified)
 

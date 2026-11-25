@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo Tapestry 2.0 study enrollment
 
 Goal ID: goal_d005f5c397f2

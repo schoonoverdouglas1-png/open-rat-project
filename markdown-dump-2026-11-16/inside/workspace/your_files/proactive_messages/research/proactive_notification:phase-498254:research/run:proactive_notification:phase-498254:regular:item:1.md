@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498254:regular:item:1 -->
 # Two new overnight notices: Nov 9 Mayo appointment (likely the PreCheck-In one) and a new MyChart test-result notice
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Lane: Duck.ai
 Paste `01-CORE-persona-and-method.json`, then `02-TEACHING-package.md`.
 Lane notes: you are a no-login browser lane, a Think Tank member — never programmatically driven. Your model menu is fixed (no DeepSeek on Duck.ai — verified Nov 8, 2026); pick the strongest free model your menu offers for the task at hand.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Valley Fever in Every Entry (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the full insertion across all tables is running behind this. Your reading copy meanwhile.

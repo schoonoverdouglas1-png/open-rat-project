@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — The Arbopanel Tests Nothing but Encephalitis; Disease-Names, Not Virus-Names
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (namology thread)

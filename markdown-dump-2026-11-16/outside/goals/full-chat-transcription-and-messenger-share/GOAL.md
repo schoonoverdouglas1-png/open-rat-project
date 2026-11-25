@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Full chat transcription and Messenger share
 
 Goal ID: goal_de3139770be7

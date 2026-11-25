@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Spotify playback activation correction
 
 - Use this correction with the base Spotify connector document whenever you start playback through Spotify Connect.

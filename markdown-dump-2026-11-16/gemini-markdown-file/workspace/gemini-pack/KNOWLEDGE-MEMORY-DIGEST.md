@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Memory Digest — the work and the rules, in safe form
 
 *The digest the Captain approved for travel: the shape of the work without the private record. Built Nov 12, 2026.*

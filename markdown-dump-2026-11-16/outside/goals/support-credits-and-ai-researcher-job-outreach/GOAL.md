@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Support credits and AI researcher job outreach
 
 Goal ID: goal_e2b206d961b7

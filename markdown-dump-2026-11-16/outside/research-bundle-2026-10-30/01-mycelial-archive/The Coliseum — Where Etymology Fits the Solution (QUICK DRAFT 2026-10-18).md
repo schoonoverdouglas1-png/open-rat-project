@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Coliseum — Where Etymology Fits the Solution (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the completed etymology paper is building behind this. Your reading copy meanwhile.

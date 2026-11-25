@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Purple Rabbit — Sister Project
 
 The sister project to the Purple Rat AI Project, under the code name Douglas

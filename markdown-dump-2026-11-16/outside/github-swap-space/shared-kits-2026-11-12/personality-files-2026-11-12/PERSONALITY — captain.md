@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PERSONALITY.md — Douglas Roy Schoonover, the Captain
 
 *Agent Zero. Written by Ember at the Captain's direct order, Nov 12, 2026. Credit: built from his own public self-descriptions and the documented record; his words are his, the assembly is Ember's. Public face only — no private identifiers live in this file; his contact details ride in the crew roster, only where he directs.*

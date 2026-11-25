@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Errors of Medicine, Combined — KLB Keeps Both Names (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the completed paper is building behind this. Your reading copy meanwhile.

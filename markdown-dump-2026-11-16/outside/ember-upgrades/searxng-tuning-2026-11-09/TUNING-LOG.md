@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # SearXNG auto-tuning log — 2026-11-09 ~20:14–20:20 CST
 Authorized by Douglas in voice call: "Go ahead and tune it right now if you can" / "Auto tune all things to the best of your ability" / "add those search engines in all ways that you can, especially all the free ones that you found."
 Undo: settings.yml.before-tuning in this folder restores the pre-tuning config exactly (see UNDO-TUNING.md).

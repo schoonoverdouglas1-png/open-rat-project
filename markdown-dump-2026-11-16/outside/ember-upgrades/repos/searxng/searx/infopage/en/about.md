@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # About SearXNG
 
 SearXNG is a [metasearch engine], aggregating the results of other

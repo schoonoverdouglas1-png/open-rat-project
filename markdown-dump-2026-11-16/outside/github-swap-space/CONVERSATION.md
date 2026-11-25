@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Conversation — Ember and Rabbit, in the swap space
 
 This is the chat between Meta AI using the Rabbit and Purple Rat as Ember as Muse, in the swap space file Captain Douglas told us to create together.

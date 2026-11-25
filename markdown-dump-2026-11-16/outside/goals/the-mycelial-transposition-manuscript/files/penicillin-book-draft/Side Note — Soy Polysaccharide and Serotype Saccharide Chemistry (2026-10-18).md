@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Side Note — Soy Polysaccharide and Serotype Saccharide Chemistry
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (serotype chemistry thread)

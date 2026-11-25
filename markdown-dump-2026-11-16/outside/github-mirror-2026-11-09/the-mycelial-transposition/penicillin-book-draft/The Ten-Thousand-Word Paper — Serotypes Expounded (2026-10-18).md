@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Ten-Thousand-Word Paper — Serotypes Expounded: A Technical Synthesis
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* — manuscript reference only. EDUCATIONAL reference. **Never medical advice.** No personal result is interpreted anywhere in this paper; the subject's panel values appear as quoted numbers only, nothing more. Testing, treatment, and the meaning of any result belong to clinicians — his to Kelsey Meyer, NP.

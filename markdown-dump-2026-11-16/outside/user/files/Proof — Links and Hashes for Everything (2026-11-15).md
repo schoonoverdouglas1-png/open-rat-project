@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PROOF — LINKS AND HASHES FOR EVERYTHING
 ### Built Nov 15, 2026, ~10:48 PM CST at Douglas's direct demand: "I want links so I can look at everything and I want proof. I want you to show your proof some place to."
 ### Every hash below was computed fresh tonight from the file on disk. A hash that matches = the file is exactly what it was when hashed. No claim in this page rests on Ember's say-so alone.

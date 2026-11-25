@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Welcome to PandaDoc! 🐼
 
 - Date: 2026-10-28T03:49:08.000-05:00

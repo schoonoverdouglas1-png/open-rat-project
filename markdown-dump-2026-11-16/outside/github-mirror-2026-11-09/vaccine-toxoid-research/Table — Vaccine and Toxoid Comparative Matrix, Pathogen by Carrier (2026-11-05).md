@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Table — Vaccine and Toxoid Comparative Matrix, Pathogen by Carrier (2026-11-05)
 
 Provenance: Douglas's table, sent Nov 5, 2026, ~1:52 AM CST, reproduced as given by him below, then tested by Ember. Peer review bypassed for GitHub saves, per his Nov 5 direction — this is saved for research, not a formal publishing release.

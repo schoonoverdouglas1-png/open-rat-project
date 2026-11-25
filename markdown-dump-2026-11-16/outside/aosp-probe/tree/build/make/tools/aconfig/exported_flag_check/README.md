@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Note to readers:
 
 Please be aware that the presence of a flag in non_api_flags_list.txt does not

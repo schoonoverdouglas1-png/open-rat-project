@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XX: Physical Semiology of Ancient and Modern Pathologies and Toxicological Differential Diagnosis
 # I. Physical Examination and Semiology of Ancient Versus Modern Pathologies
 Physical examination techniques taught through clinical mentorship emphasize tracing historical phenotypic markers—recognizing ancient disease presentations by their traditional nomenclature alongside modern clinical equivalents [cite: 7]. This semiological mapping allows clinicians to identify long-standing physiological adaptations and chronic bio-burdens inscribed within the physical form.

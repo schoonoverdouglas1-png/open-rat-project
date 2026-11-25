@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Study — Ember Learning Ubuntu, Every Safely Usable App and Skill (2026-11-08)
 
 **Commissioned by:** Captain Douglas Roy Schoonover, Nov 8, 2026, ~6:36 PM CST — "a study with your different abilities, every single one of them… how you as an AI can learn how to use Ubuntu better and more efficiently, learn its skills, and learn every single app that it has that you'd ever safely be able to utilize."

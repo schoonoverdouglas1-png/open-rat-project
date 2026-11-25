@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497726:regular:item:1 -->
 # Fresh manuscript note filed: Clade VI found in wastewater, old name in the headline
 

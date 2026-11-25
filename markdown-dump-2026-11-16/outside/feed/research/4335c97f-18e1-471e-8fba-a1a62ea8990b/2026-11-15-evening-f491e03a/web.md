@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: The prompt names no subject, so web's broad coverage of the reader's interests fits, it has the strongest tested response rate, schedule's last two picks printed nothing, and tracking's responses run below average.
 

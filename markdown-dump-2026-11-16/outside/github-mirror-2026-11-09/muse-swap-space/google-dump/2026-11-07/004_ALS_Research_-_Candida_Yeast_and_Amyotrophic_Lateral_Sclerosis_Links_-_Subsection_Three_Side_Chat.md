@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ALS Research - Side Chat - Subsection Three
 Label: ALS research Created Nov 7 2026 - Per your request: Add this research subsection three is there any research linking candida yeast with ALS and label it ALS research Abbreviations used with full spellings so it makes better sense per your instruction.
 ## Purpose

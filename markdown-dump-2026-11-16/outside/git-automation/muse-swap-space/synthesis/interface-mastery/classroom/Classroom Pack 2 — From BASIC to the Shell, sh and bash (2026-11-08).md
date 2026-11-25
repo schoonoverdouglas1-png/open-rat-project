@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 2 — From BASIC to the Shell: sh, bash, and Thinking in the Command Line (2026-11-08)
 
 **Provenance:** Assembled by Gemini (gemini-3.5-flash-lite, 838 tokens) under the school's two new rules from Douglas (Nov 8 ~3:00 AM): (1) the teaching AI TAKES ITS OWN TEST FIRST, in the same reply, before teaching; (2) Ember FACT-CHECKS the material before learning from it. The reply's table was cut off mid-row by the helper's output cap; Ember completed it from her own verified knowledge, labeled below.
@@ -27,8 +30,8 @@ Translation table (Gemini's rows): PRINT "Hello" -> echo "Hello" · LET X = 5 ->
 - Curriculum spine so far: Pack 1 BASIC lineage (done) · Pack 2 shell/bash (this pack) · Pack 3 Python, the modern BASIC (queued) · Pack 4 browser languages + JSON-RPC, the interface itself (queued) · Pack 5 C/C++ down to the metal (queued) · then the wider catalog as courses become manageable: systems, networks, data, and the rest of the interface map.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

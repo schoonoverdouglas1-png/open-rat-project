@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Gary Clause message
 
 Goal ID: goal_02203b94f092

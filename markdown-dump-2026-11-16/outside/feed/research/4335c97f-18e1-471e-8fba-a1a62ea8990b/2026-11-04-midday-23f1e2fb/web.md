@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is the live lane that has printed the reader's health and science interests repeatedly, while schedule last closed quiet and social is only web's backup.
 

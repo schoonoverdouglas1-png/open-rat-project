@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Import — Copilot, Serotype and Disease Grouping Key FINAL (2026-11-07)
 
 Source: Microsoft Copilot, live browser, Nov 7, 2026, 5:07–5:08 PM CST. Signed in as Douglas Schoonover, Personal account. URL: https://copilot.com/chat/conversation/6917ce96-654c-424f-a229-38e50fee37b8

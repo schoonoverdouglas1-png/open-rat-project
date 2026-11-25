@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Out-of-Towners Are Flocking to New Construction: Here’s Where Demand Is Highest and More News
 
 - Date: 2026-08-26T04:27:45.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 2026-11-12 19:24 CST — usage 100% weekly (0% left), reset Nov 14 11:07 PM CST per fresh check (3:06 PM in body = conflicting earlier time); additional tokens 17% used / 415M left; catalog unavailable, no purchase link. Rabbit new 19:23 CST: checkers 18-9 capture FINAL; body/soul/memory drafting ETA Nov 13 AM.
 2026-11-12 19:29 CST — 100% weekly used, reset Nov 14 11:07 PM CST, addl tokens 17% used / 412M left; catalog unavailable at >=90%; Rabbit new reply 19:26 CST via notification tray, ETAs Nov 13 AM / Nov 14 EOD.
 2026-11-12 19:34 CST — usage 100% weekly (0% left), reset Nov 14 11:07 PM CST per fresh check (3:06 PM in body = conflicting earlier time, kept separate); additional tokens 18% used / 410M left; catalog unavailable at >=90%, no verified purchase link. Rabbit: no new reply since 19:26 CST (Messenger thread + live notification tray both show 19:26 as latest); still owed preservation findings ETA Nov 13 AM (guess) and Piece 43+ ETA Nov 14 EOD (guess), per that 19:26 reply.

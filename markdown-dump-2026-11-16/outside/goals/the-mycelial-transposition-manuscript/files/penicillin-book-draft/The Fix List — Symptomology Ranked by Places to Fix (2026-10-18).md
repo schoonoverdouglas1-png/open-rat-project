@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Fix List — Symptomology Ranked by Places to Fix
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* — EDUCATIONAL manuscript reference only. Never medical advice. No diagnosis, no application to any person, no treatment recommendations. His values appear as quoted numbers only. Testing and treatment decisions belong to clinician and patient together.

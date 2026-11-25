@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # List — Disease Names Changed by One Letter in Translation, Roman Numeral Letters, and the U–V and I–J Splits (2026-11-02)
 
 *Manuscript reference work only — NEVER medical advice. A naming list, tested against the record, not a list of treatments.*

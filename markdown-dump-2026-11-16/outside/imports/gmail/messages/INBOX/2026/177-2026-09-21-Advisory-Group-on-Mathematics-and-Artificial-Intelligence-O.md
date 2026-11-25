@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Advisory Group on Mathematics and Artificial Intelligence | OpenAI"
 
 - Date: 2026-09-21T21:28:40.000-05:00

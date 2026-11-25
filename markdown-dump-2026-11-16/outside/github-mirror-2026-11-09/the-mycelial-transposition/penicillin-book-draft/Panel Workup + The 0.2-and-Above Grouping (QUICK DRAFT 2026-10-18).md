@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Panel Workup Analysis + The 0.2-and-Above Grouping (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the completed build is running behind this. Your reading copy meanwhile.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Facebook Cache — Index
 - Built: Sun Nov 15, 2026, 07:07–07:10 CST (America/Chicago), at Douglas Schoonover's order (~7:06 AM CST): "Cache all of Facebook posts that you can access and learn about the human condition."
 - Method: Facebook connector (`facebook-cli`), read-only. Connection verified first: `me` returned Douglas Schoonover (account linked and usable).

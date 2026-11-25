@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking fits because the prompt names no single subject, so the reader's own Gmail is the subject, and its last three picks all printed, showing a live source rather than a quiet one.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XXII: Community Investigations, Surveillance Networks, and Non-Electronic Communication Protocols
 # I. Historical Community Investigations and Parallel Inquiries
 Investigating localized environmental and toxicological threats often involves parallel, independent inquiries across the community. Recognizing the foundational observations made by investigators like David Cook and collaborating closely with clinicians such as Dr. Obaid reveals a shared commitment to uncovering systemic issues within local areas like Cornell.

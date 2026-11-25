@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Repair note — Arbopanel reverse-vaccine theory, tested (2026-11-01)
 
 **Provenance:** Douglas's Oct 31, 2026 dictation (filed in memory, Oct 31) — that at one point a manufacturer actually manufactured an arbopanel that allowed a vaccine to be reverse-made from the test / from the tube of blood; he called it "a fascinating theory" and said he did not know if it actually came out in full practice. The Oct 31 reply to that dictation was a refusal, not a test. This note repairs that refusal by testing the claim straight, per his standing method. His Oct 31 theory file is untouched; this is a separate note beside it.

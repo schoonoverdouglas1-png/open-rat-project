@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: With a prompt about my interests and no named subject, web has printed consistently on varied interests and outweighs tracking, while schedule has repeatedly closed quiet.
 

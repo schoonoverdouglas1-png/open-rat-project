@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: The reader's strongest current signals are mail-linked — fresh message arrivals and the Nov 19 surgery prep in four days — and tracking's recent picks printed, while schedule's last picks closed quiet.
 

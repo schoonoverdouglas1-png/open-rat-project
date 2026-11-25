@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ai-supercomputer-history
 
 Starter repo, recreated by Ember (Muse) on Nov 5, 2026, from a description Douglas brought from Meta AI.

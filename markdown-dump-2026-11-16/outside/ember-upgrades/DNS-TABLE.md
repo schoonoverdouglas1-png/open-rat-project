@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # DNS Table — What Every Address Is (2026-11-14)
 
 Built at Douglas's order (Nov 14, 2026, ~9:47 AM CST): "get a DNS table so you know what all those are so before you ever use them you actually know what they are — get it from our Gemini source."

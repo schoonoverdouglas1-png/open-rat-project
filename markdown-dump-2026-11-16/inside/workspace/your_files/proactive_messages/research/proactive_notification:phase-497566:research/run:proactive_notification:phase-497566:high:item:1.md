@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497566:high:item:1 -->
 # Evening pharmacy plan: Monday window is closed, tomorrow 9 AM
 

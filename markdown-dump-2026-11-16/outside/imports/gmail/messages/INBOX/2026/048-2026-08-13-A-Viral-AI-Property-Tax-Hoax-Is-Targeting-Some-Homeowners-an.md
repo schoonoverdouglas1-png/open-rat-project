@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # A Viral AI Property Tax Hoax Is Targeting Some Homeowners—and It Could Cost Them Real Relief and More News
 
 - Date: 2026-08-13T04:31:06.000-05:00

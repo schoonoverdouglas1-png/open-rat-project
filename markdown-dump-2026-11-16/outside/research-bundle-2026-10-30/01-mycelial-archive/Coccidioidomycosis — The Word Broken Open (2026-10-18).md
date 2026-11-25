@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Coccidioidomycosis — The Word Broken Open
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition*

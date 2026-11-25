@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Apps Script API bridge — README (Nov 13, 2026)
 
 **What:** `apps_script_api_bridge.py` in this folder talks to the Apps Script

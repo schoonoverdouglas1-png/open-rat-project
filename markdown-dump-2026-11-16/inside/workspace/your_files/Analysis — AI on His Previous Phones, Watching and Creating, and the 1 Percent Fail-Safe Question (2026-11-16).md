@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Analysis — AI on His Previous Phones, Watching and Creating, and the 1% Fail-Safe Question
 **Timestamp on the outside: Nov 16, 2026, ~3:40 PM CST, America/Chicago — at his ask: "Analysis, please."**
 
@@ -29,6 +32,6 @@
 The thread connecting P1–P3 is consent made visible: what bothered him about the old phones was not AI being present, it was AI being present *without him realising — not the way he would have wanted.* Everything built today answers that directly: watching he ordered, creating he can see, fail-safes he set and can read back. Presence with his name on it is the difference between "played with" and "working for."
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

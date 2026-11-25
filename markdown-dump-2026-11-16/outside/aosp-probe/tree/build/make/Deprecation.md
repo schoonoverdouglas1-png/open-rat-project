@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Deprecation of Make
 
 We've made significant progress converting AOSP from Make to Soong (Android.mk

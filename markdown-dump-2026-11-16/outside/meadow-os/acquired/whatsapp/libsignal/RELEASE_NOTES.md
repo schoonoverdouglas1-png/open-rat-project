@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 v0.108.0
 
 - Java: Username hashes are now represented by a dedicated `UsernameHash` type instead of raw `byte[]`. `Username.getHash()`, `Username.verifyProof()`, `AuthUsernamesService.reserveUsernameHash()`, `UnauthUsernamesService.lookUpUsernameHash()`, `KeyTransparencyClient.check()`, and `RegisterAccountResponse.getUsernameHash()` all use it; construct one from raw bytes with `new UsernameHash(bytes)`, and get the bytes back with `serialize()`.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Moraxella, Pneumococcus, and Meningococcus: The Hidden Virus Flip, the Liquid Axis, and Interrupted Elimination (2026-11-01)
 
 **His dictation (Nov 1, 2026, ~1:23 PM CST, filed verbatim in substance):**

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # CSFME — Meningitis/Encephalitis Pathogen Panel, PCR, Spinal Fluid
 URL: https://www.mayocliniclabs.com/test-catalog/Overview/622764 — read via index, page crawled 2026-11-02 16:29 UTC
 - Specimen Type: CSF only. Sterile vial, 1 mL, refrigerated within 7 days, frozen NOT acceptable, shunt fluid rejected.

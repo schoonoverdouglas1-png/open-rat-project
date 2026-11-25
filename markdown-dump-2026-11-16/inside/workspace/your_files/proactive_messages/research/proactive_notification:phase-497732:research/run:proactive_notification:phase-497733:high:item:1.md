@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497733:high:item:1 -->
 # Osseo pharmacy closes at 5:30 PM today — last call on today's pickup window
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Gemini on Douglas's Pixel 7 Pro — asked by Ember via gemini_ask.sh, Sun Nov 15, 2026 ~8:02 AM CST
 Filed as HERS (Gemini, gemini-3.5-flash-lite generate lane). Full reply preserved in the fire-up build report.
 

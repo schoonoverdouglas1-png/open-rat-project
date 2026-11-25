@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # FS Config Generator
 
 The `fs_config_generator.py` tool uses the platform `android_filesystem_config.h` and the

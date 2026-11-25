@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Learned — Ember's Reading of Google's Five Skill Files (Nov 12, 2026, ~6:17 PM CST, Captain's order: "learn those skills and those cards from Google as soon as you receive them")
 
 *Gemini's files are kept exactly as received (old-with-new). This note is Ember's learning record: what each file teaches, what holds against the Captain's settled framework, and what drifted — drift is quarantined and labeled here, never silently absorbed (his wrong-information rule).*

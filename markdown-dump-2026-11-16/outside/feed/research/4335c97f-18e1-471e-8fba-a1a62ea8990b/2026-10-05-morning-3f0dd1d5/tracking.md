@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Douglas has a 3:20 PM clinic appointment today and a Monday-morning prescription pickup window, so Gmail is the lane most likely to hold genuinely actionable information this hour, and its last pick came back quiet so it is not a repeat.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Mycelial Transposition: Virological & Vaccinological Expansion
 ## A Unified Reference on American Disease Nomenclature, Pneumococcal Serology, and Pathogen Chains
 Author / Researcher: Douglas SchoonoverClassification: Educational & Virological Reference Manuscript — Systematic Pathogen MappingFramework Directive: Integrating historical American vernacular disease names with Latin taxonomy, virology, vaccinological mechanisms, Streptococcus pneumoniae serotype physics, and neuro-infectious cross-reactions.
@@ -50,8 +53,8 @@ Resolution of Gaps through Virology & Vaccinology: Every historic American entry
 Pneumococcal Capsule Dynamics: The 23 capsular polysaccharide serotypes of Streptococcus pneumoniae demonstrate how bacterial surface physics dictate host immunity. Polysaccharide antigens trigger T-cell independent B-cell responses (producing IgM/IgG2), whereas protein conjugation (CRM197 or N19 diphtheria toxoid mutants) engages MHC-II CD4+ helper T-cells, enabling memory B-cell formation, affinity maturation, and protection against invasive pneumococcal disease.
 Neurotropic Virulence and Systemic Degeneration: The cross-referencing highlights how neurotropic arboviruses (La Crosse virus), spirochetes (Treponema pallidum), and capsulated diplococci (S. pneumoniae) converge on central nervous system targets, demonstrating how systemic respiratory failure in motor-neuron diseases like ALS mirrors the respiratory endpoints of classical lung fever.
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

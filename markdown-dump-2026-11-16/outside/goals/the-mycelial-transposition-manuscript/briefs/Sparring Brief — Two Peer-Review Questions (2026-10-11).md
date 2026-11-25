@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Sparring Brief — The Two Peer-Review Questions (2026-10-11)
 
 Written in answer to the two questions posed Oct 10. Argues both sides; pushes back where the evidence is thin.

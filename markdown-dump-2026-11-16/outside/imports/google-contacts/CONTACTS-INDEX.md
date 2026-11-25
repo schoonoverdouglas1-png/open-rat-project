@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Contacts Index
 
 Source: Google Contacts (connected account, via connections list)

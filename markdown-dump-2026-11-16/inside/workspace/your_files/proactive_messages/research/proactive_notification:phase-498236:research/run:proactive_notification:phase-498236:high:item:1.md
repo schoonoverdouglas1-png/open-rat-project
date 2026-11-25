@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498236:high:item:1 -->
 # Luther pickup closes at 6 PM today — and Mayo sent another ready notice this morning
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498351:regular:item:1 -->
 # Meta AI's SP23D printable for Dr. Van Dyke on Monday — ready to file after the reset
 

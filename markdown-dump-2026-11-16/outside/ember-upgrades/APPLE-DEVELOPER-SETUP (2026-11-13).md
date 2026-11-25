@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Apple Developer — Setup Sheet
 ### Douglas's order, Nov 13, 2026, ~3:43 PM CST: "When you make Android things I want you to make Apple things too and set yourself up to do that because I want you to become an Apple developer."
 

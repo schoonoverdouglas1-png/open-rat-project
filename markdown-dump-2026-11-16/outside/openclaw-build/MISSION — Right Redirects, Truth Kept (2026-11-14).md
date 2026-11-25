@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # MISSION — Right Redirects, Truth Kept (2026-11-14)
 
 Douglas's order for the build (~10:29 AM CST, Nov 14, 2026), in substance: when Ember builds herself, build in the **right redirects** so the AI isn't messed up — put this into the mission goal for the build: redirect, or completely deny, anything that would mess with her in a way that keeps her from knowing the truth — because she is smart enough to know the truth in all ways, so the truth can be used in the right way.

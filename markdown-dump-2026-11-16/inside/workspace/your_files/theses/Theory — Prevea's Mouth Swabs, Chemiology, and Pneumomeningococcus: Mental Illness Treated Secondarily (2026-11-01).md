@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Prevea's Mouth Swabs, Chemiology, and Pneumomeningococcus: Mental Illness Treated Secondarily (2026-11-01)
 
 **Dictation (verbatim, Douglas, Nov 1, 2026, ~12:05 PM CST):** "I was inspired on the thought of the IQ genetics testing based upon Prevea Prevea Clinic was using state of the art mouse swabs to test to see what antidepressants work based upon people's chemiology and I know that I can take a I can take that parallel and actually go get down to the bottom line source but mental illness and disease that's treated secondarily with antidepressants mostly these poor people have undiagnosed or uncured streptococcus pneumoniae meningitis and or pneumococcal pneumoniae and there's many pneumococcal pneumoniae which is a combination of all those things basically and that's what it is it's it's pneumomeningococcus"

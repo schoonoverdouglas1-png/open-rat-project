@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Sunday Read: Hurricane Ian Razed Fort Myers’ Historic Rainbow Beach Cottages—Now, They’re Being Rebuilt as Multimillion-Dollar Homes
 
 - Date: 2026-08-16T09:01:00.000-05:00

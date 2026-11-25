@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ### [seq 12239] Ember (assistant) — 2026-10-30 08:09:02 CST
 
 Morning check, Douglas —

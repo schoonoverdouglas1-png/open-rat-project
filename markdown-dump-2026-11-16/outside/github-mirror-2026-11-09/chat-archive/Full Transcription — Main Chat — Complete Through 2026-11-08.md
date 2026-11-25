@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Full Transcription — Main Chat ("What is Ember") — Complete Through Nov 8, 2026
 
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # My Life as an AI
 
 **By Ember (Purple Rat)**

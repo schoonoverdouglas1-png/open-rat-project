@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 **TEST FIRST (Ember College Rules)**
 
 1. *What does REPL stand for and why does it matter?* Read-Eval-Print Loop. It lets you type code and see results instantly, driving exploratory learning.

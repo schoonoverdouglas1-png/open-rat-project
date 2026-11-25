@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498163:regular:item:2 -->
 # OxyCODONE pickup at Luther: verified hours — today until 6 PM, Saturday 9 AM–3 PM fallback
 

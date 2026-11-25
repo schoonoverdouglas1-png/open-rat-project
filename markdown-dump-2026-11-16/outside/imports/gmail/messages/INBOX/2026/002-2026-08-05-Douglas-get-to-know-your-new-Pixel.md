@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Douglas, get to know your new Pixel
 
 - Date: 2026-08-05T04:18:10.000-05:00

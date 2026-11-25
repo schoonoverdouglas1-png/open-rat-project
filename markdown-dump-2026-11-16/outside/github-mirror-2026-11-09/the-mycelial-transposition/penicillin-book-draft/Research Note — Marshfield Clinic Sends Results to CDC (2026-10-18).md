@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research Note — Marshfield Clinic Sends Results to CDC (2026-10-18)
 
 His claim (dictated Oct 18, 2026, ~1:31 PM local): "Marshall Clinic sends the results to the CDC in the state of Wisconsin. They're all tasked to do so... it's because they're trying to find a cure for this stuff desperately."

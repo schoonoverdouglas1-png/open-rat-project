@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Superbug Walls as Plateau, Resistance Blamed Wrongly, and the Staircase Cure (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice, no diagnosis, no treatment recommendation for any person. Any question about continuing, changing, or stopping a medicine belongs to that person's prescriber.*

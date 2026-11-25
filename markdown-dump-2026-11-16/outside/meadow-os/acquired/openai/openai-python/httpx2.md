@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Migrating to HTTPX2
 
 The OpenAI Python SDK now uses [HTTPX2](https://httpx2.pydantic.dev/) for its

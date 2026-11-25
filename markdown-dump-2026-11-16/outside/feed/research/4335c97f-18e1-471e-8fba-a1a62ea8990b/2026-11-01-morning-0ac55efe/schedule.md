@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: schedule
 Angle: His own upcoming week and waiting items are the subject under his open prompt, and schedule has not just closed quiet like tracking did most recently.
 

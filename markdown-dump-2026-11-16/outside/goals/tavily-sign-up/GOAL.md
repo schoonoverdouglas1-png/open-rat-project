@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Tavily sign-up
 
 Goal ID: goal_e70b8981f546

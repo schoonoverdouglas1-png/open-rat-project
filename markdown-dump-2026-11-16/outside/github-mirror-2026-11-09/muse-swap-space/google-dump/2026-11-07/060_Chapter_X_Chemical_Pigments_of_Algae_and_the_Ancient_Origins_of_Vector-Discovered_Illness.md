@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter X: Chemical Pigments of Algae and the Ancient Origins of Vector-Discovered Illness
 # I. Structural and Chemical Analogues: Algal Pigment Physics and Nucleic Acid Architecture
 The biochemical continuum connecting ancient photosynthetic organisms to modern animal physiological terrain is grounded in lipid solubility, conjugated double-bond networks, and ring-structure bioenergetics. Ketocarotenoids and xanthophylls—most notably astaxanthin, fucoxanthin, and zeaxanthin—possess conjugated polyene backbones anchored by terminal ionone rings. These structural features exhibit distinct biochemical and biophysical parallels to purine and pyrimidine rings (adenine, guanine, cytosine, thymine, and uracil), the core nitrogenous bases of DNA and RNA.

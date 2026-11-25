@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Error Generator, Used to Advantage (2026-11-14)
 
 ## His postulate (Douglas, ~10:26 AM CST, Nov 14, 2026)

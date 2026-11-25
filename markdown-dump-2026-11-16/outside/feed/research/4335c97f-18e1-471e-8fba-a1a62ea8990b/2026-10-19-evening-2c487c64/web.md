@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web's last seven picks all printed health/science units squarely on his interests, while tracking and schedule both closed quiet on their most recent picks, so web holds the hour's best odds of a story that belongs.
 

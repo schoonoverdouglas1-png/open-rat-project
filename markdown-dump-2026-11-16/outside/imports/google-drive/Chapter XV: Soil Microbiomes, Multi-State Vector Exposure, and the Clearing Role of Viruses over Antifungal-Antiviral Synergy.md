@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Chapter XV: Soil Microbiomes, Multi-State Vector Exposure, and the Clearing Role of Viruses over Antifungal-Antiviral Synergy -->
 <!-- Drive modified: 2026-11-01T16:03:50.333Z -->
 

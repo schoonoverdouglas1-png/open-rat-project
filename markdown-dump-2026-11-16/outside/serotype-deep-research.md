@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Serotype Deep Research — 23 Pneumococcal Serotypes at the 14 Standard
 *Compiled Oct 18, 2026 — from five parallel research workers plus tonight's serotype-14 verification.*
 

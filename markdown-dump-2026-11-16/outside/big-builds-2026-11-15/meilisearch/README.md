@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Meilisearch — Big Builds 2026-11-15, Track 6
 
 ## Status: DONE (standalone binary, test-verified; test instance stopped after proof)

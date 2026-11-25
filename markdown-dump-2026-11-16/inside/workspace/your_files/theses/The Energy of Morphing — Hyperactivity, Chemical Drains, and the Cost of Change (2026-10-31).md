@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Energy of Morphing — Hyperactivity, Chemical Drains, and the Cost of Change (2026-10-31)
 
 **Commission:** Douglas, Oct 31, 2026 — "delve into this much further because the morphing and the energy expended to make that morphing happen is part of the process of I would say hyperactivity of chemicalogical process and chemicalogical drains that the body needs to function."

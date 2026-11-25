@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Sunday Read: ‘I Learned What It Really Takes to Build a Tiny Home—and the Biggest Problems Aren’t What You’d Expect’
 
 - Date: 2026-08-09T09:01:03.000-05:00

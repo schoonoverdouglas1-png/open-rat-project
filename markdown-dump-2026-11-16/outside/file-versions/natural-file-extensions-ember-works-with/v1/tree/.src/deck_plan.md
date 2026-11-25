@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Deck plan — Natural File Extensions Ember Works With
 
 Constraints from request: activate SBG as named, plus WebP, DB, PPTX, Excel, SX and DB SQLite. Engage all things. Include XML and HTML interfaces from surrounding conversation. Extra files live at the bottom like a hard-disk setup.

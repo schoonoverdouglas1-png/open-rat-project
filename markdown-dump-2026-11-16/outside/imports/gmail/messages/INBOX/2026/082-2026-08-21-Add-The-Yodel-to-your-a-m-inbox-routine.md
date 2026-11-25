@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Add The Yodel to your a.m. inbox routine
 
 - Date: 2026-08-21T13:31:25.000-05:00

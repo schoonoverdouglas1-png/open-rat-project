@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Polling runtime preparation
 
 This additive step prepares the vector-store runtime used by the separately reviewed

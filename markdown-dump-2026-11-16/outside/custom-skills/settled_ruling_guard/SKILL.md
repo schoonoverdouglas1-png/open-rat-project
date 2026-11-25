@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Guard settled rulings in the re-prompt rotation
 
 ## File every ruling in the ledger the rotation reads

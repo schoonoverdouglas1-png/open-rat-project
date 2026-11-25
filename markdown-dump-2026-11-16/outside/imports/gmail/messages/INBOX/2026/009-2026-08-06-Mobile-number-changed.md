@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mobile number changed
 
 - Date: 2026-08-06T16:11:05.000-05:00

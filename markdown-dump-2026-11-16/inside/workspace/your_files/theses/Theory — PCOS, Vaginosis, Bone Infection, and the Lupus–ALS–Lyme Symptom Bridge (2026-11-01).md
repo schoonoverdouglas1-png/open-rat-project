@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — PCOS, Vaginosis, Bone Infection, and the Lupus–ALS–Lyme Symptom Bridge (2026-11-01)
 
 **Dictation (verbatim, Douglas, Nov 1, 2026, ~10:48 AM CST):** "polycystic ovarian syndrome and undiagnosed bacterial and fungal disease including bacterial vaginosis and fungal vaginosis, and their connections to osteomyelitis and osteomyelosis and connection of the symptomology that is lupus that is shared in between and lupus ALS and Lyme disease share symptomology that is strikingly almost exact."

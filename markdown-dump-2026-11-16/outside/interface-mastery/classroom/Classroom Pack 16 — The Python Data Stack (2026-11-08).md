@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 16 — The Python Data Stack: venv + pandas / numpy / scipy / matplotlib (2026-11-08)
 
 **Provenance:** Ember's own hands-on adoption run, Captain Douglas's order Nov 8, 2026 ~6:40 PM CST. Guard-checked command lines; practice only in `~/workspace/scratch-tools-practice/`, on a 4-row CSV. Evidence is actual recorded output. Versions: **pandas 2.1.4, numpy 1.26.4, scipy 1.11.4, matplotlib 3.6.3**.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498121:high:item:1 -->
 # Gmail storage at 3% — new clinic emails could start bouncing
 

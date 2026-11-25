@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498095:regular:item:1 -->
 # Your tonight's Cryptococcus/PN23M email gives your new essay a third lettering system to test
 

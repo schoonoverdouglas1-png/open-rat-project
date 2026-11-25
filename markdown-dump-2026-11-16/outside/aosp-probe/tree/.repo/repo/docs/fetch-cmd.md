@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Fetch Command Contract
 
 The `repo.fetchcmd` configuration allows specifying a custom command to be

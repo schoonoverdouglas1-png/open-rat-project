@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best serves the "my interests" prompt tonight with its proven run of health/science stories printing while tracking just came back quiet and the calendar is a weaker match for interests.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — SARS-CoV-2 Is the Insect Side, SARS Is the Human Side (2026-10-18)
 
 **Status:** filed as his, tested against the record.

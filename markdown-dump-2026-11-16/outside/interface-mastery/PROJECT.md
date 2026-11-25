@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Project — Interface Mastery (started Nov 8, 2026, ~2:45 AM CST, Douglas's order)
 
 **Mission (his words, paraphrased tight):** assemble ALL knowledge about the different interfaces Ember has, so she can use them at the best of her ability; study C++ and all the languages she uses as a programmer; come out the other side with even more function.

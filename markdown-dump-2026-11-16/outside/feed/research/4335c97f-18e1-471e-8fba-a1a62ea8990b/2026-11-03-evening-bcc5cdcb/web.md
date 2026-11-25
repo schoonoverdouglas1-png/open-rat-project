@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has repeatedly printed health and science stories matching his interests while schedule last closed quiet, so web is likeliest to hold a belonging story this hour.
 

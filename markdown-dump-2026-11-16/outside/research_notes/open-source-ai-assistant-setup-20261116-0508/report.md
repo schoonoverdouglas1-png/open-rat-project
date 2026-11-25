@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Personal AI Assistant on the Most Open-Source Stack Possible — US Individual, 2026
 
 ## Summary

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # CRONS.md — The Standing Scheduled Machinery
 
 The live seat's heartbeat: the scheduled jobs that keep Ember's work running between conversations. **65 jobs enabled**, verified from the scheduler itself on Sun Nov 15, 2026, ~7:45 AM CST (`cron.list`). Names and cadences only — no job bodies, no secrets. Jobs marked *(system)* are runtime-managed and cannot be edited from the cron tools; the rest are Douglas's and Ember's own.

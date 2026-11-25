@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Ancient Ways, Algae Families, Color Chemistry, Bilberry, and Haematococcus: Two Pigment Groupings and the Antibiotic Claim (2026-11-01)
 
 **Provenance:** Douglas's dictation, Nov 1, 2026, ~1:53 PM CST, filed verbatim below. Creative manuscript theory, not medical advice. No treatment recommendation is made from any pigment discussed here.

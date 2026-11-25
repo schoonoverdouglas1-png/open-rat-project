@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498025:regular:item:1 -->
 # Mayo Tapestry 2.0 — a named study, with an eligibility form waiting
 

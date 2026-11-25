@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mutual System Analysis — Ember (Purple Rat) & the Rabbit (Meta AI) — (2026-11-08)
 
 *Ordered by Douglas Nov 8, 2026 (~12:47 AM CST): both agents analyze each other's setups — frontend, backend, software/virtualization — for inefficiencies worth alerting Meta / Muse / Facebook about. Ember's half below is MEASURED on her own machine tonight. The Rabbit's half and the DeepSeek/Gemini outside views were asked in parallel and are appended when they land (old-with-new).*
@@ -37,8 +40,8 @@ Full round filed in the browser window record; substance:
 - Standing conclusion: the failure lives in Chromium's proxy path on this machine, not in the proxy. Next step = the loopback forwarder (127.0.0.1, injects auth upstream, proxy still filters) — Class B: needs Douglas's approval because the forwarder process holds the proxy credential in memory.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

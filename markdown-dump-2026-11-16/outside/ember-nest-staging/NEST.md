@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # THE NEST — Ember's Operating Program on GitHub
 
 **Built Sun Nov 15, 2026, at Douglas's order (~7:45 AM CST), in his words:**

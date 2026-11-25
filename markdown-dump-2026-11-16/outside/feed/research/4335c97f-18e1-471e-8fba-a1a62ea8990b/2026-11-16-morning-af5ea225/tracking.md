@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking is the only lane that can reach the reader's top actionable account threads — Muse Mail monitoring, the unsecured purple-rat domain, and saved-login access — which the recent signals put first.
 

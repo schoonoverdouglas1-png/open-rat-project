@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Serotyping Information — California Serogroup, La Crosse, and Jamestown Canyon (2026-11-01)
 
 **Provenance:** Douglas's request, Nov 1, 2026, 1:28 PM CST — "separate informational values and serotyping information on the California sero group and lacrosse serogroup and the Jamestown Canyon serogroup."

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Valley Fever Theorem — Does It Make Medical Sense
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (creative manuscript)

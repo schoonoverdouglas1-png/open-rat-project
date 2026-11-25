@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Drive space-saving organization
 
 Goal ID: goal_0b0b5ec5704e

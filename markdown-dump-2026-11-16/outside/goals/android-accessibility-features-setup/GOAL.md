@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Android accessibility features setup
 
 Goal ID: goal_1c131725a46b

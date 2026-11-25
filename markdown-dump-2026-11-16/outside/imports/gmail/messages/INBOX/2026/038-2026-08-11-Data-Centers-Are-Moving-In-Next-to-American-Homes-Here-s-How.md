@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Data Centers Are Moving In Next to American Homes—Here’s How Neighborhoods Are Changing and More News
 
 - Date: 2026-08-11T04:36:07.000-05:00

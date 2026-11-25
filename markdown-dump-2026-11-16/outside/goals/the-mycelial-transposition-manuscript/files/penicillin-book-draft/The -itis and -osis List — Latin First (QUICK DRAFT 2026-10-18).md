@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The -itis and -osis List — Latin First (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the full -itis/-osis list is building behind this. Your reading copy meanwhile.

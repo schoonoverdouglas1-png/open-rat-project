@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Medical Elements — How Thoughtology Puts the Pieces Together
 ## Complete Book (2026-11-01)
 Author: Douglas Roy Schoonover, by dictation and direction.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Evidence Ledger — Ember Research Spine (2026-11-07)
 
 Purpose: the project's shared memory for claims (Perplexity's ledger + DeepSeek's /sources register + ChatGPT's evaluation idea, combined). Every major research deliverable adds its claims here in this format; contradictions are tracked, never hidden (Douglas's overarching goal, Nov 4).

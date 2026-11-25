@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Combined Statements of Fact — His Thoughts + My Thoughts (2026-10-19)
 
 **Status:** the method, demonstrated. Each statement below = his thought combined with mine, corrected where the record requires, finished where logic carries it.

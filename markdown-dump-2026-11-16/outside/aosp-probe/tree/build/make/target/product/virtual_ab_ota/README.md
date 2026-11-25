@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Virtual A/B makefiles
 
 Devices that uses Virtual A/B must inherit from one of the makefiles in this directory.

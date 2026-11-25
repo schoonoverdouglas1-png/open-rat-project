@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XIV: Mutual Host-Vector Immune Reactivity, Arboviral-Fungal Symbiosis, and the Shared Disease Terrain
 # I. Arboviral-Fungal Symbiosis within Vector Biomes
 Vector-borne pathology has historically been conceptualized through monomicrobial reductionism, viewing the arthropod merely as a syringe transmitting an isolated viral or bacterial agent. Emerging metagenomic and micro-ecological data, however, demonstrate that hematophagous arthropods harbor intricate internal ecosystems. Inside vectors such as Ixodes scapularis, Aedes aegypti, and Culex pipiens, arboviruses persist not as isolated travelers, but within symbiotic consortia dominated by commensal and opportunistic fungal microflora.
@@ -63,8 +66,8 @@ When an arthropod vector feeds, it exchanges a damaged internal biome with a vul
 
 Consequently, clinical pathology is not governed solely by microbial replication kinetics, but by the collapse of biological stability across the mutual vector-host axis. The vector and the host represent two dynamically linked nodes within an uninterrupted biological circuit, wherein disease is the manifestation of a compromised shared terrain.
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

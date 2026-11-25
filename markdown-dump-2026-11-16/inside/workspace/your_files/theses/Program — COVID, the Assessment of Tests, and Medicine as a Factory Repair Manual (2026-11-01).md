@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Program — COVID, the Assessment of Tests, and Medicine as a Factory Repair Manual (2026-11-01)
 
 **Dictation (verbatim, Douglas, Nov 1, 2026, ~11:46 AM CST):** "COVID as a social experiment was not completely unsuccessful because the advances that were made to medicine based upon routine testing and and the logic is that the tests now need to be assessed like I'm looking at and seeing it this way because logic dictates that we have to now come up with a solution and the solution is not out of our grasp and we have the we have the medicines we have the know-how and we have the testing and now the science has to be rewarded the right way so it makes sense and once we do that so that it flows like a rhythm and flows in a simple procession because no matter how complicated the subject matter is it's practice needs to be simple and it's like medicine should be practiced like a auto repair repair manual comes from the comes from the factory like when you can have a when you can have a parallel of a repair manual giving you step by step instructions that are always never wrong that's what medicine needs and that's what I'm trying to do."

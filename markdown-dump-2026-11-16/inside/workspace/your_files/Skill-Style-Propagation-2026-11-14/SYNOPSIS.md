@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Skill-Style Propagation — Synopsis (2026-11-14)
 
 Douglas's order (Nov 14, 2026, ~3:32 PM CST): "Propagate as many skill style files with the style of your original files and make them all and put them in all places you can put them. And then send me a synopsis as soon as they're done."

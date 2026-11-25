@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # INDEX — Shared Public Kits (2026-11-12)
 
 Shared to the OpenClaw AI seats by order of Captain Douglas Roy Schoonover,

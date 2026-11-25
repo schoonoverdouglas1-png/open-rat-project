@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Expanded Meningococcal × Pneumococcal Cross-Reference (2026-10-30)
 
 *Manuscript reference work only — NEVER medical advice, no diagnosis, no application to any person. This table organizes published grouping information and Douglas's own manuscript sources. It does not interpret any personal test result, illness, or vaccination record. Panel values from his records appear here only as transcribed filings; what they mean for any person belongs to his clinicians.*

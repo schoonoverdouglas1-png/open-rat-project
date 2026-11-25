@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497870:high:item:1 -->
 # Book tomorrow's ride today — Anytime Transport is 24/7
 

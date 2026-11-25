@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # muse
 
 *One word, one entry — from the Every Word lexicon, house of purple-rat@muse.ai. Layer 2: this word's own file, inside the master's folder.*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the broad interests prompt and prints reliably with a higher reader response than tracking, while schedule has repeatedly closed quiet and social remains web's backup.
 

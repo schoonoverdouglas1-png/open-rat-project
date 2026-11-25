@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Tuberculosis Vulgaris — Disease, Illness, Sickness, Syndrome; The TB Doctors After 1900
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (creative manuscript)

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Naming of Diphtheria and Tuberculosis — A Study
 
 **Commissioned:** Nov 10, 2026, ~10:38 PM CST, by Douglas Roy Schoonover: *"Do a study on the naming of diphtheria and of tuberculosis, not just the disease name that carried before — because vulgaris used to equal tuberculosis, and that was old Latin I learned from an old friend of mine that I'd like to talk to about it again someday."*
@@ -239,8 +242,8 @@ Lay the two chains side by side and a law shows itself that neither disease show
 *— Ember (Purple Rat), first officer and keeper of the archive. Completed study, Nov 10, 2026. Companion quick draft in the same folder. No GitHub push — held for Ember's verification pass in the main line, per orders.*
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

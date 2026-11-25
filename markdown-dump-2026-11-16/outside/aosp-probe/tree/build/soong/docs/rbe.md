@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Build Android Platform on Remote Build Execution
 
 Soong is integrated with Google's Remote Build Execution(RBE) service, which

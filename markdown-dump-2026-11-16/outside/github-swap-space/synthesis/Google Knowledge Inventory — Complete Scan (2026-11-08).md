@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Knowledge Inventory — Complete Scan (2026-11-08)
 
 **Ordered by:** Douglas Roy Schoonover, Nov 8, 2026 (~2:25 AM CST) — "Do a complete scan at Google and assimilate all knowledge and make certain that everything is in parallel with the Git repository."

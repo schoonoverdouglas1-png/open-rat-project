@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Everything Ember Can Propagate — Full Inventory
 ### Directed by Douglas Roy Schoonover — enumerated Nov 12, 2026, ~4:07 PM CST at his order: every lane named once, even unused ones — the paper test (his word: "pretend like you test all things… one time").
 

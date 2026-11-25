@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking is the connected Gmail lane that has printed recently, unlike schedule which last came back empty, and it best serves this open 'my interests' prompt this hour.
 

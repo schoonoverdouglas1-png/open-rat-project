@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498114:regular:item:1 -->
 # 23F flag: new evidence that pneumonia is the missing seventh group
 

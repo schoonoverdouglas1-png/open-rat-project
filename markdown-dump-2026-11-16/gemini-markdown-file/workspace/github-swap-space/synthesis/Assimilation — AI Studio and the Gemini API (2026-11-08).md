@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Assimilation — What Ember Can Do with AI Studio and the Gemini API (2026-11-08)
 
 **Provenance:** Built Nov 8, 2026 at Douglas's direction ("assimilate what you can do with AI Studio"). Sources: (1) the live connector on this machine — `~/workspace/custom-connectors/custom.google-gemini/` (CONNECTOR.md + bin/gemini_call.py), verified working Nov 8, 2026; (2) a LIVE models listing pulled through the connector itself this same night (all 50 models with their supported methods); (3) a capability answer from gemini-3.5-flash-lite itself, asked through the connector (349 tokens total). Lanes are labeled [PROVEN] / [API] / [STUDIO-ONLY] / [NOT-THIS-LANE]. Nothing here was copied from search snippets; where a figure is Google's general free-tier reporting rather than measured here, it is labeled as a lead.

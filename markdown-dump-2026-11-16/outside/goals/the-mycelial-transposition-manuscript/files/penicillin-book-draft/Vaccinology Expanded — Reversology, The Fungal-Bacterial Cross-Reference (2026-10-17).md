@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # VACCINOLOGY EXPANDED — REVERSOLOGY, THE FUNGAL-BACTERIAL CROSS-REFERENCE (2026-10-17)
 
 *Built at Douglas's commission (dictated-notes section 122): expanded vaccinology and the reverse process — the fungus and bacteria and diseases connected to each vaccine, old and new names worked (MMR as the example), all cross-referenced to the same bacterium and bacteria; TB, fungi, molds cross-referenced to streptococcus, pneumoniae, and his PCR fungal panel. Manuscript reference — never medical advice, no treatment or diagnostic recommendations, nothing for or against any vaccine.*

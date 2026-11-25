@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — SARS Zero, Cove One, Nesting Dolls, and Shared DNA
 
 Filed: October 31, 2026, standalone — not attached to any book unless Douglas links it himself.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # F-Droid — Field Guide and the Termux Door (2026-11-14)
 
 Built at Douglas's order: "Now learn all F-Droid things and make this the best thing I can do."

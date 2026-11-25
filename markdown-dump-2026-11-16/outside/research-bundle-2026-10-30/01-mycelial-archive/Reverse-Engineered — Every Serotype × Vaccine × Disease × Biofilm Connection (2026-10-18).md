@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Reverse-Engineered — Every Serotype × Vaccine × Disease × Biofilm Connection (2026-10-18)
 
 *Built at Douglas's commission for The Mycelial Transposition. Manuscript reference — never medical advice. No treatment recommendations. No interpretation of any personal result: his panel values appear below as quoted numbers only, nothing more; what they mean is Kelsey Meyer's call.*

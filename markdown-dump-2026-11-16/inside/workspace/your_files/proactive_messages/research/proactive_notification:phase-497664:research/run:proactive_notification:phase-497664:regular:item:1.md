@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497664:regular:item:1 -->
 # Two manuscript notes filed: the name kept anyway, and crude-vs-adjusted mortality as a pair
 

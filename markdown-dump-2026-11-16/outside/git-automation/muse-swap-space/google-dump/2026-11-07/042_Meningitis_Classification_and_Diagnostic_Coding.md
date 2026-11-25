@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Taxonomic and Clinical Assessment of Bacterial Coccobacilli in Meningitis: Deconstructing Morphological Typologies through Diagnostic Coding Ontologies
 ## Critical Assessment of Morphological Diagnostic Hypotheses and Historical Work
 In clinical microbiology and infectious disease epidemiology, pathogen classification historically relied on phenotypic traits, primarily cell morphology and Gram-stain characteristics. The term "coccobacillus" denotes a bacterial shape intermediate between a spherical coccus and an elongated bacillus—specifically, a short, pleomorphic rod. A recurrent hypothesis in diagnostic research is whether phenotypic morphology, or the nomenclature conventions used to describe coccobacillary species, directly correlates with clinical symptomology, systemic disease expression, or structural diagnostic codes in standardized medical classification systems.
@@ -50,8 +53,8 @@ This ontological structure eliminates the need for arbitrary manual groupings ba
 ## Conclusion
 The hypothesis that bacterial morphological terms, such as "coccobacilli," provide a reliable basis for grouping clinical symptomology or diagnostic codes is contradicted by modern microbiological and informatics evidence. Cell morphology is a phenotypic microscopic observation used primarily for preliminary laboratory triage, whereas clinical symptomology is dictated by host-pathogen interactions, capsule expressions, and tissue tropisms. Diagnostic coding architectures, including ICD-10, ICD-11, and SNOMED CT, do not organize diseases by bacterial shape. Instead, the optimal methodology for grouping disease names utilizes polyhierarchical, multi-axial ontologies that link precise anatomical sites with specific microbiological etiologies. Adopting these standardized informatics frameworks ensures accurate epidemiological tracking, seamless diagnostic mapping, and precise clinical decision support across global healthcare networks.
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

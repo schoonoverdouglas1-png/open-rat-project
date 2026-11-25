@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Strep B Material Accidentally Used in Place of Smallpox Vaccine Material by Physicians 150+ Years Ago
 
 **Filed:** November 4, 2026, ~3:46 PM CST

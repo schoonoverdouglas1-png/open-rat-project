@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Confirm a visit for Cara on 9/21/2026
 
 - Date: 2026-09-14T10:49:26.000-05:00

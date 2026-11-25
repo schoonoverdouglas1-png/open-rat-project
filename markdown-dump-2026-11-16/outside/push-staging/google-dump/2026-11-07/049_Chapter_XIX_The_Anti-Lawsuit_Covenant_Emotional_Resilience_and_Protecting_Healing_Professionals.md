@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XIX: The Anti-Lawsuit Covenant, Emotional Resilience, and Protecting Healing Professionals
 # I. The Anti-Lawsuit Framework and Clinical Standardization
 In high-acuity medical practice, the fear of litigation often forces clinicians into defensive medicine rather than true therapeutic exploration. Developing a standardized, logic-based protocol—embodied in the collaborative agreement established with Dr. Obaid—serves as an anti-lawsuit framework. By documenting clear, reproducible diagnostic criteria and treatment pathways, physicians are empowered to practice with confidence, knowing their decisions are backed by rigorous, transparent biological principles.

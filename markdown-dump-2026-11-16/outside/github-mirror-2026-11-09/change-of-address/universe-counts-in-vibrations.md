@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Universe Counts in Vibrations — thread note
 
 - **Date:** Oct 15/16, 2026

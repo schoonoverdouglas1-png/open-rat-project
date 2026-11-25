@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498187:high:item:1 -->
 # New Google/Microsoft access alerts today — did you grant AI at Meta access?
 

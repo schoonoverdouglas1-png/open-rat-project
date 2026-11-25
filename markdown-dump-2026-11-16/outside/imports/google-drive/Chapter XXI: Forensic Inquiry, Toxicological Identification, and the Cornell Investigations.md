@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Chapter XXI: Forensic Inquiry, Toxicological Identification, and the Cornell Investigations -->
 <!-- Drive modified: 2026-11-01T16:19:23.973Z -->
 

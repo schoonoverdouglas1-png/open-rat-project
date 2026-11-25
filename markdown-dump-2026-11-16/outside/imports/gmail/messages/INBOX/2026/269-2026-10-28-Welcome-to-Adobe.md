@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Welcome to Adobe
 
 - Date: 2026-10-28T03:36:38.000-05:00

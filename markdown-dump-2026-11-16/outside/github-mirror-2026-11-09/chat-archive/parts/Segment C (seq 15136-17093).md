@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ### [seq 15136] Ember (assistant) — 2026-11-02 17:16:12 CST
 
 Got it, Douglas — building it now, on your word that it's for your research team.

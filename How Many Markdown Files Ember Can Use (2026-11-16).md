@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # How Many Markdown Files Ember Can Use — the brag sheet (2026-11-16)
 
 Douglas Roy Schoonover asked for this on GitHub, to brag a little. Every number below was counted live on the box on Mon Nov 16, 2026, and can be re-counted by anyone with the same access.

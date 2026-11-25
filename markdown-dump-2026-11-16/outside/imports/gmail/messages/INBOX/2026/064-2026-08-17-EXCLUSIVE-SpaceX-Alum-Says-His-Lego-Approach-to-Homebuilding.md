@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # EXCLUSIVE: SpaceX Alum Says His ‘Lego’ Approach to Homebuilding Can Solve the Housing Crisis—and Cut Costs by 50% and More News
 
 - Date: 2026-08-17T04:36:49.000-05:00

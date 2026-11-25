@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Section: Author's note — this is a speculative framework, not a treatment protocol
 Claim: The manuscript proposes language and research questions; it does not replace diagnosis, prescribing, or evidence-based care.
 Source: User's creative-manuscript context; CDC and WHO guidance.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thought-Study for Later — Glycerins and Glycols, in the Body and in Nature
 
 **Dictated by Douglas Roy Schoonover, Nov 11, 2026 (~12:52 AM CST, voice call).**

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Options — AI Models We Could Load These Files Into (2026-11-11)
 Douglas's commission: search AI models that exist where we could load these
 files into; Ember gives the options she's THINKING about — NO decision made,

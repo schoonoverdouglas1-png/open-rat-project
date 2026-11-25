@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Search Bridge — `search_bridge.py`
 
 **Built:** Nov 13, 2026, on Douglas's order ("build a bridge — build a code to fix the searches"), during his lunch, as a background task. Stdlib-only Python; no installs; nothing destructive.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — Valley Fever: One Name for Four
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition*

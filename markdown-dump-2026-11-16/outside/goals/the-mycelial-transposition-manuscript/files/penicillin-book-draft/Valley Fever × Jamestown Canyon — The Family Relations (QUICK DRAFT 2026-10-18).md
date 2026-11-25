@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Valley Fever × Jamestown Canyon — The Family Relations (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the full relation-work is building behind this. Your reading copy meanwhile.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cache-Ahead — The Pages We Live On
 Built 2026-11-13 ~7:00 PM CST at Douglas's order ("read all web pages that we might access the next five years right now").
 Ember's measured line, filed beside the order: five years of pages cannot be known, let alone read, in one night — the honest form of the order is his own cache-ahead doctrine: keep the core working set read, filed, and backed up, with the caches running ahead of need. This manifest is that set.

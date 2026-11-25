@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ninja File Canonicalizer
 
 Suppose we have a tool that generates a Ninja file from some other description (think Kati and makefiles), and during

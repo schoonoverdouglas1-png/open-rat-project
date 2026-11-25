@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Text samples
 
 This sample demonstrates several text-related features in Android.

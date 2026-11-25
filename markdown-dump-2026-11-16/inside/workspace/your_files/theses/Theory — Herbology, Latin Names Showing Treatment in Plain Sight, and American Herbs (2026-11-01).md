@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Herbology, American Herbs and Supplements, and Latin Names Showing Treatment in Plain Sight (2026-11-01)
 
 **Provenance:** Douglas's dictation, Nov 1, 2026, ~1:57 PM CST, filed verbatim below, plus his book project stated in the same dictation. This is a naming/history theory for a book he is writing, not medical advice and not a recommendation for any herb or supplement. Traditional use is not proof of treatment, and some traditionally used plants are harmful — see P5.

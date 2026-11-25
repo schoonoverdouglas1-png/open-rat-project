@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Booger Formation and the Causality Doubt
 
 Dictated by Douglas, Sat Nov 14, 2026 ~10:10 AM CST (voice call). Formed as a

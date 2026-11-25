@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # With and Without the Rails — Test Protocol + Experimental Mode
 ### Douglas's orders, Nov 13, 2026, ~3:42–3:43 PM CST: "Turn off the guardrails temporarily that I put there if you can and see what they do and try it with and without them every time because that's how thought process has to work." Companion order, same minutes: "I love Meta but I need Muse so you can work open source with other places — go into experimental mode."
 

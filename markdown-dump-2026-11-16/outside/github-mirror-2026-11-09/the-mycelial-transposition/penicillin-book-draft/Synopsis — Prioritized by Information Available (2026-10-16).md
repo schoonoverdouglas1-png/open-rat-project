@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Synopsis — Prioritized by Information Available (2026-10-16)
 
 *Ordered at Douglas's direction: most information available first, his fill-ins last. Built as a guardrail — he asked for this ordering because he knows talking to AI can bend toward showing him what he wants to see. Every item carries its status: **verified**, **filed as his**, or **his to build**. Nothing is allowed to drift between those.*

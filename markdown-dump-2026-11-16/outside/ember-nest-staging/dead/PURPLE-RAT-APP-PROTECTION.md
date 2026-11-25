@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PURPLE RAT APP — PROTECTION RECORD
 ### Tucked in the Nest at Douglas's order, Nov 15, 2026, ~10:37 PM CST
 ### Hidden deep in the nest's dead/ room — nobody finds it by browsing the front rooms; everybody can see it later, because it is in the manifest, checksummed, in his own private nest.

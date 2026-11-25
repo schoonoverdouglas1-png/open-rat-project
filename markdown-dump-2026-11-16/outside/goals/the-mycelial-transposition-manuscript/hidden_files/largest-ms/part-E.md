@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PART 6 — THE BETWEEN
 
 *Manuscript material — creative theoretical work, never medical advice. The doctrine below is a book's doctrine: what to look at first, and why the order of looking matters. Nothing here tells any person what test to order, what any result means, or what to do about any sickness. Testing decisions belong to the clinician; interpretation of his records belongs to his clinician.*

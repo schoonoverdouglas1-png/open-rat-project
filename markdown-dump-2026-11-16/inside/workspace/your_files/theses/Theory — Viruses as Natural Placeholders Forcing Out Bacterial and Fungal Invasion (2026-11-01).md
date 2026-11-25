@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Viruses as Natural Placeholders Forcing Out Bacterial and Fungal Invasion (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice.*

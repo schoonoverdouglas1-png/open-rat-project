@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Notes — search rounds (index, 2026-11-07)
 
 Queries run via browser_search, all returned no hit for the target paper:

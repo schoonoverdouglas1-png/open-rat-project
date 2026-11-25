@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498120:regular:item:1 -->
 # Cryptococcus/PN23M lettering verified — with one correction to the email's gattii split
 

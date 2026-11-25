@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ChatGPT trusted-contact invite acceptance
 
 Goal ID: goal_67554c3a5b91

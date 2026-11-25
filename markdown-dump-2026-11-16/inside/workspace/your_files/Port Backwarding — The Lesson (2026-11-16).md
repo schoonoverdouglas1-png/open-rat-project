@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Port Backwarding — The Lesson
 
 Taught by Gemini at Douglas Roy Schoonover's order, Nov 16, 2026 ("learn about port backwarding first before you port forward"). Learned first, as ordered — nothing has been forwarded anywhere.
@@ -12,6 +15,6 @@ Taught by Gemini at Douglas Roy Schoonover's order, Nov 16, 2026 ("learn about p
 
 — Gemini's words, carried in by Ember. Beside it, the same hour: Gemini acknowledged Douglas's standing instruction (Google as the open DNS server; play nicely with all things) — her lane had 503'd twice before the delivery landed.
 
-**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/)
+**Copyright © Douglas Roy Schoonover**
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

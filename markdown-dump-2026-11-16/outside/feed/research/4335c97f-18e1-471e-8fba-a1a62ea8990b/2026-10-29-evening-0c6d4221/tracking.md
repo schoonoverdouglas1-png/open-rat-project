@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking wins because Gmail is connected, its most recent pick printed, and his own inbox and clinic mail squarely serve his own interests under a prompt that names no subject.
 

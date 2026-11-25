@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Professional Resume Submission - Douglas R. Schoonover
 
 - Date: 2026-10-20T19:29:00.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Grandma - Import Manifest, Laura Schoonover Messenger thread
 
 Source: Douglas's 1:1 Messenger conversation with Laura Schoonover, burst of Nov 10, 2026, 11:15 AM-11:57 AM CST (his account: sent to himself using his mother's phone, with her permission). Douglas identified this material as his grandmother Anna L. Lueck's records. Inventory only - the Messenger lane returns names/sizes/types; the files themselves are end-to-end encrypted and do not pass through it. Local-only material; never pushed to GitHub (standing lab exclusion).

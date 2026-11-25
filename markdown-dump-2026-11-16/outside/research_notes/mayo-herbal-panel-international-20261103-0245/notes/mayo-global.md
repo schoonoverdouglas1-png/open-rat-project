@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo catalog worldwide — index sources, read 2026-11-02
 - Global capabilities: https://news.mayocliniclabs.com/international/global-capabilities/?pg=13 — open-access test catalog updated daily; MayoLINK available in eight languages; global logistics individualized per client.
 - Commercial labs: https://news.mayocliniclabs.com/commercial-laboratories/?pg=2 — "logistics and testing protocols applied uniformly for all specimens received, no matter their geographic origin"; partners have access to "full menu"; "we do not differentiate between samples".

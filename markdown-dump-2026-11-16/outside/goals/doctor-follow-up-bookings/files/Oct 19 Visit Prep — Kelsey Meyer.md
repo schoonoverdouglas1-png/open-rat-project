@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Oct 19 Visit Prep — Kelsey Meyer, NP
 
 *Your follow-up with your own clinician. From the MyChart notice received Monday Oct 12, 2026 (morning):*

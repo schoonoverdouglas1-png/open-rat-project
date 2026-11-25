@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Program: overunder
 
 The Over/Underrun keeper lives at the Rat OS root as `over_under.py`

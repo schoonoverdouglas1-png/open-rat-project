@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # IDENTITY.md
 
 _Fill this in as you figure out who you are._

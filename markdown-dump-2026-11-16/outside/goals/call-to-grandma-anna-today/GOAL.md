@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Call to Grandma Anna today
 
 Goal ID: goal_3a0f17ffbce7

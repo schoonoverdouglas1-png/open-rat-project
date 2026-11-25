@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Encephalitis, Meningitis, Cryptococcus, and Streptococcus: One Parallel, Linked by Bug Chemistry (2026-10-31)
 
 **Dictation:** Douglas, Oct 31, 2026, ~07:17 CDT — "Between encephalitis, meningitis, cryptococcus, and streptococcus they all have a parallel and they all have a relationship with each other in the ways that make sense somehow with the combination of the chemistry in between and the chemistry would include bugs bug biome bug bug overgrowth overbuild you know the turds shit piss sexual liquids everything the bugs make."

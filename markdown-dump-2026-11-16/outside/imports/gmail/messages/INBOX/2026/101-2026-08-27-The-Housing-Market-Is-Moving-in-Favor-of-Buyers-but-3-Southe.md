@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Housing Market Is Moving in Favor of Buyers, but 3 Southern Cities Are Bucking the Trend and More News
 
 - Date: 2026-08-27T04:31:29.000-05:00

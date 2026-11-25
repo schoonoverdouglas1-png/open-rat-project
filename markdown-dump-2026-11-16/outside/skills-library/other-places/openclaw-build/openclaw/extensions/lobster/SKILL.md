@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Lobster
 
 Lobster executes multi-step workflows with approval checkpoints. Use it when:

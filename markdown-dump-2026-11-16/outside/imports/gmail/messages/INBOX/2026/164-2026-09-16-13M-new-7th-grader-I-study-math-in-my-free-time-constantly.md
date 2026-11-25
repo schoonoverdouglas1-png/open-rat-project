@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "13M, new 7th grader. I study math in my free time constantly, this was my ..."
 
 - Date: 2026-09-16T20:54:00.000-05:00

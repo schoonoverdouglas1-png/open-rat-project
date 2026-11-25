@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Serogroup Table — Corrected Copy 2, Vaccine Breaks Fixed (2026-11-04)
 
 - Second corrected copy, built Nov 4, 2026, from the first corrected copy and the Medical Accuracy Check (2026-11-04). Original paste and first corrected copy untouched, old-with-new.

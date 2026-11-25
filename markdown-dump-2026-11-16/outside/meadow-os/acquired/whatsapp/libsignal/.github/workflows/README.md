@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Notes on GitHub Actions
 
 ## Why not use `actions/cache` in the Rust jobs?

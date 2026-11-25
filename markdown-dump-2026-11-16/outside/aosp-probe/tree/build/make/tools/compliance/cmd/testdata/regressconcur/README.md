@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## Start long walks followed by short walks
 
 Detect concurrency error where "already started" treated as

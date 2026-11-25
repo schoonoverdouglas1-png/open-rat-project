@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## The Unicode Standard, Unicode Character Database, Version 15.0.0
 
 ### Unicode Character Database

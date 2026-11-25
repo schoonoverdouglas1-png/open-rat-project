@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cross-Reference — Latin (the Language of *Pluribus*) Disease Names, Medicine, Herbal, and Vitamin Cross-References by Naming and Spelling (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice. Naming cross-reference: what the spelling shows, and what it does NOT prove about treatment. A shared root is a naming link, not an efficacy claim.*

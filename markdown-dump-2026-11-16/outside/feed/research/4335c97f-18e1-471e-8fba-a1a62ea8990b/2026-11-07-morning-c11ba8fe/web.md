@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web keeps delivering on his science and health interests, while schedule's last turn came back empty, so web is likeliest to hold a story that belongs this hour.
 

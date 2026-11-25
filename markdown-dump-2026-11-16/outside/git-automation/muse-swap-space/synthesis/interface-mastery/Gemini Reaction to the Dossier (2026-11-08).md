@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Gemini's Reaction to the Interface Dossier (2026-11-08, ~2:45 AM CST)
 Via the direct API connector (gemini-3.5-flash-lite, 643 tokens). Ember's fact-check notes in brackets.
 
@@ -6,8 +9,8 @@ Via the direct API connector (gemini-3.5-flash-lite, 643 tokens). Ember's fact-c
 (3) Most surprising number: the 1.74 s Gemini generate call — it called it slow for a cloud-to-cloud path and advised trimming prompts / shifting bulk analysis local. [Ember: noted as its opinion; the 1.74 s is a full round trip incl. generation and is still her fastest AI lane by an order of magnitude vs paste rounds. Its underlying advice — local-first for bulk, API for reasoning — is already the standing cheapest-first rule.]
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

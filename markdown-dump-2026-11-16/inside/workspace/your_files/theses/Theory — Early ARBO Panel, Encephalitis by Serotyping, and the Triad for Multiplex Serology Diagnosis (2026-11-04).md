@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Early ARBO Panel, Encephalitis by Serotyping, and the Triad for Multiplex Serology Diagnosis (2026-11-04)
 
 - Dictation, Douglas, Nov 4, 2026, ~2:35 PM CST, in substance, as heard: "In the very early quest tests with Herbo panel every single stereotype was named in encephalitis as in California lacrosse encephalitis was the stereotype and if encephalitis by stereotyping has connection to pneumonoccal and or streptococcus pneumoniae and or Cryptococcus pneumoniae and or Cryptococcosis or any of those other types of diseases they're interlinked with the things like the Thyria and with tetanus and with a handful of those things and that's where the chemicalogical compounds and serologies interlinked and that's where I'm going to try to find the easiest way to figure out if somebody's sick or not based upon our antibody reactions in that triad of areas hopefully coming down the one place where the serology can allow for the multiplex diagnoses to happen based upon at least the best information that we already have."

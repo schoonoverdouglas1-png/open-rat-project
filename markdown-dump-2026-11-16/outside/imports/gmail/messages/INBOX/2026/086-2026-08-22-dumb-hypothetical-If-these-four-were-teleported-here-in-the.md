@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "dumb hypothetical: If these four were teleported here in their prime to ta..."
 
 - Date: 2026-08-22T20:27:33.000-05:00

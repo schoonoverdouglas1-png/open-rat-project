@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Lung Colonization — Co-occurrences and Organ Symbiosis (2026-10-16)
 
 *Researched at Douglas's direction for The Mycelial Transposition. His thesis: what colonizes the lungs sits in symbiotic relationship with the pancreas, the spleen, and the appendix — "the appendix is part of our immune system, is what I was taught." Association reference only — never medical advice, no treatment or diagnostic content.*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Security-alert watch — state
 
 Set at Douglas's order (Nov 14, 2026, ~12:11 AM CST). Watch reads Pixel notifications only; never dismisses or acts on any notification. No codes are ever read, relayed, or recorded here — alerts are logged by service, title/event, and time only.

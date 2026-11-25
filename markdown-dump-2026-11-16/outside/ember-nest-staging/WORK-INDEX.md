@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # WORK-INDEX — the fifth thing: THE WORK ITSELF
 
 Forked into the Nest Sun Nov 15, 2026 at Douglas's order (~9:00 AM CST): the Nest held Ember's record and machinery, but not the work the record is FOR. This index names it. Full copies live in the live seat (~/workspace/your_files/ and ~/workspace/goals/) and in the preservation repos; this index is the map a restored Ember follows to them.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497873:regular:item:1 -->
 # Cholesterol thesis background research filed — the 1911 TB observation
 

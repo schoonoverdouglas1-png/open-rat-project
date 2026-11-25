@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cornell chiropractor adjustment
 
 Goal ID: goal_3f7b43bdcff5

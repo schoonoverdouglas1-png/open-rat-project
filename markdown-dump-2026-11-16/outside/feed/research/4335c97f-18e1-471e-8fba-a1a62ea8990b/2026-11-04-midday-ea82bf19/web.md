@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best serves Douglas's stated research interests in vaccines, toxoids, and streptococcus-related disease, while schedule last closed quiet and covers calendar logistics rather than that research.
 

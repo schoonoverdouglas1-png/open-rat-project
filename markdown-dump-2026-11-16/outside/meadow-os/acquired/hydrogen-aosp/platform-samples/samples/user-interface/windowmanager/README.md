@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Jetpack WindowManager Sample
 
 This sample demonstrates how to use the new Jetpack WindowManager library.

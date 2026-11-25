@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research — Google AI lineage, open source vs API-only, and supercomputers
 
 Provenance: Recreated by Ember, Nov 5, 2026, from Meta AI's description as brought by Douglas. Labels: [D] = documented, as generally recorded; [GAP] = needs a source check before use as a citation. This is a starter, not a finished citation file.

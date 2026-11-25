@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Virus as Denoter of Disease, or Disease as Denoter of the Virus's Place in the Biome (2026-11-03)
 
 **Origin (his question):** Douglas, Nov 3, 2026: "Can AI denote with any type of brilliance whether the virus itself is the denoter of disease or if disease is the denoter of the position of which virus sits in the place holders of the biome of nature which makes them show on testing?"

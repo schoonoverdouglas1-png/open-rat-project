@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: schedule
 Angle: Schedule gets the hour because the reader's Monday-morning prescription pickup makes what's ahead on the calendar the most actionable material for this hour.
 

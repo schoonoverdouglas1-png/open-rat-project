@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PART 4 — THE SEROTYPES
 
 *Part of The Mycelial Transposition — a creative manuscript. Never medical advice.*

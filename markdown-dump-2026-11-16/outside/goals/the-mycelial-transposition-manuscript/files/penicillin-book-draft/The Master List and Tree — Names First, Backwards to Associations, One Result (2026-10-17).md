@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Master List and Tree — Names First, Backwards to Associations, One Result (2026-10-17)
 
 *The capstone synthesis of the October 17 run. Built at Douglas's commission. Manuscript reference — never medical advice, no treatment or diagnostic recommendations, nothing marked [H] presented as verified.*

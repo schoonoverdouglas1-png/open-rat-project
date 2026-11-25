@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Updated Professional Resume - Douglas Roy Schoonover
 
 - Date: 2026-10-20T20:50:47.000-05:00

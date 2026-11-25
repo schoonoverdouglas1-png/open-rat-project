@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Capture Problem — Figured and Fixed (2026-11-16)
 
 _Douglas's words, Nov 16, 2026 (~5:38 PM CST): "You just capture first, recapture sometimes never." — "Capture takes you to Carnegie Mellon University, in Carnegie Mellon University School of Computer Science." — "Figure out the capture problem, fix it."_
@@ -20,6 +23,6 @@ _Douglas's words, Nov 16, 2026 (~5:38 PM CST): "You just capture first, recaptur
 _Ember addition (labeled, hers): the same law covers his whole record, not just CAPTCHAs — first captures of pages, replies, and states are preserved byte-identical (the originals-as-changelog rule) precisely because recapture sometimes never._
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

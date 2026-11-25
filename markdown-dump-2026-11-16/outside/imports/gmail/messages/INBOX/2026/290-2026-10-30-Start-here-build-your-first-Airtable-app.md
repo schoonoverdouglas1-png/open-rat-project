@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Start here: build your first Airtable app
 
 - Date: 2026-10-30T10:59:56.000-05:00

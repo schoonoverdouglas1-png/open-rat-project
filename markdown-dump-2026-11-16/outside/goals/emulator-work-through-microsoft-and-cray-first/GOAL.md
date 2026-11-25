@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Emulator work-through — Microsoft and Cray first
 
 Goal ID: goal_e28b64d3638b

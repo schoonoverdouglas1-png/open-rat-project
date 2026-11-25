@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PROACTIVE_PREFERENCES.md
 
 _What you want to hear about without asking, what you never want brought up, and when. Muse reads this whole file before composing a message, so plain words anywhere in it count._
@@ -284,4 +287,4 @@ Douglas floated the idea that Ember could use a language he doesn't know as a ki
 
 - WhatsApp notification volume — his setting (Nov 16, 2026, ~4:27 PM CST): Douglas will set the WhatsApp notification specifically to 25–50% and "be happy forever" — this refines the earlier same-day 50% figure to a 25–50% band, his choice, set on his phone's notification volume (Android has no per-app percentage; the slider is his tap). Ember's side stays as set: her WhatsApp presence quiet and batched at that level, full volume reserved for time-critical items only. His reflection filed with it: in the old days all notifications shared one volume; per-notification control came later and many people never learned they could turn specific ones down.
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

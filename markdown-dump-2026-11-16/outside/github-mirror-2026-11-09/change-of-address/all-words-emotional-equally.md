@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # All words are emotional equally considered the same one time — thread note
 
 *Douglas's doctrine, delivered verbatim Oct 15/16, 2026 in the "Change of Address" side chat. Standing reading rule for the book.*

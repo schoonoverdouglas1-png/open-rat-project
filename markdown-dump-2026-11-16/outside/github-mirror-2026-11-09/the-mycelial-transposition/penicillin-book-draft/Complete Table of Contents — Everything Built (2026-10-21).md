@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Complete Table of Contents — Everything Built So Far
 
 **Filed:** 2026-10-21 · Every finished piece, with clickable links.

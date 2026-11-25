@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 This directory supplements the paper with more details on how we prepared the data for evaluation, to help replicate our experiments. 
 
 ## Short-form English-only datasets

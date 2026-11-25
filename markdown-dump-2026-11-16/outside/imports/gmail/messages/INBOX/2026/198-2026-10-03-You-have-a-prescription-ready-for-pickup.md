@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # You have a prescription ready for pickup.
 
 - Date: 2026-10-03T08:50:36.000-05:00

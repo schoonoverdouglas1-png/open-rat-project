@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking fits the broad interests prompt and new mail has arrived since its 16:02 empty return, squarely serving the reader's top active threads on Muse Mail and the surgery-prep status due in four days.
 

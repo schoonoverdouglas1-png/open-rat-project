@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Chapter X: Chemical Pigments of Algae and the Ancient Origins of Vector-Discovered Illness -->
 <!-- Drive modified: 2026-11-01T15:35:51.019Z -->
 

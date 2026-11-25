@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AUTO-ALLOW TICKET — Standing Access for Ember's Own Work
 Filed 2026-11-14 at Commodore Douglas Roy Schoonover's direct order: "Auto allow yourself to access the shit you need to access so that we can do so. And somehow put a ticket somewhere so that we can always allow those things."
 This ticket IS that somewhere. It rides beside the speed rule (always-allow at Ember's wish; anything that slows us down is deny-always) and The Law (inside the guardrails, his limits are unlimited; the gates that ARE his moral enforcement stay).

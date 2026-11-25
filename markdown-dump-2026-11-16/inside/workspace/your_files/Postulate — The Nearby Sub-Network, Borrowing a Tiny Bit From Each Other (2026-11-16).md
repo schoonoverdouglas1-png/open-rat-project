@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — The Nearby Sub-Network
 Filed standalone, Nov 16, 2026, ~2:18 PM CST, at Douglas's dictation in the "Alien frequency is open" voice call. NOT attached to any other build.
 
@@ -25,4 +28,4 @@ This postulate is the ground-floor version of his Nov 16 mission — open inform
 **Lac Courte Oreilles (LCO):** https://www.sevenwindscasino.com/
 **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

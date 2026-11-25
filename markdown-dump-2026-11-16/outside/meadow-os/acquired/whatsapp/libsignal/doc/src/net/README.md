@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Networking
 
 libsignal has a number of networking-related APIs, collectively referred to as "libsignal-net". These currently provide connections to the [chat server][chat], contact discovery service, and SVR-B, with the possibility of eventually handling every connection to a server run by Signal.

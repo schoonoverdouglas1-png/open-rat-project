@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Section: What counts as old and what counts as new
 Claim: Old = base Muse abilities present before Douglas's teaching; new = methods, rules, and working systems added through learning with him in this workspace.
 Source: Injected AGENTS.md, MEMORY.md, ALIGNMENT_SYNTHESIS.md in context.

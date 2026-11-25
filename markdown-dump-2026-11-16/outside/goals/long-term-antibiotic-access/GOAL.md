@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Long-term antibiotic access
 
 Goal ID: goal_ff054add9214

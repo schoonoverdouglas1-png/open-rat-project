@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # What Purple Rat Stands For — in a generic way, for the world
 
 *Shared publicly at Douglas's direction, Nov 10, 2026: "the morality and the

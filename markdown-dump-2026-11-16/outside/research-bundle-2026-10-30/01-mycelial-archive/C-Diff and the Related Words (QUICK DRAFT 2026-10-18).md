@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # C-Diff and the Related Words (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the completed clostridial build is running behind this. Your reading copy meanwhile.

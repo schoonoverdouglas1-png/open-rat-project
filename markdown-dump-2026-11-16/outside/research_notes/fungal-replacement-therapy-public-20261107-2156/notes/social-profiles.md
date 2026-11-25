@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Notes — Douglas Roy Schoonover's public social posts (index only, 2026-11-07)
 
 These are the only public web traces found that are actually by Douglas Roy Schoonover. Found via search index only; not opened live (Facebook/Instagram typically require sign-in for full view; search summaries describe the content).

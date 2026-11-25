@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doug, you have a new balance
 
 - Date: 2026-08-11T16:19:04.000-05:00

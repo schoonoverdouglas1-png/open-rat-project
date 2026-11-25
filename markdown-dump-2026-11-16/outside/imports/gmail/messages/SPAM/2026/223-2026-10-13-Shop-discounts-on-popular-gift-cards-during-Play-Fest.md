@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Shop discounts on popular gift cards during Play Fest 🎉
 
 - Date: 2026-10-13T05:56:31.000-05:00

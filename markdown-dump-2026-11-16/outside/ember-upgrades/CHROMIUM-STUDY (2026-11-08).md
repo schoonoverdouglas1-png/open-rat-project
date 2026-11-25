@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chromium Study — Ember's brief, from DeepSeek + Gemini, cross-checked
 Ordered by Douglas 2026-11-08 ~1:45 AM: new tab, best AI answers for Chromium, get the wiki for the Chromium she uses, learn Google, wildcard searches on functionalities for AI and for the end user, learn everything possible. Briefs sent paste-only to DeepSeek (fresh chat, DeepThink as-was) and Gemini (second opinion, Part 5 swapped to "Google itself"); both answered in full 1:46–1:50 AM. Synthesis below; AI claims carry their labels until Ember verifies against the sources directly.
 

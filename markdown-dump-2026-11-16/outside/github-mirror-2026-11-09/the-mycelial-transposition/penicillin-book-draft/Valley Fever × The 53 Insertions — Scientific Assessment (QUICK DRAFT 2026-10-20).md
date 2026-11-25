@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Valley Fever × The 53 Insertions — Scientific Assessment (QUICK DRAFT, 2026-10-20)
 
 *His request (Oct 20, 2026, ~8:31 PM): analyze the valley fever material across the fifty-three insertions, and assess his thoughts — with the updated thought processes included — in a scientific medical manner. This is the quick draft to read while the completed paper builds. Tier labels: [D] documented · [H] his, filed as his · [H→D] his with documented foothold · [GAP] record empty.*

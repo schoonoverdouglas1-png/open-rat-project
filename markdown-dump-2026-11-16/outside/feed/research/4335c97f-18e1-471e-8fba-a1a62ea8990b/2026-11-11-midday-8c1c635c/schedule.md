@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: schedule
 Angle: Google Calendar is connected and squarely serves the reader's top actionable thread today — a doctor appointment due today — while web has printed five straight hours and tracking carries the weaker response record.
 

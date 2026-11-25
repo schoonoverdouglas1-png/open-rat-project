@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: The Historical & Modern Therapeutics of Disease Nomenclature.md -->
 <!-- Drive modified: 2026-10-29T15:04:37.938Z -->
 

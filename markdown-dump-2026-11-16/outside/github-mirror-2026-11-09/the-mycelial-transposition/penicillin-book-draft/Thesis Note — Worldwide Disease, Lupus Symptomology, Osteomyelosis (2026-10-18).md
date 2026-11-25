@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — Worldwide Disease, Syndrome Frame, Lupus Symptomology, Osteomyelosis
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (namology/syndrome thread)

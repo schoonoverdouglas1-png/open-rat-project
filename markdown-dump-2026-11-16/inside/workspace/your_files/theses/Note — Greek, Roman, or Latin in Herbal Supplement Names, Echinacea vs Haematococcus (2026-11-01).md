@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Note — Greek, Roman, or Latin in Herbal Supplement Names, Echinacea vs Haematococcus (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice. Naming note for the herbology book.*

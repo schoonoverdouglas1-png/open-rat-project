@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Viruses Must Expend Something, Osmotic Electrostatic Existence, and the Pac-Man Pathway Out (2026-11-02)
 
 **Origin (his theory):** Douglas, Nov 2, 2026, evening. He proposes that viruses must consume and expend something to exist, unless they are completely osmotic and electrostatic in a way that allows them to exist homeostatically; and that it is not impossible that viruses are not attacking, but are just stuck inadvertently and trying to get away from us — like a Pac-Man trying to find a way out of a maze instead of being stuck within it — and that viruses might just need a pathway out.

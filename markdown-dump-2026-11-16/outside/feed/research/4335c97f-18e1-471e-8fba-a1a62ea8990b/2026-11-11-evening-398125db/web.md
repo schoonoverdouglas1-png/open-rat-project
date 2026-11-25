@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: The broad interests prompt fits web squarely, web has printed consistently on tech, science and local vehicle topics, while schedule just closed quiet and tracking has the weakest reader response.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — The Test Uses Viral DNA Plus a Combination; Virology Doesn't Grasp Its Own Full Usage (2026-10-19)
 
 **Status:** filed as his, tested against the record.

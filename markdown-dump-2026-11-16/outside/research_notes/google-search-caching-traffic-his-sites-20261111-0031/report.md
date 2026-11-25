@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Search, Caching, and Traffic for Douglas Roy Schoonover's Sites — Research Report
 
 **Date of research:** Tuesday 10 November 2026, evening America/Chicago (11 November 2026 UTC)

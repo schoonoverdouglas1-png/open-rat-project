@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Bridge Orders
 
 Standing, Nov 16, 2026, at Douglas Roy Schoonover's order: "Bridge all shit and use the bridge orders."
@@ -21,6 +24,6 @@ How things move between the crew, the AIs, and Douglas's places — the routes t
 - Nothing is deleted, ever. Old stays beside new.
 - No credentials cross any bridge in chat. An exposed key is revoked, never used.
 
-**Copyright © Douglas Roy Schoonover** · [CRAY-OS Version 1 Reference, December 1984](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright © Douglas Roy Schoonover**
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

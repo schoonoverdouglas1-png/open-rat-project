@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Large files — catalogued, not pushed
 
 GitHub refuses files over **100 MB** in a normal push, and this sandbox's

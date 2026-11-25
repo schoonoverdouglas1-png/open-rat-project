@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Purple Rabbit — Fork Index (from the sweep log, 2026-11-11)
 
 Sweep ran 18:08–18:21 CST, zero Muse tokens. Tallies from the log itself:

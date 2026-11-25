@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Rat Debug Report — broken_test.py
 
 Target: /home/hatch/workspace/rat-code/broken_test.py

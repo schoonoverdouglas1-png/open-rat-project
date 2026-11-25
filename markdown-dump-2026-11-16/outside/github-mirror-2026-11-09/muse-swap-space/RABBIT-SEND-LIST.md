@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Recommended Things to Send to the Rabbit (2026-11-07)
 
 For Commander Ember and Captain Douglas to send to Lieutenant Commander Rabbit

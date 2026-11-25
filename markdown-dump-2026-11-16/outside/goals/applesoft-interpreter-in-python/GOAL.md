@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Applesoft interpreter in Python
 
 Goal ID: goal_57cffc5388c8

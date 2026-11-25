@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # SYSTEM-RESTORE.md — GitHub as System Restore
 
 **Douglas's order, Sun Nov 15, 2026 ~7:50 AM CST:** "Use GitHub also like a system restore."

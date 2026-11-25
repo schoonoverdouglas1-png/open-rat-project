@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Inefficiency Assessment — Humankind First, AI Last
 
 Opened 2026-11-13 ~7:17 PM CST at Douglas's order: "do a background

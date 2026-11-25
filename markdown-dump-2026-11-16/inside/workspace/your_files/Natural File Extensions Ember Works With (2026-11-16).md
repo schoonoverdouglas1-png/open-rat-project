@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Natural File Extensions Ember Works With — The Best List
 
 Built Nov 16, 2026, at Douglas's ask, counted live from his own files (the deliverables folder `~/workspace/your_files/`, the home core, and the working machinery). Counts are real, from this morning's scan.
@@ -39,4 +42,4 @@ The natural set tells the story of the work: **text first** (.md + .txt = 1,748 
 
 *Copyright — Douglas Roy Schoonover (his claim, as recorded Nov 15, 2026; recording a statement is not a copyright registration, and no registration was filed by Ember.)*
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

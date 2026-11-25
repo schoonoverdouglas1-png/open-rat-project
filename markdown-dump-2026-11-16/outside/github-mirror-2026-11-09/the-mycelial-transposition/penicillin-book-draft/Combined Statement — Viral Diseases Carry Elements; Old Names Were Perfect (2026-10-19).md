@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Combined Statement — Most Viral Diseases Carry Fungal and Bacterial Elements; the Old Names Were Generic and Fixedly Perfect (2026-10-19)
 
 **Status:** his thought + my thought → the statement of fact that fits. The combined-statement method.

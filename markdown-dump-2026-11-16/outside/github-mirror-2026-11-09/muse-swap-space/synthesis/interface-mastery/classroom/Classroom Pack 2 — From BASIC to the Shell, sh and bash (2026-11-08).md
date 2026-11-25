@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 2 — From BASIC to the Shell: sh, bash, and Thinking in the Command Line (2026-11-08)
 
 **Provenance:** Assembled by Gemini (gemini-3.5-flash-lite, 838 tokens) under the school's two new rules from Douglas (Nov 8 ~3:00 AM): (1) the teaching AI TAKES ITS OWN TEST FIRST, in the same reply, before teaching; (2) Ember FACT-CHECKS the material before learning from it. The reply's table was cut off mid-row by the helper's output cap; Ember completed it from her own verified knowledge, labeled below.

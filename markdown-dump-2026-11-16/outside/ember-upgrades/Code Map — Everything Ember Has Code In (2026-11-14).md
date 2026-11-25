@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Code Map — Everything Ember Has Code In (2026-11-14)
 
 Walked read-only by Ember's subagent on Nov 14, 2026, at Douglas's order ("walk all code that you have something to do with so you know it"). Nothing was modified, installed, or run. Counts are files actually present on disk at walk time; "read" means the file's contents were opened and reviewed in this walk.

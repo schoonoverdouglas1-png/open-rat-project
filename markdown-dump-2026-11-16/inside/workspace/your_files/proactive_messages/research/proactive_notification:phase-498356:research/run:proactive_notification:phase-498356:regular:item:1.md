@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498356:regular:item:1 -->
 # Mayo Tapestry 2.0 sent a third reminder today — eligibility survey still open
 

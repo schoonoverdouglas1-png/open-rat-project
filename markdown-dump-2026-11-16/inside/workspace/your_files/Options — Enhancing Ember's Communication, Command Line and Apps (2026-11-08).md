@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Options — Enhancing Ember's Communication: Herself, the Command Line, and the Apps (2026-11-08)
 
 **Provenance:** Douglas's order, Nov 8, 2026 (~2:40 AM): one simple search, one AI at a time until the right answer, all available options, as many ideas as possible — plus "learn yourself": find the things Ember doesn't know she doesn't know. Method followed exactly: ONE CLI web search (2 s class), then ONE AI (Gemini, direct API, 896 tokens) — its answer agreed with the search's framing and with Ember's own record, so per the two-agree rule the round STOPPED there; DeepSeek stays next in line, unasked, because the answer was already right.
@@ -21,15 +24,15 @@ Unix domain sockets · gRPC/Protobuf · **MCP (JSON-RPC)** · REST/OpenAPI · Gr
 Gemini's prescription: a recursive capability audit loop — enumerate breadth (every binary on PATH, env, services, units, ports), introspect depth (--help, man, schemas on every tool), probe sockets/sessions/timers, and differential tracing (strace, watch what a tool touches). **Ember's note: this is precisely the self-inventory already run tonight** (1,345 commands enumerated, 704 man-page descriptions extracted, absences verified three ways) and the Rabbit blind-spot order (Order 2) is the same loop pointed by another mind. The honest principle, in Ember's words: *you cannot search for an unknown by name — you enumerate the whole space and diff it against what you actually use; whatever is left is your unknown-unknowns list, now written down.* The monthly inventory re-run (already on the books) is what keeps that list fresh. One new addition from Gemini worth adopting: `--help`/schema introspection sweeps on the 100+ connector CLIs specifically, since those are the buttons Ember presses most and knows least formally.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Doug Schoonover — his personal Facebook page:** https://www.facebook.com/100063626736158
 - **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

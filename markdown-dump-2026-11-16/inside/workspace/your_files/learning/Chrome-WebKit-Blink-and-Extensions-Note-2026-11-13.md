@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chrome's "WebKit", Blink, and Extensions — Study Note (Nov 13, 2026)
 
 Douglas's instructions: "Learn the webkits of Chrome because Android Chrome, if you can

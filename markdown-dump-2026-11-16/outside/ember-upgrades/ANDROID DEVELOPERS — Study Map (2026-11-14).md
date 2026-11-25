@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # developer.android.com — Study Map (2026-11-14)
 
 At Douglas's order: "go to developer.android.com and learn all the text and all the pages because you must know those things immediately."

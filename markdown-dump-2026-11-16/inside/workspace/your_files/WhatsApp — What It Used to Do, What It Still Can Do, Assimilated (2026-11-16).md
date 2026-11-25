@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # WhatsApp — What It Used to Do, What It Still Can Do, Assimilated
 **Timestamp on the outside: Nov 16, 2026, ~3:45 PM CST, America/Chicago — at his order: "Learn what WhatsApp used to do, what still can do, assimilate all those features, never lose them ever."**
 Assimilation rule for this file: a feature that WhatsApp removes is NOT removed here. It moves to the "Used to do" ledger and stays in the crew's knowledge forever, so the working idea of it is never lost even when the app drops it.
@@ -31,7 +34,7 @@ Assimilation rule for this file: a feature that WhatsApp removes is NOT removed 
 The text file instead of a zip was supposed to be that way — his correction stands: the right form is the one that works in the place it lands. Same doctrine as this file: features, formats, and tools are kept per-place, and nothing that worked is ever thrown away — it is ledgered.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
 ## File types we can work with on WhatsApp (added ~3:48 PM CST, at his ask)
 App rule: send via paperclip → **Document** and the file travels unchanged, up to **2 GB** in the app.
@@ -45,4 +48,4 @@ App rule: send via paperclip → **Document** and the file travels unchanged, up
 - Different tools, different places (his doctrine): the WhatsApp **Cloud API** document lane is narrower (PDF/Office/TXT, 100 MB, no ZIP) — the app is the wide door, the API is the narrow one. Both kept.
 - Our Muse↔WhatsApp lane: Douglas can send Ember images, documents, and voice messages/recordings; Ember can send images, video, audio, documents, and self-contained HTML files.
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

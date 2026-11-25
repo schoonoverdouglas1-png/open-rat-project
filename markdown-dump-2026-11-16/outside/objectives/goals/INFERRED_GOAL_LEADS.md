@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Inferred goal leads
 
 Updated 2026-11-16T16:11:57Z from verified studying output.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497561:regular:item:1 -->
 # Oct 15 visit labs due by Oct 10 — enrich with specifics before sending
 

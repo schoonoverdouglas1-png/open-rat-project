@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cross-platform mail bridging analysis
 
 Goal ID: goal_630051fb453d

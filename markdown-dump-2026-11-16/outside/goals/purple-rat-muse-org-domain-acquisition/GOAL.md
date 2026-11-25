@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # purple-rat@muse.org domain acquisition
 
 Goal ID: goal_a41c7131379e

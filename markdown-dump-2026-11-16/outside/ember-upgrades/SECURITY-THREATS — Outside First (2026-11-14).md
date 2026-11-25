@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Security Threats — Outside First (2026-11-14)
 Ordered by Douglas ~11:24 AM CST: analyze threats and vulnerabilities OUTSIDE Ember's network first — his premise: the outside ones pose the unlimited threat because his/our own infrastructure is fine. Premise check [Ember]: supported by today's measurements (shields tight, no outside listeners, Guard intact, repos even at the win-check). One inside exception, availability not intrusion: the clean GenKit runtime (4001) down, kit-up grinding — already on tonight's Evening Gates list.
 

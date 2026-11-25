@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # GitHub Sync — Inventory Diff / Gap List (2026-11-08)
 
 Phase 1 of the GitHub Full Sync Plan (engaged Nov 8, 2026). Local universe = your_files (499) + goals/*/files + research_notes + interface-mastery documents + manuscript folders. Matching: exact basename OR normalized name (case/punctuation/date-format folded) present in any of the 12 repos = synced.

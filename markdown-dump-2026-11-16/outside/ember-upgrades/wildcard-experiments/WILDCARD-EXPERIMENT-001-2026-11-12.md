@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Wildcard Experiment 001 — Staggered Wild Cards on the Gemini Lane (2026-11-12, ~6:07 PM CST)
 
 *The Captain's program, his words today: the Gemini app on his phone gives something different in each place; Google gives a free one; each place used individually differs; the same ask everywhere at once may converge; STAGGER it with wild cards in different spots — one search has to be built more than one way anyways — and figure out WHY the wild cards make those results. Standing beside it: "Always send your crap to the Gemini app."*

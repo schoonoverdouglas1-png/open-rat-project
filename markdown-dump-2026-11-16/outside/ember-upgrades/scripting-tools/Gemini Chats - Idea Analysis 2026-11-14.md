@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Gemini Chats — Idea Analysis (Nov 14, 2026, ~12:46 AM CST)
 At Douglas's order: analyze all the Gemini chats and use the best ideas wherever possible. Basis: the full read-back of all three crew tabs (t1 purplerat1982, t2 schoonoverdouglas1, t3 purplerat1982) completed ~12:44 AM, plus a survey of both accounts' other chats (ordered the same minutes; results filed when they land).
 

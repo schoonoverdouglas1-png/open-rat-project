@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Advances in Pure Mathematics in the Twentieth Century"
 
 - Date: 2026-08-17T21:30:22.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # THE MYCELIAL TRANSPOSITION
 
 ## A Book of Quantum Medicine and the Connection Between All Things

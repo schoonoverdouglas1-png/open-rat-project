@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497897:regular:item:1 -->
 # Post-visit debrief: how the Kelsey visit went, two new MyChart results, itraconazole renewal
 

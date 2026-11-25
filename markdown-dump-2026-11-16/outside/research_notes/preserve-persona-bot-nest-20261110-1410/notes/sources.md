@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Sources read 2026-11-10 (America/Chicago date; crawls UTC 2026-11-10)
 
 ## Verified live via browser_open (page text fetched)

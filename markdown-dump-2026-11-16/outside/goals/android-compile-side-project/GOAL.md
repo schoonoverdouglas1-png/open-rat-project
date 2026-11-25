@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Android compile side project
 
 Goal ID: goal_83e42879ace5

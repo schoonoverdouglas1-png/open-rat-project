@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo Clinic check-in available for Emergency Department
 
 - Date: 2026-10-02T18:56:05.000-05:00

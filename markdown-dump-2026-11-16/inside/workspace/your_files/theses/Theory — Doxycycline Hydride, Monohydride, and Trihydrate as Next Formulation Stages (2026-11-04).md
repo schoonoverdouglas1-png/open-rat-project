@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Doxycycline Hydride, Monohydride, and Trihydrate as Next Formulation Stages (2026-11-04)
 
 Provenance: Douglas, Nov 4, 2026, ~11:49 PM CST, in the Sodium borohydride / cyanocobalamin side chat. Filed as his theory/postulate, not as a documented fact, not as medical advice, and not as a change to his prescription.

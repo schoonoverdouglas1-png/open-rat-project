@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Energy Efficiency — Recommendations from the AIs (2026-11-08)
 
 **Asked by Douglas, Nov 8, 2026:** "saving heat and energy... ask the AIs to find the most energy efficient way to get you to make the most with the least and take their recommendations and tell me what they are." His framing: server side first — his spending happens either way; the point is heat and energy per unit of finished work.

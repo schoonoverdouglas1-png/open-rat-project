@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Medical research and continuous updates
 
 A durable place for Douglas Roy Schoonover's ongoing medical-research

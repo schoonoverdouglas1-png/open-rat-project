@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Naming of Diphtheria and Tuberculosis — A Study
 
 **Commissioned:** Nov 10, 2026, ~10:38 PM CST, by Douglas Roy Schoonover: *"Do a study on the naming of diphtheria and of tuberculosis, not just the disease name that carried before — because vulgaris used to equal tuberculosis, and that was old Latin I learned from an old friend of mine that I'd like to talk to about it again someday."*

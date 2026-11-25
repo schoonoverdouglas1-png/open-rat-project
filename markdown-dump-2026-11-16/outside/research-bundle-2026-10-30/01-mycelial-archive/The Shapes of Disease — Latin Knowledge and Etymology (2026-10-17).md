@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Shapes of Disease — How Disease Flows Through Latin Knowledge and Etymology (2026-10-17)
 
 *A booklet for The Mycelial Transposition, built at Douglas's commission (§161): "the shapes of disease and how it flows through Latin knowledge and etymology" — "take from this chat the thought process behind it to build an entire booklet as many pages as you can intelligently build." Built in the mannerism of the October run: every claim tier-tagged [D] documented / [H] his / [H→D] his with a documented foothold / [GAP] his to fill; his words verbatim where given; every thesis tested his way — documented footholds, honest lines, counter-evidence. Manuscript reference only. Never medical advice.*

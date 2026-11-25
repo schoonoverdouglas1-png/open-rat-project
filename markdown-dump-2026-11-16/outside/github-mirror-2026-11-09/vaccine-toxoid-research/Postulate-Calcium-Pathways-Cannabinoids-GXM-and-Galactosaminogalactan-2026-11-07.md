@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Calcium Pathways, Cannabinoids, GXM, and Galactosaminogalactan (2026-11-07)
 
 Provenance: Douglas's dictation Nov 5, 2026, 10:12 AM CST, filed as heard only in `Note — Calcium Pathways, Cannabinoids, GXM, and Galactosaminogalactan (2026-11-05).md` (untouched, old-with-new). Tested Nov 7, 2026, after the Nov 7, 3:06 PM CST usage reset, one search each, as Douglas directed in this separate action. This file is the tested postulate; it does not replace the original note.

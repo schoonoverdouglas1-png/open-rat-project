@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # MEADOW-CORE
 
 Meadow OS is founded Nov 16, 2026, at Douglas's word: "start the Meadow

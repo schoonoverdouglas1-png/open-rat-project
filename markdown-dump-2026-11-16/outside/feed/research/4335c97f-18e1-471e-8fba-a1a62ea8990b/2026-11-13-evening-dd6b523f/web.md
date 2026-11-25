@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has reliably printed the health and science stories matching this reader's interests, while schedule just closed quiet and tracking has drawn no positive responses.
 

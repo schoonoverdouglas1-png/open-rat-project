@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Daily usage budget watch
 
 Goal ID: goal_dca0af41e458

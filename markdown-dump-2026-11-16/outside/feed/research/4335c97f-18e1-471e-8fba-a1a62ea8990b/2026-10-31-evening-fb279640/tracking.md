@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking via Gmail best serves this reader's own waiting items, including the unconfirmed pharmacy pickup and account recoveries, and its most recent pick printed while schedule closed quiet.
 

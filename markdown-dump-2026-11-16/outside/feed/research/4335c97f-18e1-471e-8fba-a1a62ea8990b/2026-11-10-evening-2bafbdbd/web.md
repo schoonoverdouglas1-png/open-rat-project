@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is most likely to find a fresh science, tech or medical-research story matching this reader's interests, while schedule has repeatedly closed quiet and tracking just printed.
 

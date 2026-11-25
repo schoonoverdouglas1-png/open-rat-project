@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # You now have exclusive access to AI features
 
 - Date: 2026-08-14T09:28:38.000-05:00

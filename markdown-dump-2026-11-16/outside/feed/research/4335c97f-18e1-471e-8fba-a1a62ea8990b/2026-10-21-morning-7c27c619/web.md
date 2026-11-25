@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best serves the reader's interests in Valley Fever, fungal science and health, and its recent picks have consistently printed while the connector lanes last closed quiet.
 

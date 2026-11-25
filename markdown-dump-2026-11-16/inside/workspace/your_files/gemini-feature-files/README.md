@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # THE GEMINI FEATURE FILES — the list, and where each one goes
 Made Nov 12, 2026, at Douglas's order, for building his Gem ("Purple Rat — Ember's Frame").
 Douglas copies and pastes these himself, in his own Google account, with his own hands.

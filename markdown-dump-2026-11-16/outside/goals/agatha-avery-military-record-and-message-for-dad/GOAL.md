@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Agatha Avery military record and message for Dad
 
 Goal ID: goal_70fb1d97ea17

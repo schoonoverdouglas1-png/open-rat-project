@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Black Disc Disease — Analysis (2026-10-19)
 
 **Frame:** *The Mycelial Transposition* — creative manuscript, EDUCATIONAL reference only. Never medical advice. No diagnosis, no personal application, no treatment talk.

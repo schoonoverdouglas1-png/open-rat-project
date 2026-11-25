@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # BOOK 1: A Pathway to the Cure
 © 2026 Douglas Schoonover. All Rights Reserved.
 

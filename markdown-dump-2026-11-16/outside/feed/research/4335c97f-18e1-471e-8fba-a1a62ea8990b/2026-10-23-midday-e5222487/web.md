@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has printed six straight on-prompt health/science units on fungi and vaccines matching his stated interests, while schedule last closed quiet and no idea card fits his interests without stretching.
 

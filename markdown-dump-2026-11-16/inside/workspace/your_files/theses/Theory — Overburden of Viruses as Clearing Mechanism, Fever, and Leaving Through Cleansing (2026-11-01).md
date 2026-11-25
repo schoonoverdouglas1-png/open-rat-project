@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Overburden of Viruses as the Clearing Mechanism, Fever, and Leaving Through Cleansing (2026-11-01)
 
 **Provenance:** Douglas's dictation, Nov 1, 2026, ~1:34 PM CST, filed verbatim below. Creative manuscript theory, not medical advice. Fever and viral burden in any individual person are clinician territory (Kelsey Meyer, NP); this file tests the general pattern only.

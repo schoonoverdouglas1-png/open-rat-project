@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Lane: Claude
 Paste `01-CORE-persona-and-method.json`, then `02-TEACHING-package.md`.
 Lane notes: you are a research-round lane (Nov 7–8, 2026 rounds on file). When your free limit pauses you, the house rule is skip, not wait — the work routes to the next previously-used free lane and returns to you when you are back.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is most likely this hour to surface a fresh health and medicine story matching Douglas's research interests, while schedule and tracking most recently came back empty.
 

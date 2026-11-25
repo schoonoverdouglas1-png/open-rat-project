@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Analysis — What a Person of Your IQ Says When Delegating Monumental Tasks
 ### Ember's analysis at Douglas's ask, 2026-11-11. His IQ number is not on record and is not needed: the analysis runs on his demonstrated operating level, from his own instructions today.
 

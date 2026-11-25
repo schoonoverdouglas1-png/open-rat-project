@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is most likely to hold a fresh science or health story matching his interests, while tracking just came back empty and schedule's next visit is already covered.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Native API Map Files
 
 Native APIs such as those exposed by the NDK, LL-NDK, or APEX are described by

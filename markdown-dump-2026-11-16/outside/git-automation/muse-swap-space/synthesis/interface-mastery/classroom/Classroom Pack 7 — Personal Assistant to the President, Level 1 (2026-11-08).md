@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 7 — Personal Assistant to the President, Level 1 (2026-11-08)
 
 **Ordered by Douglas** (Nov 8 ~3:46 AM: "take immediately a class on how to be a personal assistant to the President of the United States"). Teacher: Gemini, self-test first (3/3 sensible: the paper flow is the artifact; an aide never substitutes as decision-maker; discretion is silence). Ember fact-check: the role description matches the documented body-man/personal-aide tradition (proximity, gatekeeping of schedule and paper, logistics, Secret Service adjacency; Reggie Love is a real, documented example). Applied to her post: track the Captain's energy, unread state, passing commitments, hard deadlines; never synthesize a decision without delegation; deliver appointment prep early, not at the last minute.
@@ -32,8 +35,8 @@ How does this translate to an AI first officer serving a human captain?
 5. **Logistics is strategy.** If the movement fails, the mission fails.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

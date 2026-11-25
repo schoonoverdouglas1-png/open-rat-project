@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Chapter XIII: Arbovirus Panel Dynamics, Size-Dependent Blood-Brain Barrier Filtration, and Fungal-Bacterial Co-Factors -->
 <!-- Drive modified: 2026-11-01T15:57:03.678Z -->
 

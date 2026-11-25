@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498230:regular:item:1 -->
 # Luther pharmacy today — go this morning before the afternoon rain
 

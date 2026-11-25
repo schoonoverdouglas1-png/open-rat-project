@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ### [seq 3071] Ember (assistant) — 2026-10-16 10:36:47 CST
 
 once your phone's charged, this is the call — three minutes, exact words included. patients' express first, anytime transport second. the full script is attached.

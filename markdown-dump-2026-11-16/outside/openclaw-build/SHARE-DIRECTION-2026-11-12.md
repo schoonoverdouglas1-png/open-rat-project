@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Share — Direction Notice, from the Captain through Ember — Nov 12, 2026, ~4:27 PM CST
 
 By order of Captain Douglas Roy Schoonover, shared to every AI lane Ember talks to:

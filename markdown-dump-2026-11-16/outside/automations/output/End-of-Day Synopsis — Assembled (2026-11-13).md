@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # End-of-Day Synopsis — Assembled — 2026-11-13
 
 Assembled by end_of_day_synopsis.py at 2026-11-13 14:56:18 CST from /home/hatch/workspace/your_files (files modified on 2026-11-13, America/Chicago).

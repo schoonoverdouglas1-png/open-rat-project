@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ask a question about local pages
 
 On Linux, `OPENAI_EXAMPLE_BROWSER_CHANNEL=chrome` selects an installed Chrome.

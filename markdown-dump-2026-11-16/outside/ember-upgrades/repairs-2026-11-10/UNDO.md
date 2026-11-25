@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # UNDO — Tool Repairs 2026-11-10
 
 Written BEFORE any install, per Douglas's Reversibility Rule (Nov 8, 2026).

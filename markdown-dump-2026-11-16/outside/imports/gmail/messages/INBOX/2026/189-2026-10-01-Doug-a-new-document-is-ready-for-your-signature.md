@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doug, a new document is ready for your signature
 
 - Date: 2026-10-01T08:27:20.000-05:00

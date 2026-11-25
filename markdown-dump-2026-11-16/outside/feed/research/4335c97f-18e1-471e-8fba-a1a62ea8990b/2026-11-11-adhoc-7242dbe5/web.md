@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the broad 'my interests' prompt and has printed consistently on science, health and tech, while schedule has repeatedly closed quiet and tracking rates below average.
 

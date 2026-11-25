@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Yahoo email for Ember
 
 Goal ID: goal_cc1a28da24a1

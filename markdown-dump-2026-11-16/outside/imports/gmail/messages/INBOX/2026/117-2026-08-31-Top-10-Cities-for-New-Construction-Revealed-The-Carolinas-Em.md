@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Top 10 Cities for New Construction Revealed: The Carolinas Emerge as a Powerhouse and More News
 
 - Date: 2026-08-31T04:35:25.000-05:00

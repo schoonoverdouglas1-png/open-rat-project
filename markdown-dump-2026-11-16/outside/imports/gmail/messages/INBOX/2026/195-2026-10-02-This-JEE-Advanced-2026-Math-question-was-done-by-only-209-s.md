@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "This JEE Advanced 2026 Math question was done by only 209 students"
 
 - Date: 2026-10-02T20:27:52.000-05:00

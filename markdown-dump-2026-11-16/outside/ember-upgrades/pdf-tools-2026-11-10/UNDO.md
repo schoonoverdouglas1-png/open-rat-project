@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PDF tools install — undo manifest (written BEFORE install, Reversibility Rule)
 Date: 2026-11-10. Ordered by Douglas: "Add pdf functions please."
 What will be added:

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cryptococcus as an Immunological Bridge: Evidence, Hypotheses, and Boundaries
 ## 1. Executive Summary
 This document synthesizes findings regarding Cryptococcus and its unique position in microbial classification, immunology, and vaccine engineering. By separating empirical evidence from speculative modeling, this framework establishes how cryptococcal capsular structures serve as an immunological bridge between encapsulated bacteria and viral antigen systems.

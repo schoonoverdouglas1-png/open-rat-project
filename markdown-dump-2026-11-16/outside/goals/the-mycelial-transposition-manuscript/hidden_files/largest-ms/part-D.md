@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PART 5 — THE VIRUSES
 
 *Manuscript material — creative theoretical work, never medical advice. No diagnostic or treatment recommendations; nothing here interprets any person's test results. The virus track is the rider: not the disease, not the illness, not the sickness, not the infection, not the vaccine. All six stay separate here — his six-tracks law, honored [H].*

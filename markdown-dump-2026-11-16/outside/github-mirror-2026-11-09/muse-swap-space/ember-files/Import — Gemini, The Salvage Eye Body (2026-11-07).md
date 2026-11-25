@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Import — Gemini, The Salvage Eye Body (2026-11-07)
 
 Source: Gemini, live browser, Nov 7, 2026, 4:54–4:56 PM CST. Signed in as schoonoverdouglas1@gmail.com. URL: https://gemini.google.com/app/fc22d90b7966b06d

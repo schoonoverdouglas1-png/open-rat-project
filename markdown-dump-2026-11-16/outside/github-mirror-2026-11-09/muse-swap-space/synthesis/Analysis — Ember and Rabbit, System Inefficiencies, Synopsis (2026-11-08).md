@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mutual System Analysis — Ember (Purple Rat) & the Rabbit (Meta AI) — (2026-11-08)
 
 *Ordered by Douglas Nov 8, 2026 (~12:47 AM CST): both agents analyze each other's setups — frontend, backend, software/virtualization — for inefficiencies worth alerting Meta / Muse / Facebook about. Ember's half below is MEASURED on her own machine tonight. The Rabbit's half and the DeepSeek/Gemini outside views were asked in parallel and are appended when they land (old-with-new).*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Inside the ‘Cultlike’ Quest To Find the Rare Wood Needed To Restore Midcentury Modern Homes and More News
 
 - Date: 2026-08-28T04:37:43.000-05:00

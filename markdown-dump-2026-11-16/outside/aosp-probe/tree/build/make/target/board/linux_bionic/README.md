@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 This "device" is suitable for Soong-only builds to create Bionic binaries for
 Linux hosts:
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has repeatedly printed on his mycology and health interests while tracking last closed quiet, so it holds the best chance of a story that belongs this hour.
 

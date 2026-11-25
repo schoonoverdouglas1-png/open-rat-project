@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — S. agalactiae and fungal elements (2026-10-28)
 
 ## Postulate [H] — his words

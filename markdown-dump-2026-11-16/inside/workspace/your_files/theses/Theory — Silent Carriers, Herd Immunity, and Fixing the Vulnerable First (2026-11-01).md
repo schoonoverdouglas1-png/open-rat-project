@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Silent Carriers, Herd Immunity, and Fixing the Vulnerable First (2026-11-01)
 
 **Provenance:** Douglas's dictation, Nov 1, 2026, ~1:43 PM CST, filed verbatim below. General population theory for his research study / Medical Elements book, not medical advice for any individual person.

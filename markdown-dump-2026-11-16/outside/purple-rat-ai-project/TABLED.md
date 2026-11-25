@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # THE TABLE — Projects Tabled (Douglas's direction, 2026-11-11 evening)
 ### Tabled = parked whole, nothing deleted, every one resumable by his word. Failsafes and zero-token machinery are never tabled.
 

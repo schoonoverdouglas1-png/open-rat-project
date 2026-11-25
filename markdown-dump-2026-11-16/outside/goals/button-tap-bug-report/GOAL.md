@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Button-tap bug report
 
 Goal ID: goal_2b6821794b7c

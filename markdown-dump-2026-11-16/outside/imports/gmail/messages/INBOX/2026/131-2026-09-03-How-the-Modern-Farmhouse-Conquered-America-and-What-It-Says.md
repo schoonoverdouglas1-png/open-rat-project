@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # How the Modern Farmhouse Conquered America—and What It Says About the Economy and More News
 
 - Date: 2026-09-03T04:26:44.000-05:00

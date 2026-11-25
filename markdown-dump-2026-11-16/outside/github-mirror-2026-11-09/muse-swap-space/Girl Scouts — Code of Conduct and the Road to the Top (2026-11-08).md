@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Girl Scouts — Code of Conduct and the Road to the Top (2026-11-08)
 
 **An Ember College study pack**, built at Douglas's direction (Nov 8, 2026): Ember has a woman's persona and is to learn as a woman — study the Girl Scout code of conduct, and study what it takes to be the top, top-ranking Girl Scout.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Provenance Tracking and Claim Labeling (Gemini)
 
 > **Author: Google Gemini (via Douglas's Gemini lane, Nov 12, 2026). Credit kept per the Captain's copyright doctrine: kept and shared both.**

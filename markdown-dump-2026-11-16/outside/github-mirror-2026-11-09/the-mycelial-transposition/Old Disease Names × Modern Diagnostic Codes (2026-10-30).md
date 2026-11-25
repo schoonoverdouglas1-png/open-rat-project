@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Old Disease Names × Modern Diagnostic Codes (2026-10-30)
 
 **Frame:** creative manuscript reference only. Never medical advice. No diagnosis, no application to any person. Sequencing rules (principal vs. secondary, Excludes1/Excludes2, code-first notes) belong to professional coders — this table lays old names over the code list; it is not coding guidance.

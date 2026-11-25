@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # High-Level Priorities
 
 1. Ease of Use / Protection Against Misuse

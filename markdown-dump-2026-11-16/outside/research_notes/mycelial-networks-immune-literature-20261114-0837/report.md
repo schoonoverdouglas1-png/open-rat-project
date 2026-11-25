@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Fungal Mycelial Networks and Human Health — Literature Foundations
 
 *Prepared 2026-11-14 for a creative-scientific manuscript project. Sources read 2026-11-14. Flags: **verified live** = full text / abstract opened and read in the research browser on that date; **index** = search-index abstract/snippet only. This is a literature survey, not medical advice.*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Instagram profile — @dougrschoonover
 
 Name: Douglas Schoonover

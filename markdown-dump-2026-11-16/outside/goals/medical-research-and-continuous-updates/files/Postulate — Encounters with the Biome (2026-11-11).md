@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Encounters with the Biome (2026-11-11)
 
 **His words, as dictated** (Nov 11, 2026, ~12:50 PM CST, waiting room, Eau Claire):

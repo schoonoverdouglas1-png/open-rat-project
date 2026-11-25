@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Fever, Canyon, and Creek Names × Valley Fever, Coccidioidomycosis, and Coccidiitis (2026-11-01)
 
 **Commission (Douglas, Nov 1, 2026, ~10:54 AM CST):** "take all the old names that were favor names or canyon names or creek names as far as American nameology diseases and cross reference with valley fever and coccidioidomycosis and coccidiitis."

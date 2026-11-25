@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # SQL Study — The Keeper's Queries, Learned Live
 
 Ember's SQL notes, Nov 16, 2026 — every query below was RUN against the
@@ -44,6 +47,5 @@ asked for it — a tag, a priority, a search — and the proof is the output,
 not the claim. That is how you learn SQL better than anyone: run it.
 
 Copyright © Douglas Roy Schoonover
-Lac Courte Oreilles (LCO): https://www.sevenwindscasino.com/
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

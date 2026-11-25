@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ember Search Algorithm (2026-11-07)
 
 Douglas's taught method, layered on top of what Ember already did. Cheapest honest route first, always.

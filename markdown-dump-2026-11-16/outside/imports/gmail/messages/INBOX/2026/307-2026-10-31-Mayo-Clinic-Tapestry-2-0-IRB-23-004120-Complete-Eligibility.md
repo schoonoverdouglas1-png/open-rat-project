@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo Clinic Tapestry 2.0 (IRB #23-004120)|Complete Eligibility Form
 
 - Date: 2026-10-31T14:33:26.000-05:00

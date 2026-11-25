@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Date stamps on file names — past files assessment
 
 Goal ID: goal_eab8fd8cac7f

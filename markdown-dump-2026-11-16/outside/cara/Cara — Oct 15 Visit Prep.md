@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Visit Prep Sheet — Cara | Carly Overgard, NP, OakLeaf Clinics–Eau Claire
 
 **Thursday, Oct 15, 2026 — 9:20 AM (arrive by 9:05 AM)**

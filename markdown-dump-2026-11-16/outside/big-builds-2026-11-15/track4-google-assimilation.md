@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Track 4 — Google-Feature Assimilation (from the record on file)
 Date: Sun Nov 15, 2026 — Big Builds pass
 Status: **DONE — written assimilation only. NO new sign-ins, NO account changes, NO external sends in this track.**

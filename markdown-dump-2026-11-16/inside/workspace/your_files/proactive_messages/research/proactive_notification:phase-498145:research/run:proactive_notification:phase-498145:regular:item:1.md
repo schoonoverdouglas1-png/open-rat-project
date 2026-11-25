@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498145:regular:item:1 -->
 # New MyChart test result arrived Thursday evening (Oct 29) — distinct from the Oct 27 result and Oct 28 messages
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — The Next Layer Past SARS Is What Encephalitis Is, Virologically (2026-10-18)
 
 **Status:** filed as his, tested against the record.

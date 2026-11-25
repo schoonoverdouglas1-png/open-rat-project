@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — We Are Fighting the Effects of Inadvertent Inoculation from the Past, Great-Grandmother circa 1920
 
 **Filed:** November 4, 2026, ~3:50 PM CST

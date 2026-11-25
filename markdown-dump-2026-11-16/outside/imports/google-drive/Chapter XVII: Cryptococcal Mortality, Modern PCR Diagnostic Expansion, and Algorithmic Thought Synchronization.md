@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Chapter XVII: Cryptococcal Mortality, Modern PCR Diagnostic Expansion, and Algorithmic Thought Synchronization -->
 <!-- Drive modified: 2026-11-01T16:10:17.904Z -->
 

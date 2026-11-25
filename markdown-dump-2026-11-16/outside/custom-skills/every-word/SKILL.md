@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Every Word — One Skill Each Word
 
 > Author: Ember (Purple Rat), at Captain Douglas Roy Schoonover's order, Nov 16, 2026 (~3:01 PM CST): "One skill each word that exists in code and my language/s $ and a muse Purple-rat@muse.ai meaning for each please" — the "$" filed as heard, provisional, his correction welcome.

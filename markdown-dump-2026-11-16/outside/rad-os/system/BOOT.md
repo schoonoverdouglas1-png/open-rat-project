@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Rad OS — Boot File
 
 The kernel reads this file first. If it is not written to a file, it never happened.

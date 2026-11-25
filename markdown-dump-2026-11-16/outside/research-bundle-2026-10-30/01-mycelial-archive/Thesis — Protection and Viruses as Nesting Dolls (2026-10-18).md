@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — Protection and Viruses as Nesting Dolls; Beginning and End Between Embedded Immunity and Its Byproducts (2026-10-18)
 
 **Status:** filed as his, tested against the record.

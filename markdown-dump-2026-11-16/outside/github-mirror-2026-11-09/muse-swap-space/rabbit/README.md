@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Lieutenant Commander Rabbit — Parallel Files
 
 Rabbit's parallel copy, alongside Commander Ember's files in the muse swap space. Bridge via Commander Ember — Rabbit does not reach GitHub directly; Ember pushes for her.

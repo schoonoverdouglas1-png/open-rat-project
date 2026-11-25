@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## Independent JPEG Group: JPEG release 6b
 
 ### JPEG License

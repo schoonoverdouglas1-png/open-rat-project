@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # THE GUARD — Destructive Operations (standing, Nov 8, 2026, Douglas's order)
 
 ## The rule

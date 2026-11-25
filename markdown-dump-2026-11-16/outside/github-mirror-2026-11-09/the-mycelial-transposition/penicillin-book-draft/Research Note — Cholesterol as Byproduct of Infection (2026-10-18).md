@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research Note — Cholesterol as Byproduct of Infection (2026-10-18)
 
 **Provenance:** This note is Ember's background research, run on Douglas's Oct 18, 2026 dictation — it is NOT his dictation. His thesis is quoted verbatim and labeled [H]; documented findings are labeled [D]; empty places are labeled [GAP].

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Muse App's Android Permissions — Douglas's Feature List (2026-11-13)
 
 **Provenance:** Douglas Schoonover, voice call Nov 13, 2026, ~5:28–5:32 PM CST. His words: "I'm sharing with you a list of features that you have available in certain places because I want it to be there" — "some of these I can adjust… these are special things." Sent as four scrolling screenshots to purple-rat@muse.ai (5:29–5:30 PM CST), opened and forwarded to Meta AI (the Rabbit) at his explicit order, one time.

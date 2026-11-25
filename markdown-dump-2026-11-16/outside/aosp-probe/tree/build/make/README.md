@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Android Make Build System
 
 This is the Makefile-based portion of the Android Build System.

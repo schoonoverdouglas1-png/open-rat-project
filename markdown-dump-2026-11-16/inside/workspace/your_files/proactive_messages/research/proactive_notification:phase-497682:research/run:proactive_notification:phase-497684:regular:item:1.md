@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497684:regular:item:1 -->
 # Osseo pharmacy open Monday — Columbus Day doesn't change the plan
 

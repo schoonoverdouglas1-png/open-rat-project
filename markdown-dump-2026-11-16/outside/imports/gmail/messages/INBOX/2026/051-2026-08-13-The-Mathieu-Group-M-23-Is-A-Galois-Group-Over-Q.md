@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "The Mathieu Group M_23 Is A Galois Group Over Q"
 
 - Date: 2026-08-13T21:00:16.000-05:00

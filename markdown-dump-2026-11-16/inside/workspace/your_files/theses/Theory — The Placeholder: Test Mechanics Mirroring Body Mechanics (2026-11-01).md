@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — The Placeholder: Test Mechanics Mirroring Body Mechanics (2026-11-01)
 
 **Question/theory (Douglas, Nov 1, 2026, ~11:06 AM CST, verbatim):** "Is that impossible that in the human body the place folder where the where that virus could sit is at the lacrosse virus or the Jamestown Canyon virus might sit in that one placeholder and it's where the one that shows the most will sit in that test and if it's not impossible the test mechanics itself might mirror the body that way for it to work and I know that it it took years of study to make the arbo panel work the way that it does and the mechanics and how it actually works is part of nature too."

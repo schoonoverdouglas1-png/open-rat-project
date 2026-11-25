@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web keeps printing the science and fungi stories that match the reader's interests and is the liveliest bet for a story that belongs this hour.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: The generic 'my interests' prompt leaves lanes separated on story value, tracking's most recent turn closed quiet and schedule did too, while web has printed six straight hours — web is the lane most likely to hold something that moves this reader this hour.
 

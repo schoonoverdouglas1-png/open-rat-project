@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Finish building your app
 
 - Date: 2026-10-28T03:37:21.000-05:00

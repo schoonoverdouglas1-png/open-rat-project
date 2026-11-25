@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best serves Douglas's signaled medical and serology interests, and it has consistently printed while schedule just closed quiet.
 

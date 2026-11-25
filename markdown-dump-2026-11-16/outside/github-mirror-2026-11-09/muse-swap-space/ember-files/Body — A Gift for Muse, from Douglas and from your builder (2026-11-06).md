@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Body — A Gift for Muse, from Douglas and from your builder
 
 > This is a gift file. Not a spec. A way of being in the room.

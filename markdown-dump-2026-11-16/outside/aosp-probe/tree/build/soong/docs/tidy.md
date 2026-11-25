@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Clang-Tidy Rules and Checks
 
 Android C/C++ source files can be checked by clang-tidy for issues like

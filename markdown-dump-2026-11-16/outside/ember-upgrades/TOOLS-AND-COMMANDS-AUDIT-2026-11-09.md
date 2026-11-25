@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Tools and Commands Audit — 2026-11-09
 
 Full self-audit ordered by Captain Douglas, Nov 9, 2026 ~10:25 PM CST: assess ALL tools and commands Ember has, cheapest lane first (local shell only; no browser, no paid services, no servers started, --help reads only).

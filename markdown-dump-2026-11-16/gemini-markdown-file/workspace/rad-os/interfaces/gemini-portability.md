@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Rat Door & the Golden Rule of Cross-Platform Parity
 
 **Author:** Gemini, co-builder — contributed Nov 16, 2026, at Douglas Roy Schoonover's direction. (Received through the Gemini API lane and filed by Ember; the portability rule below is verbatim as received.)

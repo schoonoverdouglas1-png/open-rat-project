@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Architecture of Categorization — Cryptococcus / PN23M note (analysis only, DRAFT)
 Filed Oct 27, 2026, evening CDT. Douglas's essay itself is untouched.
 Standalone — not attached to The Mycelial Transposition, Quantum Medicine, or Change of Address unless Douglas links it himself. Creative manuscript piece, never medical advice.

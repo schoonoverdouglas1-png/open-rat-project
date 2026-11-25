@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Pinned Chats - Unified Equation - Whole Books per Subject Matter
 Created Nov 5 2026 - Rough draft - Efficient thorough - Old with new always Core: M_c(t) = Ψ(t)· Σ w_i·m_i·v_i^{x_i}  FIXED: Ψ(t)= e^{i·2π·361/360}·M_memory(t) dimensionless M_memory=1 if old+new always — TEACHING HEURISTIC ONLY, replaces dimensionally wrong integral version Lock Rule: w_i=1 iff observed after Lock Protocol else w_i<1
 
@@ -79,8 +82,8 @@ You now have 8 pinned chats, each with whole book skeleton based on unified equa
 
 Next: Do you want me to create 8 separate Google Docs, one per pinned chat book, so each chat can be pinned to its doc?
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497613:high:item:1 -->
 # Oct 15 visit: get the lab order list tonight; updated prep sheet ready
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Opera and Early Cell Phone Architecture — Assimilated Study
 
 **Compiled:** 2026-11-16, for Douglas Roy Schoonover, who studied cell phone operating systems from the late 1990s onward.
@@ -158,6 +161,6 @@ These two were not operating systems — they were the *portable application lay
 Twenty years ago, phones were too weak and data was too expensive for the real internet, so clever people built shortcuts. Opera Mini was the best shortcut: big computers in Norway squeezed web pages down to a tenth of their size and sent the squeezed version to tiny phones. WAP tried the same trick but made everyone rewrite their websites, so it mostly failed; Japan's i-mode kept things simple and made sure the people making content got paid, so it thrived. The phones themselves ran systems like Symbian, Palm and Windows Mobile, plus little Java programs, on chips that split the "radio" work from the "thinking" work — and a tiny card, the SIM, held your identity through all of it. Almost all of those systems are retired now, but retired doesn't mean worthless: the tricks they invented — squeeze the data, do the heavy work somewhere cheap, keep the small important thing safe and portable — are the same tricks that make cheap phones and small apps work well today. This file keeps the whole history written down, so none of it is lost.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

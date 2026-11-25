@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the 'my interests' prompt best this hour because his book and science interests live in the world, while mail and calendar hold logistics and schedule just printed Monday's lineup.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Elliptic curve of Rank 31"
 
 - Date: 2026-08-24T20:30:19.000-05:00

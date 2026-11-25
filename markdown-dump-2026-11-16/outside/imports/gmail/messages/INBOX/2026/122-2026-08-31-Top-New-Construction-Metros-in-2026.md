@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Top New Construction Metros in 2026
 
 - Date: 2026-08-31T18:28:14.000-05:00

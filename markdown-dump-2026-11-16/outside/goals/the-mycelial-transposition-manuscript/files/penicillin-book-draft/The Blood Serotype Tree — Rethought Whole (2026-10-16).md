@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Blood Serotype Tree — Rethought Whole (2026-10-16)
 
 *Everything in this thread, rethought as one tree. Built at Douglas's direction for The Mycelial Transposition. Manuscript reference, never medical advice.*

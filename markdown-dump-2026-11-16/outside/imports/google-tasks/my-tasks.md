@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Tasks import — list: My Tasks
 
 Source: Google Tasks (connected account), imported 2026-11-01 (America/Chicago).

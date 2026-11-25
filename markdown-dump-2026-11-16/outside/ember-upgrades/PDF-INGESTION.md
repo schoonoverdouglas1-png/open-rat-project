@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PDF Ingestion — Reading PDFs as Data (2026-11-07)
 
 Gap (Gemini, Nov 7): text-only extraction loses tables, figures, formulas. Fix: vision/layout pipeline.

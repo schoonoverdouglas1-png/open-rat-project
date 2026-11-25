@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — Disagreement with Dr. Brown on IgG/IgA/IgM Meaning
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (serology thread)

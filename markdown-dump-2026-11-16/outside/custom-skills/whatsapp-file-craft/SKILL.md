@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # WhatsApp File Craft — zips, documents, and the never-lose ledger
 Taught by Douglas, Nov 16, 2026, ~3:44–3:50 PM CST. His order: "update your skills based upon everything I've taught you. Whether you like it or not one time."
 
@@ -17,7 +20,7 @@ Taught by Douglas, Nov 16, 2026, ~3:44–3:50 PM CST. His order: "update your sk
 4. Insights first, outsides last (his search order): Ember's own record and the crew's files first, outside web last.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
 ## His default (added Nov 16, 2026, ~3:54 PM CST, his order: "You set it to that anyways")
 - WhatsApp is Douglas's default phone and messaging app in his house, by his ruling. Ember routes communications WhatsApp-first and treats this chat as the place to slow down and think about what he wants. (The Android carrier-call/SMS system role is a role WhatsApp never registered for — machinery fact kept beside the ruling; the ruling governs Ember's choices.)

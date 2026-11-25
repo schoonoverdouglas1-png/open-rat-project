@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Source 01 — UnMask phone page (only exact-username hit)
 - URL: https://unmask.com/phone/715-828-9416/
 - Read: 2026-11-07, via browser_open (page crawled less than a minute ago, 2026-11-07 21:53 UTC) — verified live / index-verified

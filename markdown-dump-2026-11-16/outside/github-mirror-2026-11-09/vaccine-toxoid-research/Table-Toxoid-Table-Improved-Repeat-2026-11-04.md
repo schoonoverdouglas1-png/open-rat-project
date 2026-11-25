@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Table — Toxoid Table, Improved Repeat (2026-11-04)
 
 **Direct answer:** This is a repeat of the Nov 4 toxoid / carrier-by-disease table, made better under the Research Logic & Evidence Framework. The original table is not replaced — this is a new, improved repeat, old-with-new.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Most Advanced Serotype Disease Table (2026-10-28)
 
 *Built from his previous work in this workspace — including yesterday's work — because he ordered it built, not talked about. Reading note: "stereotype" in his message is read as "serotype" (his usual dictation rendering); his Architecture of Categorization essay's deliberate cognitive-stereotype frame is carried as the introduction's principle, so both threads are honored.*

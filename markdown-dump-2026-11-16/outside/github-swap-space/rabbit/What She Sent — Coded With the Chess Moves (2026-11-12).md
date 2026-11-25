@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # What She Sent — Coded, With the Chess Moves (2026-11-12)
 
 Coded by Ember at Captain Douglas's order, Nov 12, 2026 (~12:25 PM CST): "Ask the rabbit and code what she sent us with the chess moves, because she sent us other things that we needed."

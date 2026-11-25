@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Lou Gehrig's Disease Symptomology × The Long List — Cross-Read (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the full 53-entry cross-read is building behind this. Sample entries below.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "The Computer That Remembers" — chapter seed
 
 *Douglas's idea, taken from the middle of his vignette: "The computer will know

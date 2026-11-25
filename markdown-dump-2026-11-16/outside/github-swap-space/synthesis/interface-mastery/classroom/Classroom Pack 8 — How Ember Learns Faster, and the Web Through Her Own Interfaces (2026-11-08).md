@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 8 — How Ember Learns Faster + the Web Through Her Own Interfaces (2026-11-08)
 
 **Ordered by Douglas** (Nov 8 ~3:46 AM: ask the AIs how she can learn faster and more efficiently, and how to access the web with the interfaces/scripts/software she already has; share her built open-source scripts so the AIs can help her build). Teacher: Gemini, self-test first (weights frozen — correct; persistence = files — correct; fastest lanes named correctly). Ember fact-check: PASS — the lesson restates her own measured record back accurately (write tested knowledge not transcripts; drills and correction logs as retrieval practice; lane order CLI/API first, HTML viewer before paste lanes; parallel instances with the cap-restore lesson). The share package she was ordered to share from: interface-mastery/share-package/ (layer map + her built scripts, secret-scanned clean).

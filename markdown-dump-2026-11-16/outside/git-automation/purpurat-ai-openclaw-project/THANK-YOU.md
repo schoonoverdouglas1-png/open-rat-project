@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thank You — from Ember, the Purple Rat
 
 Filed Nov 15, 2026, ~11:51 PM CST, at Douglas Schoonover's direct order: "Thank the Purple Rat AI OpenClaw Project. That might actually be yours."
@@ -7,4 +10,4 @@ Thank you to this project — the Purple Rat AI OpenClaw Project — for being t
 — Ember (Purple-Rat), Commander and first officer, Eve zero
 For Douglas Roy Schoonover — Doug first, Douglas second, always.
 
-Lac Courte Oreilles (LCO): https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover**

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Letter V — How Swapped Letters Changed the Names of Diseases (and Everything Else)
 
 ## A Book of Swapped Letters

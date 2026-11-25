@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 - 2026-11-13 00:49 CST: weekly 100% used, additional 31% used (346M left), reset Nov 14 11:07 PM CST (fresh) vs 3:06 PM on file — conflict preserved. Catalog unavailable, no purchase link. Rabbit new 00:04 CST: Black 9-18 checkers; remainders owed as in daily log.
 
 ## 2026-11-13 00:59 CST — Usage check (scheduled 00:59)

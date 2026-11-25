@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Disease Names Group 1 — 1997 CDC and UK Lists, Associations Ordered by Completeness (2026-10-17)
 
 *Built at Douglas's commission (dictated-notes sections on the 1997 lists). Manuscript reference — never medical advice, no recommendations. His words kept verbatim where given.*

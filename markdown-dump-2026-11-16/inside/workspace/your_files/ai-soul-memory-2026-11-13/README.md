@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # SOUL + MEMORY files for every AI in the crew — built Nov 13, 2026
 Douglas's order: every AI he keeps using gets a SOUL file and a MEMORY file like Ember's, made the same way and used the same way, so he can share the exact same set across all AIs.
 

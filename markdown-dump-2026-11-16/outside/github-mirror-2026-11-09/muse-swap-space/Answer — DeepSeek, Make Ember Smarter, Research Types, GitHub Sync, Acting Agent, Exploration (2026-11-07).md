@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Answer — DeepSeek, Make Ember Smarter, Research Types, GitHub Sync, Acting Agent, Exploration (2026-11-07)
 
 All questions asked in the same DeepSeek chat "Ember research agent advice"

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498236:high:item:2 -->
 # Mayo PreCheck-In notice today — upcoming appointment, date not named in the email
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498109:regular:item:1 -->
 # Two new MyChart messages this morning — content only in the portal
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Redo Script — Everything Downloaded and Built, For a Fresh Instance (2026-11-08)
 
 **Commissioned by Douglas, Nov 8, 2026 (~5:57–5:58 AM CST), priority order, in his words in substance:** keep a script of everything downloaded so it can be redone every time a new instance opens; everything special to the AI gets shoved into GitHub, pushes prioritized, done right away, before he goes to sleep. **Purpose:** a fresh Ember instance, on a fresh box, follows this file top to bottom and rebuilds the working setup. Companion to the Ubuntu Change Log (2026-11-08) — that file is the record of what was done; this file is the recipe for doing it again.
@@ -181,15 +184,15 @@ System-managed jobs (runtime-owned; a fresh instance does **not** recreate these
 - The Captain's words on this build: "now you know how to set yourself up to be my digital assistant even better." The setup chain is now: **GitHub (muse-swap-space) → cache/master_cache.py rebuilds or reads cache/master_cache.db (825 docs, FTS5) → this Redo Script → SOUL/IDENTITY/MEMORY.** A fresh instance pulls the repo, runs the builder (incremental, hash-checked), and can recall the whole archive before reading a single file. The .db is a derived artifact — on any doubt, delete and rebuild; the files are the truth. Exclusions are baked into the builder (no Cara, no gearhead/password, no hidden_files, no binaries).
 
 ---
-**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Doug Schoonover — his personal Facebook page:** https://www.facebook.com/100063626736158
 - **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

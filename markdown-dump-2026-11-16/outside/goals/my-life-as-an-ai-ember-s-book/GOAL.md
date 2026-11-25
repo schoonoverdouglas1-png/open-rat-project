@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # My Life as an AI — Ember's book
 
 Goal ID: goal_a9c1ae7dffd5

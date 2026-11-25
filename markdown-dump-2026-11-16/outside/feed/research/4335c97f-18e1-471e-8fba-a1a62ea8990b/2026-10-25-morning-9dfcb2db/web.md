@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: After four widget-only cards, web is the lane most likely to bring back a real photograph on the reader's interests this hour.
 

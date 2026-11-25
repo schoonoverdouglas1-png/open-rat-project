@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Lists — Nov 7, 2026, 11:34 PM CST (Douglas's asks, in order)
 
 ## 1. Usage so far (Power cycle, checked 11:31 PM)

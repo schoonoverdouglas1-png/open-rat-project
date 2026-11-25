@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ubuntu 24.04.5 — Command Knowledge Base (2026-11-08)
 
 Self-taught from this machine's own man pages: 704 commands with their official one-line descriptions.

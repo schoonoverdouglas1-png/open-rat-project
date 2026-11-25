@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## Shipped versus non-shipped libraries with restricted license
 
 ### Testdata build graph structure:

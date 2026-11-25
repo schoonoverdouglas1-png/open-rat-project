@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking fits because the prompt names no subject, so the reader's own connected Gmail is the subject, and its recent picks printed rather than closing quiet.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Security alert
 
 - Date: 2026-11-01T13:48:51.000-06:00

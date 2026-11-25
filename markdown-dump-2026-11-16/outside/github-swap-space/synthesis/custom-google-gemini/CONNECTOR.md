@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Gemini
 
 - Call Gemini through the helper at `bin/gemini_call.py` in this folder. The helper places a surrogate credential in the `x-goog-api-key` header and Muse swaps in the real key only on requests to generativelanguage.googleapis.com.

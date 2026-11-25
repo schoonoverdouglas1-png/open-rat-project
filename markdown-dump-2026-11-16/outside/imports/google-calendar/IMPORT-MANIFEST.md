@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Calendar Import — Manifest
 
 - **Source name:** Google Calendar (connected account; owner account)

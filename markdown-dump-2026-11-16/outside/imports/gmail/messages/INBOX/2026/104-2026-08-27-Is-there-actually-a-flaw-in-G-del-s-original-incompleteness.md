@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Is there actually a flaw in Gödel's original incompleteness proof?"
 
 - Date: 2026-08-27T21:36:25.000-05:00

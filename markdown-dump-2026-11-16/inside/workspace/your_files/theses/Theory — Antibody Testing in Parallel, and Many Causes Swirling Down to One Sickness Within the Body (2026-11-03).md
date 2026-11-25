@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Antibody Testing in Parallel, and Many Causes Swirling Down to One Sickness Within the Body (2026-11-03)
 
 **Origin (his theory):** Douglas, Nov 3, 2026, as dictated, in substance: if we think about antibody testing in parallel with the disease, the virus and bacteria and fungi, the procession of information should swirl down to one causation within the body — that is the sickness that needs to be treated, regardless of cause from the outside.

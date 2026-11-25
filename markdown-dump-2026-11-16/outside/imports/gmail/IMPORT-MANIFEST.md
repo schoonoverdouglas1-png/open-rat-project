@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Gmail Import Manifest — COMPLETE
 
 - **Source name:** Gmail (connected account; 1 account linked)

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mac System 7 Play Build — Report (Sun Nov 15, 2026)
 
 ## Verdict

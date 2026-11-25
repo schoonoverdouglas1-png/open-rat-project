@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Meningitis × Pneumonia — The Test Map (2026-10-18)
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* — EDUCATIONAL reference only.

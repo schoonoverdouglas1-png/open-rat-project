@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # American Names to Viruses — The Full Table
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (creative manuscript)

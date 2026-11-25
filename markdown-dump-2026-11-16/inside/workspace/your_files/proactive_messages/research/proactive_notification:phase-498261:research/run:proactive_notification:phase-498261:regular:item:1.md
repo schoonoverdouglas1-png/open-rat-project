@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498261:regular:item:1 -->
 # Nov 11 consultation — full details you haven't been shown yet
 

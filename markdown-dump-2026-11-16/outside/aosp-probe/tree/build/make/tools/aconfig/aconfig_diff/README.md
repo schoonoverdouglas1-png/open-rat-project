@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Aconfig Diff
 
 Projects and tests in this folder are intended to support functional diff'ing of

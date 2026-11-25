@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Force Cache — studied and practiced Nov 10, 2026 (Douglas's commission)
 
 ## What "force cache" can still mean in 2026

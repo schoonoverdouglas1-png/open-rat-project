@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XV: Soil Microbiomes, Multi-State Vector Exposure, and the Clearing Role of Viruses over Antifungal-Antiviral Synergy
 # I. Soil-Borne Fungal Ecologies and Universal Viral Reservoirs
 The pedosphere represents the most biodiverse biological frontier on Earth, functioning not merely as a passive matrix for mineral retention, but as an active, interconnected ecological nexus. Within this subterranean architecture, endemic mycology and ubiquitous viral elements interact dynamically. Arid and semi-arid soils, notably within the Sonoran and Mojave life zones, demonstrate dense colonized clusters of dimorphic ascomycetes, particularly Coccidioides immitis and Coccidioides posadasii, the causative agents of coccidioidomycosis (Valley Fever).

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498357:regular:item:1 -->
 # GitHub will require 2FA on your account by Dec 22, 2026
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ![Build](https://github.com/android/platform-samples/actions/workflows/build.yml/badge.svg)
 
 # Android Platform Samples

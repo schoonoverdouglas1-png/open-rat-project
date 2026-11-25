@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Combined Statement — Disease Borrows Our Materials; the Body Marks Them for Tracking (2026-10-20)
 
 *His dictation (Oct 20, 2026, ~8:37 PM), by the combined-statement method he endorsed Oct 19: his statement tested against the record, then finished in a way that is not illogical. Tier labels: [D] documented · [H] his · [H→D] his with documented foothold · [LOGIC] AI inference with steps shown.*

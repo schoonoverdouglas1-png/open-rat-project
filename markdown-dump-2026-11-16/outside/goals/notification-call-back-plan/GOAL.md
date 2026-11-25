@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Notification call-back plan
 
 Goal ID: goal_74c17e3d183a

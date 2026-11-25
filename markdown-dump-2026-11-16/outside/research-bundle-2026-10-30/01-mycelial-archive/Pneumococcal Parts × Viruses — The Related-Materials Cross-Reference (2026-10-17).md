@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Pneumococcal Parts × Viruses — The Related-Materials Cross-Reference (2026-10-17)
 
 *Built at Douglas's commission (dictated-notes section 108). Manuscript reference — never medical advice, no treatment or diagnostic content.*

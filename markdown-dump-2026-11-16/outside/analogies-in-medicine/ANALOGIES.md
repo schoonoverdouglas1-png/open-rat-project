@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Shelf — Analogies in Medicine (Quick Draft, Nov 11, 2026)
 
 Seed entries from general documented usage [D] unless labeled. Origins marked [GAP] are unverified in this draft and ride the full sweep's three-way check. Each entry: analogy → what it maps → where it breaks.

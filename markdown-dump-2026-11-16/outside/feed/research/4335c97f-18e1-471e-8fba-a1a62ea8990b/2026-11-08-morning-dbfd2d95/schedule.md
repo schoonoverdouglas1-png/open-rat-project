@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: schedule
 Angle: Schedule outranks web on the reader's own lane responses, and what lies ahead on his connected calendar squarely serves a feed about his interests.
 

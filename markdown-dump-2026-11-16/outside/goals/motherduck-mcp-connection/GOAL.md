@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # MotherDuck MCP connection
 
 Goal ID: goal_49f6d5419bd3

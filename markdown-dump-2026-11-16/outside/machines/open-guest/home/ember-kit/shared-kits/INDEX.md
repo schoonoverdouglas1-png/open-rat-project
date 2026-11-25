@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Custom Skills Index
 
 > Regenerated Nov 12, 2026 under the Skills Update Protocol (`~/workspace/custom-skills/SKILLS-UPDATE-PROTOCOL.md`).

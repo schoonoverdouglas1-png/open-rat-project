@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Diphtheria × *Streptococcus pneumoniae* — The Complete Cross-Reference (2026-10-31)
 
 **Commission:** Douglas, October 31, 2026 — cross-reference what is contained within all of diphtheria and all of *Streptococcus pneumoniae*, and what is shared between their entirety, including serotyping, as complete an information list as can be given.

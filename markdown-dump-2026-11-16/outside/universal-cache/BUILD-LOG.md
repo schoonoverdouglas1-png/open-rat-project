@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # BUILD-LOG — Universal Cache v1, Nov 13, 2026
 
 Built by Ember (subagent build pass) at Douglas Roy Schoonover's order of Nov 13, 2026 (~3:25 PM CST): a universal cache, useful for everybody, on GitHub, seeded with the lanes he actually uses. Patterns read first and borrowed (not modified): `~/workspace/headless-browser/cached_fetch.py`, `summary_cache.py`, `ember_index.py`.

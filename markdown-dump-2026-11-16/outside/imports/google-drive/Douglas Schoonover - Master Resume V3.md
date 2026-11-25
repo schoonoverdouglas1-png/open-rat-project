@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Douglas Schoonover - Master Resume V3 -->
 <!-- Drive modified: 2026-10-23T03:43:49.142Z -->
 

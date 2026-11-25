@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # BOOK 3: Chronomedicine & Nameology
 © 2026 Douglas Schoonover. All Rights Reserved.
 

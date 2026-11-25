@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # fire dept work with gov evers fire marshal i met approx 2022-23 in sawyer county town of draper
 
 - Date: 2026-10-20T21:58:41.000-05:00

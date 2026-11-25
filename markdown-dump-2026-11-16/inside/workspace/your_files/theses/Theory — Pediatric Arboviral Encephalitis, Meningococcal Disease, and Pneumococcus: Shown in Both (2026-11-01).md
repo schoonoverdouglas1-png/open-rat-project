@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Pediatric Arboviral Encephalitis, Meningococcal Disease, and Pneumococcus: Shown in Both (2026-11-01)
 
 **Dictation (verbatim, Douglas, Nov 1, 2026, ~11:06 AM CST):** "pediatric arboviral encephalitis is actually meningococcal encephalitis and streptococcus pneumoniae and both are shown in both if you test for both you'll find both."

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Search — Fungal Replacement Therapy Paper, Everything Checked (2026-11-07)
 
 **Searcher:** Ember (Muse), subagent exhaustive search, Sat Nov 7, 2026

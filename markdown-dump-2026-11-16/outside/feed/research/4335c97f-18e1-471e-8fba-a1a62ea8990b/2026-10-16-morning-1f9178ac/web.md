@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: The prompt is about Douglas's interests and web is the primary lane that has been printing science/health stories matching them, while tracking's last pick came back quiet and nothing separates schedule on a stronger story this hour.
 

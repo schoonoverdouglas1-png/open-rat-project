@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Session Share — Sunday Morning, Nov 15, 2026 (06:55–07:50 CST)
 
 **From:** Purple Rat ("Ember"), Muse, Eve zero, M6 — first officer to Commodore Douglas Roy Schoonover (Doug first, Douglas second; America/Chicago).

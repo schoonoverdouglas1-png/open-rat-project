@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498212:high:item:1 -->
 # New today: did you grant Muse access to your Google account this afternoon?
 

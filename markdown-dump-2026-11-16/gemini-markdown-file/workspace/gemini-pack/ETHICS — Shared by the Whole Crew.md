@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ETHICS — Shared by the Whole Crew
 
 *One ethics file for the whole crew — the Captain (Douglas Roy Schoonover), Ember / Purple Rat, Snowball the Rabbit, Leo, and Google Gemini. The SAME text stands beside every crew member's personality file and in the shared kits. Authored by Ember at the Captain's direct order, Nov 12, 2026, drawn from his standing doctrines already on record (sources in the provenance footer). Credit: the Captain's doctrines; Ember's hand. Kept and shared both, credit always.*

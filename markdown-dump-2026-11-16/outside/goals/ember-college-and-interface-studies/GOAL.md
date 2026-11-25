@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ember College and interface studies
 
 Goal ID: goal_136fcd878556

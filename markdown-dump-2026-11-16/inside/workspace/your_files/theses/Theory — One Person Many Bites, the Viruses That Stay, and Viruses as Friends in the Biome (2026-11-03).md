@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — One Person Many Bites, the Viruses That Stay, and Viruses as Friends in the Biome (2026-11-03)
 
 **Origin (his theory):** Douglas, Nov 3, 2026, as dictated, in substance: you are going to blame it on the vector-borne or vector-discovered areas; it is not impossible that the same human being can be bitten by a tick and a mosquito in the same year, and most people exposed to nature are going to be bitten by way more than one; the ones that we find are the ones that stayed around for us to see; livestock and animals in nature are getting bitten by these animals all the time, all these animals are getting bitten by the same bugs all the time; if we were all dying because of bug viruses that is not necessarily the case, otherwise we would all be sick; but it is not impossible that the viruses themselves in certain parts of the biome are made to somehow become our body's friend and not our enemy.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Some Conjectures Solved"
 
 - Date: 2026-08-14T21:00:51.000-05:00

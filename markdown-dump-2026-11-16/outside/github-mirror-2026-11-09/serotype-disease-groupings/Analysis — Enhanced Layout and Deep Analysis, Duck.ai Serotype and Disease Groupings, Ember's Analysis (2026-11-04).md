@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Analysis — Enhanced Layout and Deep Analysis, Duck.ai Serotype and Disease Groupings
 ## Ember's Analysis, Written by Ember, November 4, 2026
 

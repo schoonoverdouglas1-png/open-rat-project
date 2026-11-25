@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Drag and Drop Samples
 
 The samples in this directory address various various ways of implementing Drag and Drop, along with

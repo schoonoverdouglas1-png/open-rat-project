@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Purple Rat AI Project
 
 Douglas Roy Schoonover's project hub for studying and building on genuinely

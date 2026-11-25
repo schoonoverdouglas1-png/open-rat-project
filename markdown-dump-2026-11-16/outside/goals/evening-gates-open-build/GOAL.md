@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Evening gates-open build
 
 Goal ID: goal_a0e2ebbc8152

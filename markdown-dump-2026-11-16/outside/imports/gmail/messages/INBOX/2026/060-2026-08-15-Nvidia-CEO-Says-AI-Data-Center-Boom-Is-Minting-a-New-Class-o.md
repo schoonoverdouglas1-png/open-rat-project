@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Nvidia CEO Says AI Data Center Boom Is Minting a New Class of 6-Figure Jobs—What It Means for Housing and more top stories of the week
 
 - Date: 2026-08-15T11:42:43.000-05:00

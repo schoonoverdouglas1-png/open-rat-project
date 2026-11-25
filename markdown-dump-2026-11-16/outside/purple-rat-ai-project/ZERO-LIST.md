@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # THE ZERO LIST — Work That Runs With Zero Checking (2026-11-11)
 ### Douglas's ask: "a full list of zero checking work" — work that proceeds WITHOUT spending his weekly allowance and without Ember having to check in. Verified against the live box on 2026-11-11 ~6:13 PM CST.
 

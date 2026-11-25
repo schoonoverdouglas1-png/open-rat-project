@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Universal script — send all data from any AI to GitHub
 
 Captain Douglas, Nov 7, 2026. One script for every AI.

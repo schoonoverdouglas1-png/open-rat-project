@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498182:high:item:1 -->
 # Saturday Luther pickup closes 3 PM — plus clocks back tonight
 

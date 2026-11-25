@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # STUDYING.md
 
 <!-- studying-projection-run: 2026-11-16T22:55:07.764908411+00:00 -->

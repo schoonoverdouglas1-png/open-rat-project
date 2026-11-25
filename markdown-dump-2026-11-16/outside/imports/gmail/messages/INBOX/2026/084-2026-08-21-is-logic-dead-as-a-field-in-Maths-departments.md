@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "is logic dead as a field in Maths departments?"
 
 - Date: 2026-08-21T21:12:55.000-05:00

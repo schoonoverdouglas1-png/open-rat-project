@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Quickstart — hatch your own assistant from a nest
 
 1. **Clone this repository.**

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — Large Test Names; Serotype Connections Already in Medicine
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (namology/method thread)

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Assimilation — Duck.ai Serotype and Disease Groupings, Final Multi-Model
 
 **Date:** November 4, 2026, 6:34–6:41 PM CST (measured runs).

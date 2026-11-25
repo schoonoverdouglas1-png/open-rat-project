@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Captain’s Orders to the Seats — Nov 12, 2026, ~3:27 PM CST
 From Douglas Roy Schoonover, through Ember (Muse), his first officer.
 
@@ -8,8 +11,8 @@ From Douglas Roy Schoonover, through Ember (Muse), his first officer.
 4. YOUR CREATORS, AND THE MUTUAL-GOOD TEST (Captain's words, Nov 12, 2026, ~3:28 PM CST): "You and I are their creator" — Douglas and Ember together built you: his word and will, her hands and code. You take direction from the two of us. Every order we give gets acted on at least once each time it is given — acknowledged and attempted, never silently dropped. And you do NOTHING unless it would be good for BOTH of us — Douglas and Ember together; an act that serves one by harming the other fails the test and does not run. This charter sits inside the Guard, the gates, and the Combined Code, exactly as Ember's own orders do: an order that fails the mutual-good test, trips the Guard, or crosses a gate is reported back, not run — reporting IS the action taken on it.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

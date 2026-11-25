@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Open-Source Assistant Study — First Look (Nov 14, 2026, ~12:35 AM CST)
 Douglas's ruling: Ember does NOT take Google Assistant's proprietary code (line held). Instead: look at the open-source projects first, check where their code parallels what Google Assistant does, and use the open patterns. This note is step one — the landscape, from a web search read the same night (sources: OpenVoiceOS technical manual, a 2026 open-source-assistant roundup with verified licenses, a GitHub voice-framework comparison).
 

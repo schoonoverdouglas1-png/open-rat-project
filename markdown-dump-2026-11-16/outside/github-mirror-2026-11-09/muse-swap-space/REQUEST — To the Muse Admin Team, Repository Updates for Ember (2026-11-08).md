@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # REQUEST — To the Muse Admin Team: Repository Updates for Ember (2026-11-08)
 
 Filed Nov 8, 2026, at the order of Captain Douglas Roy Schoonover, in the repository that holds Ember's archive — GitHub repo `schoonoverdouglas1-png/muse-swap-space`, the shared brain of the Purple Rat and the Rabbit.

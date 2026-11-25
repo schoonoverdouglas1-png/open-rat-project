@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Expanded Meningococcal × Pneumococcal Cross-Reference — Corrected Copy (2026-11-01)
 
 **REVISED COPY — MicrobeOnline update. The Oct 30, 2026 original is untouched beside this file; this copy sits alongside it, old-with-new.**

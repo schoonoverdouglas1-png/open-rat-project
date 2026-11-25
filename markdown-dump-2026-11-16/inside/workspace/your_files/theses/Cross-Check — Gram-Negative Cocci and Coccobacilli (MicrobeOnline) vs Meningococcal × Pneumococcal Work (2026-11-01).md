@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cross-Check — Gram-Negative Cocci and Coccobacilli (MicrobeOnline) vs Meningococcal × Pneumococcal Work
 
 **Source:** MicrobeOnline, "Gram-Negative Cocci and Coccobacilli: List, Diseases, and Lab Identification" — https://microbeonline.com/gram-negative-cocci-coccobacilli-medical-significance-list-bacteria-diseases/?hl=en-US

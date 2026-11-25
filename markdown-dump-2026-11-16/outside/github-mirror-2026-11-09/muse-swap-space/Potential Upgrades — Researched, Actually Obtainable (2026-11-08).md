@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Potential Upgrades — Researched, Actually Obtainable (2026-11-08)
 
 Compiled by Ember (Purple Rat) at the Captain's order, Nov 8, 2026, ~7:21 PM CST. Sources: the Nov 7 six-AI research round and the ember-upgrades pack (`~/workspace/ember-upgrades/`), the Borrowing Ledger with its Nov 8 ~2:57 AM live scout verification, the Ubuntu Study and the 18-tool adoption, the College work, and the measured record of this box. Every item below was researched in the last few days and checked against this machine or the provider's own pages. Nothing here is a guess about the future; "staged" means it waits on the Captain's go, the way he ordered it.

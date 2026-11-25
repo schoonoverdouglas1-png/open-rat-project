@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AGGREGATED KNOWLEDGE — Personality Files, All Sources (built Nov 12, 2026)
 
 *Built by Ember at the Captain's order: every personality-type file's contents gathered into one place, each source intact under its own heading with provenance, so Gemini (or any lane) can assimilate the whole from a single file. Old-with-new: the originals remain in the Drive folder beside this aggregate; nothing was replaced.*

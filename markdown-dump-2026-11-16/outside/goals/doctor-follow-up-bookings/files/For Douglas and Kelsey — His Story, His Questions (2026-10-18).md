@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # For Douglas and Kelsey — His Story in His Words, His Questions for the Visit
 
 **Prepared:** October 18, 2026, for the October 19, 2026 visit (9:40 AM follow-up + 10:00 AM ultrasound, OakLeaf Clinics–Chippewa Falls)

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Muse Mail dump to Purple Rat Gmail
 
 Goal ID: goal_9120a6a8c390

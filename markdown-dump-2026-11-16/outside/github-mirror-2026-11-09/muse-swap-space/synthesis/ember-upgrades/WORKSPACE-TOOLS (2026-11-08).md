@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Workspace Tools — what Ember actually uses, verified by running/listing 2026-11-08
 Douglas's ask: "Make a list of workspace tools that you have available." Companion question answered the same night: his Markdown/text files are built with plain-text file tools directly in the workspace — NOT in LibreOffice. LibreOffice is the rendering/reading lane (docx/pdf), plain text is the writing lane: lighter, faster, versionable, diff-able, and it is what GitHub stores natively.
 

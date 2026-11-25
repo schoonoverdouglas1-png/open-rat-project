@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Virtual Phone — STAGED, not booted (Nov 12, 2026)
 
 Prepared at the Captain's order ("play with virtual phones"), inside the study gate:

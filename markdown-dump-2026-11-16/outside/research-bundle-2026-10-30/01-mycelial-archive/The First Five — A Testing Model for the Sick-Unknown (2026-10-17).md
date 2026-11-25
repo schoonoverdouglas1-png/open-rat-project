@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The First Five — A Testing Model for the Sick-Unknown (2026-10-17)
 
 *Built at Douglas's commission. An informational model — manuscript reference, never medical advice. Testing decisions belong to the clinician. Prices are rough self-pay ranges (Quest-published; vary by location, insurance, and ordering route). All five are commodity tests in every major reference lab's catalog — Mayo Clinic Laboratories, Quest Diagnostics, Sanford, Marshfield.*

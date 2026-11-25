@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — Obaid on Susceptibility Testing; Viruses Morph, Grow, Shrink
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (virology thread)

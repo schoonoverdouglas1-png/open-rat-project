@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Polysaccharides, Glycosides, and Streptococcus Chemistry
 
 **Archive date:** 2026-11-07  

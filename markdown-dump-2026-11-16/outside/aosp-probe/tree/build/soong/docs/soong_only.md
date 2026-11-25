@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Soong-only builds
 
 Android builds can now be done without makefiles for generating build targets. (makefiles are

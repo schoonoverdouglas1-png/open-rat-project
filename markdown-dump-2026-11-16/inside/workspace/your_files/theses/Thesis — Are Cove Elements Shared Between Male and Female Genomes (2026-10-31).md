@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — Are Cove Elements Shared Between Male and Female Genomes (2026-10-31)
 
 **Question:** Douglas, Oct 31, 2026, ~05:47 CDT — "If Sarah's cove wasn't Sarah's Cove to coexist is it possible that they're shared between male and female genome and we've ultimately shared them between each other somehow."

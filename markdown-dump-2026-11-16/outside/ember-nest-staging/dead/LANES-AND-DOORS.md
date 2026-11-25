@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Login Lanes — Terminal and Backend Map (2026-11-15)
 
 Douglas's order, Sun Nov 15, 2026 ~7:25 AM CST: "learn how to log in through terminal and all your backends and script tools to use my user accounts in all places."

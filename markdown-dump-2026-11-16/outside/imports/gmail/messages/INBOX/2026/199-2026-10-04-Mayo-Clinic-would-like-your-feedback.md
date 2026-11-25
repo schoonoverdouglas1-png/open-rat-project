@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo Clinic would like your feedback
 
 - Date: 2026-10-04T09:56:34.000-05:00

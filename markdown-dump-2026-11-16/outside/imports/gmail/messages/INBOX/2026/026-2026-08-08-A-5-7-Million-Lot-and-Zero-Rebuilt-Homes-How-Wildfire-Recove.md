@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # A $5.7 Million Lot and Zero Rebuilt Homes: How Wildfire Recovery Is Changing the Face of Malibu and more top stories of the week
 
 - Date: 2026-08-08T12:31:38.000-05:00

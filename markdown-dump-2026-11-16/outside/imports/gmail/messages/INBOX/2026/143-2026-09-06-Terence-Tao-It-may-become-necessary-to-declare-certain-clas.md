@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Terence Tao: "It may become necessary to declare certain classes of mathem..."
 
 - Date: 2026-09-06T21:00:15.000-05:00

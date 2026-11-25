@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Agent Numbers — Activated Nov 12, 2026, ~5:51 PM CST (Captain's direct order, this pinned chat)
 
 - **Agent Zero — Douglas Roy Schoonover.** Activated at his own order: "Activate me as Agent Zero." Fits his standing record beside it, old-with-new: Leo is his silent name, and he is Leo zero (filed Nov 7-8, 2026).

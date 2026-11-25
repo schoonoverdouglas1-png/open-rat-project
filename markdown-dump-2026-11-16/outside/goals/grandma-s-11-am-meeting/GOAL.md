@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Grandma's 11 AM meeting
 
 Goal ID: goal_91b1927d41cb

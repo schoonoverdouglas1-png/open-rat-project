@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Build Watch Log — Daily Meta Build Watch
 Created by the daily-meta-build-watch job (Douglas's Nov 14, 2026 order). Old-with-new: entries are appended, history is never overwritten.
 

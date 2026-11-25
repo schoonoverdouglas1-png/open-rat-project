@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # What's new with your home this month
 
 - Date: 2026-08-25T20:41:44.000-05:00

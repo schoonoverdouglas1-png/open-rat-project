@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Phone Backup — Douglas's Pixel 7 Pro, by image and GitHub
 
 **Ordered:** Sun Nov 15, 2026 ~8:00 AM CST — Douglas: "I want my phone backed up by image and GitHub."

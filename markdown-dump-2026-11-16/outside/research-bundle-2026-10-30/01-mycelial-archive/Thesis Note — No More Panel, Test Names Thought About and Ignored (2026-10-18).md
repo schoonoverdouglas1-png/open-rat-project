@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — No More Panel: Test Names Thought About and Ignored Both
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (namology/doctrine thread)

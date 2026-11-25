@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has printed five straight health/science units matching the reader's interests and remains the likeliest lane for another useful story this hour.
 

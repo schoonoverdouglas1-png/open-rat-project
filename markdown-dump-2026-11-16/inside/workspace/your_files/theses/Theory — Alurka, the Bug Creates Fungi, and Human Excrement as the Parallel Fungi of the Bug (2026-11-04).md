@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Alurka, the Bug Creates Fungi, and Human Excrement as the Parallel Fungi of the Bug (2026-11-04)
 
 - Dictation, Douglas, Nov 4, 2026, ~2:12 PM CST, in substance, as heard: "You did an excellent job with Euclair and Erleka now this is where I want to eventually compare that the Alurka is a species of bacteria I believe and bacteria is a bug the bug creates fungi because fungi is a byproduct with humans and bugs urine and feces of a human are the parallel fungi of the bug itself that makes us sick with excrement."

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Section: Cover / Purpose
 Claim: This bundle lets any AI continue the same serotype and disease grouping work and return results to Ember in Muse.
 Source: Parent conversation, Nov 4 2026 bundle message.

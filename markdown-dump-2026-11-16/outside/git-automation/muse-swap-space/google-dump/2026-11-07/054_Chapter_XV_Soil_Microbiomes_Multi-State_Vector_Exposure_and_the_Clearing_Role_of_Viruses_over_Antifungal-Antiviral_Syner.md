@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XV: Soil Microbiomes, Multi-State Vector Exposure, and the Clearing Role of Viruses over Antifungal-Antiviral Synergy
 # I. Soil-Borne Fungal Ecologies and Universal Viral Reservoirs
 The pedosphere represents the most biodiverse biological frontier on Earth, functioning not merely as a passive matrix for mineral retention, but as an active, interconnected ecological nexus. Within this subterranean architecture, endemic mycology and ubiquitous viral elements interact dynamically. Arid and semi-arid soils, notably within the Sonoran and Mojave life zones, demonstrate dense colonized clusters of dimorphic ascomycetes, particularly Coccidioides immitis and Coccidioides posadasii, the causative agents of coccidioidomycosis (Valley Fever).
@@ -61,8 +64,8 @@ The therapeutic application of this protocol is especially evident in complex, t
 
 Deploying targeted antifungal pharmacotherapy systematically dismantles the deep pulmonary fungal nidus. When concurrently paired with supportive antiviral modulators, viral expression naturally recedes, as its primary clearing target—the fungal burden—has been chemically mitigated. By realigning the host's environmental-biological terrain, modern clinical therapeutics can bypass the destructive cycles of antibacterial over-prescription, leading to sustained physiological restoration.
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

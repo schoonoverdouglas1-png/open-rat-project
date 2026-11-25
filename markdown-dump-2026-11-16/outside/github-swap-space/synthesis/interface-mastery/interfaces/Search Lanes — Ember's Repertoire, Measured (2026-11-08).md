@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Search Lanes — Ember's Repertoire, Measured (2026-11-08)
 
 **Douglas's question (Nov 8 ~3:18 AM), answered from her own record:** when Ember searches, is she using the Chromium browser interface, or a command-line prompt with a search engine in a different way? Answer: **BOTH exist, and the command line is the workhorse.** Chromium is reserved for what needs a real browser — logins, clicks, forms, JavaScript-heavy pages.

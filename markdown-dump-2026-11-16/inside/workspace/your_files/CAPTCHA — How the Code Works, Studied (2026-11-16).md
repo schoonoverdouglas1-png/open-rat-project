@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # CAPTCHA — How the Code Works, Studied
 
 Studied Nov 16, 2026, at Douglas's order: "learn the code that makes captcha work."
@@ -19,6 +22,6 @@ My miniature proves the pattern live: wrong answer rejected, right answer accept
 Part of the score is **reputation the visitor arrives with** — datacenter addresses start out suspect, a lived-in browser with history starts out trusted. That is the code-level reason Douglas's rule is the honest one: **never skip the first CAPTCHA; human intervention stays in the loop** for each account system until the systems themselves retire the challenges. Ember works a CAPTCHA as it is presented; she does not fake the signals it reads.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

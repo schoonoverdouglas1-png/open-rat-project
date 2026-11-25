@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # THE GRAND EXPANSION — Viruses, Diseases, Laboratories (2026-10-17)
 
 *Built at Douglas's commission (dictated-notes section 99), with the vaccine layer and five-tracks rule added by his standing order (section 100). Manuscript reference — creative theoretical work, never medical advice. No diagnostic or treatment recommendations; this is a reference document, not a testing guide.*

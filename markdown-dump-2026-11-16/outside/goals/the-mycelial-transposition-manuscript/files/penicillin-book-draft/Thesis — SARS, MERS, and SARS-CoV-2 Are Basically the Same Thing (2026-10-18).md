@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — SARS, MERS, and SARS-CoV-2 Are Basically the Same Thing (2026-10-18)
 
 **Status:** tested against the record. His thesis with the percentages he asked for.

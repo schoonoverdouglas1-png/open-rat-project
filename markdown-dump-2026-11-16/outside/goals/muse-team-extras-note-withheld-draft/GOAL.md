@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Muse team extras note — withheld draft
 
 Goal ID: goal_ee573a5a5060

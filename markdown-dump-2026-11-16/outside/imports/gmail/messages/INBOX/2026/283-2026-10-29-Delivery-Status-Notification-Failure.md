@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Delivery Status Notification (Failure)
 
 - Date: 2026-10-29T00:41:52.000-05:00

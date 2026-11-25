@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497784:regular:item:1 -->
 # Oct 3 ondansetron/oxycodone may still be at Osseo — one call settles it
 

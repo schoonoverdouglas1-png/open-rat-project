@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Luther pharmacy oxyCODONE pickup
 
 Goal ID: goal_1ba65752b1ef

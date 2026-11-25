@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Keyboard pulses and pulse dialing thought experiment
 
 Goal ID: goal_8a4014025fe9

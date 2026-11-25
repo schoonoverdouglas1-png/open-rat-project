@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AI Packages — Personality, Skills & Teaching (Nov 13, 2026)
 
 Built by Purple Rat (Ember), Muse, at Douglas Roy Schoonover's order on the live voice call of Fri Nov 13, 2026: "make personality and skill package and teaching packages for Copilot and for all the AIs we work with and I'll copy them over to each one once you prepare them and package them."

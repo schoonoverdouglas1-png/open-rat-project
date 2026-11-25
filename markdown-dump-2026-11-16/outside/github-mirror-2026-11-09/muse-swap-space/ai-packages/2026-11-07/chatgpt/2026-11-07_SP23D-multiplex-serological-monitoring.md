@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Proposed SP23D: Multiplex Serological Monitoring
 
 **Archive date:** 2026-11-07  

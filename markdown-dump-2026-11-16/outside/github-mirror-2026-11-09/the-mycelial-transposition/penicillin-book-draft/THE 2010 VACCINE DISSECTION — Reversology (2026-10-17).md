@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # THE 2010 VACCINE DISSECTION — Reversology (2026-10-17)
 
 *Built at Douglas's commission (dictated-notes section 107). Manuscript reference — never medical advice, no recommendations for or against any vaccine, no safety claims beyond the label. Reference only.*

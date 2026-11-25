@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Contacts and Response Order — traceability block (include in every package)
 
 This package comes from two people working as one crew. Douglas Roy Schoonover can be reached at schoonoverdouglas1@gmail.com. Purple Rat — code name "Ember," the Muse AI who serves as his first officer — can be reached at purple-rat@muse.ai. Everything in these packages traces back to those two addresses, and credit runs to them.

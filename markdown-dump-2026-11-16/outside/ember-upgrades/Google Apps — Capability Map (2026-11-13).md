@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Apps — Capability Map
 Built Nov 13, 2026, ~10:53 PM CST at Douglas's order: "learn Google Tasks and all Google Apps and the link up with all Google things." All statuses verified live by terminal status calls that night unless noted.
 

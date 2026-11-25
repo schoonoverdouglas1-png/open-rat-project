@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Turn your books into a conversation
 
 - Date: 2026-10-05T19:05:34.000-05:00

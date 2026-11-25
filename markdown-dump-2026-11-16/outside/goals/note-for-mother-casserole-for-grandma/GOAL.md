@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Note for Mother — casserole for Grandma
 
 Goal ID: goal_94759dacaf1a

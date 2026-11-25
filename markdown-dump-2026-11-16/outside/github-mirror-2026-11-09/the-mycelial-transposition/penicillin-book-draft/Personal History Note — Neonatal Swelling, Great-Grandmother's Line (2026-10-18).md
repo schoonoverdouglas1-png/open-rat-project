@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Personal History Note — Neonatal Swelling; Great-Grandmother's Line; His Self-Reversal Account
 
 **Filed:** 2026-10-18 · For the record — PERSONAL medical history, filed without interpretation per the standing sparring boundary

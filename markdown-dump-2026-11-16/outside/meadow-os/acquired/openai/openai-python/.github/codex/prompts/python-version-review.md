@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Monthly Python version review
 
 Assess this repository's Python-version policy and produce a maintainer review

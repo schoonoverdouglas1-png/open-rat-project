@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Why the Sub-Variants + The Reactory Cousins (2026-10-18)
 
 **Frame:** *The Mycelial Transposition* — creative manuscript, EDUCATIONAL reference only. Never medical advice. No diagnosis, no application to any person, no treatment recommendations. His values appear as quoted numbers only. Testing and treatment decisions belong to clinician and patient together.

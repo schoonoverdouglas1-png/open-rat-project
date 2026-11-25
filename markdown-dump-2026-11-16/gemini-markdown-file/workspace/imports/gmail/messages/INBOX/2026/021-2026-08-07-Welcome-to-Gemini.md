@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Welcome to Gemini
 
 - Date: 2026-08-07T17:20:54.000-05:00

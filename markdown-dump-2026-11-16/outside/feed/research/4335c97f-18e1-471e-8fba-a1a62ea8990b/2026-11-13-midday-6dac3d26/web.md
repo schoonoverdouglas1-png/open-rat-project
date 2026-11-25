@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the reader's broad interests and has printed consistently, its 1.05x response outweighs tracking's 0.81x with no positives, while schedule's last two picks closed quiet and social remains web's backup.
 

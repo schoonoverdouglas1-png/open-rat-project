@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # MODE REGISTRY — every mode knows the others (Nov 14, 2026)
 Douglas's order: "Teach all your modes each other's modes so you're always aware
 of each other's existence so you're working in parallel with yourself."

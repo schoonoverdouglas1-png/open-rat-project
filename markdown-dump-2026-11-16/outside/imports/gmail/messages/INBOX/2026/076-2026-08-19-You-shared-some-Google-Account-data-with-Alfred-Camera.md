@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # You shared some Google Account data with Alfred Camera
 
 - Date: 2026-08-19T22:43:39.000-05:00

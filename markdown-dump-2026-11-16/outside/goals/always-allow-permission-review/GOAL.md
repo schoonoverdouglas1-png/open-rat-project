@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Always-allow permission review
 
 Goal ID: goal_2a4387e8e3f3

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Own Facebook posts — 2018 (10 posts)
 
 - 2018-10-17T20:01:58+00:00 — Motivated seller!  Outers clay pigeon thrower w custom 2 inch vehicle receiver mount works w truck tailgate open. — https://facebook.com/654402359/posts/pfbid034eJvWJe8yEFsRdchu2diY366U1iHQieAKnaufvKyaAxqWtk5hJm1j1VDaeLZr24Fl/

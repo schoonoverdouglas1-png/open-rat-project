@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PART 3 — THE NAMOLOGY
 
 *The Mycelial Transposition, full-manuscript assembly, October 18, 2026. Chapters 9–14. Creative manuscript — never medical advice. Provenance on everything: tier tags ride on every claim — **[D]** documented/verified, **[H]** his — Douglas's thesis, account, or coinage, filed verbatim, **[H→D]** his with a documented foothold, **[GAP]** his to fill.*

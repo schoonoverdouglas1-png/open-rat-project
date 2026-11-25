@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Homebuilder Says It’s ‘Incredibly Difficult’ To Profit From a Traditional Starter Home and More News
 
 - Date: 2026-08-14T04:34:15.000-05:00

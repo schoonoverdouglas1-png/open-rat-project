@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulates — Bases, Manifestation, and Light-Bandwidth Heat
 
 *From Douglas's dictation on the voice call, Nov 12, 2026 (~2:06–2:08 PM CST), formed as postulates per his idea-handling method. He directed the second one explicitly: "in your background thoughts, think about" it — filed here so the background has it in writing.*

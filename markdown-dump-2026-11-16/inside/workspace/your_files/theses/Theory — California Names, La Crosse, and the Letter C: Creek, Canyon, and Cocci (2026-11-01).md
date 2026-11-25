@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — California Names, La Crosse, and the Letter C: Creek, Canyon, and Cocci (2026-11-01)
 
 **Dictation (verbatim, Douglas, Nov 1, 2026, ~10:58 AM CST):** "California fever and California disease are lacrosse. California encephalitis virus and that they're connected with valley fever coxaidal granuloma and all those other things that have to do with cocci they're all connected to the Latin and the letter C from the name Creek and canyon might actually be connected to the Latin cocci"

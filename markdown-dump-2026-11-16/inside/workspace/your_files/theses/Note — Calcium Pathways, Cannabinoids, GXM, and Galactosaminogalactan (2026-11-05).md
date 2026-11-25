@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Note — Calcium Pathways, Cannabinoids, GXM, and Galactosaminogalactan (2026-11-05)
 
 Provenance: Douglas's dictation Nov 5, 2026, 10:12 AM CST, as given by him, filed as heard only. No search, no test, no verdict yet — usage was 100% / 0% left at the morning check, and Douglas directed no more data use than already needed. Testing is held until after the Nov 7, 2026, 3:06 PM CST reset, unless he explicitly says go sooner.

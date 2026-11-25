@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Address Bar — A Field Guide (2026-11-11, researched live in Douglas's signed-in browser, read-only)
 ### For Douglas, who asked Ember to become an expert on the address bar.
 

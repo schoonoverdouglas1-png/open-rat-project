@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cash Home Sales Are in Decline in Most Cities, but a Handful Show a Surprising Bump and More News
 
 - Date: 2026-08-18T04:22:49.000-05:00

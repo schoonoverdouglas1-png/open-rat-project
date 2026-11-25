@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Connection Tree — The Pre-WWII Triad (2026-10-17)
 
 *Built at Douglas Roy Schoonover's direction for The Mycelial Transposition. Manuscript material — creative theoretical work, never medical advice. No treatment is recommended here.*

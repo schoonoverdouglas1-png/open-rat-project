@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mosquito–Tick Shared Viruses: General Analysis (not medical advice)
 
 ## Summary

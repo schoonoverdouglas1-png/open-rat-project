@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # A Book from Medical Elements — Breakdown and Quick Draft (2026-11-01)
 
 **Provenance:** Douglas's commission, Nov 1, 2026, ~1:37 PM CST — "For my research study break down thoughts in a medical elements and then let's try to write a book based upon that and that might actually be where this thought process and thoughtology can be put together in a way that makes sense."

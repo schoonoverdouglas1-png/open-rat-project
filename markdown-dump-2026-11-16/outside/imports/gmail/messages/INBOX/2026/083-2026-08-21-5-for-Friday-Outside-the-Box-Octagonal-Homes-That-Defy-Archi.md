@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # 5 for Friday: Outside the Box: Octagonal Homes That Defy Architectural Norms—and Are Listed for as Little as $350K
 
 - Date: 2026-08-21T17:28:53.000-05:00

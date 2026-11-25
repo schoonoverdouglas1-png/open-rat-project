@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Navigation Index — Words to Places
 Built 2026-11-11 at Douglas's direction: one loadable document Ember keeps in
 memory, so a WORD from Douglas (or from a file) takes her straight to the

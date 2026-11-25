@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # CLI search + GUI toggle — proven 2026-11-08 ~1:21 AM CST
 
 ## CLI internet search (no GUI, no browser session)

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497951:regular:item:1 -->
 # Booklets TOC ready to deliver — Douglas's 2:29 PM request is still unanswered
 

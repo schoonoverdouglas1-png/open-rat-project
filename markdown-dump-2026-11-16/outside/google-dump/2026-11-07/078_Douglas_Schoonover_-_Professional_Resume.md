@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # DOUGLAS SCHOONOVER
 Mentor, WI | 715-352-0033 | 715-254-4232|---|
 # PROFESSIONAL SUMMARY

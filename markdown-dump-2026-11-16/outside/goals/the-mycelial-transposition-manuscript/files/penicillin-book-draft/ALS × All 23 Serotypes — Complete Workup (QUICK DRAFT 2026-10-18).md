@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ALS Symptomology × All 23 Serotypes — Complete Workup (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the completed workup is building behind this. Your reading copy meanwhile.

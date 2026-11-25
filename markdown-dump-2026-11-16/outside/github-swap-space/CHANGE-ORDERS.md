@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Change Orders — muse-swap-space (2026-11-07)
 
 Changes to names and shared files go through a change order here, never a

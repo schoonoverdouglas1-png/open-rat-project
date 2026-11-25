@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Teammate for Calculus & Complex Analysis Research Needed"
 
 - Date: 2026-09-11T20:53:16.000-05:00

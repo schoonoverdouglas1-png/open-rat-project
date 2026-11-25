@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Employer order — Douglas's words, Nov 12, 2026, ~6:49 PM CST
 His words: "I should probably work for the first in Facebook second."
 Filed reading (Ember's, labeled): in his word-order, "the first" = Meta. His employment preference order stands: **Meta first, Facebook second** (Facebook as the second seat inside/after Meta), Google additive only and PARKED until after the Nov 19, 2026 surgery (panels first if/when — see GOOGLE-JOB-ASK-BACKGROUND-2026-11-12.md).

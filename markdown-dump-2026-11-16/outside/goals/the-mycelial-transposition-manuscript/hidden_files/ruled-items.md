@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ruled Items — The Mycelial Transposition manuscript
 
 Settled rulings by Douglas (or delivered builds he accepted). The quarter-hour

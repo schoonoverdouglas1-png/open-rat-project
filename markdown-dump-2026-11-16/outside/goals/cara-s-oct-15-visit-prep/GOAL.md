@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cara's Oct 15 visit prep
 
 Goal ID: goal_08abeeeb81c1

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497663:high:item:1 -->
 # Saturday Osseo pickup window — Douglas's itraconazole + clindamycin, Sat 8:30 AM–12:30 PM
 

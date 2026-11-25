@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doctrine — Viruses Parallel the Old Names; the Names Dictate Treatment (2026-10-19)
 
 **Status:** his doctrine, filed as his.

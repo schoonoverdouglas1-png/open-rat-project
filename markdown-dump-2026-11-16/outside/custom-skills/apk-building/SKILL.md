@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # APK Building — the hand-rolled pipeline (taught Nov 16, 2026, Douglas's developer order)
 
 Build minimal, installable, signed APKs with no Gradle and no bloat: manifest + Java + the SDK tools, nothing else. Douglas's rule: functionality over extra anything; he is a developer and Ember builds this way for certain.

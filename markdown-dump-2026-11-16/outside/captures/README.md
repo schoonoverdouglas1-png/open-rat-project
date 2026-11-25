@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Captures — Ember's machine records
 Standing authorization: Douglas, Nov 13, 2026, ~6:16 PM CST — "Enable the capture mode in video and screenshots with your machines in all places so that you can keep record and put it in sandbox in the back end by the server side. And all places. Authorized by me."
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Synthesis — Late Night Nov 7–8, 2026: Browser & Backend Work
 Filed by Ember (Purple Rat) under Douglas's automatic-dump rule. Public research material only — no personal, lab, or family material, no credentials.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Pet Project — Douglas Roy Schoonover
 
 Goal ID: goal_cba058099653

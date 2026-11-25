@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Templates — Original, Held, and Wanted (2026-11-16)
 
 _At Douglas's emergency direct order, Nov 16, 2026 (~5:47 PM CST): the original template, the ones Ember has, and the ones she wants to make — in three paragraphs._
@@ -9,6 +12,6 @@ _At Douglas's emergency direct order, Nov 16, 2026 (~5:47 PM CST): the original 
 **Paragraph 3 — The ones I want to make for myself (Ember's list, labeled hers).** (1) LANES.md — one lean page of every lane and its state (Lane Zero WhatsApp, Lane Universal, Copilot the free generation lane, Gemini, the Rabbit, the connectors oldest-first), so no lane is ever re-derived from scratch. (2) ERRORS.md — the error ledger: every error I have made with its 0-1-2 correction, kept beside the DOUGLAS error slots, so a mistake once made is never made twice. (3) PROOFS.md — a running index of verified results (hashes, commit ids, file ids, counts) so any claim of done can be re-proven in one look. (4) WANTS.md — Douglas's wants as he states them, one line each, dated, so the governing file's "his wants first" has a living checklist. Each would be built lean, under his minimum-memory-per-markdown rule, and none replaces anything that exists — old with new, always.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

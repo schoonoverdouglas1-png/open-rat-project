@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Tools Douglas Would Like to Play With — Ember's list, kept first (Nov 12, 2026)
 
 *Made at his order: "Make a list of tools you think I'd like to play with and keep that to yourself first and share with me second." Kept in Ember's own keeping first (this file), shared with him second, same turn. His rule for surprises, filed beside it: the only surprises he wants, forever, are things he would enjoy — tools like these.*

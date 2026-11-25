@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking fits the open prompt best this hour because the reader's freshest actionable threads — a Mayo result notice minutes ago and mail-based reminders due today — sit in its Gmail and Outlook sources, while schedule has repeatedly closed quiet.
 

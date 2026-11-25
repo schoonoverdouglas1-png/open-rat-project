@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: A new inbound message landed on the reader's accounts thread 28 minutes ago, and tracking — which has printed recently, unlike schedule's quiet turns — is the lane that can surface it for a feed about his interests.
 

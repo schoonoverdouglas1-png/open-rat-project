@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "GPT 5.6 has broken the record on large gaps between primes."
 
 - Date: 2026-08-30T20:37:50.000-05:00

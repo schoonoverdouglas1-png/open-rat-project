@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Purpurat AI OpenClaw project
 
 Goal ID: goal_d9173089b225

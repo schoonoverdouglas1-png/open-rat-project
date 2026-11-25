@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Welcome to Airtable!
 
 - Date: 2026-10-28T03:52:07.000-05:00

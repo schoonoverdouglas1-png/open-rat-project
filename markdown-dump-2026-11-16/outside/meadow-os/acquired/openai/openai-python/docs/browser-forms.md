@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Browser form fields
 
 A BrowserDriver may implement `type` for literal field replacement,

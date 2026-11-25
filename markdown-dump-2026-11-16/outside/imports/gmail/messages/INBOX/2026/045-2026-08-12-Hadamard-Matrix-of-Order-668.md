@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Hadamard Matrix of Order 668"
 
 - Date: 2026-08-12T21:14:11.000-05:00

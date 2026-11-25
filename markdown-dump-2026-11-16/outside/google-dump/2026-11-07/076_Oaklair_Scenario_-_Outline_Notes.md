@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Oaklair Scenario
 # Overview & Core Premise
 Set in a realm where coastal heritage and local lore intersect, the Oaklair Scenario explores the tension between local traditions, historical mysteries, and modern shifts.

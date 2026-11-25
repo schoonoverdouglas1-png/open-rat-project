@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Diagnostic Codes per Name — The Intersection Table (2026-10-30)
 
 **Frame:** creative manuscript reference only. Never medical advice. No diagnosis, no application to any person. Sequencing rules (principal vs. secondary, Excludes1/Excludes2, code-first notes) belong to professional coders — this table lays names over the code list; it is not coding guidance.

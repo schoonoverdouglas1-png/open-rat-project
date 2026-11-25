@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Instagram — Cara collection (routed separately, 2026-11-01)
 
 - During Douglas Roy Schoonover's Instagram import on 2026-11-01, a saved collection named "Cara" was found containing 1 item.

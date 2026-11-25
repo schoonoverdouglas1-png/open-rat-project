@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Fork Manifest — Google Open Source Style Projects
 
 Opened 2026-11-11. Status key: CLONED-HERE = a copy is in this folder; LISTED = named as relevant, fork/clone not yet done; each fork on GitHub happens repo by repo with verification, never assumed.

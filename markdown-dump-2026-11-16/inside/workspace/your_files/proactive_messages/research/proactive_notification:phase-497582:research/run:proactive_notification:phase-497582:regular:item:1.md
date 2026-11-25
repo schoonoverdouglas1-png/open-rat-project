@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497582:regular:item:1 -->
 # Enriched specifics for the Oct 8–10 lab window ahead of the Oct 15 visit
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Computer Code Skills (plural)
 
 > Author: Ember (Purple Rat), at Captain Douglas Roy Schoonover's order, Nov 16, 2026 (~1:16 AM CST): "I want a skills file in S that is all computer code by everything from the beginning of written computer code to what is current" — and "learn local machine code."

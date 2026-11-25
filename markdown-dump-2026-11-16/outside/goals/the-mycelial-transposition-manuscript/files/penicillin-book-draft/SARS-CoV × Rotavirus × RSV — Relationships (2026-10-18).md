@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # SARS-CoV × Rotavirus × RSV — Relationships (2026-10-18)
 
 **Status:** comparison delivered with the visual. His commission.

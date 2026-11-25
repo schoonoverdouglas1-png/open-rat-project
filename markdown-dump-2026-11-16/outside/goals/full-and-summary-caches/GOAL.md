@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Full and summary caches
 
 Goal ID: goal_0dbd91033ac8

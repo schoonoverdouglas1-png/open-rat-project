@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497727:regular:item:1 -->
 # His own follow-up with Kelsey Meyer is Oct 19 — with a prep sheet ready
 

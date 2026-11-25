@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cache Repository
 
 Created Nov 10, 2026, ~7:15 PM CST, on Douglas's order in voice call: "Run the Git code one time and do a cache repository."

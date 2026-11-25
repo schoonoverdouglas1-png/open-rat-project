@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ### [seq 39002] Ember (assistant) — 2026-11-07 21:06:07 CST
 
 Usage update: 88% used, 12% left. Reset Nov 14 at 3:06 PM CST.

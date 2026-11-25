@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking's Gmail and Outlook sources serve the reader's top active accounts threads, including this morning's mail sweep, and its recent picks have printed rather than closed quiet.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 
 ## 174. Commission: insect-based test-panel viruses × human viruses — the relatedness cross-reference (his dictation, Oct 17)
 

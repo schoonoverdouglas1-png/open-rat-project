@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Singular List — Canyons, Fevers, American Names, All Connected to the One Thing (2026-10-17)
 
 *Built at Douglas's commission (dictated-notes sections 129–130). Manuscript reference — never medical advice, no treatment or diagnostic recommendations. His words kept verbatim where given.*

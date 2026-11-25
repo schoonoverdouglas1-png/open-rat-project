@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # 5 for Friday: Mountain Modern Homes Under $550K To Cozy Up in This Fall
 
 - Date: 2026-09-04T22:10:58.000-05:00

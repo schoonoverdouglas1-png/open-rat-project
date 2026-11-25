@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the open interests prompt and has been printing varied, actionable stories, while schedule has repeatedly closed quiet and tracking just printed with a lower reader-response weight.
 

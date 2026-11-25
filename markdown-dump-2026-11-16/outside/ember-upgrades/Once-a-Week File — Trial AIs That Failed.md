@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Once-a-Week File — Trial AIs That Failed
 Douglas's standing (Nov 14, 2026, ~12:19 AM CST): trial AIs get used once in a great while — about once a week. If they don't work, they go in this file. Ember's own lanes and the Rabbit's standing work are not trial AIs; the crew's daily work does not route through this file.
 

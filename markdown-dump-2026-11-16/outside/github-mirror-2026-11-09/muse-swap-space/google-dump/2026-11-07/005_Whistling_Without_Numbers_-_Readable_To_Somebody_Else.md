@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Whistling Without Numbers - Readable To Somebody Else
 Nov 6 2026 - Per your request: Make it whistling without the numbers because it has to be readable to somebody else other than myself too.
 

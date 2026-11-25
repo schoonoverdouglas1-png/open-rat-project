@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Synopsis — Disease Cure Tree Thread (2026-10-15/16)
 
 *Booked at Douglas's direction, Oct 16, 2026. A synopsis of everything in this chat, with emphasis on everything since the tuberculosis addition. Full material lives in the linked files; this is the map.*

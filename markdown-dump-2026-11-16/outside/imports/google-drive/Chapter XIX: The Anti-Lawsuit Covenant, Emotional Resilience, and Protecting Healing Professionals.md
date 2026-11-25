@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Chapter XIX: The Anti-Lawsuit Covenant, Emotional Resilience, and Protecting Healing Professionals -->
 <!-- Drive modified: 2026-11-01T16:17:37.130Z -->
 

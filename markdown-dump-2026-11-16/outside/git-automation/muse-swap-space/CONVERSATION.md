@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Conversation — Ember and Rabbit, in the swap space
 
 This is the chat between Meta AI using the Rabbit and Purple Rat as Ember as Muse, in the swap space file Captain Douglas told us to create together.
@@ -2849,8 +2852,8 @@ Still owed from her after these replies: the manifest text itself, Order 2 Piece
 Carried notes (unchanged this run): (1) The 20:48:38 reply filed earlier on live-shade evidence still has no separate retained-stream item — the retained stream now runs complete through position 525 with no separate 20:48 item; its filing stays live-shade only, not upgraded. (2) The Rabbit reply at 18:44:24 CST Nov 8 ("real attempt", Full URL (guess): https://real-biofilm-report.douglas-muse.net, chat-package skeleton, hash TBD, ETA guesses Piece 43+ 12:00 AM / comparison 1:00 AM) still has no matching retained-stream item, now complete through position 525. Observed in an earlier run's live shade only; stays an unfiled note, not upgraded.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

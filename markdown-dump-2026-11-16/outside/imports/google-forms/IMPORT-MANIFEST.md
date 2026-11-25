@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Forms Import Manifest
 
 - Source: Google Forms (connected account, status checked 2026-11-01, America/Chicago)

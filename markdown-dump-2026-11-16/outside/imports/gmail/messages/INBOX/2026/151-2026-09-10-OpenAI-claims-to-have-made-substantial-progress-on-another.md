@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "OpenAI claims to „have made substantial progress on another Millennium Pri..."
 
 - Date: 2026-09-10T21:08:37.000-05:00

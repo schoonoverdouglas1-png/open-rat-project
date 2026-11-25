@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # SearXNG install — undo path (recorded BEFORE install, 2026-11-09)
 
 Install method: Python venv ONLY at ~/workspace/ember-upgrades/searxng-venv, built from the local source at ~/workspace/ember-upgrades/repos/searxng.

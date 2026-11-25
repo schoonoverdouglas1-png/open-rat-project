@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Start the Bidding: Lifelong Auctioneer Puts His Family Home on the Auction Block for $1 and More News
 
 - Date: 2026-08-21T04:40:36.000-05:00

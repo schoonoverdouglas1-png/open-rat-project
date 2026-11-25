@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497854:regular:item:1 -->
 # Ultrasound fasting check — the call option expired; tonight's the window
 

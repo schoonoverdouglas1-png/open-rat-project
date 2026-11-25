@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Crew Port Registry — the right number only for the right thing
 Doctrine (Douglas, Nov 14, 2026, ~2:52 AM): a port is a soft switch. To disable a
 thing you hate, renumber it — it stops working without deleting anything, and the

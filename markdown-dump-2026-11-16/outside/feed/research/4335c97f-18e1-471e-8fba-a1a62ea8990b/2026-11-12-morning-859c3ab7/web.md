@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: The prompt names no subject, so it is open to the reader's broad interests, and web has reliably printed on those this window while schedule has repeatedly closed quiet and tracking just ran.
 

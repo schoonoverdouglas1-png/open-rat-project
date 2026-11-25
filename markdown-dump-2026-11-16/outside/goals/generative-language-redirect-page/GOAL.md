@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Generative language redirect page
 
 Goal ID: goal_f3bc35b4cc01

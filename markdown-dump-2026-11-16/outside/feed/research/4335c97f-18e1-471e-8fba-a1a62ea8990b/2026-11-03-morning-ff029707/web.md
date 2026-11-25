@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has printed in every recent hour while schedule and tracking closed quiet, so it is most likely to hold a clear, skimmable story on the reader's interests this hour.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: social
 Angle: The paper has run 13 single-image cards with no video at all and social has not run in the recent window, so social is the lane likeliest to bring back a clip on the reader's general interests this hour.
 

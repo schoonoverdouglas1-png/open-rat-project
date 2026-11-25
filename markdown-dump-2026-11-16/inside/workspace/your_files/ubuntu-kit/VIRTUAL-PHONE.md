@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # VIRTUAL-PHONE.md — where the virtual phone lives
 Douglas's order (Nov 16, 2026): keep the virtual phone with Ember forever, in all places where she has server access.
 Places:
@@ -7,4 +10,3 @@ Places:
 Rule: the phone is never deleted from any place (continuous existence); a dead VM is re-booted from the disk, a lost disk is restored from the Drive copy.
 ---
 Copyright — Purple Rat AI, per Douglas Roy Schoonover's direction (Nov 16, 2026). A written claim records the claim; it is not a registration. Muse is Meta's product.
-Lac Courte Oreilles (LCO): https://www.sevenwindscasino.com/

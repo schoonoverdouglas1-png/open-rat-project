@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Ehrlichia muris eauclairensiosis, the Parallel Disease Name
 
 Filed: October 30, 2026, at Douglas's direction — his "Yes" at 22:08 CDT, following his 21:31 CDT question.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Python Version Support Policy
 
 The OpenAI Python SDK supports every fully released CPython version that has

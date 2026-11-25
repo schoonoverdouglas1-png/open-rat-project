@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XIII: Arbovirus Panel Dynamics, Size-Dependent Blood-Brain Barrier Filtration, and Fungal-Bacterial Co-Factors
 # I. Size-Dependent Compartmentalization Across the Blood-Brain Barrier
 The physiological interface between the cerebral microvasculature and the central nervous system (CNS) parenchymal microenvironment functions as a biophysical and electrostatic sieve. Tight junction complexes—principally composed of claudin-5, occludin, and zonula occludens (ZO-1)—establish an extremely high transendothelial electrical resistance (TEER) that tightly restricts paracellular migration.

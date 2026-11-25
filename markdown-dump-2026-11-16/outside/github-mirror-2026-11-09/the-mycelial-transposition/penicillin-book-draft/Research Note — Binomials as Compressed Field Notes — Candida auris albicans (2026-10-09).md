@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research Note — Binomials as Compressed Field Notes: Candida, albicans, auris (2026-10-09)
 
 *Captured from Douglas's Oct 9, 2026 chat thread while working through the name behind the C. auris mortality note. For the nomenclature chapters of The Mycelial Transposition. Creative manuscript material — not medical advice.*

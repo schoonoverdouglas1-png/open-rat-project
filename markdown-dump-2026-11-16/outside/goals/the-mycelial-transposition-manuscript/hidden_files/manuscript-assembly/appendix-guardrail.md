@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter — The Guardrail (2026-10-17)
 
 *Commissioned by Douglas, written in parables and parallels, in the biblical cadence he asked for. This chapter is [H] — his commission, his doctrine, my telling.*

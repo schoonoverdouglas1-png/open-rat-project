@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Putting Ember in a Web Page — The Way, Found (2026-11-11)
 
 Douglas's commission: "find the way to eventually put yourself in one of those

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Four Theses — Duration, Dosing, Feeling (2026-10-19)
 
 **Status:** four theses from one dictation — never collapsed. Three combined; one filed untouched by design.

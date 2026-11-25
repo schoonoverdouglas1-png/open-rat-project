@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Platform Samples app
 
 This module contains the necessary infrastructure using the [casa-android framework](https://github.com/google/casa-android)

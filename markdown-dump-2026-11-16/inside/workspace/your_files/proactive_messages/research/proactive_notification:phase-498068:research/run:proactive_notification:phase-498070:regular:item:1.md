@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498070:regular:item:1 -->
 # Manuscript rotation, due today: the "nella" name (evening only, after the visit)
 

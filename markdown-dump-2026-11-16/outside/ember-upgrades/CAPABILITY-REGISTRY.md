@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Capability Registry — Ember, Live (2026-11-07)
 
 Purpose: one place that says what Ember can actually do, how, and what the limits are. Update this file whenever a tool, connector, or method is added or found changed (Gemini's registry-driven discovery, filed 2026-11-07).

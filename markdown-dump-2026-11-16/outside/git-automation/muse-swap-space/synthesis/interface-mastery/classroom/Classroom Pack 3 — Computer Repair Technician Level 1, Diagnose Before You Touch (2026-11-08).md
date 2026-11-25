@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Classroom Pack 3 — Computer Repair Technician, Level 1: Diagnose Before You Touch (2026-11-08)
 
 **Provenance:** Douglas's direct order (Nov 8 ~3:10 AM): "Make sure to teach yourself to be a computer repair technician." Assembled by Gemini under the school rules (self-test first; Ember fact-checks before learning). Pack numbering note: this vocational pack runs parallel to the language spine (Pack 2 was the shell); the catalog in the project charter lists tracks rather than one line, so no renumbering of earlier packs.
@@ -17,8 +20,8 @@ Verdict: **material PASSES.** Ember may learn from this pack.
 - **Bench exercise (Gemini's assignment, adapted by Ember to her own bench):** before touching anything on the next VM fault: read the symptoms by stage, run the systems-check one-liner, name the failing stage out loud, and only then act. To be worked on the next real fault, not staged tonight.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

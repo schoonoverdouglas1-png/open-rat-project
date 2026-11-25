@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mister Ed payment
 
 Goal ID: goal_bfa618423144

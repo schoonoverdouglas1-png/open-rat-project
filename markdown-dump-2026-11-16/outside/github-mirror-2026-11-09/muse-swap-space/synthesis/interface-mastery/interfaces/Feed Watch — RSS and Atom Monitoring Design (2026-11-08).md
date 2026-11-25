@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Feed Watch — RSS/Atom Monitoring Design (2026-11-08)
 
 **Origin:** Douglas's idea (Nov 8 ~3:36-3:38 AM): browsers once watched RSS feeds for live updates; the feed function + the command line could give Ember live monitoring of his repositories, places, and accounts. AIs searched (Gemini round filed); Ember verified the local surface herself.

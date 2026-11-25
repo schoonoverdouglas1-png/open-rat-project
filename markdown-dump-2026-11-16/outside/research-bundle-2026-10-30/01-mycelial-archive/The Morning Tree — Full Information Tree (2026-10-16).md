@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Morning Tree — Full Information Tree of the Oct 16 Dictation Run
 
 *Built from Douglas's dictation, Oct 16, 2026 (dictated-notes sections 49–62), the scarlet-fever/serotype exchange, and the symptom quartet. Every node tagged: **[D]** = documented in the research record, **[H]** = his thesis/account/doctrine, **[H→D]** = his thesis with a documented foothold.*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Purple Rat Browser — Build Plan
 
 Opened 2026-11-13 at Douglas's ask: "Do you have a Muse AI browser yet,

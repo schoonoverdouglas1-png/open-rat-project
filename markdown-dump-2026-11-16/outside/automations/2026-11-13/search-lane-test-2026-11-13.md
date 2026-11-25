@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Third search lane test — Nov 13, 2026 (~3:05–3:10 PM CST)
 Query for both lanes: "OakLeaf Surgical Hospital Altoona WI". Lanes started on demand and shut down after the test (never left running).
 

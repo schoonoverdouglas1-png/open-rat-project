@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Automatic reply: [EXTERNAL] Mayo Research Study
 
 - Date: 2026-10-24T16:23:45.000-05:00

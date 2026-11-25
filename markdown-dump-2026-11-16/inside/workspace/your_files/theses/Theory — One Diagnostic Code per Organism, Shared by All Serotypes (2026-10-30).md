@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — One Diagnostic Code per Organism, Shared by All Serotypes (2026-10-30)
 
 **Filed:** Oct 30, 2026 · For Douglas's manuscript work (creative manuscript reference only — never medical advice).

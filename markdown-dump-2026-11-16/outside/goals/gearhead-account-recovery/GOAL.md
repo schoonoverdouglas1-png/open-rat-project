@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Gearhead account recovery
 
 Goal ID: goal_96a3d2ca84d0

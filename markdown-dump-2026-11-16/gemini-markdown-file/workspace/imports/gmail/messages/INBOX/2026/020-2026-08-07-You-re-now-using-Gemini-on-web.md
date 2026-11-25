@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # You’re now using Gemini on web
 
 - Date: 2026-08-07T17:15:08.000-05:00

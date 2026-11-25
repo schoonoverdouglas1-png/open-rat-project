@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497662:regular:item:1 -->
 # Filed: binomials as compressed field notes — Candida / albicans / auris etymology note for the manuscript
 

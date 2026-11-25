@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Browser and mixed Responses tools
 
 `BrowserToolset` turns a supplied driver's methods into Responses function tools.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # THE GAP LEDGER — The Whole Book's Empty Cells (his to fill)
 
 *Every [GAP] in this manuscript, gathered in one place. Nothing here is presented as known. Each is Douglas's to fill — by dictation, by record, or by the clinical-research setting he is building toward. His ordering guardrail holds: his future fill-ins come last.*

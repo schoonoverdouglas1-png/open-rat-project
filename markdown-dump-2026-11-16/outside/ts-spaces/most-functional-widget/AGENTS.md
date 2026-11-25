@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Building this web artifact
 
 This directory is a web artifact — a TypeScript space: a React client in

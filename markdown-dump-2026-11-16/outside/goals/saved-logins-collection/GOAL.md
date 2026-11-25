@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Saved logins collection
 
 Goal ID: goal_17683c1d42ce

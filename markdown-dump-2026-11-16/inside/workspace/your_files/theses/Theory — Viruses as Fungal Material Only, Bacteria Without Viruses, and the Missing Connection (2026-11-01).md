@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Viruses as Fungal Material Only, Bacteria Without Viruses, and the Missing Connection (2026-11-01)
 
 **Provenance:** Douglas's dictation, Nov 1, 2026, ~1:36 PM CST, filed verbatim below. Creative manuscript theory, not medical advice. His learning path (meningitis, pneumococcus, tuberculosis, bowel, lungs) is filed as his account; the disease footholds below are documented.

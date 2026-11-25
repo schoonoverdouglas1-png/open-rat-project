@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498155:regular:item:1 -->
 # New MyChart test result this morning (Oct 30, 6:10 AM CDT) — details only in the portal
 

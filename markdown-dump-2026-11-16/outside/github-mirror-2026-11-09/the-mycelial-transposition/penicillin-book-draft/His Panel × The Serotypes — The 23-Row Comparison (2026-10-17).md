@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # His Panel × The Serotypes — The 23-Row Comparison (2026-10-17)
 
 *Built at Douglas's direction for The Mycelial Transposition. Manuscript reference, never medical advice.*

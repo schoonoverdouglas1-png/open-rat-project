@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits the reader's medicine and computer interests and has printed consistently, while schedule has repeatedly closed quiet and tracking has drawn weaker responses, so web is likeliest to hold a useful story this hour.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Serotype–Virus Test–ALS Connection: The Potential (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the completed paper is building behind this. Your reading copy meanwhile.

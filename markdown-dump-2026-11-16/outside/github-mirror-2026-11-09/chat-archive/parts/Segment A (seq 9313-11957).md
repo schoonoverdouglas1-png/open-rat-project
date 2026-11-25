@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ### [seq 9313] Ember (assistant) — 2026-10-24 09:01:21 CST
 
 Today's the day, Douglas — your itraconazole runs out around Oct 27–28, so this is the morning to message Kelsey in MyChart for the renewal.

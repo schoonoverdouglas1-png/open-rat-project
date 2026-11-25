@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Gmail is connected, its last turn printed while schedule's most recent turn came back empty, and it best serves the reader's own pending matters under a prompt that names no specific subject.
 

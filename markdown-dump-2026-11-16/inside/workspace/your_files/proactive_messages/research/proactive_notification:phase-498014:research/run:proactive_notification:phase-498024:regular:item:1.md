@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498024:regular:item:1 -->
 # Oct 26 Dickson visit prep sheet ready — hold delivery until Sunday Oct 25 evening
 

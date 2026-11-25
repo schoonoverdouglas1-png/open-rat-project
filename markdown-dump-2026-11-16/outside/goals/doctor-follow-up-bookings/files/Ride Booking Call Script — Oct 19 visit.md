@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ride-booking call script — Monday Oct 19 visit with Kelsey Meyer, NP
 
 *For Douglas. Today (Friday) is the day — Patients' Express office is open 7am–5pm; Anytime Transport is 24/7, so it can book even tonight or the weekend.*

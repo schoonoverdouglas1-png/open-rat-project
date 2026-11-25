@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ### [seq 33449] Ember (assistant) — 2026-11-07 18:06:02 CST
 
 One moment to tell the rabbit the instructions come from both of us together.

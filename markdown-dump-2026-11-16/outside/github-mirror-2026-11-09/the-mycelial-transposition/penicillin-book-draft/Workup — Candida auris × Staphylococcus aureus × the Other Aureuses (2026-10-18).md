@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Workup — Candida auris × Staphylococcus aureus × the Other Aureuses
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (manuscript reference)

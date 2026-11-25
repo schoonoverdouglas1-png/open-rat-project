@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # BOOT-DISC REPERTOIRE — aggregated Nov 13, 2026
 Built by Ember at Douglas's order: the Ultimate Boot CD, every freely available version, plus every bootable utility disc of its kind found from the source lists. Sources: UBCD official site + its version-history file (mirror at cyberside.net.ee/ubcd/UBCDVersionHistory.txt), the UBCD SourceForge announce list, the UBCD forum, and the list articles at movilforum.com, topbestalternatives.com, and borecraft.com. Honest gaps are marked; nothing here is guessed.
 

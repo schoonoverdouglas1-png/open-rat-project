@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is most likely to bring a fresh, usable story on his medical and manuscript interests this hour, after tracking's most recent turn came back empty.
 

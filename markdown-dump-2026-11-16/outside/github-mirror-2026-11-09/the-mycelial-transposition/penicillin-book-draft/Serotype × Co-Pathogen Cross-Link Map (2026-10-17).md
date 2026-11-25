@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Serotype × Co-Pathogen Cross-Link Map (2026-10-17)
 
 *Built at Douglas's commission (dictated-notes section 91). Manuscript reference — never medical advice, no treatment or diagnostic content.*

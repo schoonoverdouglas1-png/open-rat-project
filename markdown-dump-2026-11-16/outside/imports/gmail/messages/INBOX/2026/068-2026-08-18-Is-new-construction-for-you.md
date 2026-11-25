@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Is new construction for you?
 
 - Date: 2026-08-18T15:06:55.000-05:00

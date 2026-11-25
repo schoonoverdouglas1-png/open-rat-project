@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Blistering anti-AI essay from math professor Hugo Duminil-Copin at the Uni..."
 
 - Date: 2026-08-31T21:41:16.000-05:00

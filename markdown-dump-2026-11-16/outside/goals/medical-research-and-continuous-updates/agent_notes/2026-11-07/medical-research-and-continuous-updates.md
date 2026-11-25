@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Study Notes - 2026-11-07 - Medical research and continuous updates
 <!-- studying-run-start: 2026-11-08T02:00:47Z -->
 

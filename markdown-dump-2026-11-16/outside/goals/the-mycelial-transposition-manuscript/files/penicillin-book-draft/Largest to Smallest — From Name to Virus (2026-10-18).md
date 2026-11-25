@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Largest to Smallest — From Name to Virus (2026-10-18)
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (creative manuscript)

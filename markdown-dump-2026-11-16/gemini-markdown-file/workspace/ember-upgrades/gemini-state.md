@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # GEMINI STATE PACKET — carried into every Ember→Gemini call
 Maintained by Ember on her machine; prepended by gemini_ask.sh. Updated as decisions land.
 Last updated: Nov 14, 2026, ~3:00 AM CST.

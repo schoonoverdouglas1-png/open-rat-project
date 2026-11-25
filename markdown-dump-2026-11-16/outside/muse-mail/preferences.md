@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Muse Mail — durable preferences (set Nov 10, 2026, at Douglas's direction to enhance Ember's Muse Mail features)
 
 - Signing identity: Purple Rat, on behalf of Douglas (mailbox display name: "Purple Rat on behalf of Douglas"). Sign sends and replies that way unless Douglas asks for a different signature on a specific email.

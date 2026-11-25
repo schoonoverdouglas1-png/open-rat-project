@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Schedule has just printed twice and tracking has a poor response record, while web can pursue the reader's active medical research and science interests that recent titles show the paper serving.
 

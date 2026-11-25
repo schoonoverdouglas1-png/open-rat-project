@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # GitHub Public-Content Audit — schoonoverdouglas1-png
 
 **Date:** Tuesday, November 10, 2026 (evening, CST)

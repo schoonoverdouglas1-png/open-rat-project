@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: The prompt names no subject, and the reader's top threads are their accounts — the unsecured purple-rat domain and hourly Muse Mail monitoring — which Gmail and Outlook tracking serves directly, and tracking's recent picks printed so it is not a quiet lane.
 

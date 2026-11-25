@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ubuntu Change Log — Everything Ember Modified
 Compiled Nov 8, 2026, at Douglas's order — for the Rabbit (Meta AI) and for the Facebook team, in case questions are asked later.
 Provenance: Ember's own record (MEMORY.md, daily logs, and measured checks Nov 7–8, 2026). Anything not listed here was not done.

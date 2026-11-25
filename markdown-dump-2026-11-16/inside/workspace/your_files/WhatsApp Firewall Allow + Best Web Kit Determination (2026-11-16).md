@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # WhatsApp Firewall Allow + Best Web Kit Determination
 **Timestamp on the outside: Nov 16, 2026, ~3:44 PM CST, America/Chicago — at his orders: "allow WhatsApp to the firewall somehow to make it work" and "figure out which web kit works best for this thing"**
 
@@ -22,6 +25,6 @@ Candidates tested against his record and his builds:
 **Determination: Android System WebView (Chromium 156) is the best web kit for this work** — it is already his, already proven in every build he owns, free, and forward/backward compatible with his cheap phones. Meta's kit stays first *inside Meta's apps* per his Nov 12 order (old-with-new, both kept, each in its place); GeckoView stays on the bench as the spare, unused unless WebView ever fails him.
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

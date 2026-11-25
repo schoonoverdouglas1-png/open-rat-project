@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Docs — Complete Inventory Index
 
 Source: Douglas Roy Schoonover's connected Google Docs (via the Docs connector; inventory listed through Drive file search for native Google Docs).

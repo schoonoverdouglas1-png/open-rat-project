@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Live CD Lane — Status
 Updated 2026-11-13 ~7:12 PM CST at Douglas's order (compile with his compilers, auto-update them, self-update on tonight's teachings, experiment via live-CD instances where the browser stays available).
 

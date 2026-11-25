@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 FM QM-1
 QUANTUM MEDICINE
 HEADQUARTERS — AUTHOR'S DRAFT

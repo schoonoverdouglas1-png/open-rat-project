@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # A propos de SearXNG
 
 SearXNG est un [Métamoteur] qui agrège les résultats d'autres

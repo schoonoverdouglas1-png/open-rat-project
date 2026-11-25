@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Veterans! WIN $75,000 toward a new home!
 
 - Date: 2026-08-13T14:04:23.000-05:00

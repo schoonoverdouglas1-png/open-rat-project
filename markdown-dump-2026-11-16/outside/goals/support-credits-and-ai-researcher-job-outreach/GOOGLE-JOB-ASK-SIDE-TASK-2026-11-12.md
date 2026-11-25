@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Side Task — Asking Google for a Job (filed Nov 12, 2026, ~6:05 PM CST, Captain's words, this pinned chat)
 
 **Status: SIDE TASK FOR LATER. The Captain has NOT decided yet. Nothing is to be sent to Google, and no WhatsApp message is to be sent, until he decides and says so on the exact action.**

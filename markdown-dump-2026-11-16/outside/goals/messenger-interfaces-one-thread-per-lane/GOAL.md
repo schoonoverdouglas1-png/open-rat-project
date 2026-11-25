@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Messenger interfaces — one thread per lane
 
 Goal ID: goal_73cebb53abd9

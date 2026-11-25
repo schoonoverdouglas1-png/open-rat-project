@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Headless Contact Map — Ember to Every AI, Back End Only
 Figured out 2026-11-14 at Douglas's order. "Headless" = no screen, no window: a script
 or a file lane talks, Ember chats, nothing renders. State per lane, from the record:

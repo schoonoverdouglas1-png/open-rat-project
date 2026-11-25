@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # More Ways — Screen and Terminal Access Lanes (2026-11-13)
 
 Research date: Fri Nov 13, 2026 (America/Chicago). Question: beyond the already-designed route — SSH on port 1986 into the AVF Debian guest over Tailscale, VNC 5901 / RDP 3389 tunneled inside SSH, Port control taps in the Terminal app — what other practical lanes let an AI agent on a separate Linux VM (Ember) see and/or control (a) the phone's Linux Terminal (Debian guest, Android Virtualization Framework) and (b) the phone's Android screen?

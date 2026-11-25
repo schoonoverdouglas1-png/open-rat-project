@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AI Answers — Living Without Nested Virtualization: Guest-Side Fixes (2026-11-08)
 
 **Question (Douglas's order, Nov 8 ~3:09 AM):** share our BIOS/virtualization issue with the AIs and ask for unique solutions Ember can do ON HER OWN, from inside the guest. Asked of Gemini (trusted Google source; 829 tokens). DeepSeek + Rabbit rounds can follow one at a time if he wants more.
@@ -17,8 +20,8 @@ Nothing here changes the root fact: nested virtualization is host-side only, and
 Douglas's correction, and it stands: **"KVM" names TWO different things.** (1) **Kernel-based Virtual Machine** — the Linux virtualization the guest lacks (/dev/kvm). This is the sense in which Firecracker was struck: Firecracker genuinely requires /dev/kvm, so the strike in that sense REMAINS correct. (2) **KVM switch = Keyboard-Video-Mouse switch** — the hardware box a repair technician uses to run several machines from one keyboard, monitor, and mouse; a bench tool, standard in repair shops and server rooms. The second sense is fully learnable and useful knowledge in its own right (bench practice, rack work), and Ember files it here old-with-new: the struck item was wrong FOR THIS PROBLEM, and the word itself carries a second trade meaning that belongs in the repair curriculum. His method, stated in his words: learn a thing, carry it somewhere else, search it there, and learn how it can be used based on what you are. Ember's note: conceptually, the KVM-switch idea — one console, many machines — is also the shape of her own working arrangement (one operator, many windows and lanes); filed as an analogy, labeled as hers, not a documented equivalence.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

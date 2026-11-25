@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doug's Thoughts on Teaching Medicine
 # Preface & Bedside Philosophy
 Medicine in its truest form is an active, dynamic commitment to restoring the human being—not merely managing symptoms or adhering strictly to static algorithmic guidelines. Inspired by the proactive public health spirit of pioneers like Dr. C. Everett Koop, the primary duty of a clinical practitioner is to listen intently, observe direct physiological responses, and possess the courage to adapt protocols when a patient hits therapeutic ceilings.

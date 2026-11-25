@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking serves Douglas's medical-research interests through his Gmail, its recent picks printed while schedule went quiet, and with web level on story the hour goes to a connected source web cannot reach.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498259:high:item:1 -->
 # Luther pharmacy pickup today — call first, then pick the window before 6 PM
 

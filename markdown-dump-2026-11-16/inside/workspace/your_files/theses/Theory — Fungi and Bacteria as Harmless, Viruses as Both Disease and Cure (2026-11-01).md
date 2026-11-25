@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Fungi and Bacteria as Harmless, Viruses as Both Disease and Cure (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice.*

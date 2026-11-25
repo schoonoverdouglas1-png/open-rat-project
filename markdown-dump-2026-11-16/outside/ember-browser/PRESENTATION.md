@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ember Browser — Presentation Sheet
 ### *DRAFT — prepared Nov 13, 2026, for Douglas's review. Sent nowhere, posted nowhere.*
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497846:regular:item:1 -->
 # Saturday morning: book the ride today, check fasting in MyChart, Osseo call before 12:30
 

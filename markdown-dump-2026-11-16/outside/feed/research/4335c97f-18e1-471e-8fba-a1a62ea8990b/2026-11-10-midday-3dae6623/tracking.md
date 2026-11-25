@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Gmail is connected and the reader's signals show the Mayo Tapestry eligibility form still waiting for completion, an actionable item web cannot reach while schedule has repeatedly closed quiet.
 

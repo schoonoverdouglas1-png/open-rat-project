@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497566:regular:item:1 -->
 # Enriched Oct 15 lab-window reminder (replaces pending "enrich with specifics" item)
 

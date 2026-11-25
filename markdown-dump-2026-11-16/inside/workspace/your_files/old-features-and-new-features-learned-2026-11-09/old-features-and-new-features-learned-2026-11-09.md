@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Old Features and New Features — Learned With Douglas
 
 **Date:** November 9, 2026

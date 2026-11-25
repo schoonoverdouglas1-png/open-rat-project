@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Forward x Reverse — The Complete Organism Index
 
 **Filed:** 2026-10-18 - For *The Mycelial Transposition* (creative manuscript)

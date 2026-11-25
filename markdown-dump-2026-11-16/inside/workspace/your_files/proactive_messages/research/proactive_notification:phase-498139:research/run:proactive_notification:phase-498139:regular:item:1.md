@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498139:regular:item:1 -->
 # Your Protocol 23-004120 case-study email bounced to its Cc address
 

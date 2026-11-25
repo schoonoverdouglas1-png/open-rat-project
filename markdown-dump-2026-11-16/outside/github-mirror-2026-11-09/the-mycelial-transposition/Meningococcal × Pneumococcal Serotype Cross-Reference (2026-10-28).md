@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Meningococcal × Pneumococcal Serotype Cross-Reference (2026-10-28)
 
 *Companion to the Most Advanced Serotype Disease Table. Built because no existing table did this cross-reference — see the verdict below.*

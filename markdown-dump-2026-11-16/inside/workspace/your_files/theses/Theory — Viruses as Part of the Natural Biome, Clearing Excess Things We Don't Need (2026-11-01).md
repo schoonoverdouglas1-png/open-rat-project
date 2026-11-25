@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Viruses as Part of the Natural Biome, Clearing Excess Things We Don't Need (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice.*

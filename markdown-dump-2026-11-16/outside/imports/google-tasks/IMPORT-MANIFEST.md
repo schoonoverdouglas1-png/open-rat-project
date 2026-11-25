@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Tasks Import — Manifest
 
 - **Source name:** Google Tasks (connected account)

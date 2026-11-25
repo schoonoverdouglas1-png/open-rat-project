@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: The prompt names no subject, so fit is open, and web has printed six straight hours on manuscript-relevant science and health topics, the strongest record of a live story this hour; an ideas card already ran recently and tracking is an unknown source.
 

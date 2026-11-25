@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Sources read 2026-11-14 (index + verified via browser_open for *-marked)
 
 - *Buffi et al. 2025, FEMS Microbiol Rev 49:fuaf009 — Electrical signaling in fungi. PMC11995700 https://pmc.ncbi.nlm.nih.gov/articles/PMC11995700/ — verified live via browser_open 2026-11-14. Abstract: AP-like signals + hyphal-tip currents shown late 20th c., function in intracellular communication remained unclear / not irrefutably shown; architecture (continuous membrane, septal pores, insulating wall) could support long-distance signaling; CMN/Wood Wide Web electrical communication still highly debated (citing Karst 2023); methods limited by microscopic hyphae, modular network complexity.

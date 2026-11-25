@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 
 ---
 
@@ -26,8 +29,8 @@
 At Douglas's direct order, with tip text dictated by him verbatim and his full legal name included at his direction, Ember (as his AI agent, disclosed as such in the tip itself) submitted a tip to the Chippewa County Crime Stoppers WebTip system (via the county's Online Tipster page; P3 Tips form ID=966). Content, exactly his: approximately three months ago and approximately five years ago, in the Chippewa County area, two bottles of narcotic pain medicine were taken off his person (one bottle each occasion); reported for information of fact. Offense type entered: Theft. No address, suspect, phone, email, or other detail was added; no exact dates were fabricated. **Tip ID: 966-W1099.** The follow-up access code is kept with his private papers (your_files tip record), not in this book. Confirmation-page caveat, noted for him: Crime Stoppers is a private nonprofit; a tip does NOT constitute a police report; the information will be reviewed and forwarded to the most appropriate law enforcement agency. Hotline for follow-up: 715-944-3949.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

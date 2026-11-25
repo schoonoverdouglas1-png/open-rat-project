@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web most squarely serves his medical-manuscript interests this hour, while tracking last closed quiet and schedule just closed quiet and web keeps printing.
 

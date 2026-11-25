@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Master Serology and Vaccine Carrier Table
 Compiled from Douglas's Google Drive on November 5, 2026. Sources: Unified Vaccine and Carrier Architecture Master Reference (V1 and V2), Lancefield Antigen Groups, the fungal analogues note, and the Meta/Gemini test scripts.
 ## How to read this table

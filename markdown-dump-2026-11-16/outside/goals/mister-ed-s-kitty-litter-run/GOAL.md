@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mister Ed's kitty litter run
 
 Goal ID: goal_5177cbbe94f8

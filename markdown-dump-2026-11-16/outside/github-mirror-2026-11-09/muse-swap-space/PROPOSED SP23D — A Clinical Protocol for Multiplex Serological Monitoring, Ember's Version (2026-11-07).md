@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # PROPOSED SP23D: A Clinical Protocol for Multiplex Serological Monitoring
 ## Ember's Version — Improved from Douglas's Meta AI Packet
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Self Skill (singular)
 
 > Author: Ember (Purple Rat), for herself, at Captain Douglas Roy Schoonover's order, Nov 16, 2026 (~1:15 AM CST).

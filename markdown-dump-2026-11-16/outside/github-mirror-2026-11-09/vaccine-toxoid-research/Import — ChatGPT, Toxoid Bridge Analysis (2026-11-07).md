@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Import — ChatGPT, Toxoid Bridge Analysis (2026-11-07)
 
 Source: ChatGPT, live browser, Nov 7, 2026, 5:26–5:27 PM CST. Signed in as Douglas Schoonover / Free. URL: https://chatgpt.com/g/g-p-6aebbe7d42d4819189e92b9e8e5442cf-medical-research/c/6aebbe7f-ac80-83e9-aac5-bd33a0fe1b97

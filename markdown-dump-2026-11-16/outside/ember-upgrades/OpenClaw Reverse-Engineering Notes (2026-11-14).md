@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # OpenClaw Reverse-Engineering Notes (2026-11-14)
 
 Read-only study of the clone at `~/workspace/github-clones/openclaw`, one level deeper than the

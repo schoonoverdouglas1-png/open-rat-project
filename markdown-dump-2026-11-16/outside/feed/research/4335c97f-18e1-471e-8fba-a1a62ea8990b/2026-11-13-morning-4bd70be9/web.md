@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: The prompt names no subject, so it comes down to proven value: web has printed consistently on this reader's interests and rates above tracking, while schedule's last two attempts closed quiet and social has no record to beat web's.
 

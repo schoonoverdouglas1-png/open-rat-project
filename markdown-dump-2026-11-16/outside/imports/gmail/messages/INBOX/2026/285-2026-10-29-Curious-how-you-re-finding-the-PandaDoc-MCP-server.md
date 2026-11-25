@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Curious how you're finding the PandaDoc MCP server
 
 - Date: 2026-10-29T06:04:40.000-05:00

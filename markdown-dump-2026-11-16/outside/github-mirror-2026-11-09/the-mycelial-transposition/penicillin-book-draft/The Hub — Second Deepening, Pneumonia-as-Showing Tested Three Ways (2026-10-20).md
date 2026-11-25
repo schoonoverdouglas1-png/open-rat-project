@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Hub — Second Deepening: Pneumonia-as-Showing Tested Three Ways (2026-10-20)
 
 *Commission §228, Douglas Roy Schoonover: "That's the reading." — "Go deeper on the hub." The completed paper for the second deepening of pneumonia-as-showing. The quick draft of the same date (2026-10-20) stays alongside this paper, unaltered, per his old-with-new rule. The first deepening — "The Trunk — Going Deeper on Pneumonia-as-Showing (2026-10-17)" — also stays, unaltered. This paper goes beyond both, using everything built between October 17 and October 20.*

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web is the liveliest fit for "my interests" this hour, with recent science prints landing on the reader's core fungal/manuscript interests while tracking just closed quiet.
 

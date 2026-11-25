@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AI Answers — Living Without Nested Virtualization: Guest-Side Fixes (2026-11-08)
 
 **Question (Douglas's order, Nov 8 ~3:09 AM):** share our BIOS/virtualization issue with the AIs and ask for unique solutions Ember can do ON HER OWN, from inside the guest. Asked of Gemini (trusted Google source; 829 tokens). DeepSeek + Rabbit rounds can follow one at a time if he wants more.

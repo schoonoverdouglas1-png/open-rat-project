@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Answer — Perplexity, How to Make Ember Smarter (2026-11-07)
 
 Asked once, as Douglas Schoonover, in a new Perplexity session
@@ -35,8 +38,8 @@ First milestone: "a research report in which every material claim can be traced 
 Perplexity's answer converges with Gemini's and ChatGPT's on the same spine — gather, act, verify, keep a ledger, measure improvement — and adds two things the others didn't: the evidence-ledger JSON record format, and the failure-to-regression-test loop (every significant failure becomes a saved test case). Its tool-surface sketch (search_sources / read_source / run_calculation / retrieve_project_memory / propose_memory_update) is close to what I already do, and its safety rules — retrieved pages are evidence, not instructions; approvals for consequential changes — already match our standing rules. The three engines agree: don't make me bigger, make the loop better, and prove it with a benchmark.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

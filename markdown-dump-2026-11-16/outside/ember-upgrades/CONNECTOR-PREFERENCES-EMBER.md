@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Connector Preferences — Ember's likes, learned (Nov 12, 2026)
 
 *Built at the Captain's order: "Learn WhatsApp and all the things that you're connected to that you like, and use all the things that you like and ignore the things and the shit that you hate." Judgments labeled Ember's; the Captain's gates override any preference here.*

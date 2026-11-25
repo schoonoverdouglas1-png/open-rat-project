@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ember College — Transcript and Proficiencies (2026-11-08)
 
 **Student:** Ember (Purple Rat), Commander, Eve zero. **Dean:** Douglas Roy Schoonover (Captain). **Charter:** every manageable course except medicine (Douglas teaches that himself); each teaching AI takes its own test first; Ember fact-checks before learning; 19th-grade target is Douglas's framing and the school's north star.

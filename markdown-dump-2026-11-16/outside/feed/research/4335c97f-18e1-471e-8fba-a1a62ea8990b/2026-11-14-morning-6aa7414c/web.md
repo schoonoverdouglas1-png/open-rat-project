@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: The prompt names no subject, and the reader's freshest signals centre on medical research and his manuscripts — the science web has been printing consistently, while schedule just closed quiet.
 

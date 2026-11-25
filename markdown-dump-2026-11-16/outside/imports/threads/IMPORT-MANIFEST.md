@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Threads Import Manifest — Douglas Roy Schoonover
 
 ## Status: NOT CONNECTED — import not started

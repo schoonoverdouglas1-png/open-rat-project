@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Camera2 samples
 
 This is a catalog of camera2-specific APIs to demonstrate the usage and capabilities of the API.

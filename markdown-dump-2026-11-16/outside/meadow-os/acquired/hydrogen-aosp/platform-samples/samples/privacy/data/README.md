@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Privacy - Data minimization samples
 
 This module contains samples that shows how your app can

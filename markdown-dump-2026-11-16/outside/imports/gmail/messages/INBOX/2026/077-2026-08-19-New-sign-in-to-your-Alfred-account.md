@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # New sign-in to your Alfred account
 
 - Date: 2026-08-19T22:44:01.000-05:00

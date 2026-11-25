@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web holds the strongest story on Douglas's health and science interests, which have printed consistently, over a calendar reminder already covered.
 

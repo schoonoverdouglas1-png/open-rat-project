@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "it still can't count ig..."
 
 - Date: 2026-10-09T21:07:43.000-05:00

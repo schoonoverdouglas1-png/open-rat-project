@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ARBO, arbovirus antibody panels, autoimmune, international, CDC routing
 - ARBO: NO Mayo test ID "ARBO" found. Closest Mayo IDs: ARBOP and ABOPC (below). Local client codes differ, e.g. Children's Minnesota ARBS for blood arbovirus panel referred to Mayo ARBOP (https://www.childrensmn.org/References/Lab/serology/arbovirus-antibody-panel-blood.pdf) — do not confuse a client EHR code with a Mayo ID.
 - ARBOP Arbovirus Antibody Panel, IgG and IgM, Serum — https://www.mayocliniclabs.com/test-catalog/overview/83267 — Serum 0.5 mL, IFA (NOT PCR), California (La Crosse), Eastern equine, St. Louis, Western equine; components CAVP, EEEP, STLP, WEEP. NY Yes.

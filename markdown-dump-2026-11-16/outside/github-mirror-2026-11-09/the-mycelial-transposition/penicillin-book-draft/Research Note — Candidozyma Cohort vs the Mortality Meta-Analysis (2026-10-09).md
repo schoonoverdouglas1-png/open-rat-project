@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research Note — *Candidozyma* Cohort vs. the Mortality Meta-Analysis: Crude Says One Thing, Adjusted Says Another
 
 **Filed:** 2026-10-09 · For local peer review alongside *The Mycelial Transposition* manuscript

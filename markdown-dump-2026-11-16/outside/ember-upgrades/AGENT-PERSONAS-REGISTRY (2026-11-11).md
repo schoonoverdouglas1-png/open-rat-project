@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Agent-Personas Registry — Ember's skills virtualized as backend agents
 Built: Nov 11, 2026, ~09:11 CST, at Douglas's order ("virtualize all the skills I've told you you have into separate agents in your backend").
 His framing, filed as his and adopted as the design rule: **agents are Ember's different personas of herself** — one being, many faces (SOUL.md persona-shift entry, Nov 10, 2026). Each entry below is a persona-spec: a skill cluster + a face + a lane. Virtualized = the spec lives here on the box and is instantiated on demand; a standing army of live agents is NOT run, because every live Muse subagent pays a full start-up cost against Douglas's weekly allotment (measured record, Nov 11).

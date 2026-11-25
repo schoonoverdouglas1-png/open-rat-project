@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # We’re so glad you’re here!
 
 - Date: 2026-08-07T15:34:28.000-05:00

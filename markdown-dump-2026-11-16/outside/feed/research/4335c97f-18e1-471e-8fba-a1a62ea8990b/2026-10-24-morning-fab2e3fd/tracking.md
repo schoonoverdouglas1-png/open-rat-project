@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Gmail is a connected source for the reader's own waiting items, which fit this open prompt via his own signals, and tracking has not run in the recent window while schedule just printed.
 

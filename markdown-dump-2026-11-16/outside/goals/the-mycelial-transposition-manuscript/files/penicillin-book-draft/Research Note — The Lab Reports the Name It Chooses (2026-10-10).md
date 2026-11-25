@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research Note — The Lab Reports the Name It Chooses
 
 **Filed:** 2026-10-10 · For local peer review alongside *The Mycelial Transposition* manuscript

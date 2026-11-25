@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cool Places — Bookmarks That Are Never Lost
 
 Douglas Roy Schoonover's bookmark project: the cool places found while working

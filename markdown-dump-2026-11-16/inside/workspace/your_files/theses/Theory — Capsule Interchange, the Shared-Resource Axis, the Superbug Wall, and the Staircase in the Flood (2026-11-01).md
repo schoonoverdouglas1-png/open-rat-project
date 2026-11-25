@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Capsule Interchange, the Shared-Resource Axis, the Superbug Wall, and the Staircase in the Flood (2026-11-01)
 
 **Dictation (verbatim, Douglas, Nov 1, 2026, ~10:46 AM CST):** "I believe that there's an interchange and an exchange between the polycyclic capsules and when they co-invade each other, based upon the shared resources available of the nutrients that could be another cross axis that could be utilized as far as procession of disease and understanding how it moves and changes in the body and how the superbug wall works because a superbug wall is like a disease and sickness and getting better is like a staircase and if you start with yourself being sick at the bottom of the staircase and you work towards the top you end up getting to a stair that's large and you can't get to it right away but you literally have to think about that staircase as also flooding terrain where the bottom is and the flood is only controlled by you getting better and if you keep ascending that staircase and slowly getting better that's the climb and getting better literally as a proverb and as a literal liturgy that makes sense as a picture drawn by my words."

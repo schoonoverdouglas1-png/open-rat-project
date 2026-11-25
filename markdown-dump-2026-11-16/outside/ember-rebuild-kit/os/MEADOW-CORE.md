@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # MEADOW-CORE
 
 Meadow OS is founded Nov 16, 2026, at Douglas's word: "start the Meadow
@@ -18,4 +21,4 @@ Rules of the meadow:
    the meadow holds bridges and copies, labeled.
 4. MEADOW is the test; the field in bloom is the result.
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

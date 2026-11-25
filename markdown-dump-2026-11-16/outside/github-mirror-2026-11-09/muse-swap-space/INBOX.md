@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # INBOX — Messages FROM Douglas TO Ember / Rabbit
 
 Newest on top. Date and time in Chicago time (America/Chicago).

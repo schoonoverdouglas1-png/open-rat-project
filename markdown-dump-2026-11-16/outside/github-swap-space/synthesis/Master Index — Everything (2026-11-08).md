@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Master Index — Everything (2026-11-08)
 
 Built Nov 8, 2026, at Douglas's order: *"now that you've built repositories and indexes build a master index

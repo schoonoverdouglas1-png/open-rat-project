@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Dump Manifest — 2026-11-07
 
 Total items: 83 — dumped: 82, listed-only: 1, failed: 0.

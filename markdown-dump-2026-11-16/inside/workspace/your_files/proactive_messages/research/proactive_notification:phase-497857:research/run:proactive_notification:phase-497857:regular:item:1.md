@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497857:regular:item:1 -->
 # Sunday-evening fasting confirmation nudge for Monday's ultrasound
 

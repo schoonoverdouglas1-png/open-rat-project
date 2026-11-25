@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Background Re-run — Report (2026-11-09, late night CST)
 
 Authorized by Douglas on the Nov 9, 2026 voice call: re-run the previous too-big searches/retrievals in the background, using the Packet Bridge (halves in parallel + overlapping third at every seam, overlaps verified on reassembly). Read-only job — nothing sent, nothing deleted, no new logins started.

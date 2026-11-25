@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: tracking
 Angle: Tracking serves the reader's top open thread — Muse Mail inbox monitoring with 22 new inbound messages — actionable mail web cannot reach, and tracking has printed repeatedly while schedule last closed quiet.
 

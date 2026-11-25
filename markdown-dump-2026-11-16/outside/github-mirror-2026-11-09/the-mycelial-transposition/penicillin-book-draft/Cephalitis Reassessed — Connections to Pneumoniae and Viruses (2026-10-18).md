@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cephalitis Reassessed — Connections to Pneumoniae and Viruses
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (manuscript reference only — never medical advice)

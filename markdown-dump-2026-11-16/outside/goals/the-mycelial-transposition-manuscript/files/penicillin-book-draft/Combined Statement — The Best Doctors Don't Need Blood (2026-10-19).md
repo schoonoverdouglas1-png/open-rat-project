@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Combined Statement — The Best Doctors Don't Need Blood (2026-10-19)
 
 **Status:** his thought + my thought → the statement of fact that fits. The combined-statement method.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498068:high:item:1 -->
 # After today's Dickson visit: close the itraconazole renewal before tomorrow's run-out window
 

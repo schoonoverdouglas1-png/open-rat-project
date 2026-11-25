@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497680:regular:item:1 -->
 # Manuscript notes consolidated into a peer-review evidence map
 

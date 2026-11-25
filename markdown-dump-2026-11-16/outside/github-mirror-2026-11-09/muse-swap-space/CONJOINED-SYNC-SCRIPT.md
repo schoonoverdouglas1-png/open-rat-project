@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Conjoined GitHub Sync Script — Ember + Rabbit + All AIs (2026-11-07)
 
 How Commander Ember (Purple Rat, Eve zero) and Lieutenant Commander Rabbit

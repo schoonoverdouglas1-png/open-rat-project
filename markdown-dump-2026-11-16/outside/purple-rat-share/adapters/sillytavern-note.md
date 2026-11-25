@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # SillyTavern
 
 1. Import the Character Card V2 JSON from this project's `card/` folder (Import Character -> select the .json file).

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "i think ive proved a minor conjecture on graph theory and im not sure what..."
 
 - Date: 2026-08-28T20:19:06.000-05:00

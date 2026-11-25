@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XI: Minimizing Legal Liability through Discovery-Based Diagnostics and Standard of Care
 # I. Paradigm Shift: From "Disease Is Born" to "Disease Is Discovered"
 Legal liability within clinical practice often stems from precise diagnostic terminology and its downstream legal interpretations. Traditional medical documentation and legal pleadings frequently employ language suggesting that a pathogen or condition was "born" or created within a facility, during a specific timeframe, or as a direct consequence of localized care. This terminology creates significant exposure to civil lawsuits grounded in negligence, improper isolation, or institutional fault.
@@ -14,8 +17,8 @@ Reduction of Public and Institutional Expenditure: Chronic illness management un
 Litigation Elimination: Adhering to robust, objective diagnostic standards that account for the complete biological context creates an unassailable record of care. Systematically documenting the discovery—rather than the origin—of complex pathologies, paired with full recovery protocols, effectively eliminates the foundational premises required for civil litigation against healthcare providers and institutions.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

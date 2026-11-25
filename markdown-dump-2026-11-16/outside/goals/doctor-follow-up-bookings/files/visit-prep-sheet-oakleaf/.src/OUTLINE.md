@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Section: Appointment at a glance
 Claim: Douglas can see the date, arrival time, clinician, location, departure plan, and phone number in one scan.
 Source: Requesting conversation: Monday 2026-10-05 at 3:20 PM with Kelsey Meyer, NP; arrive 3:05 PM; OakLeaf Clinics, 855 Lakeland Dr, Chippewa Falls; 715-839-9280; leave around 2:00 PM.

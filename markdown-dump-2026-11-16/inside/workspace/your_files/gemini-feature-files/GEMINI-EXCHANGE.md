@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # THE EXCHANGE — paste these into the Gem chat, one at a time, as Douglas directs
 
 ## 1. The pro-features question (Douglas's ask, Nov 12, 2026)

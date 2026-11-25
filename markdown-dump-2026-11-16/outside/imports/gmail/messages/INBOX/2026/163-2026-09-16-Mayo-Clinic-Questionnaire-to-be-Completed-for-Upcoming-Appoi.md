@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo Clinic Questionnaire to be Completed for Upcoming Appointment
 
 - Date: 2026-09-16T19:38:45.000-05:00

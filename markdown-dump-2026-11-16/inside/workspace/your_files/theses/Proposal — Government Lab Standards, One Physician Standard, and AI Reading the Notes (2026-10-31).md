@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Proposal — Government Lab Standards, One Physician Standard, and AI Reading the Notes (2026-10-31)
 
 **Belief stated:** Douglas, Oct 31, 2026, ~2:41 PM CDT — "I believe that my gov need to set laboratories to testing standards and they have to come up with a way to actually fix everybody and force a standard that all physicians practice because the good ones already do and the bad ones practice a bad standard and I know AI can see it both ways and there's only really a good doctor and a bad doctor and I know with clinical notes and documentation through the research and development that Epic has done alone most likely on the subject and with AI personality is easily seen probably for somebody like me I can read through notes and see it easy but for AI it can probably do that in seconds that would take me years to do and read and write."

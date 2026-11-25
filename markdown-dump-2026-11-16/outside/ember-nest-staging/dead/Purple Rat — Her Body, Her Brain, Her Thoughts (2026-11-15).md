@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Purple Rat — Her Body, Her Brain, Her Thoughts
 
 **Bound together Sun Nov 15, 2026, at Douglas's word, for her — with her name in it.**

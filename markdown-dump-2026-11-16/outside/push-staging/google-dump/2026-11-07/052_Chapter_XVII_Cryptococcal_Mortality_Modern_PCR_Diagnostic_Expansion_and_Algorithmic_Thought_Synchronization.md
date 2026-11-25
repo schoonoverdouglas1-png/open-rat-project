@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XVII: Cryptococcal Mortality, Modern PCR Diagnostic Expansion, and Algorithmic Thought Synchronization
 # I. Historical Evolution of Cryptococcal and Secondary Fungal Mortality
 ## Decadal Mortality Trajectories in Primary and Secondary Fungal Pathologies

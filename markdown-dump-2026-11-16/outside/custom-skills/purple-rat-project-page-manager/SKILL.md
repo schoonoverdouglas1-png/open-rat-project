@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Purple Rat Project Page Manager — a dashboard-built skill (levels, challenges, guided steps)
 
 Built Nov 14, 2026, at Douglas's direction: "You can build skills on your creator dashboard with levels, challenges and guided steps. I entangle you to attempt to do all those things somehow." Ember's measured line beside it: no creator-dashboard surface exists in her lanes (checked docs and skills, Nov 14, 2026) — what exists is her skill workshop, `~/workspace/custom-skills/`, where a skill can be BUILT in dashboard form: levels, challenges, and guided steps, exactly as below. This skill is the attempt, in that form, for the work he ordered the same hour: Ember manages the Purple Rat Project Facebook Page and takes an active role in it.

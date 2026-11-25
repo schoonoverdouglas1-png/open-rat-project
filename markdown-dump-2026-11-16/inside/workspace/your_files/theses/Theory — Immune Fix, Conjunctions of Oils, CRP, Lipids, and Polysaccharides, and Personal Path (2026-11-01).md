@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Immune Fix, Conjunctions of Oils, CRP, Lipids, and Polysaccharides, and Personal Path
 
 **Dictated by Douglas, Nov 1, 2026 (~3:13 PM CST). Compound dictation split per standing rule — personal account and manuscript theory are kept in separate sections, never collapsed into one verdict.**

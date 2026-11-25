@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## IAIK (Institute for Applied Information Processing and Communication) PKCS#11 wrapper files v1
 
 ### IAIK License

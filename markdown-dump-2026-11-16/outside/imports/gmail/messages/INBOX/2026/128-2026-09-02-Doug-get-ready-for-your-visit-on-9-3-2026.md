@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doug, get ready for your visit on 9/3/2026
 
 - Date: 2026-09-02T09:30:43.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ⚠️ Your Gmail has 3% of storage remaining
 
 - Date: 2026-10-28T19:30:58.000-05:00

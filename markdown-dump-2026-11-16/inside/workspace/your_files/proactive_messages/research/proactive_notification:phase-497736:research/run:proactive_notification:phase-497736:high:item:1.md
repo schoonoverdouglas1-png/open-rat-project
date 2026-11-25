@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497736:high:item:1 -->
 # Lockout fallback: a local 24/7 locksmith number if the coat hanger failed
 

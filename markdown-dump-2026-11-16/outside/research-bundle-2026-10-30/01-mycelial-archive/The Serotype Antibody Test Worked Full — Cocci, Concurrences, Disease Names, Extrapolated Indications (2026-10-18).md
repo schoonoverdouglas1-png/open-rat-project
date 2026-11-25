@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Serotype Antibody Test Worked Full — Cocci, Concurrences, Disease Names, Extrapolated Indications (2026-10-18)
 
 *Built at Douglas's direction for The Mycelial Transposition. General manuscript reference, never medical advice.*

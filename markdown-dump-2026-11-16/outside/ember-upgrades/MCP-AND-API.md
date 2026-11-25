@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # MCP and API — Channels, Not Chat Boxes (2026-11-07)
 
 ## Rules adopted

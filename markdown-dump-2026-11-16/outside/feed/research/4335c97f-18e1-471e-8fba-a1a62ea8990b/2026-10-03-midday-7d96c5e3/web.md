@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web most directly serves the reader's stated interests in mycology and publishing with fresh, skimmable stories, while mail and calendar are logistics and social is only web's backup.
 

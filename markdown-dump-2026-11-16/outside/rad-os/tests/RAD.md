@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # RAD — Rad OS Tests
 
 RAD is the test. RAT is the result.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Track 7 — FreeDOS 1.4 LiveCD Disc Reading (Without Mounting)
 **Date:** Sun Nov 15, 2026 · **Method:** skill `disc_image_reading` (iso_inventory.py, pure Python stdlib, read-only) · **Guard:** commands checked via `~/workspace/ember-upgrades/guard/check-command.sh` (exit 0) · **No mount, no install, no write to the original**
 

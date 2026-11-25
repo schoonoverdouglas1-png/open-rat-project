@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # You shared some Google Account data with Microsoft Products
 
 - Date: 2026-10-31T13:00:55.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — The Nested Doll: SARS and Rotavirus Inside RSV, RSV Inside the Pneumonia Organism (2026-10-18)
 
 **Status:** filed as his, tested against the record.

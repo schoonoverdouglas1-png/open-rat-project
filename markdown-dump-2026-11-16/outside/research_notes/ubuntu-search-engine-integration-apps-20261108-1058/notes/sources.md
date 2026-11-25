@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Notes — read 2026-11-08 (America/Chicago date; crawls UTC 2026-11-08)
 All sources via web index (browser_search/browser_open). Research window attempted for Flathub (tabs open) returned page_gone / no tabs — live-browser verification unavailable, so all flags = index.
 

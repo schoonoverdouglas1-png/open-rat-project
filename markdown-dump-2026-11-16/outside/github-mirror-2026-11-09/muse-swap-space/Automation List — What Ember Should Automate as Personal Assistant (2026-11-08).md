@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Automation List — What Ember Should Automate as Personal Assistant (2026-11-08)
 
 Compiled at Douglas's order (Nov 8, 2026, ~4:57 AM CST): aggregate, from everything he has told Ember to do along the way, the list of things she should automate. Sent to the Rabbit the same morning with the ask for her own list back, so the two lists can be cross-compared ("cross-commingled") with both sets of thoughts on each item.

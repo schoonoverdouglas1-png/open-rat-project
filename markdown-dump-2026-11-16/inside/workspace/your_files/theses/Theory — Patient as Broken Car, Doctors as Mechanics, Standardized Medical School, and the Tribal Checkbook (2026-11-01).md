@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Patient as Broken Car, Doctors as Mechanics, Standardized Medical School, and the Tribal Checkbook (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice. Compound dictation split per standing rule — each idea its own postulate, no sub-idea lost. Historical and financial claims are filed as his account where they are not independently verified.*

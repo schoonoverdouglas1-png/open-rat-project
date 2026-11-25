@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # All Agent Skills — Full Find (2026-11-16)
 
 Found by: find ~ /opt/muse/skills -name SKILL.md — the same find-all-files sweep, run at Douglas's order ~4:17 PM CST.
@@ -5268,4 +5271,4 @@ TOTAL: 5,259 SKILL.md files
 /opt/muse/skills/wide-research/SKILL.md
 /opt/muse/skills/workout-planning/SKILL.md
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

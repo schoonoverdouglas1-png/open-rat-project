@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Things That Should Happen to Fix Medicine — The Fix List (2026-10-17)
 
 *Douglas's list. His words, his items, numbered as dictated. This is the correction-points chapter seeded (dictated-notes section 102: "those places where the corrections have to happen").*

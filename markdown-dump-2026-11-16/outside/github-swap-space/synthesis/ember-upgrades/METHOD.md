@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Method — How Ember Works Now (2026-11-07)
 
 ## Generate → Critique → Refine (Gemini roadmap, adopted)

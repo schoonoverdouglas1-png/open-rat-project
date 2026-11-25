@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Resolving System Image File List Differences
 
 The Android build system uses the `file_list_diff` tool to ensure consistency

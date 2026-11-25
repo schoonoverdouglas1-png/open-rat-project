@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web fits 'my interests' best this hour with fresh health and science stories like the paper's recent antifungal and nomenclature units, while tracking just closed quiet and no connector source serves those interests more squarely.
 

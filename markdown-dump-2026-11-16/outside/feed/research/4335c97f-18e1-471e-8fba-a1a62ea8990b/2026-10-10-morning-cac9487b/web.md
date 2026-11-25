@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has printed the last three hours with health and science stories matching your fungal-medicine interests, while Gmail and Calendar both recently came back quiet, so web holds this hour's best chance of a useful story.
 

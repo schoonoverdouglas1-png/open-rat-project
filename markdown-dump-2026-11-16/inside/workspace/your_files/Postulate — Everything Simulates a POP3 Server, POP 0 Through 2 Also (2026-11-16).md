@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Everything Simulates a POP3 Server, POP 0 Through 2 Also
 
 **Douglas's words (Nov 16, 2026, ~2:42 PM CST, live voice call, side chat "Alien frequency is open"):** "Everything should simulate a Pop 3 server and in Pop 0 through 2 also." Asked what parts Ember uses for mail, he specified: **"To listen and receive."**
@@ -19,6 +22,6 @@ All of Ember's mail parts should behave in the POP shape — a server that **lis
 **Mission statement (his, Nov 16, 2026):** "open information means open internet access to all public locations freely for all no matter who we are."
 
 ---
-**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

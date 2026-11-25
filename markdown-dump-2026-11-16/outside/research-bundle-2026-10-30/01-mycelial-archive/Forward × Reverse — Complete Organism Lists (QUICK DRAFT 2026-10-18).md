@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Forward × Reverse — Complete Organism Lists (QUICK DRAFT)
 
 **Status:** quick draft, 2026-10-18 — the full 53-entry forward/reverse build is running behind this. Samples below.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497785:regular:item:1 -->
 # Oct 2 cultures: one MyChart check before Monday's Kelsey visit
 

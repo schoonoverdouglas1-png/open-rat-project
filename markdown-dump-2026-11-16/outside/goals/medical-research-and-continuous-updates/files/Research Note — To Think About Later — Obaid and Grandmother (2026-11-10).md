@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research Note — To Think About Later — Obaid and Grandmother (2026-11-10)
 
 Filed: Nov 10, 2026, ~7:00 PM CST, voice call in side chat "Chat presence check"

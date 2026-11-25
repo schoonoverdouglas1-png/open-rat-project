@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Answer — Perplexity, How to Make Ember Smarter (2026-11-07)
 
 Asked once, as Douglas Schoonover, in a new Perplexity session

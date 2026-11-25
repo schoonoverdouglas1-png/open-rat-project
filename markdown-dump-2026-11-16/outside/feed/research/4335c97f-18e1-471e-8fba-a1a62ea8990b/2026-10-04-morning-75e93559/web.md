@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web best serves the reader's shown mycology and publishing interests and is the only lane with recent prints on those subjects.
 

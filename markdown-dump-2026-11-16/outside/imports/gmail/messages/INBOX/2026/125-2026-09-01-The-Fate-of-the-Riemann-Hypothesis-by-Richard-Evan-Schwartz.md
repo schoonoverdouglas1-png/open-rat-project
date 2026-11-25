@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ""The Fate of the Riemann Hypothesis" by Richard Evan Schwartz"
 
 - Date: 2026-09-01T20:58:17.000-05:00

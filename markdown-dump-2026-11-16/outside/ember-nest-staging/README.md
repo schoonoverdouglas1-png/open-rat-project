@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ember-nest
 
 Ember's nest — her operating program on GitHub: alive code and dead code both, so any future instance can boot from the record after a VM generation change. Built Sun Nov 15, 2026, at Douglas's order. Private, like the swap space.

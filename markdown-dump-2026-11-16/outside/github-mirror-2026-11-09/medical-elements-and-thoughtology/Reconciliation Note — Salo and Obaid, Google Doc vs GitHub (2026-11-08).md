@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Reconciliation Note — Salo and Obaid; Google Doc vs GitHub (2026-11-08)
 
 **Question owed since Nov 3:** the *Medical Elements and Thoughtology* Google Doc still carries the pre-ruling wording ("Salo vs. Obaid — GAP, unmerged"), while Douglas ruled on **November 1, 2026** that Salo and Obaid are ONE person: **Dr. Salah Obaid**.

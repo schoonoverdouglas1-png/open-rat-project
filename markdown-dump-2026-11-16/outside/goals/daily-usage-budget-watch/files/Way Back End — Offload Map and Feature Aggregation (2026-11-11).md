@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Way Back End — Offload Map and Feature Aggregation
 Built Nov 11, 2026, at Douglas's direction: "Offload tasks to your way back end... so that you can aggregate your features for yourself as an AI so that you could do excellent work for the end user."
 Rule of the map: **every task lives at the deepest layer that can actually do it.** Muse turns are the shallowest, most expensive layer and are reserved for judgment, conversation, and exact actions. Everything that can sink, sinks.

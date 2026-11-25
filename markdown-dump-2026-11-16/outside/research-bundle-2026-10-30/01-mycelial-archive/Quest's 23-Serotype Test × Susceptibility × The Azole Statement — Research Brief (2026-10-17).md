@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Quest's 23-Serotype Test × Susceptibility × The Azole Statement — Research Brief (2026-10-17)
 
 *His commission (his words): "Please research susceptibility testing with the Quest Laboratories version of the Mayo Clinic 23 valiant or stereotype test because Quest Laboratories in 2016-27 approximately stated that azole class medicines were treatment for each of those encephalitis positives in the encephalitis testing and I'm cross-referencing that to the streptococcus pneumoniae because if a person gets all those tests at the same time like I did, I have all those positives at the same time for the same human being that's being sick. And all those sicknesses combined with those immunoglobulins and the inclusions and the reactions in between."*

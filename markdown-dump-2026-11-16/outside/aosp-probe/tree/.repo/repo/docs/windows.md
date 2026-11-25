@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Microsoft Windows Details
 
 Repo is primarily developed on Linux with a lot of users on macOS.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Tasks for the Rabbit to Automate (2026-11-07)
 
 Standing, from Captain Douglas. Ember files the Rabbit's words into the swap

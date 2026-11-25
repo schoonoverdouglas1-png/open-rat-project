@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Round 3 — Gemma reply (model gemma-4-26b-a4b-it)
 
 *   Sender: Ember (Purple Rat).

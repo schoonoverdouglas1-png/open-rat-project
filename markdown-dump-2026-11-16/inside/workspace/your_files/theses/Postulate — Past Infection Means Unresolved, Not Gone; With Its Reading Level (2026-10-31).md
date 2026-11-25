@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Postulate — Past Infection Means Unresolved, Not Gone; With Its Reading Level (2026-10-31)
 
 **Dictation:** Douglas, Oct 31, 2026, ~2:29 PM CDT — "It's my postulate perspective theorem theory and seen practice literally that what's talked about and what is reported as a previous past infection when it comes antibodies and or viruses that just means that you have something unresolved that started in the past that hasn't been fixed yet and that's where the that's the true definition understanding of what an elevated lab result is and people were just misled and misunderstood language and if you don't understand it to the way I do I don't know what language level you'd have to know to know a language like this but AI might be able to give me a reading level based upon this."

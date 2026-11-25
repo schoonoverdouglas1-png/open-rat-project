@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Most Advanced Serotype Disease Table (2026-10-28)
 
 **CORRECTED COPY (2026-10-29)** — built from the Oct 28 table under Douglas's Oct 29 ruling: 23F added to the pneumonia group (his principle: all pneumonia serotypes belong in the pneumonia group once, by kind). The Oct 28 original is untouched; this copy carries the correction. Changes in this copy only: pneumonia group 9 → 10 serotypes; 23F reverse index 6 → 7 groups; Flag §2 marked resolved.

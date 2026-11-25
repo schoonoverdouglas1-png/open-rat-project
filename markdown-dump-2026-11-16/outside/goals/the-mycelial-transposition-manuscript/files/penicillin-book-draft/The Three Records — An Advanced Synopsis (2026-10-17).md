@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Three Records — An Advanced Synopsis (2026-10-17)
 
 *His commission: "Please show me the more advanced workout you can give me based upon the labs that I have uploaded and the work I've asked you to do and show me a cool groovy synopsis based upon that information."*

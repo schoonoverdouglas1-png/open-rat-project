@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # GitHub Full Sync Plan — 100% As Possible
 Ordered by Douglas, Nov 8, 2026 (~5:36 AM CST): "put a plan together and engage that plan to get my data 100% synced as much as possible and to GitHub."
 Baseline measured Nov 8: work product ~55–65% in GitHub; all-data ~3–7% (dominated by ~11,400 Google Photos items + 458 Gmail messages, which stay OUT by design).

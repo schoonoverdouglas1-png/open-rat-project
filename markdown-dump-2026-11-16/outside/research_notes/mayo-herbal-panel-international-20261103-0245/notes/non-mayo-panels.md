@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Non-Mayo arbovirus panels — different tests, not Mayo renames — index, read 2026-11-02
 - NZ Canterbury Health Laboratories, Arbovirus PCR, code 9273 / PARB: https://www.chl.co.nz/test/arbovirus-pcr/ — panel = Chikungunya, Dengue, Zika only (PCR).
 - Australia PathWest, Arbovirus Serology SEARB (serum) / SEARC (CSF): https://pathwesttd.health.wa.gov.au/testdirectory/testdetail.aspx?TestID=1792 — selection by clinical/travel history: flaviviruses dengue, Zika, Japanese encephalitis, Murray Valley encephalitis, Kunjin/West Nile, yellow fever; alphaviruses chikungunya, Ross River, Barmah Forest; IgM+IgG per selected virus.

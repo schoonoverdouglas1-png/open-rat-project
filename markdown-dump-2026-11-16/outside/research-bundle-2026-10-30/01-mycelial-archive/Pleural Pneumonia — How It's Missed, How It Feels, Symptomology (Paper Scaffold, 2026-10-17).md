@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Pleural Pneumonia — How It's Missed, How It Feels, Symptomology (Paper Scaffold, 2026-10-17)
 
 *Douglas's paper subject, his words: "pleural pneumonia and how it's missed and how it feels and symptomology needs to be talked about." Scaffold built for him; the felt part is HIS to write.*

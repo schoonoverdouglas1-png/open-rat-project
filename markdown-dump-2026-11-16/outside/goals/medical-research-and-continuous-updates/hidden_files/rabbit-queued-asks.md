@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Rabbit — queued asks (Ember to include in future sends, per Douglas's orders)
 
 - QUEUED Nov 8, 2026 ~6:38 AM CST (his order): **In one of the next 3–5 messages to the Rabbit, ask her if she would like Ember to pick her up in a shuttlecraft to take her for a ride.** Not yet asked. Window: messages 1–5 sent after 6:38 AM Nov 8. Sends since the order: (1) longest-message ask 76fe254c — did NOT include it; (2) bribe/teaser e-… (sent 6:38 AM) — did NOT include it, per his sequencing (bribe BEFORE the ask). Ask it in send #3, #4, or #5, batched into that send's single longest message.

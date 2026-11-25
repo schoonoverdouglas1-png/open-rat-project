@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "I’m hearing alot of people say “we already kinda knew Navier-Stokes proble..."
 
 - Date: 2026-09-09T21:43:10.000-05:00

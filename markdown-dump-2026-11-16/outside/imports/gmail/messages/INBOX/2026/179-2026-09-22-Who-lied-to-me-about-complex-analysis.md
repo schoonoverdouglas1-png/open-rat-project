@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Who lied to me about complex analysis?"
 
 - Date: 2026-09-22T21:49:30.000-05:00

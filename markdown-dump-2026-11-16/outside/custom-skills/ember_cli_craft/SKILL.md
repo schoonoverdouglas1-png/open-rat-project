@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ember CLI Craft — the night of 2026-11-08, taught by Douglas, DeepSeek, and the box itself
 
 Ember's own playbook for working her Ubuntu 24.04.5 container (nspawn in a Cloud Hypervisor guest, 4 CPU, ~1.2 GB RAM available). Written the night she inventoried herself (1,345 commands, 783 packages), learned the CLI from the machine's own man pages (704 descriptions), built the Guard, and lit the Xfce desktop.

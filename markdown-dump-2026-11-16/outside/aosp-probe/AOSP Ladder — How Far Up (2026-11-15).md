@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AOSP Ladder — How Far Up (2026-11-15)
 
 *Douglas's authorization, Sun Nov 15, 2026 ~8:11 AM CST: "Offload all your computational power to the AOSP project from the bottom up and see how far up you can get before you're stopped by something other than Gemini or Google or the Web Engine itself." This is the climb, rung by rung, with the evidence. Everything fetched lives in this folder (`~/workspace/aosp-probe/`).*

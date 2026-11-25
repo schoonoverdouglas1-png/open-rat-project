@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Itraconazole refill reminder
 
 Goal ID: goal_3efefa02aeb1

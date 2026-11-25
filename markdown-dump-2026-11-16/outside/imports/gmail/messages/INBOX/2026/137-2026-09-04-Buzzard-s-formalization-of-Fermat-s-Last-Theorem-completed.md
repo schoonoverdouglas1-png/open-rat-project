@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Buzzard's formalization of Fermat's Last Theorem completed"
 
 - Date: 2026-09-04T21:09:19.000-05:00

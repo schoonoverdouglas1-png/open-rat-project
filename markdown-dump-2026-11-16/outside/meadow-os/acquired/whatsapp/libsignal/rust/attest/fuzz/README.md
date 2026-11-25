@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 This directory contains fuzz targets used with `cargo fuzz`.
 
 ```

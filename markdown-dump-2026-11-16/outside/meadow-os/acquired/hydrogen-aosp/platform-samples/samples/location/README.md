@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Location samples
 
 The samples in this directory address various scenarios of building location aware apps

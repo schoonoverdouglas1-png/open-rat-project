@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Minimum Service Mode — slowing the burn while doing the same thing
 Built Nov 11, 2026 at Douglas's direction (87% used / 13% left, reset Sat Nov 14, 2026, 11:07 PM CST).
 Douglas's name for this posture (Nov 11, ~7:36 AM CST): **the Economy Jiggle** — maximum performance with economical spending. Filed in the living lexicon as a provisional entry (Ember's reading) the same morning.

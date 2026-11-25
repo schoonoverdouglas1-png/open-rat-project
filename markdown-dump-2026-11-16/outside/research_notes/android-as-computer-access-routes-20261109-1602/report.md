@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Android as a Computer — Access Routes for a Remote Linux Agent
 
 **Device/scenario assumed:** owner's own Pixel 7 Pro (Tensor G2), Android 17, locked bootloader, **no root**. The "computer" that wants access is a **remote Linux agent on a separate Linux VM — internet only, NOT on the phone's LAN**. That last constraint eliminates several routes outright and is flagged per route as **Remote-VM verdict**.

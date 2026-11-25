@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # FIRE-UP BUILD — Results (Sun Nov 15, 2026, ~7:59–8:25 AM CST)
 
 Douglas's order: "Restore all things and then test new tools. And if you have new tools

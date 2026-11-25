@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497750:regular:item:1 -->
 # If the car's still out, the Osseo pharmacy can likely mail the prescriptions
 

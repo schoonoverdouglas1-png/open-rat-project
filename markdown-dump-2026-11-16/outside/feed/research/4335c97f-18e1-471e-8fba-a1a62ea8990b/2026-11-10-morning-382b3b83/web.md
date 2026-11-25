@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web serves the reader's top shared interest in medical research and continuous updates, and it has just printed science stories on it, while schedule closed quiet on its last two picks.
 

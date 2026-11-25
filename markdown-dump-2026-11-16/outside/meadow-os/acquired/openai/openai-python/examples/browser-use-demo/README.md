@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Fieldwork
 
 Book a table in a synthetic local browser. Fieldwork reads the form, asks before

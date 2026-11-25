@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Compdb (compile\_commands.json) Generator
 
 Soong can generate compdb files. This is intended for use with editing tools

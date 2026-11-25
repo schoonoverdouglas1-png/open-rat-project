@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doug, you have a new MyChart message
 
 - Date: 2026-10-26T11:48:58.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Unified Document Backend — secondary methods integrated (2026-11-11)
 Built at Douglas's order: "work on secondary methods and then try to integrate
 working with text documents, PDFs and other documents in your backend"

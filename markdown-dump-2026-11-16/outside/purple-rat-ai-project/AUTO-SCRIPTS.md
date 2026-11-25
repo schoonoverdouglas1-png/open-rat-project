@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # AUTO SCRIPTS — engaged, and figured (2026-11-11, Douglas's order)
 ### "Engage all auto scripts, and figure out scripts you can build for yourself to make yourself better — in the places I taught you first, and you know last." His way first (GitHub-first, caches, SQLite, the box), her way carrying it to last.
 

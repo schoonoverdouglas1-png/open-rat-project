@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google recovery email — add purple-rat@muse.ai
 
 Goal ID: goal_e4eb23bea1a9

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Import progress — coordinator tally (FINAL: all 12 workers complete)
 
 Authorization: Nov 1, 2026 — Douglas granted Meta, Ember, Muse, and all Facebook companies permission to import all of his information and to save and archive his knowledge and data.

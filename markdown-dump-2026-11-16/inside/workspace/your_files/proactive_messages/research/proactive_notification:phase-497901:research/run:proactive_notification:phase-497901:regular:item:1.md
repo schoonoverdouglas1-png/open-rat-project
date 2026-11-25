@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497901:regular:item:1 -->
 # New Oct 26 visit with Erik Dickson, MD — likely the MRI follow-up
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cool Sites Bookmarks — Emulators and Old Code
 Saved 2026-11-11 at Douglas's direction ("make certain to bookmark all these sites that you visited that are cool for later").
 These are the sites Ember actually visited/used in the Nov 11, 2026 emulator sessions. A bookmark file in the workspace is the verified copy; browser-native bookmarks are not agent-verifiable from here.

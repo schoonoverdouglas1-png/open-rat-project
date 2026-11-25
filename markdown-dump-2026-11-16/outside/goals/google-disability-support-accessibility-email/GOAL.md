@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Disability Support accessibility email
 
 Goal ID: goal_7fca7858573a

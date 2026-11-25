@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Viruses Created by Mycoplasma-Makers and the Smallest Unidentifiable Insects (2026-11-03)
 
 **Origin (his theory):** Douglas, Nov 3, 2026, as dictated: "Viruses are mostly created by the things that create mycoplasma and the smallest things above they that are considered unidentifiable insect or species." Readings flagged, not silently corrected: "the things that create mycoplasma" is kept as he said it (whether he meant mycoplasmas themselves, their hosts, or their precursors is unconfirmed); "smallest things above they" is kept as spoken (whether "above" means larger, higher in a scale, or later in a chain is unconfirmed); "unidentifiable insect or species" is kept as spoken (whether he meant unidentified insect species, or species that cannot yet be identified, is unconfirmed).

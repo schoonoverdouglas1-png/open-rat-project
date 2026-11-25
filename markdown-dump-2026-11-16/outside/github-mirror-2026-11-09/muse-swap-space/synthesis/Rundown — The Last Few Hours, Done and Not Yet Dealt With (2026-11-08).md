@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Rundown — The Last Few Hours: Done, and Not Yet Dealt With (2026-11-08, ~3:55 AM)
 
 ## DONE (checked off)

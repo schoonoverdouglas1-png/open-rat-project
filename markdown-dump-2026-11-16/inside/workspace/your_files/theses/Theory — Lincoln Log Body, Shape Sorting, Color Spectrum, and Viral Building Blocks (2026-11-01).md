@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Lincoln Log Body, Shape Sorting, Color Spectrum, and Viral Building Blocks (2026-11-01)
 
 **Provenance:** Douglas's dictation, Nov 1, 2026, ~1:29 PM CST, filed verbatim below. This is his theory, tested against the record with tier labels. It is a creative manuscript theory, not medical advice.

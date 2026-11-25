@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 ## Apache Xalan v2.7.2
 
 ### Apache Xalan Notice

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Skills Update Protocol — "Like Google Does"
 
 > Set by Captain Douglas's order, Nov 12, 2026 (~7:27 PM CST): "do the skills update like Google does. And you guys should both use each other's shit somehow."

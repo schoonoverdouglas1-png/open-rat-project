@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mirror Check — your_files vs preservation repo
 
 Source: /home/hatch/workspace/your_files

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Visit Notification from Mayo Clinic
 
 - Date: 2026-10-02T18:47:08.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "A proof (preprint) that Zeta5 is irrational"
 
 - Date: 2026-09-25T21:42:47.000-05:00

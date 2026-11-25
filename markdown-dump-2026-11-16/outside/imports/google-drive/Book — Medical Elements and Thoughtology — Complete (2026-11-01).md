@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Book — Medical Elements and Thoughtology — Complete (2026-11-01) -->
 <!-- Drive modified: 2026-11-01T19:51:29.071Z -->
 

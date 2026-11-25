@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Arbopanel × SARS-CoV — The Investigation
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (creative manuscript)

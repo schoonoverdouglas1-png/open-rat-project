@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google Cloud Vertex AI
 
 Use the standard `OpenAI` or `AsyncOpenAI` client to send Responses API requests to Vertex AI. Model and feature availability depend on your Google Cloud deployment.

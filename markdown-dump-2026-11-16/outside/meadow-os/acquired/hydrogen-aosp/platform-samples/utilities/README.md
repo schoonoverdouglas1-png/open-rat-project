@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Utilities
 
 This folder contains auxiliary tools and scripts that might be helpful to developers working with Android applications.

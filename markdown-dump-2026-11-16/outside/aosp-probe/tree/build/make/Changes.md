@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Build System Changes for Android.mk/Android.bp Writers
 
 ## Soong genrules are now sandboxed

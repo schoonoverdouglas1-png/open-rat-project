@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Aconfig Storage File Versioning
 
 This document explains the versioning scheme for aconfig storage files. Aconfig

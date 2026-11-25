@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-498241:regular:item:1 -->
 # Luther pickup, Tuesday plan: verified 8 AM–6 PM window, rain all day
 

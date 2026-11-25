@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Shared-Memory Index
 Date: Nov 4, 2026
 Provenance: Built by Ember from the files on record Nov 4, 2026, at Douglas's request for a complete copy. Each piece below carries its own provenance in its own file. This index is a map, not a replacement for the pieces themselves.

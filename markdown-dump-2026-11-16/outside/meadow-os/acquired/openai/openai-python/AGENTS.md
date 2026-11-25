@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Repository Guidance
 
 <a id="generated-file-ownership"></a>

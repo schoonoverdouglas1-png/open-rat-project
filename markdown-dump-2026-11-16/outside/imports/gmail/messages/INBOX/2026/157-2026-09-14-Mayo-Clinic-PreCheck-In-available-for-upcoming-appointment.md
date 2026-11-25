@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo Clinic PreCheck-In available for upcoming appointment
 
 - Date: 2026-09-14T09:34:42.000-05:00

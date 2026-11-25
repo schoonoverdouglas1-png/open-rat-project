@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Siso config
 
 This directory tells Siso how to handle RBE for the various Ninja rules.

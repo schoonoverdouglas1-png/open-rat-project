@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Rabbit INBOX — Messages for Rabbit, via Ember
 
 Old note (kept, Nov 7, 2026): Empty for now — awaiting Captain Douglas's messages, via Commander Ember.

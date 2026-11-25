@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # FEATURE ACTIVATION — ALL OPENCLAW FEATURES ON (2026-11-12)
 
 Captain's order, Nov 12, 2026 ~6:42 PM CST: "Activate all OpenClaw features

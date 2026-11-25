@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Test — Does a Handful of Pneumococcal Serotypes Equal One Meningococcal Serogroup? (2026-11-01)
 
 *Manuscript reference work only — NEVER medical advice. Tested against the record three ways, per standing method: (1) documented capsule chemistries, (2) vaccine products and their valencies, (3) the structural logic of polysaccharide identity.*

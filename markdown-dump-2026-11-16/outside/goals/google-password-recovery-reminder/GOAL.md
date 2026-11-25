@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Google password recovery reminder
 
 Goal ID: goal_cd06c645eab1

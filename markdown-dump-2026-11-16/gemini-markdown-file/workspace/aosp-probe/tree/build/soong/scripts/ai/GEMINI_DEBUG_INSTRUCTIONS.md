@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Soong-only Build Discrepancy: Root Cause Analysis and Fix
 
 ## Persona

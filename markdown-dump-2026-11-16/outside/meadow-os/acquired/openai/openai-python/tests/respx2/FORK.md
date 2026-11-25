@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # HTTPX2-native RESPX fork
 
 This directory contains an SDK test-only fork of RESPX 0.23.1.

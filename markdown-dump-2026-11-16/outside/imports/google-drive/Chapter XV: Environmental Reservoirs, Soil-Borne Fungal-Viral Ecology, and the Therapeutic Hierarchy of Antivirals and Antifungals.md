@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Chapter XV: Environmental Reservoirs, Soil-Borne Fungal-Viral Ecology, and the Therapeutic Hierarchy of Antivirals and Antifungals -->
 <!-- Drive modified: 2026-11-01T16:06:56.271Z -->
 

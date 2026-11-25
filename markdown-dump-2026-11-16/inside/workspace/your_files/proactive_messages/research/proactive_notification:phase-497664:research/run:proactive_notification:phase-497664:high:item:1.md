@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497664:high:item:1 -->
 # Saturday Osseo pickup window + Monday Cara check-in: both morning nudges now set
 

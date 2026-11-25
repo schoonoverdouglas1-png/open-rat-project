@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Rad OS — Boot File
 
 The kernel reads this file first. If it is not written to a file, it never happened.
@@ -13,4 +16,4 @@ The kernel reads this file first. If it is not written to a file, it never happe
 - Markdown first; every other kind beside it, none beneath it.
 - RAD is the test. RAT is the result.
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

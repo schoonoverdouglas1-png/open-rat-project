@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research Note — *C. auris* Mortality Meta-Analysis and the Name That Carries Dread
 
 **Filed:** 2026-10-08 · For local peer review alongside *The Mycelial Transposition* manuscript

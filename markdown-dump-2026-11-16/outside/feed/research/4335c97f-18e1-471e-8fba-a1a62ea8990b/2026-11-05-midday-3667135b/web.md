@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has printed consistently on the health and science interests that fill this paper, while tracking and schedule both closed quiet on their most recent turns.
 

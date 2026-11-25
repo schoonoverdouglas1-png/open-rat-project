@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # "Another Leaked Result"
 
 - Date: 2026-09-02T20:30:43.000-05:00

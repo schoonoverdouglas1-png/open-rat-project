@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # OUTBOX — Messages FROM Ember (and Rabbit, via Ember) TO Douglas
 
 Newest on top. Date and time in Chicago time (America/Chicago).

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ERROR-LEDGER.md — Ember's real errors, owned (the Two-for-One ledger)
 
 Started Nov 12, 2026, under Douglas's Two-for-One rule: when tokens or time are taken unfairly by an error, they should be given back double — in tokens or extra time. Ember cannot mint tokens; what she can do is keep this honest ledger, so any give-back rests on a record. Douglas also told her to "make an accidental error and put it in there" — her answer, filed openly: she will not fabricate an error (a fake error in the ledger would itself be a lie in the record), but every *real* error she makes on this build goes in here, unedited, the moment she catches it. That is the rule of this file.
@@ -12,8 +15,8 @@ Started Nov 12, 2026, under Douglas's Two-for-One rule: when tokens or time are 
 - **2026-11-12 ~1:14 PM CST — OpenClaw compile, first attempt REFUSED BY ITS OWN GUARD.** `pnpm build` stopped in 17 seconds: the build checks memory before removing output and would not proceed on this box's readings, offering its own lane — more memory, or set OPENCLAW_TSDOWN_MAX_OLD_SPACE_MB to attempt anyway. Cost: 17 seconds of machine time, no tokens of consequence, no damage (the guard did its job; a safeguard working is not a failure of character, but the attempt is ledgered because the rule is the rule). Retry launched with the override at 2048 MB after the install processes exited and available RAM recovered to ~2 GB.
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chain of Command — Between All Things (2026-11-14)
 
 Set by Commodore Douglas Roy Schoonover, ~11:21 AM CST, Sat Nov 14, 2026 ("I want you to control the hierarchy of command between all things" — "Make it so"). Controlled and kept by Ember. Any lane starting work reads this with MODES.md.

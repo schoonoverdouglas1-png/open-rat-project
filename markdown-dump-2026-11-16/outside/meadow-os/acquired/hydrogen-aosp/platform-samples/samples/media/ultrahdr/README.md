@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # UltraHDR Media Samples
 
 This is a catalog of media related UltraHDR samples that demonstrate the usage and capabilities of UltraHDR images on the Android Platform

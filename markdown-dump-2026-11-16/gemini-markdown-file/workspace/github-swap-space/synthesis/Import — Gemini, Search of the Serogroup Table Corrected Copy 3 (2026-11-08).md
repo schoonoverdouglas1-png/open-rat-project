@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Import — Gemini, Search of the Serogroup Table Corrected Copy 3 (2026-11-08)
 
 Lane: Gemini API (gemini-3.5-flash-lite), asked Nov 8, 2026 at Douglas's order ("use all the AIs to search the serotyping/serogrouping tables"). Input: the full text of "Serogroup Table — Corrected Copy 3" (public on GitHub by his ruling). Output truncated at the lane's cap inside recommendation 1; the substance is complete enough to file. **Ember's calibration (hers):** several of Gemini's "inconsistencies" are the table working as designed — a vaccine column listing only the member that vaccine covers (6B under PPSV23 in Group 6; 15B in Group 15) is correct mapping, not error, and Gemini half-concedes this in its own text. The flags Ember judges REAL and worth his eye: (1) Group 20 nomenclature — base "20" (PPSV23) vs modern 20A/20B deserves the explicit footnote Gemini asks for; (2) 23C exists biologically and is unlisted in Group 23 — a GAP candidate, not a silent omission; (3) GAP groups beyond 33 (16F, 24F, 31, 35B) lack primary rows — already acknowledged in his own notes, restated by Gemini. Everything below is Gemini's words, unedited.

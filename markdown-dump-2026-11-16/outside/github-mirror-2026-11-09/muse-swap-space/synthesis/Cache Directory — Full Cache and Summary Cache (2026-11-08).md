@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cache Directory — Full Cache and Summary Cache (2026-11-08)
 
 Live as of Nov 8, 2026, ~6:58 AM CST, at Douglas's order. The Full Cache holds the COMPLETE

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chapter XII: Emotional Dissociation in Clinical Practice and the Axis of Systemic Disease
 # I. Emotional Regulation and Clinical Objective Neutrality
 In high-acuity clinical environments characterized by life-and-death decisions, healthcare professionals frequently employ cognitive compartmentalization and emotional regulation. This protective dissociation maintains diagnostic objectivity under stress, separating immediate clinical actions from internal emotional responses to ensure clear decision-making during crisis interventions.

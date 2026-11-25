@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cross-Compartment Polymicrobial Model
 
 **Archive date:** 2026-11-07  

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: Web has printed four straight fungus science/health units matching your mycology interests while tracking and schedule recently closed quiet.
 

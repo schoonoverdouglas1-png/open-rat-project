@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Douglas — My Follow-Up Items
 
 *Your own sheet, separate from Cara's Oct 15 visit. Updated Oct 9, 2026. Note: the Oct 15 Carly Overgard appointment is Cara's, so these items go through Kelsey Meyer, NP (OakLeaf Clinics–Chippewa Falls, 715-839-9280) instead.*

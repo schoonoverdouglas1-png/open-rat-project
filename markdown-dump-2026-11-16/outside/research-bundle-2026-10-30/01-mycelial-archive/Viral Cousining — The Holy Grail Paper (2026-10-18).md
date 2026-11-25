@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Viral Cousining — The Holy Grail Paper (2026-10-18)
 
 *For **The Mycelial Transposition**. Manuscript reference — EDUCATIONAL, never medical advice. This file interprets no personal result and recommends no treatment. His values appear as quoted numbers only. Testing and treatment decisions belong to clinician and patient together. [D]/[H]/[H→D]/[LOGIC]/[GAP] tags on every claim: documented / his (filed as his) / his with a documented foothold / inference with explicit steps / unknown.*

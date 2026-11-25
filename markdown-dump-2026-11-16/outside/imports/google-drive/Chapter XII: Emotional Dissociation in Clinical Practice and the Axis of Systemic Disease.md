@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- Imported from Google Drive: Chapter XII: Emotional Dissociation in Clinical Practice and the Axis of Systemic Disease -->
 <!-- Drive modified: 2026-11-01T15:40:22.465Z -->
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # THE FULL TREE — Viruses to Microbes (2026-10-17)
 
 *The capstone. Built at Douglas's commission (dictated-notes section 97): "that full tree is what I'm trying to build and this is what I'm trying to get at." Manuscript reference — creative theoretical work, never medical advice. No treatment or diagnostic content.*

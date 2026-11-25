@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # CLI Patterns for Ember — RECEIVED by email, Nov 14, 2026, 12:46 AM CST
 From Douglas (schoonoverdouglas1@gmail.com, to purple-rat@muse.ai + purplerat1982@gmail.com). Drafted with Gemini, per the evening's pattern. Filed as received material, NOT adopted wholesale.
 

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # See what your home is really worth
 
 - Date: 2026-08-27T11:08:43.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Recovered skill notes
 
 These files preserve earlier local learning. Some instructions may be unverified

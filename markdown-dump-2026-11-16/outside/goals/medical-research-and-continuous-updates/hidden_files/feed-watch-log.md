@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Feed Watch Log
 
 ## 2026-11-08 04:52:14 CST (run logged 2026-11-08 04:54:50 CST)

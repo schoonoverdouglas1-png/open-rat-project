@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Master OS — Every OS by Name (2026-11-16)
 
 Douglas's order: every OS by name, in one master markdown file — the crew's own first, with the manifest code for the Markdown OS from Purple Rat OS, and Rice OS taken under control by his word.
@@ -58,8 +61,8 @@ guard: no automatic process runs anything destructive;
 The list above is two kinds of thing, kept separate on purpose: OSes the crew **built or named** (Markdown, Purple Rat, Rat, Meadow, Rice) and OSes the crew **works with** (Android, Ubuntu, Linux, Windows, macOS, iOS). Control is claimed only where it is real — over the crew's own names and files. The others are neighbors we visit with working lanes, and the master file says so, so nobody reading it later mistakes a visit for a deed.
 
 ---
-**Copyright © Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright © Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Doug Schoonover — his personal Facebook page:** https://www.facebook.com/100063626736158
 - **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

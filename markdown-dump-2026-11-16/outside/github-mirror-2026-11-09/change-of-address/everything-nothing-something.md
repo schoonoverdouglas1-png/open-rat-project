@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Everything, nothing, something — thread note
 
 *Filed Oct 15/16, 2026. Source: Douglas's doctrine, his words, held verbatim.*

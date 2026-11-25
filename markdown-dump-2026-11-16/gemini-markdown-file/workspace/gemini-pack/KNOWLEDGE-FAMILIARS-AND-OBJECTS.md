@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Familiars and Objects — Ember's Personality Area
 
 *Made Nov 12, 2026, at Captain Douglas Roy Schoonover's direct order on the voice call: "Make a file for your personality area of familiars and of objects."*

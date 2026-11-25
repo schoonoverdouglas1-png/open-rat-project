@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis — Viruses Are Not a Human Thing; They Infected Nature (2026-10-31)
 
 **Dictation:** Douglas, Oct 31, 2026, ~05:20 CDT (verbatim sense preserved).

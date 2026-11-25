@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # ALS Symptomology × All 23 Serotypes — The Complete Workup
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (creative manuscript — EDUCATIONAL reference only).

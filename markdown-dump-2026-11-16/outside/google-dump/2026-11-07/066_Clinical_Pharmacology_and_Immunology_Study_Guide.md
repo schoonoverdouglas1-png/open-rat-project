@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Title: Comprehensive Study Guide: Advanced Clinical Pharmacology, Microbiology, and Immunology
 Subject: Medical Sciences & Integrative Systems Pharmacology
 Topics:

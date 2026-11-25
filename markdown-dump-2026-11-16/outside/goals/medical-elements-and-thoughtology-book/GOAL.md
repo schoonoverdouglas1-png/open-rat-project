@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Medical Elements and Thoughtology book
 
 Goal ID: goal_a90c2feaa73d

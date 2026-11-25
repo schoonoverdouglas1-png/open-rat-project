@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Chrome Remote Desktop setup
 
 Goal ID: goal_db8c10fc3f32

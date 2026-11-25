@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Serotype Connections — Associated Bacteria and Fungi (2026-10-16)
 
 *Researched at Douglas's direction for The Mycelial Transposition. Association reference only — never medical advice, no treatment or diagnostic content.*

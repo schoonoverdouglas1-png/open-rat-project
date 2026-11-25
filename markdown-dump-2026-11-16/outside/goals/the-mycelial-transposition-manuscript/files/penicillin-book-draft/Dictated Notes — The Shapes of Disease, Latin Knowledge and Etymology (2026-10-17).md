@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Dictated Notes — The Shapes of Disease, Latin Knowledge and Etymology
 
 Dedicated namology/etymology thread, opened Oct 17, 2026. New shape-words, namology theses, and the testing of them live here. Provenance rule holds: his words verbatim where given; every claim tier-tagged — [D] documented, [H] his thesis/account, [F] his-with-a-documented-foothold.

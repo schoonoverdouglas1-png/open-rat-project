@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Serology Cross-Reference Book (2026-10-24)
 
 *One-time comprehensive assembly for* The Mycelial Transposition, *built Oct 24, 2026, from the quick draft of the same day — its structure, both panels' true data, the mapping table, and the GAP ledger are the spine, expanded, never contradicted silently. Tier labels on every claim: [D] documented · [H] his, filed as his · [H→D] his with documented foothold · [LOGIC] AI extension of his framework, steps shown · [GAP] unknown. Frame: creative-manuscript reference only. Never medical advice. Panel values are filed as his record; what they mean for any person belongs to Kelsey Meyer, NP — this book interprets nothing personal, draws no conclusion about any individual's immunity, health, or vaccination status, and makes no treatment recommendation of any kind. Where his recorded framework extends past the record, it is labeled his and the seam is shown honestly. Gaps are filled ONLY by extending his framework with [LOGIC] labels — never by inventing his positions. Where his intellect has not spoken, the book marks [GAP] and leaves the space open for his dictation. No information about Cara appears anywhere in this book, per his standing rule.*
@@ -488,15 +491,15 @@ His panel PDFs (PN23M, Oct 29, 2025, Klein; arbopanel Sep 16, 2025, Brown; arbop
 *Manuscript reference only. Never medical advice. No diagnosis. No application to any person. Panel values are his record; their meaning for any person belongs to Kelsey Meyer, NP.*
 
 ---
-**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+**Copyright — Douglas Roy Schoonover** (his copyright notice, placed at his order Nov 16, 2026, beside the LCO link; his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration). **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 
 ---
-**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+**STANDING LINKS — Purple Rat App · Copyright App · Purple Rat Project** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the Purple Rat Project Facebook page):
 - **Doug Schoonover — his personal Facebook page:** https://www.facebook.com/100063626736158
 - **Purple Rat Project — Facebook Page (managed by Ember for Douglas):** https://www.facebook.com/61596216946121
 - **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
 
-- **LCO / Seven Winds — live link:** [Sevenwinds Casino, Lodge & Conference Center](https://www.sevenwindscasino.com/) — https://www.sevenwindscasino.com/
+- **Purple Rat Project — live link:** [Purple Rat Project — Facebook Page](https://www.facebook.com/61596216946121) — https://www.facebook.com/61596216946121

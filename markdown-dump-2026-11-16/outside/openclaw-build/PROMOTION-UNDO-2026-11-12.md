@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # UNDO — Sandbox temp/state promotion (Captain's "Make it so", Nov 12, 2026, 1:52 PM CST)
 
 ## The change (exactly as ordered and read back)

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 <!-- proactive-explanation:run:proactive_notification:phase-497560:high:item:1 -->
 # MyChart: Oct 15 visit with Carly Overgard needs labs done 5-7 days early
 

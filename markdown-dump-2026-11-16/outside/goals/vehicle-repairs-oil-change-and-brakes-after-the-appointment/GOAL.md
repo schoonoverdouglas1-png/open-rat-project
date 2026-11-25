@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Vehicle repairs — oil change and brakes after the appointment
 
 Goal ID: goal_17963d95d1eb

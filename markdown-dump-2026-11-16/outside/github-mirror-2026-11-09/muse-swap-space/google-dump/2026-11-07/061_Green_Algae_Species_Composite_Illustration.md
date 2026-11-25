@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Green Algae Species Composite Illustration
 Taxonomic Plate and Morphological Overview of Selected Chlorophyta
 # Plate Description

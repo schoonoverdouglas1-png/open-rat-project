@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Complete Workup — Books, Chapters, Ideas, Postulates, Noteworthy
 
 **Filed:** 2026-10-18 · The full inventory of Douglas's creative work, for him to choose what to work on.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # His Account at Fourteen + The Forward-and-Backwards Method (2026-10-19)
 
 **Status:** his account filed without interpretation; his method combined with the record. Kept separate — never collapsed.

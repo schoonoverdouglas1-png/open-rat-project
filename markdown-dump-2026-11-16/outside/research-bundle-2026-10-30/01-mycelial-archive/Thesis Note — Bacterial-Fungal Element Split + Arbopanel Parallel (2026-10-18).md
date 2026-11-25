@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Thesis Note — Bacterial/Fungal Element Split + Arbopanel Parallel
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* (serology/arbopanel thread)

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Can / Cannot Test Ledger (opened Nov 12, 2026, ~6:10 PM CST, Captain's order)
 
 *His doctrine, his words today: "you all commit since you can do and commit to commits and all the ways you're able to and test all the ways that you're unable to and then always commit to those things anyways once they can test them." Operating form: commit everything committable in every able way; TEST the unable ways honestly instead of assuming them; the day an unable way passes its test, commit it too.*

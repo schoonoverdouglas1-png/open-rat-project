@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # You shared some Google Account data with Canva
 
 - Date: 2026-11-01T14:20:53.000-06:00

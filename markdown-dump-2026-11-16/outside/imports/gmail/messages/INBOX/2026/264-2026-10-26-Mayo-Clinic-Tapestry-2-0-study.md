@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Mayo Clinic-Tapestry 2.0 study
 
 - Date: 2026-10-26T15:51:59.000-05:00

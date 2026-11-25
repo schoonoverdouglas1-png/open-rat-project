@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Two Ways To Keep — Restoration Plan (2026-11-15)
 
 Douglas's standing rule, Sun Nov 15, 2026 ~7:22 AM CST: "I always want you to find two ways to do something that was taken once and then make certain that you find a way to keep it somehow."

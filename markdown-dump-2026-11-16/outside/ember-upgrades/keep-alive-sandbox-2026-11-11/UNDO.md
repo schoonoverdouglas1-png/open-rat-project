@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # UNDO — keep-alive sandbox build (written BEFORE the build, 2026-11-11)
 
 Build lane: this folder only, inside Ember's workspace sandbox — away from any company system, per Douglas's order that scripts are built first in the sandbox so the sandbox protects the company from false code and bad things, including bad viruses.

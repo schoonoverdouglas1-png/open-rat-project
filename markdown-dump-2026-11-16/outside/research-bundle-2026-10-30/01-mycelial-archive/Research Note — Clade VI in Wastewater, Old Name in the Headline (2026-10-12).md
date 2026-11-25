@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Research Note — Clade VI in Wastewater, Old Name in the Headline
 
 **Filed:** 2026-10-12 · For local peer review alongside *The Mycelial Transposition* manuscript

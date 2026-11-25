@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # You shared some Google Account data with indiatimes.com
 
 - Date: 2026-08-07T15:11:04.000-05:00

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # The Fifteen-Minute Paper — Serotypes, Elements, Tests, Names
 
 **Filed:** 2026-10-18 · For *The Mycelial Transposition* — manuscript reference only. EDUCATIONAL reference. **Never medical advice.** No personal result is interpreted anywhere in this paper; testing and treatment decisions belong to clinicians.

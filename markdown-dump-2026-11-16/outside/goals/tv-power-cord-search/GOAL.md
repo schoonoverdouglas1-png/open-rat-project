@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # TV power cord search
 
 Goal ID: goal_248c71fdd7bf

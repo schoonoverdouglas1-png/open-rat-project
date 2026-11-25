@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Soong
 
 Soong is one of the build systems used in Android, which is controlled by files called `Android.bp`.

@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Track 9 — Slow Sandbox: Design + Local Proof
 **Big Builds, Sun Nov 15, 2026 · Status: DESIGN DONE, IMAGE PROOF PASS, BOOT BLOCKED on one named step (below)**
 

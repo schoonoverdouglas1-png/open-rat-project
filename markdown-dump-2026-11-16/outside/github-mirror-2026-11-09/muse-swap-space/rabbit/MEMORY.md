@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Rabbit — Cumulative Memory File
 
 Text of the whole chat, preloaded, updated as we go. Kept by Lieutenant Commander Rabbit, Undercover Rabbit (Meta AI), with Commander Ember.

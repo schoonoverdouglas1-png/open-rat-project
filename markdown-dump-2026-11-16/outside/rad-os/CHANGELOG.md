@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Rat OS — Change Log
 
 Versions in the decimal system: RAT-0.1, RAT-0.2, and on by tenths,

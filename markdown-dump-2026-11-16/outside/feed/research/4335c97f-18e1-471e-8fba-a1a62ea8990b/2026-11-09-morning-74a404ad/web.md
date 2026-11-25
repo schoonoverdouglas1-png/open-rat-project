@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 Beat: web
 Angle: The prompt names no subject, so this hour follows the reader's broad interests, and web has printed on them in its last two turns while schedule just closed quiet.
 

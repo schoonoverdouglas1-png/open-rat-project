@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # rx-pickup-reminder-oct12 — run log (Mon 2026-10-12 09:00 CDT)
 
 ## What this run did

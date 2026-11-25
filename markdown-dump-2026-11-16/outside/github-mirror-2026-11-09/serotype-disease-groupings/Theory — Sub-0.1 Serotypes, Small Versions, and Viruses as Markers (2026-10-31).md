@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Theory — Sub-0.1 Serotypes, Small Versions, and Viruses as Markers (2026-10-31)
 
 **Dictations:** Douglas, Oct 31, 2026 — (a) ~1:39 PM: "I deduced that with my Mayo Clinic testing when pneumococcal serotypes were less than 0.1 that they were potentially the small versions of the larger normal viruses that they're normally testing for potentially with that test and viruses immunoglobulins might coincidedly travel together in sized parallel groups or pairs." (b) ~1:40 PM: "Viruses are like little markers and flags for us to know what's wrong and that's why they're important and extremely misunderstood because they're parts of the building blocks of life themselves."

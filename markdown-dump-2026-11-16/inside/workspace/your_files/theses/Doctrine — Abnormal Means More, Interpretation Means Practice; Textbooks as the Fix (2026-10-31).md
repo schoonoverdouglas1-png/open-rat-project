@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Doctrine — Abnormal Means More, Interpretation Means Practice; Textbooks as the Fix (2026-10-31)
 
 **Dictation:** Douglas, Oct 31, 2026, ~2:36 PM CDT — "When the viruses show in a laboratory test and the laboratory test flags as abnormal, it means that there's more of something there than is supposed to be and when you're laboratory not sick according to laboratory medicine standards, not abnormal, typically means well, abnormal almost always means you're sick and that's why it still takes interpretation but when the computer interprets it better than the average clinician, and then the clinician is given excuses to use against standard science and common sense, it makes it difficult to practice and this is why I'm trying to write textbooks to fix this problem."

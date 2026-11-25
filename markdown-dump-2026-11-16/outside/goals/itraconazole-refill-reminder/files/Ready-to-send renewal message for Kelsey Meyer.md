@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Ready-to-send: itraconazole renewal message (for the Oct 24 reminder)
 
 **Channel:** MyChart message to **Kelsey Meyer, NP** (OakLeaf Clinics–Chippewa Falls) — she prescribed it; renewal goes through her, not the Oct 15 visit (that one is Cara's and can't carry it).
